@@ -37,12 +37,13 @@ public class SecondSchool {
 	public static void main(String[] args) throws Exception
 	{
 		AstonGetDetails();
+		
 	}
 	
 	public static void AstonGetDetails() throws Exception
 	{
 		HttpClient httpclient = new DefaultHttpClient();
-		String url="http://www.aston.ac.uk/study/undergraduate/courses/school/aston-business-school/accounting-for-management/";
+		String url="http://www.aston.ac.uk/study/postgraduate/taught-programmes/school/eas/msc-professional-engineering/";
 		HttpGet httpGet = new HttpGet(url); 
 		HttpResponse response = httpclient.execute(httpGet);  
 		HttpEntity entity = response.getEntity();
@@ -53,25 +54,77 @@ public class SecondSchool {
 		    
 		     
 		}
-		Parser parser=Parser.createParser(htmls, "utf-8");
+		Parser parser=null;
 	    HtmlPage page=new HtmlPage(parser); 
 	    
+	    
+	    //**************************get name*************************
+	    parser=Parser.createParser(htmls, "utf-8");
+	    AndFilter ProfessionNameFilter=new AndFilter(new TagNameFilter("h1"),
+                new HasAttributeFilter("id","skiplinks"));//id="skiplinks"
+        NodeList nodes2 = parser.extractAllNodesThatMatch(ProfessionNameFilter);
+        for(int i=0;i<nodes2.size();i++)
+	    {
+	    	
+	    	Node node=(Node)nodes2.elementAt(i);
+	    	System.out.println("Title:"+html2Str(node.toHtml()));
+	    	System.out.println("Type:"+GetType(html2Str(node.toHtml())));
+	    	break;
+	    }
+        
+      //**************************get school*************************
+	    parser=Parser.createParser(htmls, "utf-8");
+	    AndFilter SchoolFilter=new AndFilter(new TagNameFilter("span"),
+                new HasAttributeFilter("class","breadcrumb5"));
+        NodeList nodes3 = parser.extractAllNodesThatMatch(SchoolFilter);
+        if(nodes3.size()>0)
+        {
+        	for(int i=0;i<nodes3.size();i++)
+    	    {
+    	    	
+    	    	Node node=(Node)nodes3.elementAt(i);
+    	    	System.out.println(html2Str(node.toHtml()));
+    	    	
+    	    }
+        }
+        else
+        {
+        	/*
+        	SchoolFilter=new AndFilter(new TagNameFilter("span"),
+                    new HasAttributeFilter("class","breadcrumb4"));
+            nodes3 = parser.extractAllNodesThatMatch(SchoolFilter);
+            for(int i=0;i<nodes3.size();i++)
+    	    {
+    	    	
+    	    	Node node=(Node)nodes3.elementAt(i);
+    	    	System.out.println(html2Str(node.toHtml()));
+    	    	
+    	    }
+    	    */
+        }
+        
+        
+        
+        
+        
+        
+      //**************************get entry and structure*************************
+        parser=Parser.createParser(htmls, "utf-8");
 	    AndFilter filter =
                 new AndFilter(
                               new TagNameFilter("div"),
                              new HasAttributeFilter("class","tab-body-inner"));
-        NodeList nodes = parser.extractAllNodesThatMatch(filter);
-
-        //title
-        //<h1 id="skiplinks">Business, Management and Public Policy </h1>
-
+        NodeList nodes = parser.extractAllNodesThatMatch(filter);        
         //i=0,Entry Requirements
         //i=1,Course Outline
 	    for(int i=0;i<nodes.size();i++)
 	    {
 	    	
 	    	Node node=(Node)nodes.elementAt(i);
-            System.out.println(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+	    	if(i==0) System.out.println("Entry Requirements and Tuition Fees:");
+	    	else if(i==1) System.out.println("Structure:");
+	    	else break;
+            System.out.println(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
 	    	//System.out.println(node.toHtml());
 	    	
 	    }
@@ -82,6 +135,19 @@ public class SecondSchool {
 	
 	public static String html2Str(String html) { 
 		return html.replaceAll("<[^>]+>", "");
+	}
+	public static String GetType(String input)//BA BEng Bsc Msc MEng 
+	{
+		String types="BA;BEng;Bsc;MSc;MEng;Double MA;Joint MA;MA";
+		String[] array=types.split(";");
+		for(int i=0;i<array.length;i++)
+		{
+			if(input.contains(array[i]))
+			{
+				return array[i];
+			}
+		}
+		return null;
 	}
 	
 	//Aston University Pattern
