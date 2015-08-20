@@ -43,13 +43,13 @@ public class SecondSchool {
 	public static void AstonGetDetails() throws Exception
 	{
 		HttpClient httpclient = new DefaultHttpClient();
-		String url="http://www.aston.ac.uk/study/postgraduate/taught-programmes/school/eas/msc-professional-engineering/";
+		String url="http://www.aston.ac.uk/study/undergraduate/courses/school/eas/beng-design-engineering/";
 		HttpGet httpGet = new HttpGet(url); 
 		HttpResponse response = httpclient.execute(httpGet);  
 		HttpEntity entity = response.getEntity();
 		String htmls=null;
 		if (entity != null) { 
-		    htmls=EntityUtils.toString(entity);
+		    htmls=EntityUtils.toString(entity).replace("\t", " ");
 		    //System.out.println(htmls);
 		    
 		     
@@ -83,7 +83,8 @@ public class SecondSchool {
     	    {
     	    	
     	    	Node node=(Node)nodes3.elementAt(i);
-    	    	System.out.println(html2Str(node.toHtml()));
+    	    	if(!html2Str(node.toHtml()).trim().equals(""))
+    	    	System.out.println(html2Str(node.toHtml()).trim());
     	    	
     	    }
         }
@@ -108,16 +109,48 @@ public class SecondSchool {
         
         
         
-      //**************************get entry and structure*************************
-        parser=Parser.createParser(htmls, "utf-8");
+     
+		
+	    
+	    //**************************get Titles*************************
+	    parser=Parser.createParser(htmls, "utf-8");
 	    AndFilter filter =
+                new AndFilter(
+                              new TagNameFilter("a"),
+                             new HasAttributeFilter("class","panel-event"));
+	    NodeList nodes = parser.extractAllNodesThatMatch(filter);        
+        //i=0,Entry Requirements
+        //i=1,Course Outline
+        int index=0;
+        int RequireIndex=-1,CourseIndex=-1;
+	    for(int i=0;i<nodes.size();i++)
+	    {
+	    	
+	    	Node node=(Node)nodes.elementAt(i);
+	    	String tmp=html2Str(node.toHtml());
+	    	if(!tmp.equals("Expand / Collapse"))
+	    	{
+	    		if(tmp.contains("Entry Requirements"))
+	    			RequireIndex=index;
+	    		else if(tmp.contains("Course Outline")||tmp.contains("Course outline"))
+	    			CourseIndex=index;
+	    		
+	    		index++;
+	    	}
+	    	
+	    	
+	    }
+	    
+	    //**************************get entry and structure*************************
+        parser=Parser.createParser(htmls, "utf-8");
+	    filter =
                 new AndFilter(
                               new TagNameFilter("div"),
                              new HasAttributeFilter("class","tab-body-inner"));
-        NodeList nodes = parser.extractAllNodesThatMatch(filter);        
+        nodes = parser.extractAllNodesThatMatch(filter);        
         //i=0,Entry Requirements
         //i=1,Course Outline
-	    for(int i=0;i<nodes.size();i++)
+	    /*for(int i=0;i<nodes.size();i++)
 	    {
 	    	
 	    	Node node=(Node)nodes.elementAt(i);
@@ -128,9 +161,14 @@ public class SecondSchool {
 	    	//System.out.println(node.toHtml());
 	    	
 	    }
-	    System.out.println(nodes.size());
-		
-		
+	    System.out.println(nodes.size());*/
+        Node node=(Node)nodes.elementAt(RequireIndex);
+        System.out.println("Entry Requirements and Tuition Fees:\n");
+        System.out.println(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+        node=(Node)nodes.elementAt(CourseIndex);
+        System.out.println("Structure:\n");
+        System.out.println(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+	    
 	}
 	
 	public static String html2Str(String html) { 
