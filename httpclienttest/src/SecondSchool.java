@@ -97,18 +97,26 @@ public class SecondSchool {
 		sheet.addCell(label);
 		label = new Label(12, 0, "Scholarship");
 		sheet.addCell(label);
-        HashMap<String,String> data=AstonGetDetails("http://www.aston.ac.uk/study/undergraduate/courses/school/eas/beng-design-engineering/");
-		String title = null;
+		
+		BufferedReader rr=new BufferedReader(new FileReader("./file/aston-undergraduate.txt"));
 		int i = 1;
 		int j=0;
-		for(i=1;i<2;i++)
+		String url="";
+		while((url = rr.readLine()) != null)
 		{
+			System.out.println(i+":"+url);
+			url=rr.readLine();
+			HashMap<String,String> data=AstonGetDetails(url);
 			for(j=0;j<13;j++)
-			{
-				label = new Label(j, i, data.get(Keys[j]));
-				sheet.addCell(label);
-			}
+				{
+					label = new Label(j, i, data.get(Keys[j]));
+					sheet.addCell(label);
+				}
+			i++;
 		}
+		rr.close();
+		
+       
 		}
 		catch(Exception ee)
 		{
@@ -135,15 +143,17 @@ public class SecondSchool {
 		HttpGet httpGet = new HttpGet(url); 
 		HttpResponse response = httpclient.execute(httpGet);  
 		HttpEntity entity = response.getEntity();
+		System.out.println("Got reply!");
 		String htmls=null;
 		if (entity != null) { 
 		    htmls=EntityUtils.toString(entity).replace("\t", " ");
-		    //System.out.println(htmls);
+		    System.out.println(htmls);
 		    
 		     
 		}
 		Parser parser=null;
 	    HtmlPage page=new HtmlPage(parser); 
+	    System.out.println("What??");
 	    if(htmls.contains("September")||htmls.contains("september"))
 	    {
 	    	result.put("Month of Entry", "9");
