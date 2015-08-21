@@ -26,6 +26,16 @@ import java.util.regex.Pattern;
 
 
 
+import jxl.Workbook;
+import jxl.write.Label;
+import jxl.write.WritableSheet;
+import jxl.write.WritableWorkbook;
+import jxl.write.WriteException;
+import jxl.write.biff.RowsExceededException;
+
+
+
+
 
 import org.apache.http.*;  
 import org.apache.http.client.HttpClient;  
@@ -34,18 +44,31 @@ import org.apache.http.client.utils.URIUtils;
 import org.apache.http.impl.client.DefaultHttpClient;  
 import org.apache.http.util.EntityUtils;
 
-import wyl.Label;
 public class SecondSchool {
-	
+	public static String FILE_PATH="d:\\ASTON";
 	public static void main(String[] args) throws Exception
 	{
-		AstonGetDetails();
-		
+		//[Tuition Fee] Need to check the website and adjust.
+		//AstonGetDetails("http://www.aston.ac.uk/study/undergraduate/courses/school/eas/beng-design-engineering/");
+		WriteToExcel();
 	}
 	
 	public static void WriteToExcel()
 	{
+		File outputFile = new File(FILE_PATH + "\\" + "gen_data.xls");
+		OutputStream os = null;
+		WritableWorkbook book=null;
+		WritableSheet sheet=null;
+		try {
+			if (!outputFile.exists()) {
+				outputFile.createNewFile();
+			}
+			os = new FileOutputStream(outputFile);
 		Label label;
+		String[] Keys={"School","Level","Title","Type","Application Fee","Tuition Fee",
+				"Academic Entry Requirement","IELTS Average Requirement",
+				"IELTS Lowest Requirement","Structure","Length (months)","Month of Entry",
+				"Scholarship"};
 		book = Workbook.createWorkbook(os);
 		sheet = book.createSheet("sheet1", 0);
 		label = new Label(0, 0, "School");
@@ -74,17 +97,41 @@ public class SecondSchool {
 		sheet.addCell(label);
 		label = new Label(12, 0, "Scholarship");
 		sheet.addCell(label);
-
+        HashMap<String,String> data=AstonGetDetails("http://www.aston.ac.uk/study/undergraduate/courses/school/eas/beng-design-engineering/");
 		String title = null;
 		int i = 1;
-		int j;
+		int j=0;
+		for(i=1;i<2;i++)
+		{
+			for(j=0;j<13;j++)
+			{
+				label = new Label(j, i, data.get(Keys[j]));
+				sheet.addCell(label);
+			}
+		}
+		}
+		catch(Exception ee)
+		{
+			ee.printStackTrace();
+		}finally{
+			try {
+				book.write();
+				book.close();
+				os.close();
+			} catch (IOException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (WriteException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}}
 	}
 	
-	public static void AstonGetDetails() throws Exception
+	public static HashMap<String,String> AstonGetDetails(String url) throws Exception
 	{
-		ArrayList<String> result=new ArrayList<String>();
+		HashMap<String,String> result=new HashMap<String,String>();
 		HttpClient httpclient = new DefaultHttpClient();
-		String url="http://www.aston.ac.uk/study/undergraduate/courses/school/eas/beng-design-engineering/";
+		//String url="http://www.aston.ac.uk/study/undergraduate/courses/school/eas/beng-design-engineering/";
 		HttpGet httpGet = new HttpGet(url); 
 		HttpResponse response = httpclient.execute(httpGet);  
 		HttpEntity entity = response.getEntity();
@@ -97,7 +144,18 @@ public class SecondSchool {
 		}
 		Parser parser=null;
 	    HtmlPage page=new HtmlPage(parser); 
-	    
+	    if(htmls.contains("September")||htmls.contains("september"))
+	    {
+	    	result.put("Month of Entry", "9");
+	    }
+	    else if(htmls.contains("October")||htmls.contains("october"))
+	    {
+	    	result.put("Month of Entry", "10");
+	    }
+	    else
+	    {
+	    	result.put("Month of Entry", "");
+	    }
 	    
 	    //**************************get name*************************
 	    parser=Parser.createParser(htmls, "utf-8");
@@ -110,8 +168,8 @@ public class SecondSchool {
 	    	Node node=(Node)nodes2.elementAt(i);
 	    	System.out.println("Title:"+html2Str(node.toHtml()));
 	    	System.out.println("Type:"+GetType(html2Str(node.toHtml())));
-	    	result.add(html2Str(node.toHtml()));
-	    	result.add(GetType(html2Str(node.toHtml())));
+	    	result.put("Title",html2Str(node.toHtml()));
+	    	result.put("Type",GetType(html2Str(node.toHtml())));
 	    	break;
 	    }
         
@@ -127,8 +185,18 @@ public class SecondSchool {
     	    	
     	    	Node node=(Node)nodes3.elementAt(i);
     	    	if(!html2Str(node.toHtml()).trim().equals(""))
-    	    	System.out.println(html2Str(node.toHtml()).trim());
-    	    	result.add(html2Str(node.toHtml()).trim());
+    	    	//System.out.println(html2Str(node.toHtml()).trim());
+    	    	//System.out.println(node.toHtml());
+    	    	parser=Parser.createParser(node.toHtml(), "utf-8");
+    	    	TagNameFilter filter=new TagNameFilter("a");
+    	    	NodeList nodes4=parser.extractAllNodesThatMatch(filter);
+    	    	if(nodes4.size()==1)
+    	    	{
+    	    		Node node4=(Node)nodes4.elementAt(0);
+    	    		System.out.println("School:"+html2Str(node4.toHtml()).trim());
+    	    		result.put("School",html2Str(node4.toHtml()).trim());
+    	    	}
+    	    	
     	    }
         }
         else
@@ -207,11 +275,19 @@ public class SecondSchool {
 	    System.out.println(nodes.size());*/
         Node node=(Node)nodes.elementAt(RequireIndex);
         System.out.println("Entry Requirements and Tuition Fees:\n");
-        System.out.println(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+        String entry=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+        System.out.println(entry);
+        result.put("Academic Entry Requirement",entry);
         node=(Node)nodes.elementAt(CourseIndex);
         System.out.println("Structure:\n");
-        System.out.println(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+        String structure=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+	    System.out.println(structure);
+	    result.put("Structure",structure.trim());
 	    
+	    result.put("Level", "Undergraduate");
+	    
+        
+        return result;
 	}
 	
 	public static String html2Str(String html) { 
