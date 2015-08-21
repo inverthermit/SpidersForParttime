@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="jars/httpmime-4.3.5.jar"/>
 	<classpathentry kind="lib" path="jars/sitecapturer.jar"/>
 	<classpathentry kind="lib" path="jars/thumbelina.jar"/>
+	<classpathentry kind="lib" path="jxl.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

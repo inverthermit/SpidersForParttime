@@ -26,12 +26,15 @@ import java.util.regex.Pattern;
 
 
 
+
 import org.apache.http.*;  
 import org.apache.http.client.HttpClient;  
 import org.apache.http.client.methods.HttpGet;  
 import org.apache.http.client.utils.URIUtils;  
 import org.apache.http.impl.client.DefaultHttpClient;  
 import org.apache.http.util.EntityUtils;
+
+import wyl.Label;
 public class SecondSchool {
 	
 	public static void main(String[] args) throws Exception
@@ -40,8 +43,46 @@ public class SecondSchool {
 		
 	}
 	
+	public static void WriteToExcel()
+	{
+		Label label;
+		book = Workbook.createWorkbook(os);
+		sheet = book.createSheet("sheet1", 0);
+		label = new Label(0, 0, "School");
+		sheet.addCell(label);
+		label = new Label(1, 0, "Level");
+		sheet.addCell(label);
+		label = new Label(2, 0, "Title");
+		sheet.addCell(label);
+		label = new Label(3, 0, "Type");
+		sheet.addCell(label);
+		label = new Label(4, 0, "Application Fee");
+		sheet.addCell(label);
+		label = new Label(5, 0, "Tuition Fee");
+		sheet.addCell(label);
+		label = new Label(6, 0, "Academic Entry Requirement");
+		sheet.addCell(label);
+		label = new Label(7, 0, "IELTS Average Requirement");
+		sheet.addCell(label);
+		label = new Label(8, 0, "IELTS Lowest Requirement");
+		sheet.addCell(label);
+		label = new Label(9, 0, "Structure");
+		sheet.addCell(label);
+		label = new Label(10, 0, "Length (months)");
+		sheet.addCell(label);
+		label = new Label(11, 0, "Month of Entry");
+		sheet.addCell(label);
+		label = new Label(12, 0, "Scholarship");
+		sheet.addCell(label);
+
+		String title = null;
+		int i = 1;
+		int j;
+	}
+	
 	public static void AstonGetDetails() throws Exception
 	{
+		ArrayList<String> result=new ArrayList<String>();
 		HttpClient httpclient = new DefaultHttpClient();
 		String url="http://www.aston.ac.uk/study/undergraduate/courses/school/eas/beng-design-engineering/";
 		HttpGet httpGet = new HttpGet(url); 
@@ -69,6 +110,8 @@ public class SecondSchool {
 	    	Node node=(Node)nodes2.elementAt(i);
 	    	System.out.println("Title:"+html2Str(node.toHtml()));
 	    	System.out.println("Type:"+GetType(html2Str(node.toHtml())));
+	    	result.add(html2Str(node.toHtml()));
+	    	result.add(GetType(html2Str(node.toHtml())));
 	    	break;
 	    }
         
@@ -85,7 +128,7 @@ public class SecondSchool {
     	    	Node node=(Node)nodes3.elementAt(i);
     	    	if(!html2Str(node.toHtml()).trim().equals(""))
     	    	System.out.println(html2Str(node.toHtml()).trim());
-    	    	
+    	    	result.add(html2Str(node.toHtml()).trim());
     	    }
         }
         else
