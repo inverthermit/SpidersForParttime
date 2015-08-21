@@ -193,8 +193,33 @@ public class SecondSchool {
     	    	if(nodes4.size()==1)
     	    	{
     	    		Node node4=(Node)nodes4.elementAt(0);
-    	    		System.out.println("School:"+html2Str(node4.toHtml()).trim());
-    	    		result.put("School",html2Str(node4.toHtml()).trim());
+    	    		String school=html2Str(node4.toHtml()).trim();
+    	    		System.out.println("School:"+school);
+    	    		result.put("School",school);
+    	    		if(school.equals("EAS"))
+    	    		{
+    	    			result.put("Tuition Fee", "16500");
+    	    		}
+    	    		else if(school.equals("LHS"))
+    	    		{
+    	    			result.put("Tuition Fee", "16500");
+    	    		}
+    	    		else if(school.equals("LSS"))
+    	    		{
+    	    			result.put("Tuition Fee", "13500");
+    	    		}
+    	    		else if(school.equals("ABS"))
+    	    		{
+    	    			result.put("Tuition Fee", "13500");
+    	    		}
+    	    		/*International students
+
+    	    		Aston Business School £13,500
+    	    		Languages and Social Sciences - £13,500
+    	    		EAS programmes - £14,500 - 16,500
+    	    		LHS programmes - £13,500 - £16,500
+
+    	    		Placement Year: £2,500 for International Students*/
     	    	}
     	    	
     	    }
@@ -278,6 +303,18 @@ public class SecondSchool {
         String entry=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
         System.out.println(entry);
         result.put("Academic Entry Requirement",entry);
+        
+        //for undergraduates
+        if(entry.contains("3 years"))
+        {
+        	result.put("Length (months)","36");
+        }
+        else if(entry.contains("4 years"))
+        {
+        	result.put("Length (months)","48");
+        }
+        
+        
         node=(Node)nodes.elementAt(CourseIndex);
         System.out.println("Structure:\n");
         String structure=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
@@ -285,8 +322,14 @@ public class SecondSchool {
 	    result.put("Structure",structure.trim());
 	    
 	    result.put("Level", "Undergraduate");
+	   /* 预科项目要求申请人雅思总成绩不低于5.5分，其中听说读写各单项不得低于5.0分。
+	  　　工程与应用科学学院，逻辑、物流管理计算项目要求申请人雅思总成绩不得低于6.5分，其中阅读和听力部分不得低于5.5分，写作和口语部分不得低于6.0分。
+	  　　阿斯顿商学院本科项目、生命与健康科学项目要求申请人雅思总成绩不得低于6.5分，其中听说读写各单项不得低于6.0分。*/
+	    result.put("IELTS Average Requirement", "6.5");
+		
+	    result.put("IELTS Lowest Requirement", "6");
+	    result.put("Scholarship", "Aston Excellence Scholarship:3000;Income-based scholarships:3000;Placement Year/Year Abroad Scholarships:1000;");
 	    
-        
         return result;
 	}
 	
