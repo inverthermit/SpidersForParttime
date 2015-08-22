@@ -44,7 +44,7 @@ import org.apache.http.client.utils.URIUtils;
 import org.apache.http.impl.client.DefaultHttpClient;  
 import org.apache.http.util.EntityUtils;
 
-public class SecondSchool {
+public class SecondSchoolMaster {
 	public static String FILE_PATH="d:\\ASTON";
 	public static void main(String[] args) throws Exception
 	{
@@ -98,7 +98,7 @@ public class SecondSchool {
 		label = new Label(12, 0, "Scholarship");
 		sheet.addCell(label);
 		
-		BufferedReader rr=new BufferedReader(new FileReader("./file/aston-undergraduate.txt"));
+		BufferedReader rr=new BufferedReader(new FileReader("./file/aston-postgraduate.txt"));
 		int i = 1;
 		int j=0;
 		String url="";
@@ -321,7 +321,15 @@ public class SecondSchool {
         
         
         //for undergraduates
-        if(entry.contains("3 years")||entry.contains("3 year"))
+        if(entry.contains("12 months")||entry.contains("1 year"))
+        {
+        	result.put("Length (months)","12");
+        }
+        else if(entry.contains("24 months")||entry.contains("2 year"))
+        {
+        	result.put("Length (months)","24");
+        }
+        else if(entry.contains("3 years")||entry.contains("3 year"))
         {
         	result.put("Length (months)","36");
         }
@@ -340,14 +348,14 @@ public class SecondSchool {
         }
         
 	    
-	    result.put("Level", "Undergraduate");
+	    result.put("Level", "Postgraduate");
 	   /* 预科项目要求申请人雅思总成绩不低于5.5分，其中听说读写各单项不得低于5.0分。
 	  　　工程与应用科学学院，逻辑、物流管理计算项目要求申请人雅思总成绩不得低于6.5分，其中阅读和听力部分不得低于5.5分，写作和口语部分不得低于6.0分。
 	  　　阿斯顿商学院本科项目、生命与健康科学项目要求申请人雅思总成绩不得低于6.5分，其中听说读写各单项不得低于6.0分。*/
 	    result.put("IELTS Average Requirement", "6.5");
 		
 	    result.put("IELTS Lowest Requirement", "6");
-	    result.put("Scholarship", "Aston Excellence Scholarship:3000;Income-based scholarships:3000;Placement Year/Year Abroad Scholarships:1000;");
+	    result.put("Scholarship", "Aston PG50 Masters Scholarships:10000");
 	    
         return result;
 	}

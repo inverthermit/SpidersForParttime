@@ -1,56 +1,59 @@
-import java.io.*;
+package belfast;
 
-import org.htmlparser.*;
-import org.htmlparser.filters.AndFilter;
-import org.htmlparser.filters.HasAttributeFilter;
-import org.htmlparser.filters.TagNameFilter;
-import org.htmlparser.nodes.TagNode;
-import org.htmlparser.tags.ImageTag;
-import org.htmlparser.tags.LinkTag;
-import org.htmlparser.util.NodeList;
-import org.htmlparser.util.ParserException;
-import org.htmlparser.visitors.HtmlPage;
-
-import java.io.*;
-import java.net.HttpURLConnection;
-import java.net.URI;  
-import java.net.URISyntaxException;  
-import java.net.URL;
-import java.util.*;  
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-  
-
-
-
-
-
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.util.HashMap;
 
 import jxl.Workbook;
 import jxl.write.Label;
 import jxl.write.WritableSheet;
 import jxl.write.WritableWorkbook;
 import jxl.write.WriteException;
-import jxl.write.biff.RowsExceededException;
 
-
-
-
-
-import org.apache.http.*;  
-import org.apache.http.client.HttpClient;  
-import org.apache.http.client.methods.HttpGet;  
-import org.apache.http.client.utils.URIUtils;  
-import org.apache.http.impl.client.DefaultHttpClient;  
+import org.apache.http.HttpEntity;
+import org.apache.http.HttpResponse;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.util.EntityUtils;
+import org.htmlparser.Node;
+import org.htmlparser.Parser;
+import org.htmlparser.filters.AndFilter;
+import org.htmlparser.filters.HasAttributeFilter;
+import org.htmlparser.filters.TagNameFilter;
+import org.htmlparser.nodes.TagNode;
+import org.htmlparser.util.NodeList;
+import org.htmlparser.visitors.HtmlPage;
 
-public class SecondSchool {
-	public static String FILE_PATH="d:\\ASTON";
+public class BelfastUnData {
+
+	public static String[] types={"BEng Honours",
+			"MEng Honours",
+			"Foundation Degree (FdEng)",
+			"BSc Honours",
+			"BSc (Econ) Joint Honours",
+			"BA Honours",
+			"MSci Honours",
+			"BA Single Honours",
+			"BA Joint Honours",
+			"BSW Honours",
+			"BSc Single Honours",
+			"BSc Joint Honours",
+			"Divinity",
+			"Theology",
+			"LLB Honours",
+			"BSc (Econ) Single Honours"};
+	public static String FILE_PATH="d:\\BELFAST";
 	public static void main(String[] args) throws Exception
 	{
 		//[Tuition Fee] Need to check the website and adjust.
-		//AstonGetDetails("http://www.aston.ac.uk/study/undergraduate/courses/school/aston-business-school/business-management/");
-		WriteToExcel();
+		BelfastGetDetails("http://www.qub.ac.uk/home/StudyatQueens/CourseFinder/UG/Chemistry/F100/");
+		//WriteToExcel();
 	}
 	
 	public static void WriteToExcel()
@@ -98,7 +101,7 @@ public class SecondSchool {
 		label = new Label(12, 0, "Scholarship");
 		sheet.addCell(label);
 		
-		BufferedReader rr=new BufferedReader(new FileReader("./file/aston-undergraduate.txt"));
+		BufferedReader rr=new BufferedReader(new FileReader("./file/belfastUn.txt"));
 		int i = 1;
 		int j=0;
 		String url="";
@@ -106,7 +109,7 @@ public class SecondSchool {
 		{
 			System.out.println(i+":"+url);
 			//url=rr.readLine();
-			HashMap<String,String> data=AstonGetDetails(url);
+			HashMap<String,String> data=BelfastGetDetails(url);
 			for(j=0;j<13;j++)
 				{
 					label = new Label(j, i, data.get(Keys[j]));
@@ -135,11 +138,10 @@ public class SecondSchool {
 			}}
 	}
 	
-	public static HashMap<String,String> AstonGetDetails(String url) throws Exception
+	public static HashMap<String,String> BelfastGetDetails(String url) throws Exception
 	{
 		HashMap<String,String> result=new HashMap<String,String>();
 		HttpClient httpclient = new DefaultHttpClient();
-		//String url="http://www.aston.ac.uk/study/undergraduate/courses/school/eas/beng-design-engineering/";
 		HttpGet httpGet = new HttpGet(url); 
 		HttpResponse response = httpclient.execute(httpGet);  
 		HttpEntity entity = response.getEntity();
@@ -169,8 +171,8 @@ public class SecondSchool {
 	    
 	    //**************************get name*************************
 	    parser=Parser.createParser(htmls, "utf-8");
-	    AndFilter ProfessionNameFilter=new AndFilter(new TagNameFilter("h1"),
-                new HasAttributeFilter("id","skiplinks"));//id="skiplinks"
+	    AndFilter ProfessionNameFilter=new AndFilter(new TagNameFilter("div"),
+                new HasAttributeFilter("id","course-title"));//id="skiplinks"
         NodeList nodes2 = parser.extractAllNodesThatMatch(ProfessionNameFilter);
         for(int i=0;i<nodes2.size();i++)
 	    {
@@ -186,7 +188,7 @@ public class SecondSchool {
       //**************************get school*************************
 	    parser=Parser.createParser(htmls, "utf-8");
 	    AndFilter SchoolFilter=new AndFilter(new TagNameFilter("span"),
-                new HasAttributeFilter("class","breadcrumb5"));
+                new HasAttributeFilter("id","school-name"));
         NodeList nodes3 = parser.extractAllNodesThatMatch(SchoolFilter);
         if(nodes3.size()>0)
         {
@@ -194,7 +196,10 @@ public class SecondSchool {
     	    {
     	    	
     	    	Node node=(Node)nodes3.elementAt(i);
-    	    	if(!html2Str(node.toHtml()).trim().equals(""))
+    	    	String school=html2Str(node.toHtml()).trim();
+    	    	result.put("School",school);
+    	    	break;
+    	    	/*if(!html2Str(node.toHtml()).trim().equals(""))
     	    	//System.out.println(html2Str(node.toHtml()).trim());
     	    	//System.out.println(node.toHtml());
     	    	parser=Parser.createParser(node.toHtml(), "utf-8");
@@ -222,15 +227,15 @@ public class SecondSchool {
     	    		{
     	    			result.put("Tuition Fee", "13500");
     	    		}
-    	    		/*International students
+    	    		International students
 
     	    		Aston Business School £13,500
     	    		Languages and Social Sciences - £13,500
     	    		EAS programmes - £14,500 - 16,500
     	    		LHS programmes - £13,500 - £16,500
 
-    	    		Placement Year: £2,500 for International Students*/
-    	    	}
+    	    		Placement Year: £2,500 for International Students
+    	    	}*/
     	    	
     	    }
         }
@@ -258,66 +263,40 @@ public class SecondSchool {
      
 		
 	    
-	    //**************************get Titles*************************
-	    parser=Parser.createParser(htmls, "utf-8");
-	    AndFilter filter =
-                new AndFilter(
-                              new TagNameFilter("a"),
-                             new HasAttributeFilter("class","panel-event"));
-	    NodeList nodes = parser.extractAllNodesThatMatch(filter);        
-        //i=0,Entry Requirements
-        //i=1,Course Outline
-        int index=0;
-        int RequireIndex=-1,CourseIndex=-1;
-	    for(int i=0;i<nodes.size();i++)
-	    {
-	    	
-	    	Node node=(Node)nodes.elementAt(i);
-	    	String tmp=html2Str(node.toHtml());
-	    	if(!tmp.equals("Expand / Collapse"))
-	    	{
-	    		if(tmp.contains("Entry Requirements")||tmp.contains("ntry requirement"))
-	    			RequireIndex=index;
-	    		else if(tmp.contains("Course Outline")||tmp.contains("ourse outline"))
-	    			CourseIndex=index;
-	    		
-	    		index++;
-	    	}
-	    	
-	    	
-	    }
+	    
+	    
+	    
 	    
 	    //**************************get entry and structure*************************
         parser=Parser.createParser(htmls, "utf-8");
-	    filter =
+	    AndFilter filter =
                 new AndFilter(
                               new TagNameFilter("div"),
-                             new HasAttributeFilter("class","tab-body-inner"));
-        nodes = parser.extractAllNodesThatMatch(filter);        
-        //i=0,Entry Requirements
-        //i=1,Course Outline
-	    /*for(int i=0;i<nodes.size();i++)
-	    {
-	    	
-	    	Node node=(Node)nodes.elementAt(i);
-	    	if(i==0) System.out.println("Entry Requirements and Tuition Fees:");
-	    	else if(i==1) System.out.println("Structure:");
-	    	else break;
-            System.out.println(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
-	    	//System.out.println(node.toHtml());
-	    	
-	    }
-	    System.out.println(nodes.size());*/
+                             new HasAttributeFilter("id","entrance"));
+        NodeList nodes = parser.extractAllNodesThatMatch(filter);
         Node node=null;
         String entry="";
-        if(RequireIndex!=-1)
-        {
-        	node=(Node)nodes.elementAt(RequireIndex);
+        	node=(Node)nodes.elementAt(0);
             System.out.println("Entry Requirements and Tuition Fees:\n");
             entry=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+            entry=HTMLFilter(entry);
             System.out.println(entry);
             result.put("Academic Entry Requirement",entry);
-        }
+            
+            parser=Parser.createParser(htmls, "utf-8");
+    	    filter =
+                    new AndFilter(
+                                  new TagNameFilter("div"),
+                                 new HasAttributeFilter("id","course-info"));
+            nodes = parser.extractAllNodesThatMatch(filter);
+            node=(Node)nodes.elementAt(0);
+            System.out.println("Structure:\n");
+            String structure=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+            structure=HTMLFilter(structure);
+            System.out.println(structure);
+    	    result.put("Structure",structure.trim());
+        
+        
         
         
         //for undergraduates
@@ -330,14 +309,6 @@ public class SecondSchool {
         	result.put("Length (months)","48");
         }
         
-        if(CourseIndex!=-1)
-        {
-        	node=(Node)nodes.elementAt(CourseIndex);
-            System.out.println("Structure:\n");
-            String structure=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
-    	    System.out.println(structure);
-    	    result.put("Structure",structure.trim());
-        }
         
 	    
 	    result.put("Level", "Undergraduate");
@@ -347,7 +318,7 @@ public class SecondSchool {
 	    result.put("IELTS Average Requirement", "6.5");
 		
 	    result.put("IELTS Lowest Requirement", "6");
-	    result.put("Scholarship", "Aston Excellence Scholarship:3000;Income-based scholarships:3000;Placement Year/Year Abroad Scholarships:1000;");
+	    //result.put("Scholarship", "Aston Excellence Scholarship:3000;Income-based scholarships:3000;Placement Year/Year Abroad Scholarships:1000;");
 	    
         return result;
 	}
@@ -357,8 +328,9 @@ public class SecondSchool {
 	}
 	public static String GetType(String input)//BA BEng Bsc Msc MEng 
 	{
-		String types="BA;BEng;BSc;MSc;MEng;Double MA;Joint MA;MA";
-		String[] array=types.split(";");
+		//String types="BA;BEng;BSc;MSc;MEng;Double MA;Joint MA;MA";
+		
+		String[] array=types;
 		for(int i=0;i<array.length;i++)
 		{
 			if(input.contains(array[i]))
@@ -412,13 +384,14 @@ public class SecondSchool {
 		    input = input.trim().replaceAll("&amp;", "&");
 		    input = input.trim().replaceAll("&lt;", "<");
 		    input = input.trim().replaceAll("&gt;", ">");
-		    input = input.trim().replaceAll("    ", "\t");
+		    input = input.trim().replaceAll("    ", " ");
 		    input = input.trim().replaceAll("\n", "\r\n");
 		    input = input.trim().replaceAll("<br>", "\n");
-		    input = input.trim().replaceAll(" &nbsp;", "  ");
+		    input = input.trim().replaceAll("&nbsp;", "  ");
 		    input = input.trim().replaceAll("&quot;", "\"");
 		        input = input.trim().replaceAll("&#39;", "'");
 		    input = input.trim().replaceAll("&#92;", "\\\\");
+		    input = input.trim().replaceAll("Â", "");
 		    return input;
 		}
 
