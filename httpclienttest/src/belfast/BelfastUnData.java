@@ -7,6 +7,7 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.OutputStream;
+import java.util.ArrayList;
 import java.util.HashMap;
 
 import jxl.Workbook;
@@ -52,8 +53,8 @@ public class BelfastUnData {
 	public static void main(String[] args) throws Exception
 	{
 		//[Tuition Fee] Need to check the website and adjust.
-		BelfastGetDetails("http://www.qub.ac.uk/home/StudyatQueens/CourseFinder/UG/Chemistry/F100/");
-		//WriteToExcel();
+		//BelfastGetDetails("http://www.qub.ac.uk/home/StudyatQueens/CourseFinder/UG/Chemistry/F100/");
+		WriteToExcel();
 	}
 	
 	public static void WriteToExcel()
@@ -283,6 +284,40 @@ public class BelfastUnData {
             System.out.println(entry);
             result.put("Academic Entry Requirement",entry);
             
+            ArrayList<String> list = new ArrayList<String>();
+            if(entry.contains("7.0"))
+            {
+            	list.add("7.0");
+            }
+            if(entry.contains("6.5"))
+            {
+            	list.add("6.5");
+            }
+            if(entry.contains("6.0"))
+            {
+            	list.add("6.0");
+            }
+            if(entry.contains("5.5"))
+            {
+            	list.add("5.5");
+            }
+            if(list.size()==1)
+            {
+            	result.put("IELTS Average Requirement", list.get(0));
+            	result.put("IELTS Lowest Requirement", list.get(0));
+            }
+            else if(list.size()>=2)
+            {
+            	result.put("IELTS Average Requirement", list.get(0));
+            	result.put("IELTS Lowest Requirement", list.get(1));
+            }
+            else
+            {
+            	result.put("IELTS Average Requirement","6.0");
+                
+        	    result.put("IELTS Lowest Requirement", "5.5");
+            }
+            
             parser=Parser.createParser(htmls, "utf-8");
     	    filter =
                     new AndFilter(
@@ -300,11 +335,11 @@ public class BelfastUnData {
         
         
         //for undergraduates
-        if(entry.contains("3 years")||entry.contains("3 year"))
+        if(entry.contains("3 years")||entry.contains("3 year")||entry.contains("3 yrs"))
         {
         	result.put("Length (months)","36");
         }
-        else if(entry.contains("4 years")||entry.contains("4 year"))
+        else if(entry.contains("4 years")||entry.contains("4 year")||entry.contains("4 yrs"))
         {
         	result.put("Length (months)","48");
         }
@@ -312,12 +347,7 @@ public class BelfastUnData {
         
 	    
 	    result.put("Level", "Undergraduate");
-	   /* 预科项目要求申请人雅思总成绩不低于5.5分，其中听说读写各单项不得低于5.0分。
-	  　　工程与应用科学学院，逻辑、物流管理计算项目要求申请人雅思总成绩不得低于6.5分，其中阅读和听力部分不得低于5.5分，写作和口语部分不得低于6.0分。
-	  　　阿斯顿商学院本科项目、生命与健康科学项目要求申请人雅思总成绩不得低于6.5分，其中听说读写各单项不得低于6.0分。*/
-	    result.put("IELTS Average Requirement", "6.5");
-		
-	    result.put("IELTS Lowest Requirement", "6");
+	    
 	    //result.put("Scholarship", "Aston Excellence Scholarship:3000;Income-based scholarships:3000;Placement Year/Year Abroad Scholarships:1000;");
 	    
         return result;
@@ -392,6 +422,8 @@ public class BelfastUnData {
 		        input = input.trim().replaceAll("&#39;", "'");
 		    input = input.trim().replaceAll("&#92;", "\\\\");
 		    input = input.trim().replaceAll("Â", "");
+		    input = input.trim().replaceAll(" \n", "");
+		    input = input.trim().replaceAll(" \r\n", "");
 		    return input;
 		}
 
