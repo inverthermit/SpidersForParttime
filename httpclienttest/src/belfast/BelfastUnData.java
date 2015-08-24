@@ -108,14 +108,18 @@ public class BelfastUnData {
 		String url="";
 		while((url = rr.readLine()) != null)
 		{
-			System.out.println(i+":"+url);
-			//url=rr.readLine();
-			HashMap<String,String> data=BelfastGetDetails(url);
-			for(j=0;j<13;j++)
-				{
-					label = new Label(j, i, data.get(Keys[j]));
-					sheet.addCell(label);
-				}
+			if(i>=294)
+			{
+				System.out.println(i+":"+url);
+				//url=rr.readLine();
+				HashMap<String,String> data=BelfastGetDetails(url);
+				for(j=0;j<13;j++)
+					{
+						label = new Label(j, i, data.get(Keys[j]));
+						sheet.addCell(label);
+					}
+			}
+			
 			i++;
 		}
 		rr.close();

@@ -16,7 +16,9 @@ import jxl.write.Label;
 import jxl.write.WritableSheet;
 import jxl.write.WritableWorkbook;
 
+import org.jsoup.select.Elements;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -37,7 +39,7 @@ public class Input {
 		// TODO Auto-generated method stub
 		System.setProperty(
 				"webdriver.chrome.driver",
-				"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chromedriver.exe");
+				"C:\\Program Files (X86)\\Google\\Chrome\\Application\\chromedriver.exe");
 		//System.setProperty("webdriver.firefox.bin", "D:\\Mozilla Firefox\\firefox.exe"); 
 		
 		WebDriver driver = new ChromeDriver();
@@ -82,23 +84,24 @@ public class Input {
 		}
 
 		
+		driver.get("http://www.myoffer.cn/external/course");
+		new WebDriverWait(driver, 200, 500).until(new Predicate<WebDriver>() {
+			@Override
+			public boolean apply(WebDriver driver) {
+				return driver.findElement(By.xpath("//li[@ng-repeat='university in universities']"))
+						.isDisplayed();
+			}
+		});
 		
+		
+		driver.findElement(By.xpath("//div[@class='panel-heading']")).findElements(By.tagName("a")).get(index).click();
 		
 		int j=0;
-		for(int i=16;i<=424;i++){
+		for(int i=382;i<=424;i++){//381
 			j=0;
 			System.out.println(i);
-			driver.get("http://www.myoffer.cn/external/course");
-			new WebDriverWait(driver, 60, 500).until(new Predicate<WebDriver>() {
-				@Override
-				public boolean apply(WebDriver driver) {
-					return driver.findElement(By.xpath("//li[@ng-repeat='university in universities']"))
-							.isDisplayed();
-				}
-			});
 			
-			
-			driver.findElement(By.xpath("//div[@class='panel-heading']")).findElements(By.tagName("a")).get(index).click();
+			((JavascriptExecutor)driver).executeScript("document.documentElement.scrollTop=0");
 			
 			WebElement e;
 			driver.findElement(By.id("inputSchool")).sendKeys(sheet.getCell(j++, i).getContents().replace("\n", " "));
@@ -108,7 +111,9 @@ public class Input {
 			driver.findElement(By.id("inputApplication")).sendKeys("");
 			j++;
 			driver.findElement(By.id("inputTuition")).sendKeys(sheet.getCell(j++, i).getContents().replace("\n", " "));
-			driver.findElement(By.id("inputAcademic")).sendKeys(sheet.getCell(j++, i).getContents().replace("\n", " "));
+			driver.findElement(By.id("inputAcademic")).sendKeys(sheet.getCell(j++, i).getContents().replace("\n", " ").replace("\r", ""));
+			//String academic=replaceQuot(sheet.getCell(j++, i).getContents().replace("\r\n", " ").replace("\r", ""));
+			//((JavascriptExecutor)driver).executeScript("document.getElementById(\"inputAcademic\").value=\""+academic+"\"");
 			driver.findElement(By.id("inputIELTSAvg")).sendKeys(sheet.getCell(j++, i).getContents().replace("\n", " "));
 			driver.findElement(By.id("inputIELTSLow")).sendKeys(sheet.getCell(j++, i).getContents().replace("\n", " "));
 			/*driver.findElement(By.xpath("//input[@placeholder='Lowest of Listening']")).sendKeys("1");
@@ -136,7 +141,8 @@ public class Input {
 					if(index!=0)
 					{
 						driver.findElement(By.id("inputStructureCategory")).sendKeys(title);
-						driver.findElement(By.id("inputStructureSummary")).sendKeys(text);
+						//driver.findElement(By.id("inputStructureSummary")).sendKeys(text);
+						((JavascriptExecutor)driver).executeScript("document.getElementById(\"inputStructureSummary\").value=\""+replaceQuot(text)+"\"");
 						driver.findElement(By.xpath("//button[@ng-click='addCategory()']")).click();
 					}
 					title=line;
@@ -145,12 +151,12 @@ public class Input {
 				}
 				else
 				{
-					text+=line+"\n";
+					text+=line+"\\n";
 				}
 			}
 			//System.out.println(title+":\n"+text);//��д���һ���?
 			driver.findElement(By.id("inputStructureCategory")).sendKeys(title);
-			driver.findElement(By.id("inputStructureSummary")).sendKeys(text);
+			((JavascriptExecutor)driver).executeScript("document.getElementById(\"inputStructureSummary\").value=\""+replaceQuot(text)+"\"");
 			driver.findElement(By.xpath("//button[@ng-click='addCategory()']")).click();
 			fis.close();
 			
@@ -174,6 +180,15 @@ public class Input {
 			driver.findElement(By.xpath("//button[@ng-click='addScholarship()']")).click();
 			
 			driver.findElement(By.id("btnSubmit")).click();
+			//Thread.sleep(4000);
+			while(true)
+			{
+				List<WebElement> es=driver.findElements(By.xpath("//tr[@ng-repeat='course in courses'][@class='ng-scope']"));
+				if(es!=null&&es.size()==i){
+					break;
+				}
+				Thread.sleep(500);
+			}
 		}
 		
 		
@@ -185,6 +200,15 @@ public class Input {
 		
 	}
 
+	public static String replaceQuot(String text)
+	{
+		String result=text;
+		result.replace("\"", "\\\"");
+		//result.replace("\'", "\\\'");
+		//System.out.println(result);
+		return result;
+	}
+	
 	public static void waitForLoad(WebDriver driver) {
 		new WebDriverWait(driver, 10, 500).until(new Predicate<WebDriver>() {
 			@Override
