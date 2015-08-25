@@ -102,14 +102,13 @@ public class BelfastPostData {
 		label = new Label(12, 0, "Scholarship");
 		sheet.addCell(label);
 		
-		BufferedReader rr=new BufferedReader(new FileReader("./file/belfastUn.txt"));
+		BufferedReader rr=new BufferedReader(new FileReader("./file/belfast-postgraduate.txt"));
 		int i = 1;
 		int j=0;
 		String url="";
 		while((url = rr.readLine()) != null)
 		{
-			if(i>=294)
-			{
+			
 				System.out.println(i+":"+url);
 				//url=rr.readLine();
 				HashMap<String,String> data=BelfastGetDetails(url);
@@ -118,7 +117,6 @@ public class BelfastPostData {
 						label = new Label(j, i, data.get(Keys[j]));
 						sheet.addCell(label);
 					}
-			}
 			
 			i++;
 		}
@@ -176,184 +174,183 @@ public class BelfastPostData {
 	    
 	    //**************************get name*************************
 	    parser=Parser.createParser(htmls, "utf-8");
-	    AndFilter ProfessionNameFilter=new AndFilter(new TagNameFilter("div"),
-                new HasAttributeFilter("id","course-title"));//id="skiplinks"
+	    TagNameFilter ProfessionNameFilter=new TagNameFilter("h1");
         NodeList nodes2 = parser.extractAllNodesThatMatch(ProfessionNameFilter);
-        for(int i=0;i<nodes2.size();i++)
-	    {
-	    	
-	    	Node node=(Node)nodes2.elementAt(i);
-	    	System.out.println("Title:"+html2Str(node.toHtml()));
-	    	System.out.println("Type:"+GetType(html2Str(node.toHtml())));
-	    	result.put("Title",html2Str(node.toHtml()));
-	    	result.put("Type",GetType(html2Str(node.toHtml())));
-	    	break;
-	    }
-        
-      //**************************get school*************************
-	    parser=Parser.createParser(htmls, "utf-8");
-	    AndFilter SchoolFilter=new AndFilter(new TagNameFilter("span"),
-                new HasAttributeFilter("id","school-name"));
-        NodeList nodes3 = parser.extractAllNodesThatMatch(SchoolFilter);
-        if(nodes3.size()>0)
+        if(nodes2.size()>=2)
         {
-        	for(int i=0;i<nodes3.size();i++)
+        	Node node=(Node)nodes2.elementAt(1);
+    	    System.out.println("Title:"+html2Str(node.toHtml()));
+    	    System.out.println("Type:"+GetType(html2Str(node.toHtml())));
+    	    result.put("Title",html2Str(node.toHtml()));
+    	    result.put("Type",GetType(html2Str(node.toHtml())));
+        }
+	    
+	  //**************************get Structure**********************<div class="module inactive" id="mobile_module">
+        parser=Parser.createParser(htmls, "utf-8");
+	    AndFilter StructureFilter=new AndFilter(new TagNameFilter("div"),
+                new HasAttributeFilter("id","mobile_module"));
+        NodeList nodes6 = parser.extractAllNodesThatMatch(StructureFilter);
+        //String Structure="";
+        if(nodes6.size()>0)
+        {
+        	for(int i=0;i<nodes6.size();i++)
     	    {
     	    	
-    	    	Node node=(Node)nodes3.elementAt(i);
-    	    	String school=html2Str(node.toHtml()).trim();
-    	    	result.put("School",school);
+    	    	Node node=(Node)nodes6.elementAt(i);
+    	    	String structure=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+                structure=HTMLFilter(structure);
+                System.out.println(structure);
+        	    result.put("Structure",structure.trim());
     	    	break;
-    	    	/*if(!html2Str(node.toHtml()).trim().equals(""))
-    	    	//System.out.println(html2Str(node.toHtml()).trim());
-    	    	//System.out.println(node.toHtml());
-    	    	parser=Parser.createParser(node.toHtml(), "utf-8");
-    	    	TagNameFilter filter=new TagNameFilter("a");
-    	    	NodeList nodes4=parser.extractAllNodesThatMatch(filter);
-    	    	if(nodes4.size()==1)
-    	    	{
-    	    		Node node4=(Node)nodes4.elementAt(0);
-    	    		String school=html2Str(node4.toHtml()).trim();
-    	    		System.out.println("School:"+school);
-    	    		result.put("School",school);
-    	    		if(school.equals("EAS"))
-    	    		{
-    	    			result.put("Tuition Fee", "16500");
-    	    		}
-    	    		else if(school.equals("LHS"))
-    	    		{
-    	    			result.put("Tuition Fee", "16500");
-    	    		}
-    	    		else if(school.equals("LSS"))
-    	    		{
-    	    			result.put("Tuition Fee", "13500");
-    	    		}
-    	    		else if(school.equals("ABS"))
-    	    		{
-    	    			result.put("Tuition Fee", "13500");
-    	    		}
-    	    		International students
-
-    	    		Aston Business School 拢13,500
-    	    		Languages and Social Sciences - 拢13,500
-    	    		EAS programmes - 拢14,500 - 16,500
-    	    		LHS programmes - 拢13,500 - 拢16,500
-
-    	    		Placement Year: 拢2,500 for International Students
-    	    	}*/
-    	    	
     	    }
+        }
+        
+        
+        
+        
+      //**************************get overview***********************//<div class="module active" id="email_module">
+        parser=Parser.createParser(htmls, "utf-8");
+	    AndFilter OverviewFilter=new AndFilter(new TagNameFilter("div"),
+                new HasAttributeFilter("id","email_module"));
+        NodeList nodes5 = parser.extractAllNodesThatMatch(OverviewFilter);
+        String Overview="";
+        if(nodes5.size()>0)
+        {
+        	for(int i=0;i<nodes5.size();i++)
+    	    {
+    	    	
+    	    	Node node=(Node)nodes5.elementAt(i);
+    	    	Overview=html2Str(node.toHtml()).trim();
+    	    	//result.put("School",school);
+    	    	break;
+    	    }
+        }
+        
+        
+      //**************************get school,institute,entry requirement,length*************************
+        FileOutputStream o=new FileOutputStream(new File("d:/BELFAST/temp.txt"));
+		o.write(Overview.getBytes());
+		o.close();
+		BufferedReader fis = new BufferedReader(new FileReader("d:/BELFAST/temp.txt"));
+		String title="";
+		String text="";
+		String line="";
+		String Contact="",Entry="",Duration="",International="";
+		int index=0;
+		//String Paras="Aim;Contact details;Entrance Requirements;Additional Information for International Students;Duration;Number of places";
+		//String[] Ps=Paras.split(";");
+		while((line=fis.readLine())!=null)
+		{
+			line=line.replace("\t", " ");
+			//System.out.println(line);
+			if(line.equals("Aim")||line.equals("Contact details")||line.equals("Entrance Requirements")||line.equals("Additional Information for International Students")||line.equals("Duration")||line.equals("Number of places"))
+			{
+				if(index!=0)
+				{
+					//System.out.println();
+					//System.out.println(title+":\n"+text);//锟斤拷写锟�
+					if(title.equals("Contact details"))
+					{
+						Contact=text;
+						System.out.println(title+":\n"+text);
+					}
+					else if(title.equals("Entrance Requirements"))
+					{
+						Entry=text;
+						result.put("Academic Entry Requirement",Entry);
+					}
+					else if(title.equals("Additional Information for International Students"))
+					{
+						International=text;
+					}
+					else if(title.equals("Duration"))
+					{
+						Duration=text;
+					}
+					
+				}
+				title=line;
+				text="";
+				index++;
+				
+			}
+			else
+			{
+				if(!text.equals(" "))
+				text+=line+"\n";
+			}
+		}
+		
+		//******************************Duration***********************
+		if(Duration.contains("1 year"))
+		{
+			result.put("Length (months)","12");
+		}
+		else if(Duration.contains("2 year"))
+		{
+			result.put("Length (months)","24");
+		}
+		else if(Duration.contains("3 year"))
+		{
+			result.put("Length (months)","36");
+		}
+		else if(Duration.contains("4 year"))
+		{
+			result.put("Length (months)","48");
+		}
+		else if(Duration.contains("1")&&Duration.contains("year"))
+		{
+			result.put("Length (months)","12");
+		}
+		else if(Duration.contains("2")&&Duration.contains("year"))
+		{
+			result.put("Length (months)","24");
+		}
+		else if(Duration.contains("3")&&Duration.contains("year"))
+		{
+			result.put("Length (months)","36");
+		}
+		else if(Duration.contains("4")&&Duration.contains("year"))
+		{
+			result.put("Length (months)","48");
+		}
+		
+		//******************************IELTS***********************
+		ArrayList<String> list = new ArrayList<String>();
+        if(International.contains("7.0"))
+        {
+        	list.add("7.0");
+        }
+        if(International.contains("6.5"))
+        {
+        	list.add("6.5");
+        }
+        if(International.contains("6.0"))
+        {
+        	list.add("6.0");
+        }
+        if(International.contains("5.5"))
+        {
+        	list.add("5.5");
+        }
+        if(list.size()==1)
+        {
+        	result.put("IELTS Average Requirement", list.get(0));
+        	result.put("IELTS Lowest Requirement", list.get(0));
+        }
+        else if(list.size()>=2)
+        {
+        	result.put("IELTS Average Requirement", list.get(0));
+        	result.put("IELTS Lowest Requirement", list.get(1));
         }
         else
         {
-        	/*
-        	SchoolFilter=new AndFilter(new TagNameFilter("span"),
-                    new HasAttributeFilter("class","breadcrumb4"));
-            nodes3 = parser.extractAllNodesThatMatch(SchoolFilter);
-            for(int i=0;i<nodes3.size();i++)
-    	    {
-    	    	
-    	    	Node node=(Node)nodes3.elementAt(i);
-    	    	System.out.println(html2Str(node.toHtml()));
-    	    	
-    	    }
-    	    */
-        }
-        
-        
-        
-        
-        
-        
-     
-		
-	    
-	    
-	    
-	    
-	    
-	    //**************************get entry and structure*************************
-        parser=Parser.createParser(htmls, "utf-8");
-	    AndFilter filter =
-                new AndFilter(
-                              new TagNameFilter("div"),
-                             new HasAttributeFilter("id","entrance"));
-        NodeList nodes = parser.extractAllNodesThatMatch(filter);
-        Node node=null;
-        String entry="";
-        	node=(Node)nodes.elementAt(0);
-            System.out.println("Entry Requirements and Tuition Fees:\n");
-            entry=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
-            entry=HTMLFilter(entry);
-            System.out.println(entry);
-            result.put("Academic Entry Requirement",entry);
+        	result.put("IELTS Average Requirement","6.0");
             
-            ArrayList<String> list = new ArrayList<String>();
-            if(entry.contains("7.0"))
-            {
-            	list.add("7.0");
-            }
-            if(entry.contains("6.5"))
-            {
-            	list.add("6.5");
-            }
-            if(entry.contains("6.0"))
-            {
-            	list.add("6.0");
-            }
-            if(entry.contains("5.5"))
-            {
-            	list.add("5.5");
-            }
-            if(list.size()==1)
-            {
-            	result.put("IELTS Average Requirement", list.get(0));
-            	result.put("IELTS Lowest Requirement", list.get(0));
-            }
-            else if(list.size()>=2)
-            {
-            	result.put("IELTS Average Requirement", list.get(0));
-            	result.put("IELTS Lowest Requirement", list.get(1));
-            }
-            else
-            {
-            	result.put("IELTS Average Requirement","6.0");
-                
-        	    result.put("IELTS Lowest Requirement", "5.5");
-            }
-            
-            parser=Parser.createParser(htmls, "utf-8");
-    	    filter =
-                    new AndFilter(
-                                  new TagNameFilter("div"),
-                                 new HasAttributeFilter("id","course-info"));
-            nodes = parser.extractAllNodesThatMatch(filter);
-            node=(Node)nodes.elementAt(0);
-            System.out.println("Structure:\n");
-            String structure=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
-            structure=HTMLFilter(structure);
-            System.out.println(structure);
-    	    result.put("Structure",structure.trim());
-        
-        
-        
-        
-        //for undergraduates
-        if(entry.contains("3 years")||entry.contains("3 year")||entry.contains("3 yrs"))
-        {
-        	result.put("Length (months)","36");
-        }
-        else if(entry.contains("4 years")||entry.contains("4 year")||entry.contains("4 yrs"))
-        {
-        	result.put("Length (months)","48");
+    	    result.put("IELTS Lowest Requirement", "5.5");
         }
         
         
-	    
-	    result.put("Level", "Undergraduate");
-	    
-	    //result.put("Scholarship", "Aston Excellence Scholarship:3000;Income-based scholarships:3000;Placement Year/Year Abroad Scholarships:1000;");
-	    
         return result;
 	}
 	
@@ -364,15 +361,9 @@ public class BelfastPostData {
 	{
 		//String types="BA;BEng;BSc;MSc;MEng;Double MA;Joint MA;MA";
 		
-		String[] array=types;
-		for(int i=0;i<array.length;i++)
-		{
-			if(input.contains(array[i]))
-			{
-				return array[i];
-			}
-		}
-		return null;
+		String[] array=input.split("[(]");
+		String result=array[array.length-1].replace("[)]", "");
+		return result;
 	}
 	
 	//Aston University Pattern
@@ -425,9 +416,9 @@ public class BelfastPostData {
 		    input = input.trim().replaceAll("&quot;", "\"");
 		        input = input.trim().replaceAll("&#39;", "'");
 		    input = input.trim().replaceAll("&#92;", "\\\\");
-		    input = input.trim().replaceAll("脗", "");
-		    input = input.trim().replaceAll(" \n", "");
-		    input = input.trim().replaceAll(" \r\n", "");
+		    //input = input.trim().replaceAll("脗", "");
+		    //input = input.trim().replaceAll(" \n", "");
+		    //input = input.trim().replaceAll(" \r\n", "");
 		    return input;
 		}
 
