@@ -119,6 +119,8 @@ public class BelfastPostData {
 					}
 			
 			i++;
+			//if(i>20)
+				//break;
 		}
 		rr.close();
 		
@@ -281,6 +283,34 @@ public class BelfastPostData {
 			}
 		}
 		
+		
+		//******************************School***********************
+		String[] Contacts=Contact.split("\n");
+		//Boolean ha
+		String[] SchoolStart={"School of","Institute of","Queen's University","College of"};
+		for(int i=0;i<Contacts.length;i++)
+		{
+			//if(Contacts[i].startsWith("School of")||Contacts[i].startsWith("Institute of"))
+			if(Contacts[i].contains("Tel"))
+			{
+				String school=Contacts[i].split("Tel")[0];
+				for(int j=0;j<SchoolStart.length;j++)
+				{
+					if(school.contains(SchoolStart[j]))
+					{
+						if(!school.startsWith(SchoolStart[j]))
+						{
+							String[] temp=school.split(SchoolStart[j]);
+							school=SchoolStart[j]+temp[temp.length-1];
+						}
+					}
+				}
+				
+				
+				result.put("School",school);
+			}
+		}
+		
 		//******************************Duration***********************
 		if(Duration.contains("1 year"))
 		{
@@ -349,7 +379,7 @@ public class BelfastPostData {
             
     	    result.put("IELTS Lowest Requirement", "5.5");
         }
-        
+        result.put("Level", "Postgraduate");
         
         return result;
 	}
@@ -359,11 +389,18 @@ public class BelfastPostData {
 	}
 	public static String GetType(String input)//BA BEng Bsc Msc MEng 
 	{
-		//String types="BA;BEng;BSc;MSc;MEng;Double MA;Joint MA;MA";
+		String types="MSc;MEng;Double MA;Joint MA;MA;MArich;MBA;PG;Pg;EdD;MEd;Postgraduate Diploma;Postgraduate Certificate;Doctorate;Graduate Certificate;LLM;GradDip;MTh;MRes";
 		
-		String[] array=input.split("[(]");
-		String result=array[array.length-1].replace("[)]", "");
-		return result;
+		String[] array=types.split(";");
+		for(int i=0;i<array.length;i++)
+		{
+			if(input.contains(array[i]))
+			{
+				return array[i];
+			}
+		}
+		//String result=array[array.length-1].replace(")", "");
+		return "";
 	}
 	
 	//Aston University Pattern
