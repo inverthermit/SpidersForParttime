@@ -382,7 +382,7 @@ public class BelfastPostData {
         result.put("Level", "Postgraduate");
         
         return result;
-	}
+	}//...
 	
 	public static String html2Str(String html) { 
 		return html.replaceAll("<[^>]+>", "");
