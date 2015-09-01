@@ -44,5 +44,9 @@
 	<classpathentry kind="lib" path="libs/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="libs/jsoup-1.8.3.jar"/>
 	<classpathentry kind="lib" path="libs/htmlparser.jar"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="libs/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="libs/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
