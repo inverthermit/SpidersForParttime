@@ -48,5 +48,6 @@
 	<classpathentry kind="lib" path="libs/ezmorph-1.0.6.jar"/>
 	<classpathentry kind="lib" path="libs/json-lib-2.4-jdk15.jar"/>
 	<classpathentry kind="lib" path="libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="libs/poi-3.12-20150511.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
