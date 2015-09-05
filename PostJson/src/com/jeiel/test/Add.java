@@ -32,7 +32,7 @@ public class Add {
 		// TODO Auto-generated method stub
 		try {
 			List<Major> list=POIReadAndPost.getData(null);
-			for(;index<=425;){
+			for(;index<=180;){
 				add(postUrl,list.get(index-1));
 			}
 		} catch (Exception e) {
@@ -73,12 +73,12 @@ public class Add {
 			HttpURLConnection connection = getConnection(postUrl);
 			DataOutputStream out= new DataOutputStream(connection.getOutputStream());
 			
-		    //固定值
+		    //锟教讹拷值
 		    JSONObject entry=new JSONObject();
 		    entry.put("target", "course");
 		    entry.put("action", "add");
 		    
-		    //自定义值
+		    //锟皆讹拷锟斤拷值
 		    
 		    JSONObject course=new JSONObject();
 		    course.put("school", major.getSchool());
@@ -134,7 +134,7 @@ public class Add {
 		    out.write(entry.toString().getBytes("utf8"));
 		    out.flush();
 		    
-		    //读取响应
+		    //锟斤拷取锟斤拷应
 
 		    BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 		    String lines;

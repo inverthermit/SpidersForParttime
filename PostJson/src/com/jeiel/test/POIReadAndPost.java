@@ -22,7 +22,7 @@ public class POIReadAndPost {
 	
 	public static String StructureDir="C:\\Users\\Administrator\\Desktop\\wyl\\structure_ug";
 
-	public static String filepath="D:\\BELFAST\\BelfastUnder.xls";
+	public static String filepath="D:\\BELFAST\\BPostgen_data1.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -42,7 +42,7 @@ public class POIReadAndPost {
         
         List<Major> list=new ArrayList<Major>();
         Major major;
-            // Ñ­»·ÐÐRow
+            // Ñ­ï¿½ï¿½ï¿½ï¿½Row
         for (int rowNum = 1; rowNum <= hssfSheet.getLastRowNum(); rowNum++) {
         	
             HSSFRow hssfRow = hssfSheet.getRow(rowNum);
@@ -70,9 +70,7 @@ public class POIReadAndPost {
             major.setMonthOfEntry(String.valueOf(hssfRow.getCell(11)));
             
             LinkedHashMap<String, String> sc=new LinkedHashMap<String, String>();
-            sc.put("Achieve A, A, B or higher at A-level", "2500");
-            sc.put("Achieve A, B, B at A-level", "1750");
-            sc.put("Achieve Offer Grade*", "1250");
+            sc.put("Postgraduate Scholarship", "2500");
             major.setScholarship(sc);
             list.add(major);
         }
