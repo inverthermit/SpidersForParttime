@@ -294,20 +294,6 @@ public class SecondSchool {
                               new TagNameFilter("div"),
                              new HasAttributeFilter("class","tab-body-inner"));
         nodes = parser.extractAllNodesThatMatch(filter);        
-        //i=0,Entry Requirements
-        //i=1,Course Outline
-	    /*for(int i=0;i<nodes.size();i++)
-	    {
-	    	
-	    	Node node=(Node)nodes.elementAt(i);
-	    	if(i==0) System.out.println("Entry Requirements and Tuition Fees:");
-	    	else if(i==1) System.out.println("Structure:");
-	    	else break;
-            System.out.println(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
-	    	//System.out.println(node.toHtml());
-	    	
-	    }
-	    System.out.println(nodes.size());*/
         Node node=null;
         String entry="";
         if(RequireIndex!=-1)

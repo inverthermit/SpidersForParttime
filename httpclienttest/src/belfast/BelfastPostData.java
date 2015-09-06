@@ -176,11 +176,12 @@ public class BelfastPostData {
 	    
 	    //**************************get name*************************
 	    parser=Parser.createParser(htmls, "utf-8");
-	    TagNameFilter ProfessionNameFilter=new TagNameFilter("h1");
+	    AndFilter ProfessionNameFilter=new AndFilter(new TagNameFilter("h2"),
+                new HasAttributeFilter("id","main_content_title"));
         NodeList nodes2 = parser.extractAllNodesThatMatch(ProfessionNameFilter);
-        if(nodes2.size()>=2)
+        if(nodes2.size()>0)
         {
-        	Node node=(Node)nodes2.elementAt(1);
+        	Node node=(Node)nodes2.elementAt(0);
     	    System.out.println("Title:"+html2Str(node.toHtml()));
     	    System.out.println("Type:"+GetType(html2Str(node.toHtml())));
     	    result.put("Title",html2Str(node.toHtml()));
@@ -438,7 +439,6 @@ public class BelfastPostData {
 			in.close();
 		}
 		public static String HTMLFilter(String input) {
-		    // 浣垮け鍘荤敤澶勭殑鏍囩浠庢柊鏈変綔鐢�
 		    if (input == null) {
 		        input = "";
 		        return input;
@@ -453,9 +453,6 @@ public class BelfastPostData {
 		    input = input.trim().replaceAll("&quot;", "\"");
 		        input = input.trim().replaceAll("&#39;", "'");
 		    input = input.trim().replaceAll("&#92;", "\\\\");
-		    //input = input.trim().replaceAll("脗", "");
-		    //input = input.trim().replaceAll(" \n", "");
-		    //input = input.trim().replaceAll(" \r\n", "");
 		    return input;
 		}
 
