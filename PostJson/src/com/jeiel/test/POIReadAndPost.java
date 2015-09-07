@@ -22,7 +22,7 @@ public class POIReadAndPost {
 	
 	public static String StructureDir="C:\\Users\\Administrator\\Desktop\\wyl\\structure_ug";
 
-	public static String filepath="D:\\BELFAST\\BPostgen_data1.xls";
+	public static String filepath="D:\\LIVERPOOL\\LiverpoolPostData.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -70,7 +70,8 @@ public class POIReadAndPost {
             major.setMonthOfEntry(String.valueOf(hssfRow.getCell(11)));
             
             LinkedHashMap<String, String> sc=new LinkedHashMap<String, String>();
-            sc.put("Postgraduate Scholarship", "2500");
+
+            sc.put("Vice Chancellor¡¯s International Attainment Postgraduate Taught Scholarship", "20%");
             major.setScholarship(sc);
             list.add(major);
         }
@@ -106,7 +107,8 @@ public class POIReadAndPost {
 			line=line.replace("\t", " ").trim();
 			if(line.equals(" ")||line.equals("\r"))
 				continue;
-			if(line.equals("Year 1")||line.equals("Year 2")||line.equals("Year 3")||line.equals("Year 4")||line.equals("Final Year"))//Final Year
+			//if(line.equals("Year 1")||line.equals("Year 2")||line.equals("Year 3")||line.equals("Year 4")||line.equals("Final Year"))//Final Year
+			if(line.equals("Programme Year One")||line.equals("Programme Year Two")||line.equals("Programme Year Three")||line.equals("Programme Year Four")||line.equals("Final Year"))//Final Year
 
 			{
 				if(index!=0)
