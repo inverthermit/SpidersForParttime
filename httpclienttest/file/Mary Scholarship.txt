@@ -1,0 +1,23 @@
+Barts and The London School of Medicine and Dentistry;18000;QMUL Global Health International Scholarship
+School of Biological and Chemical Sciences;5000;International Science and Engineering Undergraduate Excellence Awards 
+School of Economics and Finance;3000;School of Economics and Finance Undergraduate scholarships
+School of Electronic Engineering and Computer Science;5000;International Science and Engineering Undergraduate Excellence Awards 
+School of Engineering and Materials Science;5000;International Science and Engineering Undergraduate Excellence Awards 
+School of Mathematical Sciences;2250;International Science and Engineering Undergraduate Excellence Awards 
+School of Physics and Astronomy;5000;International Science and Engineering Undergraduate Excellence Awards 
+
+Postgraduate:
+Barts and The London School of Medicine and Dentistry;Canon Collins Scholarship funded by Simon and Deirdre Gaskell scholarships;100%;Commonwealth Shared Scholarships;100%;Chevening Scholarships;100%;Santander Masters Scholarship;3000
+School of Biological and Chemical Sciences;Science and Engineering taught scholarships;1500;International Science and Engineering Excellence Awards;2500;Chevening Scholarships;1500
+School of Business and Management;Commonwealth Shared Scholarships;100%;Chevening Scholarships;100%
+School of Economics and Finance;School of Economics and Finance Postgraduate scholarships;5000
+School of Electronic Engineering and Computer Science;Science and Engineering taught scholarships;1500;International Science and Engineering Excellence Awards;2500;Chevening Scholarships;100%;Santander Masters Scholarship;3000
+School of Engineering and Materials Science;Science and Engineering taught scholarships;1500;International Science and Engineering Excellence Awards;2500
+School of English and Drama;Chevening Scholarships;1500
+School of Geography;Chevening Scholarships;1500;Worshipful Company of Water Conservators bursaries*;2500;QMUL Bursary;1000;School of Geography bursary*;1000
+School of History;Chevening Scholarships;1500
+School of Languages, Linguistics and Film;Chevening Scholarships;1500
+School of Law;Law scholarships;100%
+School of Mathematical Sciences;MSc Mathematical Finance and MSc Financial Computing Support Scheme 2015;10000;Mathematical Sciences Excellence Award;5000;International Mathematical Sciences Excellence Award;5000;International Science and Engineering Excellence Awards;2500;MSc Mathematical Finance Academic Excellence Scholarship;5000;MSc Financial Computing Academic Excellence Scholarship;5000;The School of Mathematical Sciences Alumni Scholarship;20%;Chevening Scholarships;1500
+School of Physics and Astronomy;Science and Engineering taught scholarships;1500;International Science and Engineering Excellence Awards;2500;MSc Mathematical Finance Academic Excellence Scholarship;10000;Chevening Scholarships;1500
+School of Politics and International Relations;Chevening Scholarships;1500
