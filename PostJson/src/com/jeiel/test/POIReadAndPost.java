@@ -22,7 +22,7 @@ public class POIReadAndPost {
 	
 	public static String StructureDir="C:\\Users\\Administrator\\Desktop\\wyl\\structure_ug";
 
-	public static String filepath="D:\\LIVERPOOL\\LiverpoolPostData.xls";
+	public static String filepath="D:\\MARY\\MaryPostDataFixed.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -56,6 +56,7 @@ public class POIReadAndPost {
 //7.IELTS Average;8.IELTS Low;9.Structure;10.Length(month);11.Month of Entry;12.Scholarship                
             
             major.setSchool(String.valueOf(hssfRow.getCell(0)));
+            String school=String.valueOf(hssfRow.getCell(0));
             major.setLevel(String.valueOf(hssfRow.getCell(1)));
             major.setTitle(String.valueOf(hssfRow.getCell(2)));
             major.setType(String.valueOf(hssfRow.getCell(3)));
@@ -71,10 +72,36 @@ public class POIReadAndPost {
             
             LinkedHashMap<String, String> sc=new LinkedHashMap<String, String>();
 
-            sc.put("Vice Chancellor¡¯s International Attainment Postgraduate Taught Scholarship", "20%");
+            //sc.put("Vice Chancellor¡¯s International Attainment Postgraduate Taught Scholarship", "20%");
+            //***********Mary Undergraduate
+            /*for(int k=0;k<MaryAdd.MaryUnScho.length;k++)
+            {
+            	if(school.equals(MaryAdd.MaryUnScho[k].split(";")[0]))
+            	{
+            		sc.put(MaryAdd.MaryUnScho[k].split(";")[2], MaryAdd.MaryUnScho[k].split(";")[1]);
+            	}
+            }
+            major.setScholarship(sc);*/
+            //************Mary Postgraduate
+            for(int k=0;k<MaryAdd.MaryPostScho.length;k++)
+            {
+            	//System.out.println(MaryAdd.MaryPostScho[k].split(";").length%2==1);
+            	if(school.trim().equals(MaryAdd.MaryPostScho[k].split(";")[0]))
+            	{
+            		for(int m=1;m<MaryAdd.MaryPostScho[k].split(";").length-1;)
+            		{
+            			sc.put(MaryAdd.MaryPostScho[k].split(";")[m], MaryAdd.MaryPostScho[k].split(";")[m+1]);
+            			//System.out.println(MaryAdd.MaryPostScho[k].split(";")[m]+":"+MaryAdd.MaryPostScho[k].split(";")[m+1]);
+            			m=m+2;
+            		}
+            		break;
+            		
+            	}
+            }
             major.setScholarship(sc);
             list.add(major);
         }
+        
         hssfWorkbook.close();
         is.close();
         System.out.println("rowCount:"+list.size());
@@ -104,12 +131,17 @@ public class POIReadAndPost {
 		int index=0;
 		while((line=fis.readLine())!=null)
 		{
+			if(line.contains("PLEASE NOTE THAT ELECTIVE MODULE AVAILABILITY IS SUBJECT TO TIMETABLING CONSTRAINTS AND THAT MODULES MAY BE SUBJECT TO CHANGE"))
+			{
+				break;
+			}
 			line=line.replace("\t", " ").trim();
 			if(line.equals(" ")||line.equals("\r"))
 				continue;
 			//if(line.equals("Year 1")||line.equals("Year 2")||line.equals("Year 3")||line.equals("Year 4")||line.equals("Final Year"))//Final Year
-			if(line.equals("Programme Year One")||line.equals("Programme Year Two")||line.equals("Programme Year Three")||line.equals("Programme Year Four")||line.equals("Final Year"))//Final Year
-
+			//if(line.equals("Programme Year One")||line.equals("Programme Year Two")||line.equals("Programme Year Three")||line.equals("Programme Year Four")||line.equals("Final Year"))//Final Year
+			if(line.contains("Year 1")||line.contains("Year 2")||line.contains("Year 3")||line.contains("Year 4")||line.contains("Year 5")||line.contains("Final Year"))//Final Year
+				
 			{
 				if(index!=0)
 				{

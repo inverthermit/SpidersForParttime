@@ -94,7 +94,7 @@ public static String FILE_PATH="d:\\MARY";
 		String url="";
 		for(;i<getURL.postUrls.length+1;i++)
 		{
-			//if(i>=22)
+			if(i>=251)
 			{
 				System.out.println(i+":"+getURL.postUrls[i-1][0]);
 					HashMap<String,String> data=MaryGetDetails(getURL.postUrls[i-1]);
