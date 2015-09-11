@@ -1,6 +1,5 @@
 package tieba;
 import java.util.*;
-import java.util.Scanner;
 
 import org.jsoup.select.Elements;
 import org.openqa.selenium.By;
@@ -16,7 +15,7 @@ public class LoginTieba {
 private static int deleteCount=0;
 private static String url = "http://passport.baidu.com";
     private static String mainpageurl="http://tieba.baidu.com/f?kw=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6&ie=utf-8";
-    public static void main(String[] args) throws InterruptedException{
+    public static void main(String[] args) throws Exception{
     	System.setProperty(
 				"webdriver.chrome.driver",
 				"C:\\Program Files\\Google\\Chrome\\Application\\chromedriver.exe");
@@ -34,12 +33,13 @@ private static String url = "http://passport.baidu.com";
 	sc.nextLine();
 	driver.get(mainpageurl);
 	sc.nextLine();
-    String js1="input=document.getElementById('j_head_focus_btn');input.setAttribute('style', 'nothing');";
+	
+	String tid="4033906702";
+	String pid="75571153471";
+	String js1="input=document.getElementById('j_head_focus_btn');input.setAttribute('style', 'nothing');";
 	((JavascriptExecutor)driver).executeScript(js1);
-	String js2="function callback(){result='';if (xml.readyState==4 && xml.status==200){var responseText = xml.responseText;console.log(responseText);var input=document.getElementById('j_head_focus_btn');input.setAttribute('style', responseText);}}";
-	String js3="var result='';var xml = new XMLHttpRequest();xml.open('POST', 'http://tieba.baidu.com/f/commit/post/delete', true);xml.onreadystatechange = callback; xml.setRequestHeader('Content-type','application/x-www-form-urlencoded'); xml.send('commit_fr=pb&ie=utf-8&tbs=d316085121f93c631441951687&kw=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6&fid=35522&tid=4033906702&is_vipdel=0&pid=75571153471&is_finf=false');";
-	((JavascriptExecutor)driver).executeScript(js2+js3);
-	Thread.sleep(2000);
+	deletePost(driver,tid,pid);
+	
 	
 	/*----------------------------Time related function------------------
 	Date pre=new Date();
@@ -52,13 +52,14 @@ private static String url = "http://passport.baidu.com";
 	System.out.println(next.compareTo(pre));//1
 	*/
 	
-	/*while(true)
+	while(true)
 	{
 		Date pre=new Date();
 		//Get Post ID
 		LinkedHashMap<String,String> resultmap=getTidPids();
 		if(resultmap.size()==0)
 		{
+			
 			continue;
 		}
 		else
@@ -68,19 +69,44 @@ private static String url = "http://passport.baidu.com";
 				Iterator iter = resultmap.entrySet().iterator(); 
 				while (iter.hasNext()) { 
 				Map.Entry entry = (Map.Entry) iter.next(); 
-				String key = (String)entry.getKey(); 
-				String val = (String)entry.getValue(); 
-				
-				//id=displayUsername
+				String ttid = (String)entry.getKey(); 
+				String ppid = (String)entry.getValue(); 
+				String js11="input=document.getElementById('j_head_focus_btn');input.setAttribute('style', 'nothing');";
+				((JavascriptExecutor)driver).executeScript(js11);
+				deletePost(driver,ttid,ppid);
+				WebElement frame = driver.findElements(By.id("j_head_focus_btn")).get(0);
+		    	System.out.println(frame.getAttribute("style"));
+		    	deleteCount++;
+		    	
 				} 
 			}
 		}
+		while(true)
+		{
+			Date next=new Date();
+			if(next.getTime()-pre.getTime()>=60000)
+			{
+				System.out.println(deleteCount);
+				break;
+			}
+			else
+			{
+				Thread.sleep(3000);
+			}
+		}
 		
-	}*/
+	}
     
     //driver.close();
     }
-    
+    public static void deletePost(WebDriver driver,String tid,String pid) throws Exception
+    {
+    	String js2="function callback(){result='';if (xml.readyState==4 && xml.status==200){var responseText = xml.responseText;console.log(responseText);var input=document.getElementById('j_head_focus_btn');input.setAttribute('style', responseText);}}";
+    	String js3="var result='';var xml = new XMLHttpRequest();xml.open('POST', 'http://tieba.baidu.com/f/commit/post/delete', true);xml.onreadystatechange = callback; xml.setRequestHeader('Content-type','application/x-www-form-urlencoded'); xml.send('commit_fr=pb&ie=utf-8&tbs=d316085121f93c631441951687&kw=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6&fid=35522&tid="+tid+"&is_vipdel=0&pid="+pid+"&is_finf=false');";
+    	((JavascriptExecutor)driver).executeScript(js2+js3);
+    	Thread.sleep(2000);
+    	
+    }
     public static LinkedHashMap<String,String> getTidPids()
     {
     	LinkedHashMap<String,String> resultlist=new LinkedHashMap<String,String>();
