@@ -1,0 +1,289 @@
+Accounting and Economics;BSc Hons;15,950
+Accounting and Finance;BSc Hons;15,950
+Accounting and Finance (Industry);BSc Hons;15,950
+Accounting and Management Studies;BSc Hons;15,950
+Accounting, Auditing and Finance;BSc Hons;15,950
+Accounting, Finance and Computer Science;BSc Hons;16,710
+Accounting, Finance and Mathematics;BSc Hons;16,710
+Advertising and Marketing;BA Hons;15,950
+Biochemistry;BSc Hons;17,470
+Biochemistry (Study Abroad);BSc Hons;17,470
+Biochemistry with Biomedicine;BSc Hons;17,470
+Biochemistry with Genetics;BSc Hons;17,470
+Biological Sciences;MSci Hons;17,470
+Biological Sciences;BSc Hons;17,470
+Biological Sciences (Study Abroad);BSc Hons;17,470
+Biological Sciences with Biomedicine;BSc Hons;17,470
+Biology;MSci Hons;17,470
+Biology;BSc Hons;17,470
+Biology with Psychology;BSc Hons;17,470
+Biomedical Science;BSc Hons;17,470
+Biomedicine;MSci Hons;17,470
+Biomedicine;BSc Hons;17,470
+Biomedicine (Study Abroad);BSc Hons;17,470
+Biomedicine (Study Abroad);MSci Hons;17,470
+Business Analytics and Consultancy;BSc Hons;15,950
+Business Analytics and Consultancy (Industry);BSc Hons;15,950
+Business Analytics and Consultancy (Study Abroad);BSc Hons;15,950
+Business Computing and Information Systems;BSc Hons;16,710
+Business Economics (Industry);BSc Hons;15,950
+Business Studies;BSc Hons;15,950
+Business Studies (Study Abroad);BSc Hons;15,950
+Chemical Engineering;BEng Hons;17,470
+Chemical Engineering;MEng Hons;17,470
+Chemistry;MChem Hons;17,470
+Chemistry;BSc Hons;17,470
+Chemistry / North America;MChem Hons;17,470
+Communication Systems and Electronics;BEng Hons;17,470
+Communication Systems and Electronics (with Industrial Experience);MEng Hons;17,470
+Computer Science;BSc Hons;17,470
+Computer Science (Study Abroad);BSc Hons;17,470
+Computer Science (with Industrial Experience);MSci Hons;17,470
+Computer Science Innovation;BSc Hons;17,470
+Computer Science Innovation;MSci Hons;17,470
+Computer Science and Mathematics;BSc Hons;17,470
+Computer Science and Mathematics;MSci Hons;17,470
+Computer Systems Engineering;BEng Hons;17,470
+Computer Systems Engineering;MEng Hons;17,470
+Criminology;BA Hons;13,930
+Criminology and Sociology;BA Hons;13,930
+Dance and Creative Writing;BA Hons;13,930
+Dance and English Literature;BA Hons;13,930
+Dance and Film;BA Hons;13,930
+Dance and French Studies;BA Hons;13,930
+Dance and German Studies;BA Hons;13,930
+Dance and Spanish Studies;BA Hons;13,930
+Dance and Theatre;BA Hons;13,930
+Design Interactions;BA Hons;13,930
+Earth and Environmental Science;MSci Hons;17,470
+Earth and Environmental Science;BSc Hons;17,470
+Earth and Environmental Science (Study Abroad);BSc Hons;17,470
+Earth and Environmental Science (Study Abroad);MSci Hons;17,470
+Ecology and Conservation;BSc Hons;17,470
+Ecology and Conservation (Professional Experience);MSci Hons;17,470
+Ecology and Conservation (Study Abroad);BSc Hons;17,470
+Economics;BSc Hons;15,950
+Economics;MEcon Hons;15,950
+Economics (Study Abroad);BSc Hons;15,950
+Economics and Geography;BA Hons;16,710
+Economics and International Relations;BA Hons;14,940
+Economics and Mathematics;BSc Hons;16,710
+Economics and Politics;BA Hons;14,940
+Electronic and Electrical Engineering;BEng Hons;17,470
+Electronic and Electrical Engineering;MEng Hons;17,470
+Engineering;BEng Hons;17,470
+Engineering (Study Abroad);MEng Hons;17,470
+Engineering (Study Abroad);BEng Hons;17,470
+English Language;BA Hons;13,930
+English Language (Study Abroad);BA Hons;13,930
+English Language and Creative Writing;BA Hons;13,930
+English Language and French Studies;BA Hons;13,930
+English Language and German Studies;BA Hons;13,930
+English Language and Linguistics;BA Hons;13,930
+English Language and Literature;BA Hons;13,930
+English Language and Spanish Studies;BA Hons;13,930
+English Language in the Media;BA Hons;13,930
+English Language in the Media (Study Abroad);BA Hons;13,930
+English Language with Chinese;BA Hons;13,930
+English Literature;BA Hons;13,930
+English Literature and History;BA Hons;13,930
+English Literature and Linguistics;BA Hons;13,930
+English Literature and Philosophy;BA Hons;13,930
+English Literature and Religious Studies;BA Hons;13,930
+English Literature with Creative Writing;BA Hons;13,930
+English Literature, Creative Writing and Practice;BA Hons;13,930
+Entrepreneurship (with Management);BA Hons;15,950
+Environmental Biology;BSc Hons;17,470
+Environmental Biology;MSci Hons;17,470
+Environmental Biology (Study Abroad);BSc Hons;17,470
+Environmental Biology (Study Abroad);MSci Hons;17,470
+Environmental Change and Sustainable Development;BSc Hons;17,470
+Environmental Chemistry;MChem Hons;17,470
+Environmental Chemistry;BSc Hons;17,470
+Environmental Chemistry (Study Abroad);BSc Hons;17,470
+Environmental Chemistry (Study Abroad);MChem Hons;17,470
+Environmental Science;BSc Hons;17,470
+Environmental Science;MSci Hons;17,470
+Environmental Science (Study Abroad);BSc Hons;17,470
+Environmental Science (Study Abroad);MSci Hons;17,470
+Environmental Science and Technology;BSc Hons;17,470
+Environmental Science and Technology (Professional Experience);MSci Hons;17,470
+Ethics, Philosophy and Religion;BA Hons;13,930
+European Legal Studies;LLB Hons;13,930
+European Management (French);BBA Hons;15,950
+European Management (German);BBA Hons;15,950
+European Management (Italian);BBA Hons;15,950
+European Management (Spanish);BBA Hons;15,950
+European-American Management;BBA Hons;15,950
+European-Latin American Management (Mexico);BBA Hons;15,950
+Film;BA Hons;13,930
+Film and Creative Writing;BA Hons;13,930
+Film and English Literature;BA Hons;13,930
+Film and Philosophy;BA Hons;13,930
+Film and Sociology;BA Hons;13,930
+Film and Theatre;BA Hons;13,930
+Film, Media and Cultural Studies;BA Hons;13,930
+Finance;BSc Hons;15,950
+Finance and Economics;BSc Hons;15,950
+Finance and Management Studies;BSc Hons;15,950
+Financial Mathematics;BSc Hons;16,710
+Financial Mathematics;MSci Hons;16,710
+Fine Art;BA Hons;13,930
+Fine Art and Creative Writing;BA Hons;13,930
+Fine Art and Dance;BA Hons;13,930
+Fine Art and Film;BA Hons;13,930
+Fine Art and Theatre;BA Hons;13,930
+French Studies;BA Hons;13,930
+French Studies and Computing;BSc Hons;15,700
+French Studies and English Literature;BA Hons;13,930
+French Studies and Film;BA Hons;13,930
+French Studies and Geography;BA Hons;15,700
+French Studies and German Studies;BA Hons;13,930
+French Studies and History;BA Hons;13,930
+French Studies and Linguistics;BA Hons;13,930
+French Studies and Mathematics;BA Hons;15,700
+French Studies and Philosophy;BA Hons;13,930
+French Studies and Politics;BA Hons;13,930
+French Studies and Psychology;BA Hons;15,700
+French Studies and Spanish Studies;BA Hons;13,930
+French Studies and Theatre;BA Hons;13,930
+French Studies with Chinese;BA Hons;13,930
+French Studies with Italian;BA Hons;13,930
+Geography;BSc Hons;17,470
+Geography;BA Hons;17,470
+Geography (Professional Experience);MSci Hons;17,470
+Geography / North America;BSc Hons;17,470
+Geography / North America;BA Hons;17,470
+German Studies;BA Hons;13,930
+German Studies And Spanish Studies;BA Hons;13,930
+German Studies and Computing;BSc Hons;15,700
+German Studies and English Literature;BA Hons;13,930
+German Studies and Film;BA Hons;13,930
+German Studies and Geography;BA Hons;15,700
+German Studies and History;BA Hons;13,930
+German Studies and Linguistics;BA Hons;13,930
+German Studies and Mathematics;BA Hons;15,700
+German Studies and Philosophy;BA Hons;13,930
+German Studies and Politics;BA Hons;13,930
+German Studies and Psychology;BA Hons;15,700
+German Studies and Theatre;BA Hons;13,930
+German Studies with Chinese;BA Hons;13,930
+German Studies with Italian;BA Hons;13,930
+History;BA Hons;13,930
+History and International Relations;BA Hons;13,930
+History and Philosophy;BA Hons;13,930
+History and Politics;BA Hons;13,930
+History and Religious Studies;BA Hons;13,930
+History, Philosophy and Politics;BA Hons;13,930
+Human Geography;BA Hons;17,470
+Information Technology for Creative Industries;BSc Hons;17,470
+Information Technology for Creative Industries (with Industrial Experience);MSci Hons;17,470
+International Relations;BA Hons;13,930
+International Relations and Religious Diversity;BA Hons;13,930
+Law;LLB Hons;13,930
+Law (International);LLB Hons;13,930
+Law and Criminology;LLB Hons;13,930
+Law and Politics;LLB Hons;13,930
+Linguistics;BA Hons;13,930
+Linguistics (Study Abroad);BA Hons;13,930
+Linguistics and Philosophy;BA Hons;13,930
+Linguistics and Psychology;BA Hons;15,700
+Linguistics with Chinese;BA Hons;13,930
+Management;BBA Hons;15,950
+Management (Study Abroad);BBA Hons;15,950
+Management Mathematics;BSc Hons;16,710
+Management Studies and European Languages;BA Hons;14,940
+Management and Entrepreneurship;BA Hons;15,950
+Management and Information Technology (4 years including placement);BSc Hons;15,950
+Management and Organisation;BA Hons;15,950
+Management and Organisation (Human Resource Management);BA Hons;15,950
+Management and Organisation (Study Abroad);BA Hons;15,950
+Management, Politics and International Relations (Industry);BSc Hons;14,940
+Marketing;BSc Hons;15,950
+Marketing (Study Abroad);BSc Hons;15,950
+Marketing Management;BSc Hons;15,950
+Marketing Management (Study Abroad);BSc Hons;15,950
+Marketing and Design;BSc Hons;15,950
+Marketing with Psychology;BSc Hons;15,950
+Mathematics;BSc Hons;17,470
+Mathematics;MSci Hons;17,470
+Mathematics (Study Abroad);MSci Hons;17,470
+Mathematics and Philosophy;BA Hons;15,700
+Mathematics with Statistics;BSc Hons;17,470
+Mathematics with Statistics;MSci Hons;17,470
+Mathematics with Statistics (Study Abroad);MSci Hons;17,470
+Mechanical Engineering;BEng Hons;17,470
+Mechanical Engineering;MEng Hons;17,470
+Mechatronic Engineering;BEng Hons;17,470
+Mechatronic Engineering;MEng Hons;17,470
+Media and Cultural Studies;BA Hons;13,930
+Medicine and Surgery;MBChB;27,500
+Medieval and Renaissance Studies;BA Hons;13,930
+Modern Languages;BA Hons;13,930
+Natural Sciences;BSc Hons;17,470
+Natural Sciences;MSci Hons;17,470
+Natural Sciences (Study Abroad);BSc Hons;17,470
+Natural Sciences (Study Abroad);MSci Hons;17,470
+Nuclear Engineering;MEng Hons;17,470
+Nuclear Engineering;BEng Hons;17,470
+Organisation Studies and Psychology;BA Hons;16,710
+Organisation Studies and Sociology;BA Hons;14,940
+Peace Studies and International Relations;BA Hons;13,930
+Philosophy;BA Hons;13,930
+Philosophy and Politics;BA Hons;13,930
+Philosophy and Religious Studies;BA Hons;13,930
+Philosophy with Chinese;BA Hons;13,930
+Philosophy, Politics and Economics;BA Hons;14,600
+Physical Geography;BSc Hons;17,470
+Physical Geography / Australasia;BSc Hons;17,470
+Physics;BSc Hons;17,470
+Physics;MPhys Hons;17,470
+Physics (Study Abroad);MPhys Hons;17,470
+Physics with Particle Physics and Cosmology;BSc Hons;17,470
+Physics with Particle Physics and Cosmology;MPhys Hons;17,470
+Physics, Astrophysics and Cosmology;BSc Hons;17,470
+Physics, Astrophysics and Cosmology;MPhys Hons;17,470
+Politics;BA Hons;13,930
+Politics (Study Abroad);BA Hons;13,930
+Politics and International Relations;BA Hons;13,930
+Politics and Religious Studies;BA Hons;13,930
+Politics and Sociology;BA Hons;13,930
+Politics with Chinese;BA Hons;13,930
+Pre-medical Studies;Certificate of Higher Education;n/a
+Psychology;BSc Hons;17,470
+Psychology;BA Hons;17,470
+Religious Studies;BA Hons;13,930
+Religious Studies and Sociology;BA Hons;13,930
+Religious Studies with Chinese;BA Hons;13,930
+Social Work;BA Hons;13,930
+Social Work, Ethics and Religion;MSocial Work Hons;13,930
+Sociology;BA Hons;13,930
+Software Engineering;BSc Hons;17,470
+Software Engineering (with Industrial Experience);MSci Hons;17,470
+Spanish Studies;BA Hons;13,930
+Spanish Studies and Computing;BSc Hons;15,700
+Spanish Studies and English Literature;BA Hons;13,930
+Spanish Studies and Film;BA Hons;13,930
+Spanish Studies and Geography;BA Hons;15,700
+Spanish Studies and History;BA Hons;13,930
+Spanish Studies and Linguistics;BA Hons;13,930
+Spanish Studies and Mathematics;BA Hons;15,700
+Spanish Studies and Philosophy;BA Hons;13,930
+Spanish Studies and Politics;BA Hons;13,930
+Spanish Studies and Psychology;BA Hons;15,700
+Spanish Studies and Theatre;BA Hons;13,930
+Spanish Studies with Chinese;BA Hons;13,930
+Spanish Studies with Italian;BA Hons;13,930
+Statistics;BSc Hons;17,470
+Statistics;MSci Hons;17,470
+Statistics (Study Abroad);MSci Hons;17,470
+Sustainable Engineering;BEng Hons;17,470
+Sustainable Engineering;MEng Hons;17,470
+Theatre;BA Hons;13,930
+Theatre and Creative Writing;BA Hons;13,930
+Theatre and English Literature;BA Hons;13,930
+Theoretical Physics;BSc Hons;17,470
+Theoretical Physics;MPhys Hons;17,470
+Theoretical Physics with Mathematics;MSci Hons;17,470
+Theoretical Physics with Mathematics;BSc Hons;17,470
+Theoretical Physics with Mathematics (Study Abroad);MSci Hons;17,470

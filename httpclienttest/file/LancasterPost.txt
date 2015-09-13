@@ -1,0 +1,236 @@
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/accounting-and-finance-phd/;Accounting and Finance;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/accounting-and-financial-management-msc/;Accounting and Financial Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/advanced-marketing-management-mres/;Advanced Marketing Management;MRes
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/advanced-marketing-management-msc/;Advanced Marketing Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/advanced-social-work-ma/;Advanced Social Work;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/aerospace-safety-engineering-pgcert/;Aerospace Safety Engineering;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/applied-bioscience-and-business-management-pgcert/;Applied Bioscience and Business Management;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/applied-linguistics-by-thesis-and-coursework-mphilphd/;Applied Linguistics (by thesis and coursework);MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/applied-linguistics-and-language-teaching-ma/;Applied Linguistics and Language Teaching;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/applied-social-science-phd/;Applied Social Science;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/applied-social-statistics-phd/;Applied Social Statistics;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/art-phd/;Art;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/art-by-research-ma/;Art by research;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/bioethics-and-medical-law-llm/;Bioethics and Medical Law;LLM
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/bioethics-and-medical-law-ma/;Bioethics and Medical Law;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/biological-science-phd/;Biological Science;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/biomedical-science-msc-research/;Biomedical Science;MSc (research)
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/biomedical-and-life-sciences-mphilphd/;Biomedical and Life Sciences;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/biomedicine-md/;Biomedicine;M.D.
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/biomedicine-msc/;Biomedicine;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/business-administration-mba/;Business Administration;MBA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/chemistry-msc-by-research/;Chemistry;MSc (by research)
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/chemistry-phd/;Chemistry;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/child-welfare-mres/;Child Welfare;MRes
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/child-welfare-practice-pgcert/;Child Welfare Practice;PGCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/clinical-psychology-dclinpsy/;Clinical Psychology;DClinPsy
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/clinical-research-msc/;Clinical Research;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/clinical-research-pgcert/;Clinical Research;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/communication-systems-msc/;Communication Systems;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/communications-systems-phd/;Communications Systems;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/computer-science-msc/;Computer Science;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/computer-science-phd/;Computer Science;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/computer-science-by-research-msc/;Computer Science (by research);MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/conflict-resolution-and-peace-studies-ma/;Conflict Resolution and Peace Studies;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/conflict-development-and-security-ma/;Conflict, Development and Security;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/contamination-risk-assessment-and-remediation-msc/;Contamination, Risk Assessment and Remediation;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/contemporary-arts-phd/;Contemporary Arts;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/contemporary-arts-consultancy-ma/;Contemporary Arts Consultancy;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/creative-writing-ma/;Creative Writing;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/creative-writing-mphilphd/;Creative Writing;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/creative-writing-distance-learning-ma/;Creative Writing (Distance Learning);MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/cyber-security-msc/;Cyber Security;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/data-science-msc/;Data Science;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/data-science-for-the-environment-msc/;Data Science for the Environment;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/design-phd/;Design;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/design-management-ma/;Design Management;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/design-by-research-ma/;Design by research;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/developmental-disorders-msc/;Developmental Disorders;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/developmental-psychology-msc/;Developmental Psychology;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/diplomacy-and-foreign-policy-ma/;Diplomacy and Foreign Policy;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/diplomacy-and-international-law-llmma/;Diplomacy and International Law;LLM/MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/diplomacy-and-international-law-distance-learning-llm/;Diplomacy and International Law (Distance Learning);LLM
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/diplomacy-and-international-law-distance-learning-ma/;Diplomacy and International Law (Distance Learning);MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/diplomacy-and-international-relations-by-distance-learning-ma/;Diplomacy and International Relations (by Distance Learning);MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/diplomacy-and-religion-ma/;Diplomacy and Religion;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/discourse-studies-ma/;Discourse Studies;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/ebusiness-and-innovation-msc/;E-Business and Innovation;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/ebusiness-and-innovation-pgdip/;E-Business and Innovation;PGDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/eresearch-and-technology-enhanced-learning-by-course-work-and-thesis-phd/;E-Research and Technology Enhanced Learning (by course work and thesis);PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/ecology-by-research-msc/;Ecology (by research);MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/ecology-and-conservation-msc/;Ecology and Conservation;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/economics-msc/;Economics;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/economics-phd/;Economics;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/education-and-social-justice-thesis-and-coursework-phd/;Education and Social Justice (thesis and coursework);PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/educational-research-independent-study-mphilphd/;Educational Research (Independent Study);MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/educational-research-higher-or-teacher-education-thesis-and-coursework-mphilphd/;Educational Research - Higher or Teacher Education (thesis and coursework);MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/electronic-engineering-msc/;Electronic Engineering;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/energy-and-the-environment-msc/;Energy and the Environment;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/engineering-phd/;Engineering;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/engineering-by-research-msc/;Engineering (by research);MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/engineering-project-management-msc/;Engineering Project Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/english-mphilphd/;English;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/english-language-by-distance-ma/;English Language (by distance);MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/english-language-and-literary-studies-ma/;English Language and Literary Studies;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/english-literary-research-ma/;English Literary Research;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/english-literary-studies-ma/;English Literary Studies;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/entrepreneurship-innovation-and-practice-msc/;Entrepreneurship, Innovation and Practice;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/entrepreneurship-innovation-and-practice-pgdip/;Entrepreneurship, Innovation and Practice;PGDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/environment-and-development-msc/;Environment and Development;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/environment-and-development-ma/;Environment and Development;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/environment-and-law-llmma/;Environment and Law;LLM/MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/environment-culture-and-society-ma/;Environment, Culture and Society;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/environmental-management-and-consultancy-ma/;Environmental Management and Consultancy;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/environmental-science-phd/;Environmental Science;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/environmental-science-by-research-msc-research/;Environmental Science (by research);MSc (research)
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/environmental-science-and-technology-msc/;Environmental Science and Technology;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/environmental-and-biochemical-toxicology-msc/;Environmental and Biochemical Toxicology;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/european-languages-and-cultures-mphilphd/;European Languages and Cultures;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/executive-mba-mba/;Executive MBA;MBA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/film-phd/;Film;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/film-studies-by-research-ma/;Film Studies by research;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/finance-msc/;Finance;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/financial-analysis-msc/;Financial Analysis;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/food-challenges-for-the-21st-century-pgcert/;Food Challenges for the 21st Century;PGCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/gender-and-womens-studies-ma/;Gender and Women's Studies;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/gender-and-womens-studies-mphilphd/;Gender and Women's Studies;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/gender-and-womens-studies-and-english-ma/;Gender and Women's Studies and English;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/gender-and-womens-studies-and-sociology-ma/;Gender and Women's Studies and Sociology;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/geography-phd/;Geography;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/health-research-mphilphd/;Health Research;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/highwire-mres/;HighWire;MRes
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/highwire-phd/;HighWire;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/higher-education-research-evaluation-and-enhancement-phd/;Higher Education;Research, Evaluation and Enhancement
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/history-ma/;History;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/history-mphilphd/;History;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/hospice-leadership-ma/;Hospice Leadership;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/human-resource-and-knowledge-management-msc/;Human Resource and Knowledge Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/human-resources-and-consulting-ma/;Human Resources and Consulting;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/human-rights-and-the-environment-llmma/;Human Rights and the Environment;LLM/MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/information-technology-management-and-organisational-change-mres/;Information Technology, Management and Organisational Change;MRes
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/information-technology-management-and-organisational-change-msc/;Information Technology, Management and Organisational Change;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/information-technology-management-and-organisational-change-pgdip/;Information Technology, Management and Organisational Change;PGDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/innovation-and-improvement-science-msc/;Innovation and Improvement Science;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/innovation-and-improvement-science-pgcert/;Innovation and Improvement Science;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/innovation-and-improvement-science-pgdip/;Innovation and Improvement Science;PgDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-business-and-corporate-law-llm/;International Business and Corporate Law;LLM
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-business-and-strategy-msc/;International Business and Strategy;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-business-and-strategy-pgdip/;International Business and Strategy;PGDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-executive-management-msc/;International Executive Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-human-rights-law-llm/;International Human Rights Law;LLM
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-human-rights-and-terrorism-law-llm/;International Human Rights and Terrorism Law;LLM
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-innovation-msc/;International Innovation;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-innovation-engineering-msc/;International Innovation (Engineering);MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-innovation-environmental-science-msc/;International Innovation (Environmental Science);MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-law-llm/;International Law;LLM
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-law-and-international-relations-llm/;International Law and International Relations;LLM
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-law-and-international-relations-ma/;International Law and International Relations;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-relations-ma/;International Relations;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/international-relations-mres/;International Relations;MRes
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/language-testing-by-distance-ma/;Language Testing (by Distance);MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/language-and-linguistics-ma/;Language and Linguistics;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/languages-and-cultures-by-research-ma/;Languages and Cultures (by research);MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/law-llm/;Law;LLM
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/law-pgdip/;Law;PGDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/law-phdmphil/;Law;PhD/MPhil
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/law-by-research-llm/;Law by Research;LLM
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/leadership-practice-and-responsibility-msc/;Leadership Practice and Responsibility;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/leadership-practice-and-responsibility-pgcert/;Leadership Practice and Responsibility;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/leadership-practice-and-responsibility-pgdip/;Leadership Practice and Responsibility;PgDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/leadership-and-management-pgcert/;Leadership and Management;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/leadership-and-management-health-care-pgcert/;Leadership and Management (Health Care);PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/linguistics-mphilphd/;Linguistics;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/logistics-and-supply-chain-management-msc/;Logistics and Supply Chain Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/management-msc/;Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/management-phd/;Management;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/management-learning-and-leadership-phd/;Management Learning and Leadership;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/management-science-mres/;Management Science;MRes
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/management-science-phd/;Management Science;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/management-science-and-marketing-analytics-msc/;Management Science and Marketing Analytics;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/marketing-msc/;Marketing;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/marketing-phd/;Marketing;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/mathematics-phd/;Mathematics;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/mechanical-engineering-msc/;Mechanical Engineering;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/mechanical-engineering-pgdip/;Mechanical Engineering;PGDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/mechanical-engineering-with-project-management-msc/;Mechanical Engineering with Project Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/media-and-cultural-studies-ma/;Media and Cultural Studies;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/medical-education-msc/;Medical Education;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/medical-education-pgcert/;Medical Education;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/medical-education-pgdip/;Medical Education;PgDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/medical-leadership-msc/;Medical Leadership;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/medical-leadership-pgdip/;Medical Leadership;PgDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/medical-leadership-pgcert/;Medical Leadership;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/medical-sciences-by-research-msc/;Medical Sciences (by research);MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/medicine-md/;Medicine;MD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/medicine-phdmphil/;Medicine;PhD/MPhil
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/mental-health-phd/;Mental Health;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/money-banking-finance-mres/;Money, Banking &amp; Finance;MRes
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/money-banking-and-finance-msc/;Money, Banking and Finance;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/nanoscience-phd/;Nanoscience;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/natural-sciences-phd/;Natural Sciences;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/nuclear-science-and-engineering-pgcert/;Nuclear Science and Engineering;PGCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/operational-research-and-management-science-msc/;Operational Research and Management Science;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/organisation-development-pgcert/;Organisation Development;PGCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/organisation-work-and-technology-phd/;Organisation, Work and Technology;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/organisational-health-and-well-being-phd/;Organisational Health and Well Being;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/palliative-care-phd/;Palliative Care;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/philosophy-ma/;Philosophy;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/philosophy-mphilphd/;Philosophy;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/philosophy-pgcert/;Philosophy;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/philosophy-and-religion-ma/;Philosophy and Religion;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/physics-msc-research/;Physics;MSc (research)
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/physics-phd/;Physics;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/plant-sciences-by-research-msc-research/;Plant Sciences (by research);MSc (research)
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/political-theology-for-peace-distance-pgcert-of-achievement/;Political Theology for Peace (Distance);PGCert of Achievement
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/politics-ma/;Politics;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/politics-phd/;Politics;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/politics-and-international-relations-pgcert/;Politics and International Relations;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/politics-and-philosophy-ma/;Politics and Philosophy;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/politics-philosophy-and-management-msc/;Politics, Philosophy and Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/politics-philosophy-and-religion-ma/;Politics, Philosophy and Religion;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/professional-development-pgcert/;Professional Development;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/professional-practice-ma/;Professional Practice;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/professional-practice-msc/;Professional Practice;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/professional-practice-pgcert/;Professional Practice;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/professional-practice-pgdip/;Professional Practice;PgDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/project-management-msc/;Project Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/psychological-research-methods-msc/;Psychological Research Methods;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/psychology-phd/;Psychology;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/psychology-of-advertising-msc/;Psychology of Advertising;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/public-health-phd/;Public Health;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/quaker-studies-pgcert/;Quaker Studies;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/quakerism-in-the-modern-world-distance-learning-ma/;Quakerism in the Modern World (distance learning);MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/quantitative-finance-msc/;Quantitative Finance;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/quantitative-methods-for-science-social-science-and-medicine-msc/;Quantitative Methods for Science, Social Science and Medicine;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/quantitative-methods-for-science-social-science-and-medicine-pgcert/;Quantitative Methods for Science, Social Science and Medicine;PGCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/quantitative-methods-for-science-social-science-and-medicine-pgdip/;Quantitative Methods for Science, Social Science and Medicine;PGDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/religion-and-conflict-ma/;Religion and Conflict;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/religious-studies-ma/;Religious Studies;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/religious-studies-mphilphd/;Religious Studies;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/religious-studies-pgcert/;Religious Studies;PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/religious-studies-distance-learning-pgcert/;Religious Studies (Distance Learning);PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/resource-and-environmental-management-msc/;Resource and Environmental Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/ruskin-studies-mphilphd/;Ruskin Studies;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/safety-engineering-industrybased-msc/;Safety Engineering (Industry-Based);MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/safety-engineering-industrybased-pgdip/;Safety Engineering (Industry-Based);PGDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/safety-engineering-industrybased-pgcert/;Safety Engineering (Industry-Based);PgCert
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/science-studies-mphilphd/;Science Studies;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/social-psychology-msc/;Social Psychology;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/social-research-ma/;Social Research;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/social-work-ma-l508/;Social Work;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/social-work-pgdip/;Social Work;PGDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/sociology-ma/;Sociology;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/sociology-mphilphd/;Sociology;MPhil/PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/sound-by-research-ma/;Sound by research;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-msc/;Statistics;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-pgdip/;Statistics;PGDip
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-phd/;Statistics;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-and-epidemiology-phd/;Statistics and Epidemiology;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-and-operational-research-stori-mres/;Statistics and Operational Research (STOR-i);MRes
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-and-operational-research-stori-phd/;Statistics and Operational Research (STOR-i);PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/sustainable-agriculture-and-food-security-msc/;Sustainable Agriculture and Food Security;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/sustainable-water-management-msc/;Sustainable Water Management;MSc
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/teaching-english-to-speakers-of-other-languages-by-distance-ma/;Teaching English to Speakers of Other Languages by Distance;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/theatre-studies-phd/;Theatre Studies;PhD
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/theatre-and-performance-by-research-ma/;Theatre and Performance by research;MA
+http://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/volcanology-and-geological-hazards-msc/;Volcanology and Geological Hazards;MSc

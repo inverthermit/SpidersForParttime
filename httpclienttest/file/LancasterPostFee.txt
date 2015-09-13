@@ -1,0 +1,149 @@
+Accounting and Finance;MRes;¡ê15,500;¡ê20,000;n/a;n/a
+Accounting and Financial Management;MRes;¡ê15,500;¡ê20,000;n/a;n/a
+Accounting and Financial Management;MSc;¡ê15,500;¡ê20,000;n/a;n/a
+Advanced Financial Analysis;MSc;¡ê15,500;¡ê20,000;n/a;n/a
+Advanced Marketing Management;MRes;¡ê10,500;¡ê17,000;n/a;n/a
+Advanced Marketing Management;MSc;¡ê10,500;¡ê17,000;n/a;n/a
+Advanced Social Work;MA;n/a;n/a;¡ê3,125;n/a
+Aerospace Engineering;PGCert;n/a;n/a;¡ê2,060;n/a
+Applied Linguistics and Language Teaching;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Art by research;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Bioethics and Medical Law;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Biomedical Training for Industry (fee for whole programme);PGCert;n/a;n/a;¡ê2,625;¡ê4,733
+Biomedicine;MSc;¡ê7,380;¡ê17,880;¡ê3,690;¡ê8,940
+Business Administration;MBA;¡ê27,000;¡ê27,000;n/a;n/a
+Business Administration (Executive) - Fee for two years of study;MBA;n/a;n/a;¡ê19,500;¡ê19,500
+Child Welfare;MRes;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Child Welfare Practice;PGCert;¡ê2,083;¡ê4,733;¡ê1,042;
+Clinical Research (fee for whole programme);PGCert;n/a;n/a;¡ê2,363;¡ê4,732
+Clinical Research (fee for whole programme);MSc;n/a;n/a;¡ê7,088;¡ê14,200
+Cognitive Behavioural Therapy for Primary Care;PGDip;¡ê6,300;N/A;¡ê3,150;N/A
+Communication Systems;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Computer Science;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Conflict Resolution and Peace Studies;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Conflict, Development and Security;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Contamination, Risk Assessment and Remediation;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Contemporary Arts Consultancy;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Creative Writing;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Creative Writing (Distance Learning) - year 1;MA;n/a;n/a;¡ê4,440;¡ê7,540
+Creative Writing (Distance Learning) - year 2;MA;n/a;n/a;¡ê3,700;¡ê7,100
+Cyber Security;MSc;¡ê8,497;¡ê17,880;¡ê4,249;n/a
+Data Science;MSc;¡ê6,830;¡ê17,880;n/a;n/a
+Data Science for the Environment;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Design Management;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Developmental Disorders;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Developmental Psychology;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Diplomacy and Foreign Policy;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Diplomacy and International Law;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Diplomacy and International Law (Distance Learning);MA;¡ê6,250;¡ê14,200;¡ê3,125;¡ê7,100
+Diplomacy and International Relations (by Distance Learning);MA;¡ê6,250;¡ê14,200;¡ê3,125;¡ê7,100
+Diplomacy and Religion;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Discourse Studies;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+E-Business and Innovation;MSc;¡ê10,000;¡ê16,000;n/a;n/a
+Ecology and Conservation;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Economics;MSc;¡ê10,000;¡ê16,000;n/a;n/a
+Electronic Engineering;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Energy and the Environment;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Engineering Project Management;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Engineering Project Management;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+English Language (by distance);MA;n/a;n/a;¡ê2,400;¡ê5,335
+English Language and Literary Studies;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+English Literary Research;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+English Literary Studies;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Entrepreneurship, Innovation and Practice;MSc;¡ê10,500;¡ê17,000;n/a;n/a
+Environment and Development;MA;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Environment and Development;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Environment and Law;LLM;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Environment, Culture and Society;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Environmental Management and Consultancy;MA;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Environmental Pollution and Protection;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Environmental Science and Technology;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Environmental and Biochemical Toxicology;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Film Studies by research;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Finance;MRes;¡ê15,500;¡ê20,000;n/a;n/a
+Finance;MSc;¡ê15,500;¡ê20,000;n/a;n/a
+Financial Analysis;MSc;¡ê15,500;¡ê20,000;n/a;n/a
+Gender and Women's Studies;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Gender and Women's Studies and English;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Gender and Women's Studies and Sociology;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+History;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Human Resource and Knowledge Management;MSc;¡ê10,000;¡ê16,000;n/a;n/a
+Human Resources and Consulting;MA;¡ê10,000;¡ê16,000;n/a;n/a
+Human Rights and the Environment;LLM;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Information Technology, Management and Organisational Change;MRes;¡ê10,000;¡ê16,000;n/a;n/a
+Information Technology, Management and Organisational Change;MSc;¡ê10,000;¡ê16,000;n/a;n/a
+International Business and Corporate Law;LLM;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+International Business and Strategy;MSc;¡ê10,500;¡ê17,000;n/a;n/a
+International Human Rights Law;LLM;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+International Human Rights and Terrorism Law;LLM;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+International Innovation (Computer Science) - fee for two years of study;MSc;¡ê9,100;¡ê20,800;n/a;n/a
+International Innovation (Design) - fee for two years of study;MSc;¡ê9,100;¡ê20,800;n/a;n/a
+International Innovation (Engineering) - fee for two years of study;MSc;¡ê9,100;¡ê20,800;n/a;n/a
+International Innovation (Entrepreneurship) - fee for two years of study;MSc;¡ê13,300;¡ê20,800;n/a;n/a
+International Innovation (Environmental Science) - fee for two years of study;MSc;¡ê9,100;¡ê20,800;n/a;n/a
+International Law;LLM;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+International Law and International Relations;LLM/MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+International Relations;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+International Relations;MRes;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Language Testing (Distance);MA;n/a;n/a;¡ê3,125;¡ê7,100
+Language and Linguistics;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Languages and Cultures (by research);MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Law;LLM;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Law;PGDip;¡ê4,167;n/a;n/a;n/a
+Law by Research;LLM;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Leadership Practice and Responsibility;MSc;n/a;n/a;¡ê12,500;¡ê12,500
+Leadership Practice and Responsibility;PG Cert;n/a;n/a;¡ê5,000;¡ê5,000
+Leadership Practice and Responsibility;PG Dip;n/a;n/a;¡ê10,000;¡ê10,000
+Logistics and Supply Chain Management;MSc;¡ê10,500;¡ê17,000;n/a;n/a
+Management;MSc;¡ê10,500;¡ê17,000;n/a;n/a
+Management Science;MRes;¡ê10,500;¡ê17,000;n/a;n/a
+Management Science and Marketing Analytics;MSc;¡ê10,500;¡ê17,000;n/a;n/a
+Marketing;MSc;¡ê10,500;¡ê17,000;n/a;n/a
+Mechanical Engineering;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Mechanical Engineering;PGDip;¡ê5,123;¡ê13,410;¡ê2,561;n/a
+Mechanical Engineering with Project Management;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Media and Cultural Studies;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Medical Biotechnology and Leadership;MSc;¡ê7,380;¡ê17,880;¡ê3,690;¡ê8,940
+Money, Banking and Finance;MRes;¡ê15,500;¡ê20,000;n/a;n/a
+Money, Banking and Finance;MSc;¡ê15,500;¡ê20,000;n/a;n/a
+Nuclear Science and Engineering;PGCert;n/a;n/a;¡ê2,060;n/a
+Operational Research and Management Science;MSc;¡ê10,500;¡ê17,000;n/a;n/a
+Philosophy;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Philosophy;PGCert;¡ê2,083;¡ê4,733;¡ê1,042;n/a
+Philosophy and Religion;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Political Theology for Peace (Distance);PGCert of Achievement;¡ê693;¡ê1,574;n/a;n/a
+Politics;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Politics and International Relations;PGCert;¡ê2,083;¡ê4,733;¡ê1,042;n/a
+Politics and Philosophy;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Politics, Philosophy and Management;MSc;¡ê10,000;¡ê16,000;n/a;n/a
+Politics, Philosophy and Religion;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Project Management;MSc;¡ê10,500;¡ê17,000;n/a;n/a
+Psychological Research Methods;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Psychology of Advertising;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Quaker Studies (distance learning);PGCert;¡ê2,083;¡ê4,733;¡ê1,042;¡ê2,367
+Quakerism in the Modern World (distance learning);MA;¡ê6,250;¡ê14,200;¡ê3,125;¡ê7,100
+Quantitative Finance;MSc;¡ê15,500;¡ê20,000;n/a;n/a
+Quantitative Methods for Science, Social Science and Medicine;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Quantitative Methods for Science, Social Science and Medicine;PGCert;¡ê2,277;¡ê5,960;¡ê1,139;n/a
+Quantitative Methods for Science, Social Science and Medicine;PGDip;¡ê4,553;¡ê11,920;¡ê2,277;n/a
+Religion and Conflict;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Religious Studies;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Religious Studies;PGCert;¡ê2,083;¡ê4,733;¡ê1,042;n/a
+Resource and Environmental Management;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Safety Engineering (Industry-Based);MSc;n/a;n/a;¡ê5,950;n/a
+Safety Engineering (Industry-Based);PGCert;n/a;n/a;¡ê2,060;n/a
+Safety Engineering (Industry-Based);PGDip;n/a;n/a;¡ê4,463;n/a
+Social Psychology;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Social Work;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Social Work (Year 1);PGDip;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Social Work (Year 2);PGDip;¡ê4,685;¡ê10,645;¡ê2,345;n/a
+Sociological Research;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Sociology;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Sources and Approaches in Regional and Local History;PGCert;¡ê2,083;¡ê4,733;¡ê1,042;n/a
+Statistics;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Statistics;PGDip;¡ê4,553;¡ê11,920;n/a;n/a
+Sustainable Agriculture and Food Security;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Sustainable Water Management;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a
+Teaching English to Speakers of Other Languages by Distance (fee for whole programme);MA;n/a;n/a;¡ê6,250;¡ê9,925
+Theatre and Performance by research;MA;¡ê6,250;¡ê14,200;¡ê3,125;n/a
+Volcanology and Geological Hazards;MSc;¡ê6,830;¡ê17,880;¡ê3,415;n/a

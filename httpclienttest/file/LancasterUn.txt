@@ -1,0 +1,284 @@
+http://www.lancaster.ac.uk/study/undergraduate/courses/accounting-and-economics-bsc-hons-nl41/;Accounting and Economics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/accounting-and-economics-industry-bsc-hons-nl42/;Accounting and Economics (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/accounting-and-finance-bsc-hons-n400/;Accounting and Finance;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/accounting-and-finance-industry-bsc-hons-n401/;Accounting and Finance (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/accounting-and-management-studies-bsc-hons-nn24/;Accounting and Management Studies;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/accounting-and-management-studies-industry-bsc-hons-nn25/;Accounting and Management Studies (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/accounting-finance-and-computer-science-bsc-hons-ng44/;Accounting, Finance and Computer Science;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/accounting-finance-and-computer-science-industry-bsc-hons-ng45/;Accounting, Finance and Computer Science (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/accounting-finance-and-mathematics-bsc-hons-ng41/;Accounting, Finance and Mathematics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/accounting-finance-and-mathematics-industry-bsc-hons-ng42/;Accounting, Finance and Mathematics (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/advertising-and-marketing-ba-hons-n501/;Advertising and Marketing;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biochemistry-bsc-hons-c700/;Biochemistry;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biochemistry-study-abroad-bsc-hons-c702/;Biochemistry (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biochemistry-with-biomedicine-bsc-hons-bc79/;Biochemistry with Biomedicine;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biochemistry-with-genetics-bsc-hons-c7c4/;Biochemistry with Genetics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biological-sciences-bsc-hons-c100/;Biological Sciences;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biological-sciences-msci-hons-1m66/;Biological Sciences;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biological-sciences-study-abroad-bsc-hons-c102/;Biological Sciences (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biological-sciences-with-biomedicine-bsc-hons-c1b9/;Biological Sciences with Biomedicine;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biology-bsc-hons-c101/;Biology;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biology-msci-hons-c109/;Biology;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biology-with-psychology-bsc-hons-c1c8/;Biology with Psychology;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biomedical-science-bsc-hons-b990/;Biomedical Science;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biomedicine-msci-hons-c703/;Biomedicine;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biomedicine-bsc-hons-c701/;Biomedicine;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biomedicine-study-abroad-bsc-hons-c704/;Biomedicine (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/biomedicine-study-abroad-msci-c705/;Biomedicine (Study Abroad);MSci
+http://www.lancaster.ac.uk/study/undergraduate/courses/bioscience-with-entrepreneurship-bsc-hons-c1n2/;Bioscience with Entrepreneurship;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/business-analytics-and-consultancy-bsc-hons-n2n1/;Business Analytics and Consultancy;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/business-analytics-and-consultancy-industry-bsc-hons-n1n3/;Business Analytics and Consultancy (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/business-analytics-and-consultancy-study-abroad-bsc-hons-n1n4/;Business Analytics and Consultancy (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/business-economics-industry-bsc-hons-4v11/;Business Economics (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/business-studies-bsc-hons-n102/;Business Studies;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/business-studies-industry-bsc-hons-n104/;Business Studies (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/business-studies-study-abroad-bsc-hons-n103/;Business Studies (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/chemical-engineering-beng-hons-h800/;Chemical Engineering;BEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/chemical-engineering-meng-hons-h811/;Chemical Engineering;MEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/chemistry-bsc-hons-f100/;Chemistry;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/chemistry-mchem-hons-f101/;Chemistry;MChem Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/chemistry-north-america-mchem-f1t7/;Chemistry / North America;MChem
+http://www.lancaster.ac.uk/study/undergraduate/courses/computer-science-bsc-hons-g400/;Computer Science;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/computer-science-study-abroad-bsc-hons-g402/;Computer Science (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/computer-science-with-industrial-experience-msci-hons-g404/;Computer Science (with Industrial Experience);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/computer-science-innovation-bsc-hons-msci-hons-g401/;Computer Science Innovation;BSc Hons / MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/computer-science-and-mathematics-bsc-hons-gg14/;Computer Science and Mathematics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/computer-science-and-mathematics-msci-hons-gg1k/;Computer Science and Mathematics;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/criminology-ba-hons-m930/;Criminology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/criminology-and-sociology-ba-hons-lm39/;Criminology and Sociology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/design-interactions-ba-hons-w281/;Design Interactions;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/earth-and-environmental-science-bsc-hons-ff68/;Earth and Environmental Science;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/earth-and-environmental-science-msci-hons-4r71/;Earth and Environmental Science;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/earth-and-environmental-science-study-abroad-bsc-hons-ff6v/;Earth and Environmental Science (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/earth-and-environmental-science-study-abroad-msci-hons-ff86/;Earth and Environmental Science (Study Abroad);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/ecology-and-conservation-bsc-hons-c180/;Ecology and Conservation;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/ecology-and-conservation-professional-experience-msci-hons-0x48/;Ecology and Conservation (Professional Experience);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/ecology-and-conservation-study-abroad-bsc-hons-c182/;Ecology and Conservation (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/economics-bsc-hons-l100/;Economics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/economics-mecon-hons-l104/;Economics;MEcon Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/economics-study-abroad-bsc-hons-l101/;Economics (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/economics-and-geography-ba-hons-ll71/;Economics and Geography;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/economics-and-international-relations-ba-hons-ll12/;Economics and International Relations;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/economics-and-mathematics-bsc-hons-gl11/;Economics and Mathematics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/economics-and-politics-ba-hons-ll21/;Economics and Politics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/electronic-and-electrical-engineering-beng-hons-h607/;Electronic and Electrical Engineering;BEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/electronic-and-electrical-engineering-meng-hons-h606/;Electronic and Electrical Engineering;MEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/engineering-beng-hons-h100/;Engineering;BEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/engineering-study-abroad-beng-hons-h101/;Engineering (Study Abroad);BEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/engineering-study-abroad-meng-hons-h104/;Engineering (Study Abroad);MEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-language-ba-hons-q304/;English Language;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-language-study-abroad-ba-hons-q310/;English Language (Study Abroad);BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-language-and-creative-writing-ba-hons-q3wv/;English Language and Creative Writing;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-language-and-french-studies-ba-hons-qr31/;English Language and French Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-language-and-german-studies-ba-hons-qr32/;English Language and German Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba-hons-qqc3/;English Language and Linguistics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-language-and-literature-ba-hons-q302/;English Language and Literature;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-language-and-spanish-studies-ba-hons-qr34/;English Language and Spanish Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-language-in-the-media-ba-hons-qp33/;English Language in the Media;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-language-in-the-media-study-abroad-ba-hons-qp3h/;English Language in the Media  (Study Abroad);BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-language-with-chinese-ba-hons-q3t1/;English Language with Chinese;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-literature-ba-hons-q300/;English Literature;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-literature-and-history-ba-hons-qv31/;English Literature and History;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-literature-and-linguistics-ba-hons-qq13/;English Literature and Linguistics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-literature-and-philosophy-ba-hons-qv35/;English Literature and Philosophy;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-literature-and-religious-studies-ba-hons-qv36/;English Literature and Religious Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-literature-with-creative-writing-ba-hons-q3w8/;English Literature with Creative Writing;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/english-literature-creative-writing-and-practice-ba-hons-qw38/;English Literature, Creative Writing and Practice;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/entrepreneurship-with-management-ba-hons-n1n2/;Entrepreneurship (with Management);BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/environmental-biology-bsc-hons-c150/;Environmental Biology;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/environmental-biology-msci-hons-c154/;Environmental Biology;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/environmental-biology-study-abroad-bsc-hons-c151/;Environmental Biology (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/environmental-biology-study-abroad-msci-hons-c155/;Environmental Biology (Study Abroad);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/environmental-chemistry-bsc-hons-f140/;Environmental Chemistry;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/environmental-science-bsc-hons-f750/;Environmental Science;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/environmental-science-msci-hons-f850/;Environmental Science;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/environmental-science-study-abroad-bsc-hons-f754/;Environmental Science (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/environmental-science-study-abroad-msci-hons-f851/;Environmental Science (Study Abroad);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/environmental-science-and-technology-bsc-hons-f751/;Environmental Science and Technology;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/environmental-science-and-technology-professional-experience-msci-hons-7y53/;Environmental Science and Technology (Professional Experience);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/ethics-philosophy-and-religion-ba-hons-vv56/;Ethics, Philosophy and Religion;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/european-management-french-bba-hons-n2r1/;European Management (French);BBA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/european-management-german-bba-hons-n2r2/;European Management (German);BBA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/european-management-italian-bba-hons-n2r3/;European Management (Italian);BBA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/european-management-spanish-bba-hons-n2r4/;European Management (Spanish);BBA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/europeanamerican-management-bba-hons-n202/;European-American Management;BBA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/europeanlatin-american-management-mexico-bba-hons-n2r5/;European-Latin American Management (Mexico);BBA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/film-ba-hons-p303/;Film;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/film-and-creative-writing-ba-hons-pw38/;Film and Creative Writing;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/film-and-english-literature-ba-hons-pq33/;Film and English Literature;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/film-and-philosophy-ba-hons-pv35/;Film and Philosophy;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/film-and-sociology-ba-hons-pl33/;Film and Sociology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/film-and-theatre-ba-hons-pw34/;Film and Theatre;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/film-media-and-cultural-studies-ba-hons-pl36/;Film, Media and Cultural Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/finance-bsc-hons-n300/;Finance;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/finance-industry-bsc-hons-n301/;Finance (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/finance-and-economics-bsc-hons-nl31/;Finance and Economics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/finance-and-economics-industry-bsc-hons-nl32/;Finance and Economics (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/finance-and-management-studies-bsc-hons-nn23/;Finance and Management Studies;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/finance-and-management-studies-industry-bsc-hons-nn26/;Finance and Management Studies (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/financial-mathematics-bsc-hons-gn13/;Financial Mathematics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/financial-mathematics-msci-hons-gn1h/;Financial Mathematics;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/financial-mathematics-industry-bsc-hons-gn1j/;Financial Mathematics (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/fine-art-ba-hons-w100/;Fine Art;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/fine-art-and-creative-writing-ba-hons-ww18/;Fine Art and Creative Writing;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/fine-art-and-film-ba-hons-wp13/;Fine Art and Film;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/fine-art-and-theatre-ba-hons-ww14/;Fine Art and Theatre;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-ba-hons-r120/;French Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-computing-bsc-hons-gr41/;French Studies and Computing;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-english-literature-ba-hons-rq13/;French Studies and English Literature;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-film-ba-hons-r1p3/;French Studies and Film;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-geography-ba-hons-lr71/;French Studies and Geography;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-german-studies-ba-hons-rr12/;French Studies and German Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-history-ba-hons-rv11/;French Studies and History;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-linguistics-ba-hons-qr11/;French Studies and Linguistics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-mathematics-ba-hons-gr11/;French Studies and Mathematics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-philosophy-ba-hons-rv15/;French Studies and Philosophy;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-politics-ba-hons-rl12/;French Studies and Politics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-psychology-ba-hons-cr81/;French Studies and Psychology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-spanish-studies-ba-hons-rr14/;French Studies and Spanish Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-and-theatre-ba-hons-wr41/;French Studies and Theatre;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-with-chinese-ba-hons-1s62/;French Studies with Chinese;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/french-studies-with-italian-ba-hons-r1r3/;French Studies with Italian;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/geography-ba-hons-l700/;Geography;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/geography-bsc-hons-f800/;Geography;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/geography-msci-hons-4r61/;Geography;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/geography-marts-hons-l702/;Geography;MArts Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/geography-north-america-marts-hons-l703/;Geography (North America);MArts Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/geography-professional-experience-msci-hons-4r60/;Geography (Professional Experience);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/geography-north-america-ba-hons-l701/;Geography / North America;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/geography-north-america-bsc-hons-f802/;Geography / North America;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/geographynorth-america-msci-hons-4r62/;Geography/North America;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-ba-hons-r220/;German Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-computing-bsc-hons-gr42/;German Studies and Computing;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-english-literature-ba-hons-rq23/;German Studies and English Literature;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-film-ba-hons-r2p3/;German Studies and Film;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-geography-ba-hons-lr72/;German Studies and Geography;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-history-ba-hons-rv21/;German Studies and History;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-linguistics-ba-hons-qr12/;German Studies and Linguistics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-mathematics-ba-hons-gr12/;German Studies and Mathematics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-philosophy-ba-hons-rv25/;German Studies and Philosophy;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-politics-ba-hons-rl22/;German Studies and Politics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-psychology-ba-hons-cr82/;German Studies and Psychology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-spanish-studies-ba-hons-rr24/;German Studies and Spanish Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-and-theatre-ba-hons-wr42/;German Studies and Theatre;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-with-chinese-ba-hons-1c44/;German Studies with Chinese;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/german-studies-with-italian-ba-hons-r2r3/;German Studies with Italian;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/history-ba-hons-v100/;History;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/history-and-international-relations-ba-hons-vl12/;History and International Relations;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/history-and-philosophy-ba-hons-vvc5/;History and Philosophy;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/history-and-politics-ba-hons-lv21/;History and Politics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/history-and-religious-studies-ba-hons-vv16/;History and Religious Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/history-philosophy-and-politics-ba-hons-v0l0/;History, Philosophy and Politics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/human-geography-ba-hons-l720/;Human Geography;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/it-for-creative-industries-bsc-hons-gh56/;IT for Creative Industries;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/it-for-creative-industries-with-industrial-experience-msci-hons-gh5p/;IT for Creative Industries (with Industrial Experience);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/international-relations-ba-hons-6t99/;International Relations;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/international-relations-and-religious-diversity-ba-hons-6b71/;International Relations and Religious Diversity;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/law-llb-hons-m100/;Law;LLB Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/law-international-llb-hons-m101/;Law (International);LLB Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/law-and-criminology-llb-hons-mm12/;Law and Criminology;LLB Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/law-and-politics-llb-hons-m1l2/;Law and Politics;LLB Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/linguistics-ba-hons-q100/;Linguistics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/linguistics-study-abroad-ba-hons-q102/;Linguistics (Study Abroad);BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/linguistics-and-philosophy-ba-hons-qv15/;Linguistics and Philosophy;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/linguistics-and-psychology-ba-hons-cq81/;Linguistics and Psychology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/linguistics-with-chinese-ba-hons-q1t1/;Linguistics with Chinese;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/management-bba-hons-n200/;Management;BBA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/management-study-abroad-bba-hons-n201/;Management (Study Abroad);BBA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/management-mathematics-bsc-hons-ng21/;Management Mathematics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/management-studies-and-european-languages-ba-hons-rn92/;Management Studies and European Languages;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/management-and-entrepreneurship-ba-hons-n222/;Management and Entrepreneurship;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/management-and-human-resources-ba-hons-n600/;Management and Human Resources;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/management-and-information-technology-4-years-including-placement-bsc-hons-gn52/;Management and Information Technology (4 years including placement);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/management-and-organisational-behaviour-ba-hons-n215/;Management and Organisational Behaviour;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/management-and-organisational-behaviour-study-abroad-ba-hons-n227/;Management and Organisational Behaviour (Study Abroad);BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/management-politics-and-international-relations-industry-bsc-hons-n230/;Management, Politics and International Relations (Industry);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/marketing-bsc-hons-n500/;Marketing;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/marketing-study-abroad-bsc-hons-n502/;Marketing (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/marketing-management-bsc-hons-n503/;Marketing Management;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/marketing-management-study-abroad-bsc-hons-n504/;Marketing Management (Study Abroad);BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/marketing-and-design-bsc-hons-nw52/;Marketing and Design;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/marketing-with-psychology-bsc-hons-n5c8/;Marketing with Psychology;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/mathematics-bsc-hons-g100/;Mathematics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/mathematics-msci-hons-g101/;Mathematics;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/mathematics-study-abroad-msci-hons-g103/;Mathematics (Study Abroad);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-ba-hons-gv15/;Mathematics and Philosophy;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/mathematics-with-statistics-bsc-hons-g1g3/;Mathematics with Statistics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/mathematics-with-statistics-msci-hons-g1gj/;Mathematics with Statistics;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/mathematics-with-statistics-study-abroad-msci-hons-g1gh/;Mathematics with Statistics (Study Abroad);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/mechanical-engineering-beng-hons-h300/;Mechanical Engineering;BEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/mechanical-engineering-meng-hons-h303/;Mechanical Engineering;MEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/mechatronics-beng-hons-hh63/;Mechatronics;BEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/mechatronics-meng-hons-hhh6/;Mechatronics;MEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/media-and-cultural-studies-ba-hons-lp63/;Media and Cultural Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/medicine-and-surgery-mbchb-a100/;Medicine and Surgery;MBChB
+http://www.lancaster.ac.uk/study/undergraduate/courses/medieval-and-renaissance-studies-ba-hons-v125/;Medieval and Renaissance Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/modern-languages-ba-hons-r800/;Modern Languages;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/modern-languages-and-cultures-mlang-hons-r810/;Modern Languages and Cultures;MLang Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/natural-sciences-bsc-hons-gfc0/;Natural Sciences;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/natural-sciences-msci-hons-fcf3/;Natural Sciences;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/natural-sciences-study-abroad-msci-hons-cfg1/;Natural Sciences (Study Abroad);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/natural-sciences-north-america-bsc-hons-cfg0/;Natural Sciences / North America;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/nuclear-engineering-beng-hons-h820/;Nuclear Engineering;BEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/nuclear-engineering-meng-hons-h821/;Nuclear Engineering;MEng Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/organisation-studies-and-psychology-ba-hons-cn82/;Organisation Studies and Psychology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/organisation-studies-and-sociology-ba-hons-nl23/;Organisation Studies and Sociology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/peace-studies-and-international-relations-ba-hons-ll92/;Peace Studies and International Relations;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/philosophy-ba-hons-v500/;Philosophy;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/philosophy-and-politics-ba-hons-vl52/;Philosophy and Politics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/philosophy-and-religious-studies-ba-hons-vv65/;Philosophy and Religious Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/philosophy-with-chinese-ba-hons-1a22/;Philosophy with Chinese;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-hons-l0v0/;Philosophy, Politics and Economics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/physical-geography-bsc-hons-f840/;Physical Geography;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/physical-geography-msci-hons-4r63/;Physical Geography;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/physical-geography-australasia-bsc-hons-f847/;Physical Geography / Australasia;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/physical-geographyaustralasia-msci-hons-4r64/;Physical Geography/Australasia;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/physics-bsc-hons-f300/;Physics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/physics-mphys-hons-f303/;Physics;MPhys Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/physics-study-abroad-mphys-hons-f305/;Physics (Study Abroad);MPhys Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/physics-with-particle-physics-and-cosmology-bsc-hons-f372/;Physics with Particle Physics and Cosmology;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/physics-with-particle-physics-and-cosmology-mphys-hons-f373/;Physics with Particle Physics and Cosmology;MPhys Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/physics-astrophysics-and-cosmology-bsc-hons-f3fm/;Physics, Astrophysics and Cosmology;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/physics-astrophysics-and-cosmology-mphys-hons-f3f5/;Physics, Astrophysics and Cosmology;MPhys Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/politics-ba-hons-l200/;Politics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/politics-study-abroad-ba-hons-l201/;Politics (Study Abroad);BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/politics-and-international-relations-ba-hons-l250/;Politics and International Relations;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/politics-and-religious-studies-ba-hons-lv26/;Politics and Religious Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/politics-and-sociology-ba-hons-ll23/;Politics and Sociology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/politics-with-chinese-ba-hons-1t33/;Politics with Chinese;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/premedical-studies-certificate-of-higher-education-a900/;Pre-medical Studies;Certificate of Higher Education
+http://www.lancaster.ac.uk/study/undergraduate/courses/psychology-ba-hons-c802/;Psychology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/psychology-bsc-hons-c800/;Psychology;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/religious-studies-ba-hons-v627/;Religious Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/religious-studies-and-sociology-ba-hons-vl63/;Religious Studies and Sociology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/religious-studies-with-chinese-ba-hons-1c19/;Religious Studies with Chinese;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/social-work-ba-hons-l500/;Social Work;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/social-work-ethics-and-religion-msocial-work-hons-l5v6/;Social Work, Ethics and Religion;MSocial Work Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/sociology-ba-hons-l300/;Sociology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/software-engineering-bsc-hons-g602/;Software Engineering;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/software-engineering-with-industrial-experience-msci-hons-g601/;Software Engineering (with Industrial Experience);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-ba-hons-r410/;Spanish Studies;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-and-computing-bsc-hons-gr44/;Spanish Studies and Computing;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-and-english-literature-ba-hons-rq43/;Spanish Studies and English Literature;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-and-film-ba-hons-r4p3/;Spanish Studies and Film;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-and-geography-ba-hons-lr74/;Spanish Studies and Geography;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-and-history-ba-hons-rv41/;Spanish Studies and History;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-and-linguistics-ba-hons-qr14/;Spanish Studies and Linguistics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-and-mathematics-ba-hons-gr14/;Spanish Studies and Mathematics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-and-philosophy-ba-hons-rv45/;Spanish Studies and Philosophy;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-and-politics-ba-hons-rl42/;Spanish Studies and Politics;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-and-psychology-ba-hons-cr84/;Spanish Studies and Psychology;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-and-theatre-ba-hons-wr44/;Spanish Studies and Theatre;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-with-chinese-ba-hons-1t66/;Spanish Studies with Chinese;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/spanish-studies-with-italian-ba-hons-r4r3/;Spanish Studies with Italian;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/statistics-bsc-hons-g300/;Statistics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/statistics-msci-hons-g303/;Statistics;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/statistics-study-abroad-msci-hons-g301/;Statistics (Study Abroad);MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/theatre-ba-hons-w440/;Theatre;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/theatre-and-creative-writing-ba-hons-ww48/;Theatre and Creative Writing;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/theatre-and-english-literature-ba-hons-wq43/;Theatre and English Literature;BA Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/theoretical-physics-bsc-hons-f340/;Theoretical Physics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/theoretical-physics-mphys-hons-f321/;Theoretical Physics;MPhys Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/theoretical-physics-with-mathematics-bsc-hons-f3gc/;Theoretical Physics with Mathematics;BSc Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/theoretical-physics-with-mathematics-msci-hons-f3g1/;Theoretical Physics with Mathematics;MSci Hons
+http://www.lancaster.ac.uk/study/undergraduate/courses/theoretical-physics-with-mathematics-study-abroad-msci-hons-f3g5/;Theoretical Physics with Mathematics (Study Abroad);MSci Hons
