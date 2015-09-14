@@ -35,7 +35,7 @@ import org.htmlparser.nodes.TagNode;
 import org.htmlparser.util.NodeList;
 import org.htmlparser.visitors.HtmlPage;
 
-public class LancasterUnData {
+public class LancasterPostData {
 	
 public static String FILE_PATH="d:\\LANCASTER";
 	public static void main(String[] args) throws Exception {
@@ -88,13 +88,13 @@ public static String FILE_PATH="d:\\LANCASTER";
 		label = new Label(12, 0, "Scholarship");
 		sheet.addCell(label);
 		
-		BufferedReader rr=new BufferedReader(new FileReader("./file/LancasterUn.txt"));
+		BufferedReader rr=new BufferedReader(new FileReader("./file/LancasterPost.txt"));
 		int i = 1;
 		int j=0;
 		String url="";
 		while((url = rr.readLine()) != null)
 		{
-			//if(i>10)
+			if(i<5)
 			{
 				System.out.println(i+":"+url);
 				//url=rr.readLine();
@@ -184,19 +184,19 @@ public static String FILE_PATH="d:\\LANCASTER";
     	    	if(Duration.contains("Duration: "))
     	    	{
     	    		System.out.println("Duration:"+Duration);
-            		if(Duration.contains("1 Year"))
+            		if(Duration.contains("1 Year")||Duration.contains("12 Month"))//12 Month
             		{
             			result.put("Length (months)","12");
             		}
-            		else if(Duration.contains("2 Year"))
+            		else if(Duration.contains("2 Year")||Duration.contains("24 Month"))
             		{
             			result.put("Length (months)","24");
             		}
-            		else if(Duration.contains("3 Year"))
+            		else if(Duration.contains("3 Year")||Duration.contains("36 Month"))
             		{
             			result.put("Length (months)","36");
             		}
-            		else if(Duration.contains("4 Year"))
+            		else if(Duration.contains("4 Year")||Duration.contains("48 Month"))
             		{
             			result.put("Length (months)","48");
             		}
@@ -241,7 +241,7 @@ public static String FILE_PATH="d:\\LANCASTER";
       //**************************get entry**********************
         parser=Parser.createParser(htmls, "utf-8");
 	    AndFilter EntryFilter=new AndFilter(new TagNameFilter("div"),
-                new HasAttributeFilter("class","details wrapper-course-entry-criteria hidden"));
+                new HasAttributeFilter("class","details wrapper-course-key-information hidden"));
         NodeList nodes4 = parser.extractAllNodesThatMatch(EntryFilter);
         //String Structure="";
         if(nodes4.size()>0)
@@ -255,7 +255,10 @@ public static String FILE_PATH="d:\\LANCASTER";
     	    	//entry=entry.replace("<br>", " ");
     	    	entry=HTMLFilter(entry);
                 System.out.println(entry);
-                result.put("Academic Entry Requirement",entry);
+                if(entry.split("Entry requirements:").length>=2)
+                result.put("Academic Entry Requirement",entry.split("Entry requirements:")[1]);
+                else
+                	result.put("Academic Entry Requirement",entry.replace("Key Information", "Entry Information"));
                 ArrayList<String> list = new ArrayList<String>();
                 if(entry.contains("7.0"))
                 {
@@ -299,7 +302,7 @@ public static String FILE_PATH="d:\\LANCASTER";
 		 //**************************get structure**********************
 		parser=Parser.createParser(htmls, "utf-8");
 	    AndFilter StructureFilter=new AndFilter(new TagNameFilter("div"),
-                new HasAttributeFilter("class","details wrapper-course-modules hidden"));
+                new HasAttributeFilter("class","details wrapper-course-overview"));
         NodeList nodes5 = parser.extractAllNodesThatMatch(StructureFilter);
         //String Structure="";
         if(nodes5.size()>0)
@@ -323,14 +326,17 @@ public static String FILE_PATH="d:\\LANCASTER";
 		
 		result.put("Title",url[1]);
 	    result.put("Type",url[2]);
-	    BufferedReader rr=new BufferedReader(new FileReader("./file/LancasterUnFee.txt"));
+	    BufferedReader rr=new BufferedReader(new FileReader("./file/LancasterPostFee.txt"));
 		String feeline="";
 		while((feeline = rr.readLine()) != null)
 		{
 			String[] parts=feeline.split(";");
 			if(parts[0].equals(url[1])&&parts[1].equals(url[2]))
 			{
-				result.put("Tuition Fee", parts[2].replace(",", "").trim());
+				if(!parts[3].equals("n/a"))
+				result.put("Tuition Fee", parts[3].replace(",", "").trim());
+				else if(!parts[5].equals("n/a"))
+					result.put("Tuition Fee", parts[5].replace(",", "").trim());
 			}
 		}
 		rr.close();
