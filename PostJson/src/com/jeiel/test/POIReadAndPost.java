@@ -22,7 +22,7 @@ public class POIReadAndPost {
 	
 	public static String StructureDir="C:\\Users\\Administrator\\Desktop\\wyl\\structure_ug";
 
-	public static String filepath="D:\\MARY\\MaryPostDataFixed.xls";
+	public static String filepath="D:\\LANCASTER\\LancasterUnOrigin.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -72,7 +72,9 @@ public class POIReadAndPost {
             
             LinkedHashMap<String, String> sc=new LinkedHashMap<String, String>();
 
-            //sc.put("Vice Chancellor¡¯s International Attainment Postgraduate Taught Scholarship", "20%");
+            sc.put("Academic Scholarship", "2000");
+            sc.put("Access Scholarship", "2000");
+            sc.put("Lancaster Bursary", "1000");
             //***********Mary Undergraduate
             /*for(int k=0;k<MaryAdd.MaryUnScho.length;k++)
             {
@@ -83,7 +85,7 @@ public class POIReadAndPost {
             }
             major.setScholarship(sc);*/
             //************Mary Postgraduate
-            for(int k=0;k<MaryAdd.MaryPostScho.length;k++)
+            /*for(int k=0;k<MaryAdd.MaryPostScho.length;k++)
             {
             	//System.out.println(MaryAdd.MaryPostScho[k].split(";").length%2==1);
             	if(school.trim().equals(MaryAdd.MaryPostScho[k].split(";")[0]))
@@ -97,7 +99,7 @@ public class POIReadAndPost {
             		break;
             		
             	}
-            }
+            }*/
             major.setScholarship(sc);
             list.add(major);
         }
@@ -131,16 +133,16 @@ public class POIReadAndPost {
 		int index=0;
 		while((line=fis.readLine())!=null)
 		{
-			if(line.contains("PLEASE NOTE THAT ELECTIVE MODULE AVAILABILITY IS SUBJECT TO TIMETABLING CONSTRAINTS AND THAT MODULES MAY BE SUBJECT TO CHANGE"))
+			/*if(line.contains("PLEASE NOTE THAT ELECTIVE MODULE AVAILABILITY IS SUBJECT TO TIMETABLING CONSTRAINTS AND THAT MODULES MAY BE SUBJECT TO CHANGE"))
 			{
 				break;
-			}
+			}*/
 			line=line.replace("\t", " ").trim();
 			if(line.equals(" ")||line.equals("\r"))
 				continue;
-			//if(line.equals("Year 1")||line.equals("Year 2")||line.equals("Year 3")||line.equals("Year 4")||line.equals("Final Year"))//Final Year
+			if(line.equals("Year 1")||line.equals("Year 2")||line.equals("Year 3")||line.equals("Year 4")||line.equals("Final Year"))//Final Year
 			//if(line.equals("Programme Year One")||line.equals("Programme Year Two")||line.equals("Programme Year Three")||line.equals("Programme Year Four")||line.equals("Final Year"))//Final Year
-			if(line.contains("Year 1")||line.contains("Year 2")||line.contains("Year 3")||line.contains("Year 4")||line.contains("Year 5")||line.contains("Final Year"))//Final Year
+			//if(line.contains("Year 1")||line.contains("Year 2")||line.contains("Year 3")||line.contains("Year 4")||line.contains("Year 5")||line.contains("Final Year"))//Final Year
 				
 			{
 				if(index!=0)

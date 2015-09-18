@@ -32,7 +32,7 @@ public class LiverpoolAdd {
 		// TODO Auto-generated method stub
 		try {
 			List<Major> list=POIReadAndPost.getData(null);
-			for(;index<=180;){
+			for(;index<=10;){
 				add(postUrl,list.get(index-1));
 			}
 		} catch (Exception e) {
@@ -57,7 +57,7 @@ public class LiverpoolAdd {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "CNZZDATA1256122972=436580706-1440482499-http%253A%252F%252Fmyoffer.cn%252F%7C1441087693; connect.sid=s%3AkmPA2lJJjDsGR4Ag60QDFLl21VbxrP7_.oEtXldNCyVcbQsodvVe%2FsCXE7X%2BEJ7zxr3pxcZgmFlQ");
+	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AdM_MrKiqhSAc4eFFwGLVpRVj7cmgrgk-.HIuOQqE9R7rvVSTopE9bfONOOAJ8%2BbjvlqO83W5kT%2BU; CNZZDATA1256122972=1789449401-1440137143-%7C1442560546");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -127,7 +127,7 @@ public class LiverpoolAdd {
 		   		course.put("scholarship", scholarshipList);
 		   	
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "LIVERPOOL");
+		    value.put("university", "saos");
 		    value.put("course", course);
 		   	entry.put("value", value);
 		   	System.out.println(entry.toString());
