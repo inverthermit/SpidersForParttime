@@ -22,7 +22,7 @@ public class POIReadAndPost {
 	
 	public static String StructureDir="C:\\Users\\Administrator\\Desktop\\wyl\\structure_ug";
 
-	public static String filepath="D:\\LANCASTER\\LancasterUnOrigin.xls";
+	public static String filepath="D:\\LANCASTER\\LancasterPostOrigin.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -72,9 +72,8 @@ public class POIReadAndPost {
             
             LinkedHashMap<String, String> sc=new LinkedHashMap<String, String>();
 
-            sc.put("Academic Scholarship", "2000");
-            sc.put("Access Scholarship", "2000");
-            sc.put("Lancaster Bursary", "1000");
+            sc.put("Alumni Loyalty Scholarship","20%");
+            sc.put("Lancaster Master¡¯s Scholarship", "10000");
             //***********Mary Undergraduate
             /*for(int k=0;k<MaryAdd.MaryUnScho.length;k++)
             {
