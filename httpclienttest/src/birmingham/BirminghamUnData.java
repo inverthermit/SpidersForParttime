@@ -102,8 +102,8 @@ public class BirminghamUnData {
 				
 			
 			
-			/*if(i>10)
-				break;*/
+			if(i>10)
+				break;
 		}
 		
 		
@@ -224,6 +224,11 @@ public class BirminghamUnData {
     	    	entry=HTMLFilter(entry);
                 //System.out.println(entry);
                 result.put("Academic Entry Requirement",entry);
+                
+                node=(Node)nodes4.elementAt(2);
+                String fee=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+                fee=HTMLFilter(fee);
+        	    result.put("Tuition Fee",fee.trim());
                 
                 node=(Node)nodes4.elementAt(3);
                 String structure=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
