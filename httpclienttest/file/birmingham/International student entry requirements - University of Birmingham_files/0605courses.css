@@ -1,0 +1,55 @@
+﻿/* $Id: 0605courses.css 1304 2012-01-25 15:51:53Z nixonm $ */
+/* CSS for the course related content */
+
+
+/* Generic Promo styling */
+
+#promoProspectus {
+	float:right;
+	border-top:1px solid #ccc;
+	padding:10px 80px 0 10px;
+	min-height:95px; /*IE6 min-height hack !important needed to fix this */
+	height:auto !important;
+	height:95px;
+	width:110px;
+}
+	#promoProspectus p, #promoProspectus p a {
+		font-family:'Georgia','Times New Roman';
+		color:#333;
+	}
+	
+	#promoProspectus p{
+		font-size:1.8em;
+	}
+
+	
+		#promoProspectus p span a {
+			color:#666699;
+			line-height:1em;
+			font-size:1.556em;
+			font-family:'Georgia','Times New Roman';
+		}
+		#promoProspectus p span{
+
+		}
+		
+		
+/* tables for courses */
+
+#main div#CourseListing_List table,
+#main div#CourseListingAtoZ_List table {
+	margin-bottom:2em;
+    	border:0px solid #fff;
+
+}
+
+#main div#CourseListing_List table th,
+#main div#CourseListing_List table td,
+#main div#CourseListingAtoZ_List table th,
+#main div#CourseListingAtoZ_List table td {
+	color:#666666;
+	text-align:left;
+	font-size:1.3em;
+	padding-bottom:1em;
+    	border:0px solid #fff;
+}

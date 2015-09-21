@@ -1,0 +1,126 @@
+﻿/* $Id: 0400non_standard.css 1895 2012-11-12 08:31:16Z winterjp $ */
+
+/* Non-standard css */
+
+#globalNav ul.sys_grid li,
+#globalNav ul {
+    -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0 0 20px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.4) 0 0 20px;
+	filter:shadow(color=#cccccc, direction=135); 
+	zoom:1;
+}
+.sys_showPicture,
+#sliderOriginal,
+#sliderHappening {
+	-webkit-box-shadow: rgba(0, 0, 0, 0.4) 0 0 20px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.4) 0 0 20px;
+}
+#globalNav li ul.sys_grid,
+#globalNav ul li.sys_news li,
+#globalNav ul li.sys_news ul {
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+}
+
+#main #globalNav ul li.sys_map a {
+	filter:alpha(0pacity=80);
+}
+#main #overlay,
+#globalNav li div div {
+	filter:alpha(Opacity=95) !important;
+}
+.sys_overlay2 {
+	filter:alpha(Opacity=50) !important;
+}
+
+
+#filter ul {
+	-webkit-box-shadow: rgba(0, 0, 0, 0.4) 0 0 10px;
+	-moz-box-shadow: rgba(0, 0, 0, 0.4) 5px 5px 5px;
+	filter:shadow(color=#cccccc, direction=135); 
+	zoom:1;
+}
+
+#wideContent #forum {
+
+ position: none!important;
+
+}
+
+/* DRP Form */
+
+div#personalization_wrapper {
+
+}
+
+
+div#personalization_wrapper div.personalization_buttons {
+
+}
+
+div#personalization_wrapper div.personalization_buttons button {
+
+}
+
+div#personalization_wrapper form#personalization_orderForm {
+
+
+}
+
+div#personalization_wrapper form#personalization_orderForm h2 {
+
+
+}
+
+div#personalization_wrapper form#personalization_orderForm p {
+
+
+}
+
+div#personalization_wrapper form#personalization_orderForm div p {
+
+margin-top: 16px;
+}
+
+div#personalization_wrapper form#personalization_orderForm div#personalization_step1{
+
+}
+
+div#personalization_wrapper form#personalization_orderForm div.personalization_step{
+
+}
+
+
+div#personalization_wrapper form#personalization_orderForm div.personalization_step div.personalization_buttons {
+
+
+}
+
+
+div#personalization_wrapper form#personalization_orderForm div#personalization_selectStudyArea {
+
+}
+
+div#personalization_wrapper form#personalization_orderForm div.personalization_feeDiv {
+    font-size: 1.3em;
+    padding: 3px 0;
+}
+
+div#personalization_wrapper form#personalization_orderForm ul {
+
+}
+div#personalization_wrapper form#personalization_orderForm ul li{
+
+}
+
+div#personalization_wrapper form#personalization_orderForm div.personalization_group {
+
+}
+
+div#personalization_wrapper form#personalization_orderForm div.personalization_group div.personalization_label {
+    font-size: 1.3em;
+}
+
+div#personalization_wrapper form#personalization_orderForm div.personalization_group div.personalization_field {
+
+}

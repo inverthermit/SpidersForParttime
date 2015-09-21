@@ -1,0 +1,298 @@
+﻿/* ($Id: 0200navi.css 2486 2013-10-14 11:33:11Z nixonm $) */
+
+/* Global navigation */
+#navWrap {
+    padding-bottom:15px;
+	position:relative;
+	z-index:100;
+}
+
+/* Top-level navigation */
+div#globalNavigation div#topLevelNavigation
+{
+	height: 15px;
+	padding-bottom: 7px;
+}
+
+div#globalNavigation div#topLevelNavigation>ul li
+{
+	float:left;
+	font-size: 1.4em;
+	padding-left: 10px;
+	padding-right: 10px;
+	background: transparent url('/Images/website/navigation/nav-divider.gif') repeat-y top left;
+}
+
+div#globalNavigation div#topLevelNavigation>ul li.sys_first
+{
+	padding-left: 5px;
+	background: none;
+}
+
+
+div#globalNavigation div#topLevelNavigation>ul>li>a
+{
+	color: #788391;
+}
+
+/* Drop-down navigation */
+div#globalNavigation div#dropDownNavigation 
+{
+	height: 30px;
+}
+
+div#globalNavigation div#dropDownNavigation li.sys_navigationHeader
+{
+	width: 187px;
+	float:left;
+	height: 28px;
+	background-color: #788391;
+	border-bottom: 2px solid #66A300;
+}
+/*Middle header is pixel wider so all adds up */
+div#globalNavigation div#dropDownNavigation li.sys_navigationHeader.sys_nav3
+{
+    width: 188px;
+}
+/*Last header doesn't have border to right on the a */
+div#globalNavigation div#dropDownNavigation li.sys_navigationHeader.sys_last
+{
+    width: 186px;
+}
+
+div#globalNavigation div#dropDownNavigation li.sys_selectedHeader
+{
+	background-color: #990066;
+	border-bottom: 2px solid #990066;
+}
+
+div#globalNavigation div#dropDownNavigation li.sys_navigationHeader>a
+{
+	display:block;
+	font-size: 1.6em;
+	font-family: 'Georgia';
+	color: #FFF;
+	padding-top:5px;
+	padding-left: 5px;
+	height:22px;
+	border-bottom: 1px solid #FFF; 
+	border-right: 1px solid #FFF;
+}
+
+div#globalNavigation div#dropDownNavigation li.sys_navigationHeader.sys_last a
+{
+	border-right: 0;
+}
+div#globalNavigation div#dropDownNavigation div.sys_dropDownContent
+{
+	width: 572px;
+	position: absolute;
+	top: 52px;
+	display: none;
+	background-color: #DEE3EB;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	-moz-box-shadow: 0px 3px 12px #788391;
+	-webkit-box-shadow: 0px 3px 12px #788391;
+	box-shadow: 0px 3px 12px #788391;
+}
+
+div#globalNavigation div#dropDownNavigation li.sys_selectedHeader div.sys_dropDownContent
+{
+	display: block;
+}	
+
+/* Overrides for specific navigation headers : */
+div#globalNavigation div#dropDownNavigation div#dropDownNavigation1
+{
+	-moz-box-shadow: 5px 3px 9px -2px #788391;
+	-webkit-box-shadow: 5px 3px 9px -2px #788391;
+	box-shadow: 5px 3px 9px -2px #788391;
+}
+
+div#globalNavigation div#dropDownNavigation div#dropDownNavigation4
+{
+	right: 187px;
+}
+
+div#globalNavigation div#dropDownNavigation div#dropDownNavigation5
+{
+	right: 0px;
+	-moz-box-shadow: -5px 3px 9px -2px #788391;
+	-webkit-box-shadow: -5px 3px 9px -2px #788391;
+	box-shadow: -5px 3px 9px -2px #788391;
+}
+
+div#globalNavigation  div#dropDownNavigation  div.sys_dropDownContent ul.sys_navigation
+{
+	float: left;
+	background-color: #FFF;
+	color: #000;
+	height: auto;
+	width: 146px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 10px;
+	padding-bottom: 13px;
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+div#globalNavigation div#dropDownNavigation div#dropDownNavigation4 ul.sys_navigation,
+div#globalNavigation div#dropDownNavigation div#dropDownNavigation5 ul.sys_navigation
+{
+	float:right;
+}
+div#globalNavigation  div#dropDownNavigation div.sys_dropDownContent ul.sys_navigation li
+{
+	padding-top: 5px;
+	padding-bottom: 2px;
+}
+
+div#globalNavigation  div#dropDownNavigation div.sys_dropDownContent ul li a
+{
+	font-size: 1.15em;
+	color: #000;
+	display: inline;
+}
+
+div#globalNavigation div#dropDownNavigation div.sys_dropDownContent ul.sys_promos
+{
+	float: right;
+	width: 386px;
+	background-color: #DEE3EB;
+}
+
+div#globalNavigation div#dropDownNavigation div#dropDownNavigation4 ul.sys_promos,
+div#globalNavigation div#dropDownNavigation div#dropDownNavigation5 ul.sys_promos
+{
+	float:left;
+}
+
+
+div#globalNavigation div#dropDownNavigation div.sys_dropDownContent ul.sys_promos li
+{
+	padding-right: 8px;
+	padding-left: 8px;
+	border-left: 1px solid #FFF;
+}
+div#globalNavigation div#dropDownNavigation div#dropDownNavigation4 ul.sys_promos li,
+div#globalNavigation div#dropDownNavigation div#dropDownNavigation5 ul.sys_promos li
+{
+	border-left: 0;
+	border-right: 1px solid #FFF;
+}
+
+div#globalNavigation div#dropDownNavigation div.sys_dropDownContent ul.sys_promos li.sys_first
+{
+	float:left;
+}
+
+div#globalNavigation div#dropDownNavigation div.sys_dropDownContent ul.sys_promos li.sys_last
+{
+	float:right;
+}
+
+div#globalNavigation div#dropDownNavigation div.sys_dropDownContent ul.sys_promos li a
+{
+	float: left;
+	background-color: #FFF;
+	padding-top: 12px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-bottom: 16px;
+}
+div#globalNavigation div#dropDownNavigation div.sys_dropDownContent ul.sys_promos li img
+{
+	display:block;
+	width: 152px;
+}
+div#globalNavigation div#dropDownNavigation div.sys_dropDownContent ul.sys_promos li a span
+{
+	display: block;
+	padding-top: 16px;
+	width: 152px;
+}
+
+
+/* Main Side Navigation Bar 
+************************************************************************************************************************/
+
+
+#mainNav {
+	background:transparent url('/Images/website/contentleft.gif') repeat-y scroll top left;
+	width:200px;
+	font-size:1.3em;
+	float:left;
+	margin-right:10px;
+}
+	#mainNav li {
+		padding:5px 5px 0 10px;
+		background:transparent url('/Images/website/navbullet.gif') no-repeat scroll 10px 13px;
+	}
+		#mainNav li a {
+			color:#666;
+			background:transparent url('/Images/website/navdotslv1.gif') repeat-x scroll bottom left;
+			padding:2px 5px 8px 13px;
+			width:160px;
+			display:block;
+			
+		}	
+	#mainNav li.sys_selected {
+		border:1px solid #ccc;
+		background-color:#fff;
+		position:relative;
+		top:-1px; /* margin:-1px; Fails in IE6 */
+	}
+		#mainNav li.sys_selected li.sys_current li a,
+		#mainNav li.sys_selected li a {
+			color:#333;
+		}
+		
+		#mainNav li.sys_selected a,
+		#mainNav li.sys_selected li.sys_current a,
+		#mainNav li.sys_selected li.sys_selected li.sys_current a {
+			color:#666699;
+		}
+		
+		#mainNav li.sys_selected li.sys_selected li a{
+			color:#666;
+		}
+		
+		#mainNav li.sys_selected li.sys_selected {
+			border:none;
+			top:0;
+		}
+			#mainNav li.sys_selected li.sys_current a,
+			#mainNav li.sys_selected li.sys_selected li.sys_current a {
+				background-color:#F3F5F7;
+			}
+			
+			
+			
+		#mainNav li.sys_selected a {
+			background-image:none;	
+			padding-top:5px;
+			padding-bottom:5px;
+		}
+	#mainNav li.sys_last a {
+		background-image:none;
+	}
+		#mainNav li li {
+			padding:0;
+			background-image:none;
+		}
+			#mainNav li.sys_selected li.sys_current li a,
+			#mainNav li.sys_selected li a {
+				background-image:url('/Images/website/navdotslv2.gif');
+				background-color:#fff;
+				padding-left:20px;
+				width:150px;
+			}
+			#mainNav li.sys_selected li.sys_last a {
+				background-image:none;
+			}
+				#mainNav li.sys_selected li.sys_selected li a {
+					padding-left:30px;
+					width:140px;
+				}

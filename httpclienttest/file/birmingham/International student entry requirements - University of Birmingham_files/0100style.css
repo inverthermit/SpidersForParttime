@@ -1,0 +1,2227 @@
+﻿/* ($Id: 0100style.css 3026 2015-02-13 12:30:58Z nixonm $) */
+/* Basic website styling */
+
+/*  Colors
+************************************************************************************************************************/
+a:hover, .sys_tabs li a:hover, #content .sys_button:hover, #search .sys_button:hover, #mainContent h2, h1, #overlayMainContent h2, #fullwidthContent h2
+{
+    color: #66A300;
+}
+h2, h3, #content .sys_videoFeature h2, #content .sys_videoFeature .sys_otherVid
+{
+    color: #333;
+}
+#mainContent #bookmarks, #footerBottom li, #precedent a, #miniMap li a, #breadcrumbs a, #search input, /*blockquote,*/ p
+{
+    color: #666;
+}
+#breadcrumbs li
+{
+    color: #999;
+}
+.sys_sliderInner h3, #precedent a:hover, #miniMap li a:hover, #search .sys_button, a
+{
+    color: #990066;
+}
+#relatedContent #register a
+{
+	color: #fff;
+}
+
+/*  General class definitions for global use - delete if not using any of these
+************************************************************************************************************************/
+
+.sys_show
+{
+	display: block;
+}
+.sys_hide
+{
+	display: none;
+}
+.sys_clear
+{
+	clear: both;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 1px;
+	height: 1px;
+	width: 1px;
+	float: none;
+}
+
+
+/*  General formatting definitions
+************************************************************************************************************************/
+
+html
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+strong
+{
+	font-weight: bold;
+}
+
+/*blockquote,*/
+p
+{
+	font-size: 1.3em;
+	line-height: 1.3em;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	font-weight: normal;
+	font-family: 'Georgia' , 'Times new Roman';
+	margin-bottom: .5em;
+	line-height: 1em;
+}
+
+h1
+{
+	font-size: 2.8em;
+}
+
+h2
+{
+	font-size: 1.8em;
+}
+
+h3
+{
+	font-size: 1.8em;
+}
+
+hr
+{
+}
+
+sup {
+vertical-align: super;
+font-size: smaller;
+}
+
+sub {
+vertical-align: sub;
+font-size: smaller;
+}
+
+/*  Layout of body and main div's
+************************************************************************************************************************/
+
+body
+{
+	font-size: 62.5%;
+	background: #C3CDDA url('/Images/website/background.gif') no-repeat scroll top center;
+}
+
+div#wrapper
+{
+	width: 975px;
+	margin: 0 auto;
+	min-height: 500px;
+}
+
+div#header
+{
+	border-top: 3px solid #66A300;
+	margin: 0 21px;
+}
+
+div#main
+{
+	clear: both;
+	overflow: hidden;
+	padding: 0 20px 30px 20px;
+	width: 935px;
+	background: #fff url('/Images/website/mainbottom.gif') no-repeat scroll bottom center;
+}
+
+div#content
+{
+	min-height: 541px;
+	height: auto !important;
+	height: 541px;
+}
+
+#main h1
+{
+	margin-left: 10px;
+}
+
+#main div.sys_noNav h1
+{
+	margin-left: 0;
+}
+
+
+/* Header formatting 
+************************************************************************************************************************/
+
+#search
+{
+	float: right;
+    clear: right;
+	width: 400px;
+    margin-top: 4px;
+    margin-right:0; 
+    margin-bottom: 0;
+}
+
+#search .sys_textBoxWithRedirect {
+	float:right;
+}
+
+#search input
+{
+	float: left;
+    padding: 0;
+    font-family: Georgia, 'Times new Roman';
+}
+#search div.sys_textBoxWithRedirect input.sys_searchBox
+{
+    height: 1.6em;
+    line-height: 1.6em;
+    font-height: 1.6em;
+    margin-right: 10px;
+    border: 1px solid #CCC;
+    background-color: #E5E9EE;
+    color: #000;
+    width: 200px;
+}
+
+#search input.sys_searchButton
+{
+    height: 1.75em;
+    line-height: 1.75em;
+    font-height: 1.6em;
+    cursor: pointer;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: #fff;
+    background-color: #66A300;
+    border: none;
+}
+
+#search div.sys_textBoxWithRedirect label {
+    display:none;
+}
+
+/*Header: Web site logo */
+#header h1 a
+{
+	float: left;
+	width: 202px;
+	height: 48px;
+	background: transparent url('/Images/website/logo.gif') no-repeat scroll top left;
+	margin: 21px 0 20px 10px;
+	text-indent: -9000px;
+}
+
+/* Social Media Links */
+#socialMediaLinks {
+    float: right;
+    position: relative;
+    top: -14px;
+    padding: 2px;
+    padding-bottom: 1px;
+    background-color: #66A300;
+}
+
+#socialMediaLinks ul li {
+    display: inline;
+    padding: 0;
+    padding-left: 1px;
+}
+
+/* Content formatting 
+************************************************************************************************************************/
+
+#features
+{
+	border-top: 3px solid #66A300;
+	position: relative;
+	height: 331px;
+	margin-bottom: 10px;
+}
+#features img
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+#features img.sys_selected
+{
+	display: block;
+}
+
+#features h2 a
+{
+	color: #FFF;
+}
+
+#features ul
+{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 40px;
+	height: 30px;
+	margin: 0;
+}
+#content #features li
+{
+	float: left;
+	width: auto;
+}
+#features .sys_first a, #features .sys_last a
+{
+	width: 20px;
+	height: 30px;
+	text-indent: -9000px;
+	float: left;
+}
+#features .sys_first a
+{
+	background: transparent url('/Images/website/featureleft.gif') no-repeat scroll top left;
+}
+#features .sys_last a
+{
+	background: transparent url('/Images/website/featureright.gif') no-repeat scroll top left;
+}
+
+#breadcrumbs ul
+{
+	background: #fff;
+	float: left;
+	clear: both;
+	width: 922px;
+	padding: 0 0 10px 10px;
+}
+#breadcrumbs li
+{
+	float: left;
+	font-size: 1.3em;
+}
+
+div.sys_noNav #breadcrumbs ul
+{
+	padding-left: 0;
+}
+#mainContent, #overlayMainContent, #wideContent 
+{
+	float: left;
+	display: inline;
+}
+
+#mainContent, #overlayMainContent{
+    width: 515px;
+    margin-right: 10px;
+}
+
+#wideContent
+{
+	width: 725px;
+}
+
+#mainContent h2, #overlayMainContent h2, #wideContent h2, #fullwidthContent h2
+{
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: .5em;
+	margin-bottom: 1em;
+}
+
+#mainContent h3, #overlayMainContent h3, #relatedContent h3, #wideContent h3
+{
+	font-size: 1.5em;
+}
+
+#mainContent h3, #overlayMainContent h3, #wideContent h3
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+/* h4-h6 rules added */
+#mainContent h4, #overlayMainContent h4, #wideContent h4
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.4em;
+	font-weight: bold;
+	color: #333;
+}
+
+#mainContent h5, #overlayMainContent h5, #wideContent h5
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.35em;
+	font-weight: bold;
+	color: #333;
+}
+
+#mainContent h6, #overlayMainContent h6, #wideContent h6
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.3em;
+	font-weight: bold;
+	color: #333;
+}
+
+#mainContent p, #overlayMainContent p, #wideContent p, #fullwidthContent p
+{
+	margin-bottom: 1em;
+}
+
+#mainContent p.intro, #wideContent p.intro, #overlayMainContent p.intro, #fullwidthContent p.intro
+{
+	font-size: 1.5em;
+}
+
+/* This style is in editorsc.css */
+#mainContent .indent, #wideContent .indent, #overlayMainContent .indent, #mainContent .Indent, #wideContent .Indent, #overlayMainContent .Indent
+{
+    padding-left: 3em;
+}
+
+#mainContent img, #overlayMainContent img, #wideContent img, #fullwidthContent img
+{
+	float: left;
+	margin: 0 1em 1em 0;
+}
+
+/* This style is in editorsc.css */
+#mainContent .imgRight, #mainContent .imgright, #overlayMainContent .imgRight, #overlayMainContent .imgright, #wideContent .imgRight
+{
+	float: right;
+	margin: 0 0 1em 1em;
+}
+
+/* This style is in editorsc.css */
+#mainContent .imgLeft, #mainContent .imgleft, #overlayMainContent .imgLeft, #overlayMainContent .imgleft, #wideContent .imgLeft
+{
+	float: left;
+	margin: 0 1em 1em 0;
+}
+
+/*This style is in editorsc.css */
+#mainContent .floatLeft {
+    float: left;
+}
+#mainContent .floatRight {
+    float: right;
+}
+
+#mainContent .floatNone {
+    float: none;
+}
+
+/* This style is in editorsc.css */
+#mainContent .centredBlock, #mainContent .centredblock,
+#wideContent .centredBlock, #wideContent .centredblock,
+#overlayMainContent .centredBlock, #overlayMainContent .centredblock
+{
+float:none;
+display: block;
+margin-left: auto;
+margin-right: auto; 
+}
+
+#mainContent .imgcentre, #wideContent .imgcentre{
+float:none;
+display: block;
+margin-left: auto;
+margin-right: auto; 
+}
+
+#mainContent ul, #wideContent ul, #overlayMainContent ul
+{
+	margin: 0em 0 1em 2em;
+}
+
+#mainContent li, #wideContent li, #overlayMainContent li
+{
+	font-weight: normal;
+	color: #666;
+	padding-left: 15px;
+	margin-bottom: .75em;
+	background: transparent url('/Images/website/bulletgrey.gif') no-repeat 5px 5px;
+}
+
+#mainContent ol, #wideContent ol, #overlayMainContent ol
+{
+	margin: 0em 0 2em 3em;
+	list-style: decimal;
+}
+
+#mainContent ol li, #wideContent ol li, #overlayMainContent ol li
+{
+	font-weight: normal;
+	color: #666;
+	padding-left: 5px;
+	margin-bottom: .75em;
+    background-image: none;
+}
+
+#mainContent ul > li, 
+#wideContent ul > li,
+#overlayMainContent ul > li,
+#mainContent ol > li, 
+#wideContent ol > li,
+#overlayMainContent ol > li
+{
+    font-size: 1.3em;
+}
+
+/* Stop the ems from multiplying up */
+#mainContent ul ul > li, 
+#wideContent ul ul > li,
+#overlayMainContent ul ul > li,
+#mainContent ol ol > li, 
+#wideContent ol ol > li,
+#overlayMainContent ol ol > li
+{
+    font-size: 1em;
+}
+
+
+#mainContent ol ol, 
+#wideContent ol ol,
+#overlayMainContent ol ol,
+#mainContent ul ul, 
+#wideContent ul ul,
+#overlayMainContent ul ul
+{
+    margin-top: 1em;
+}
+
+/* ordered lists in debate details pages */
+
+#main #mainContent div.sys_full ol li
+{
+	background-image: none;
+}
+
+#relatedContent
+{
+	width: 200px;
+	float: right;
+}
+
+#mainContent .sys_quotes, #overlayMainContent .sys_quotes
+{
+	margin: 0;
+}
+
+#mainContent .sys_quotes li, #overlayMainContent .sys_quotes li
+{
+	padding: 0 0 1em 0;
+	margin-bottom: 1em;
+	background: transparent url('/Images/website/listdots.gif') repeat-x scroll bottom left;
+	font-weight: normal;
+	font-size: 1em;
+}
+
+.sys_quotes li p
+{
+	background: transparent url('/Images/website/quotecontent.gif') no-repeat scroll top left;
+	padding-left: 50px;
+}
+
+.sys_quotes li p span
+{
+	font-family: Georgia, 'Times new Roman';
+	font-size: 1.154em;
+}
+
+.sys_quotes h2
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* removed and replaced by class MainContentQuote  - see 0333Comversion	
+
+#mainContent blockquote {
+	padding:1em 0 1em 40px;
+	margin:1.5em 0;
+	border-top:1px dotted #ccc;
+	border-bottom:1px dotted #ccc;
+	background:transparent url('/Images/website/quotecontent.gif') no-repeat scroll 0 15px;
+}
+
+	#mainContent blockquote span {
+		font-size:1.154em;
+		font-family:'Georgia','Times New Roman';
+	}
+*/
+
+/*** course details ***/
+#main h2.sys_course
+{
+	font-size: 1.8em;
+	font-weight: normal;
+	color: #333333;
+	padding: 0;
+	margin: 0 0 2em 0;
+	font-family: Georgia;
+	float: left;
+}
+
+#main p.sys_button, #main a.button
+{
+	font-size: 1.5em;
+	font-family: Georgia;
+	overflow: hidden;
+	margin: 0 0 1em 0;
+}
+
+#main p.sys_button a, #main a.button
+{
+	float: right;
+	display: block;
+	background: #990066;
+	color: #ffffff;
+	padding: 6px 10px;
+	line-height: 1;
+}
+
+#main #details div.sys_squeezeBox p.sys_button a
+{
+	float: left;
+}
+
+#main p.sys_left
+{
+	margin: 1em 0 1em 0;
+}
+
+#main p.sys_left a
+{
+	float: left;
+}
+
+#main p.sys_back
+{
+	text-align: right;
+	font-size: 1.3em;
+	margin: 1em 0;
+}
+
+#main p.sys_back a
+{
+	font-weight: bold;
+	color: #990066;
+	display: inline-block;
+	padding: 8px 9px 6px 8px;
+	background: #f3f5f7;
+}
+
+#main div.sys_accordion
+{
+	clear: both;
+	background: url(/Images/website/accordion.gif) no-repeat 0 bottom;
+	padding-bottom: 20px;
+	/* Nasty hack for IE to stop the footer flipping up over long accordions */
+	zoom: 1;
+}
+
+#main .sys_noNav div.sys_accordion
+{
+	background: url(/Images/website/wideaccordion.gif) no-repeat 0 bottom;
+}
+
+#main div.sys_accordion p
+{
+	margin-bottom: 1em;
+}
+
+#main div.sys_accordion p strong
+{
+	color: #333333;
+}
+
+#main div.sys_accordion h2
+{
+	color: #66a300;
+	font-family: Arial, Helvetica, sans-serif;
+	background: url(/Images/website/accordion.gif) no-repeat;
+	/*margin-bottom: 0.5em;*/
+	padding-top: 0.5em;
+	/*padding-right: 14px;*/
+	cursor: pointer;
+    margin-bottom: 0.3em;
+    padding-right: 1.4em;
+    line-height: 1.1em;
+}
+#main div.sys_accordion h2.sys_openAllButton 
+{
+    position: relative;
+    padding-right: 135px;
+}
+
+#main div.sys_accordion h3.cupboard
+{
+    /*color: #66a300;*/
+	font-family: Arial, Helvetica, sans-serif;
+	background: url(/Images/website/accordion.gif) no-repeat;
+	/*margin-bottom: 0.5em;*/
+	padding-top: 0.5em;
+	/*padding-right: 14px;*/
+	cursor: pointer;
+    margin-bottom: 0.3em;
+    padding-right: 1.3em;
+    line-height: 1.1em;
+}
+
+#main div.sys_accordion h2.sys_summary,
+#main div.sys_accordion h3.sys_summary
+{
+	background: none;
+	position: relative;
+	margin-bottom: 1em;
+}
+
+#main div.sys_accordion h2.sys_summary span,
+#main div.sys_accordion h3.sys_summary span
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	color: #990066;
+	font-size: 0.8em;
+	font-weight: bold;
+	display: block;
+	padding: 8px 9px 6px 8px;
+	background: #f3f5f7;
+}
+
+#main div.sys_accordion h2.sys_openAllButton span{
+    position: absolute;
+    top: 1px;
+    right: 30px;
+    color: #FFF;
+    font-size: 0.6em;
+    font-weight: bold;
+    display: block;
+    padding: 2px 4px 0 4px;
+    background: #66a300;
+    float: right;
+    height: 18px;
+}
+
+#main div.sys_accordion h2.sys_collapse
+{
+	background: url(/Images/website/accordioncollapse.gif) no-repeat;
+}
+
+#main div.sys_accordion h3.sys_collapse {
+    background: url(/Images/website/accordioncollapse-0.gif) no-repeat;
+}
+
+#main .sys_noNav div.sys_accordion h2.sys_collapse
+{
+	background: url(/Images/website/wideaccordioncollapse.gif) no-repeat;
+}
+
+#main .sys_noNav div.sys_accordion h3.sys_collapse
+{
+	background: url(/Images/website/wideaccordioncollapse-0.gif) no-repeat;
+}
+
+#main div.sys_accordion h2.sys_expand
+{
+	background: url(/Images/website/accordionexpand.gif) no-repeat;
+}
+
+#main div.sys_accordion h3.sys_expand
+{
+    background: url(/Images/website/accordionexpand-0.gif) no-repeat;
+}
+
+#main .sys_noNav div.sys_accordion h2.sys_expand
+{
+	background: url(/Images/website/wideaccordionexpand.gif) no-repeat;
+}
+
+#main .sys_noNav div.sys_accordion h3.sys_expand
+{
+	background: url(/Images/website/wideaccordionexpand-0.gif) no-repeat;
+}
+
+#main div.sys_accordion div
+{
+	padding-top: 0.5em;
+}
+
+/* small content cupboard */
+
+div.contentCupboardsmall
+{
+    float: left;
+    width: 340px;
+    float: left;
+    padding-right: 10px;
+    background: url(/Images/website/accordionsmall.gif) no-repeat 0 bottom;
+    padding-bottom: 20px;
+    /* Nasty hack for IE to stop the footer flipping up over long accordions */
+    zoom: 1;
+    
+}
+
+div.contentCupboardsmall p
+{
+    margin-bottom: 1em;
+}
+
+div.contentCupboardsmall p strong
+{
+    color: #333333;
+}
+
+div.contentCupboardsmall h2
+{
+    color: #990066;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(/Images/website/accordionsmall.gif) no-repeat;
+    margin-bottom: 0.5em;
+    padding-top: 0.5em;
+    padding-right: 14px;
+    cursor: pointer;
+}
+
+div.contentCupboardsmall h2.sys_summary
+{
+    background: none;
+    position: relative;
+    margin-bottom: 1em;
+}
+
+div.contentCupboardsmall h2.sys_summary span
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #990066;
+    font-size: 0.8em;
+    font-weight: bold;
+    display: block;
+    padding: 8px 9px 6px 8px;
+    background: #f3f5f7;
+}
+
+div.contentCupboardsmall h2.sys_collapse
+{
+    background: url(/Images/website/accordionexpandsmall.gif) no-repeat;
+}
+
+
+div.contentCupboardsmall h2.sys_expand
+{
+    background: url(/Images/website/accordioncollapsesmall.gif) no-repeat;
+}
+
+div.contentCupboardsmall div
+{
+    padding-top: 0.5em;
+    width:340px;
+}
+
+/* end small content cupboard */
+
+#main ul.sys_jumps
+{
+	list-style-type: none;
+	margin: 0 0 1.5em 0;
+	padding: 0;
+}
+
+#main ul.sys_jumps li
+{
+	background: none;
+	display: inline;
+	font-size: 1.3em;
+	font-weight: normal;
+	margin: 0 0.2em 0 0;
+	padding: 0 0.5em 0 0;
+	border-right: 1px solid #990066;
+}
+
+#main ul.sys_jumps li.sys_last
+{
+	margin: 0;
+	padding: 0;
+	border-right: none;
+}
+
+#main ul.sys_jumps li a
+{
+	color: #990066;
+}
+
+#main ul.sys_links
+{
+	list-style-type: none;
+	margin: 0 0 1.5em 0;
+	padding: 0;
+}
+
+#main ul.sys_links li
+{
+	background: url(/Images/website/linkdots.gif) repeat-x 0 bottom;
+	font-size: 1.3em;
+	font-weight: normal;
+	margin: 0 0 0.2em 0;
+	padding: 0 0 0.5em 0;
+}
+
+#main ul.sys_links li.sys_last
+{
+	background: none;
+}
+
+#main ul.sys_links li a
+{
+	color: #990066;
+}
+
+#content .sys_videoFeature, #overlayMainContent .sys_videoFeature
+{
+	padding: 10px;
+	background: #F3F5F7;
+	border-top: 1px solid #ccc;
+	overflow: hidden;
+	height: 1%;
+	margin-bottom: 1em;
+}
+
+#content .sys_videoFeature h2, #overlayMainContent .sys_videoFeature h2
+{
+	font-size: 1.8em;
+	background: transparent url('/Images/website/titlespeechbubbles.gif') no-repeat scroll top left;
+	line-height: 1.5em;
+	float: left;
+	font-family: Georgia, "Times New Roman";
+	padding: 0 0 0 35px;
+}
+
+#content .sys_videoFeature .sys_otherVid, #overlayMainContent .sys_videoFeature .sys_otherVid
+{
+	float: right;
+	padding: 5px 30px 5px 10px;
+	background: transparent url('/Images/website/videootherdown.gif') no-repeat scroll 100% 10px;
+	border-left: 1px solid #ccc;
+	font-size: 1.3em;
+}
+
+#mainContent .sys_player, #overlayMainContent .sys_player
+{
+	clear: both;
+	position: relative;
+}
+
+#mainContent #videoCarousel, #overlayMainContent #videoCarousel
+{
+	position: absolute;
+	top: 0;
+	width: 100%;
+	background: transparent url('/Images/website/blackopac80.png') scroll repeat top left;
+	padding: 10px 0;
+}
+
+#videoCarousel .sys_left
+{
+	background: transparent url('/Images/website/carouselleft.png') no-repeat scroll 0 16px;
+	margin-left: 10px;
+}
+#videoCarousel .sys_right
+{
+	background: transparent url('/Images/website/carouselright.png') no-repeat scroll 0 16px;
+}
+
+#mainContent .sys_player a, #overlayMainContent .sys_player a
+{
+	width: 495px;
+	height: 300px;
+	float: left;
+}
+
+#mainContent #videoCarousel ul, #overlayMainContent #videoCarousel ul
+{
+	margin: 0;
+}
+
+#mainContent #videoCarousel a, #overlayMainContent #videoCarousel a
+{
+	text-indent: 0;
+	margin-right: 8px;
+	float: left;
+	width: 14px;
+	height: 55px;
+	text-indent: -9000px;
+}
+
+#mainContent #videoCarousel li, #overlayMainContent #videoCarousel li
+{
+	margin: 0;
+}
+
+#mainContent #videoCarousel li a, #overlayMainContent #videoCarousel li a
+{
+	text-indent: 0;
+	height: auto;
+	width: auto;
+}
+#content li a img, #overlayMainContent li a img
+{
+	float: left;
+	margin: 0;
+}
+
+#relatedContent #relatedVideo .sys_videoControls, #mainContent .sys_videoFeature .sys_videoControls,
+#wideContent .sys_col_last_semi .sys_videoControls, #overlayMainContent .sys_videoFeature .sys_videoControls
+{
+	position: relative;
+	top: -26px;
+}
+
+#mainContent #bookmarks, #wideContent #bookmarks, #overlayMainContent #bookmarks
+{
+	clear: both;
+	padding-top: 1em;
+	background: transparent url('/Images/website/listdots.gif') repeat-x scroll top left;
+	margin: 3em 0 0 0;
+}
+#bookmarks li
+{
+	float: left;
+	background: none;
+	padding: 0;
+	font-weight: normal;
+	font-size: 1.5em;
+}
+
+#bookmarks li.sys_first
+{
+	margin: 2px 1.5em 0 0;
+}
+
+#bookmarks li a
+{
+	float: left;
+	width: 21px;
+	height: 21px;
+	text-indent: -9000px;
+	margin-right: .5em;
+}
+
+#bookmarks .sys_stumbleUpon
+{
+	background: transparent url('/Images/website/icons/icostumbleupon.gif') no-repeat scroll top left;
+}
+
+#bookmarks .sys_delicious
+{
+	background: transparent url('/Images/website/icons/icodelicious.gif') no-repeat scroll top left;
+}
+
+#bookmarks .sys_digg
+{
+	background: transparent url('/Images/website/icons/icodigg.gif') no-repeat scroll top left;
+}
+
+/* Most Popular */
+
+#main #mostPopular div.sys_panel ol {
+	list-style:none;
+}
+
+#main #mostPopular div.sys_panel ol li {
+	background:none;
+}
+
+/* end Most Popular */
+
+#relatedContent .sys_print, #wideContent .sys_col_last_semi .sys_print, #wideContent .sys_col_last .sys_print, #wideContent div.sys_rhsSection div.sys_quickLinks .sys_print
+{
+	background: transparent url('/Images/website/icons/icoprint.gif') no-repeat scroll top left;
+	padding: 5px 8px 14px 0;
+	font-size: 1.5em;
+}
+
+#relatedContent .sys_print a, #wideContent .sys_col_last_semi .sys_print a, #wideContent .sys_col_last .sys_print a, #wideContent div.sys_rhsSection div.sys_quickLinks .sys_print a
+{
+	font-family: "Georgia" , "Times New Roman";
+	padding-left: 45px;
+}
+
+
+#relatedContent #bigDebate, #relatedContent #topics, #relatedContent #recentComments, #relatedContent #relatedPosts, #relatedContent #relatedVideo, #relatedContent #relatedNews, #relatedContent #relatedLinks, #relatedContent #relatedStaffLinks, #relatedContent #relatedStaff, #relatedContent #relatedCourses, #relatedContent #relatedResearch, #relatedContent #relatedFacilities, #relatedContent #relatedSchool, #relatedContent #relatedDepartment, #relatedContent #relatedNewsEvents, #relatedContent #relatedSchools, #relatedContent #relatedDepartments,
+#wideContent .sys_col_last_semi #bigDebate, #wideContent .sys_col_last_semi #topics, #wideContent .sys_col_last_semi #recentComments, #wideContent .sys_col_last_semi #relatedPosts, #wideContent .sys_col_last_semi #relatedVideo, #wideContent .sys_col_last_semi #relatedNews, #wideContent .sys_col_last_semi #relatedLinks, #wideContent .sys_col_last_semi #relatedStaffLinks, #wideContent .sys_col_last_semi #relatedStaff, #wideContent .sys_col_last_semi #relatedCourses, #wideContent .sys_col_last_semi #relatedResearch, #wideContent .sys_col_last_semi #relatedFacilities, #wideContent .sys_col_last_semi #relatedSchool, #wideContent .sys_col_last_semi #relatedDepartment, #wideContent .sys_col_last_semi #relatedNewsEvents
+{
+	padding: 12px 12px 6px;
+	background: #F3F5F7;
+	border-top: 1px solid #ccc;
+	margin-bottom: 10px;
+}
+
+#relatedContent #relatedVideo,
+#wideContent .sys_col_last_semi #relatedVideo
+{
+	overflow: hidden;
+}
+
+#relatedContent #topics li, #relatedContent #recentComments li, #relatedContent #relatedPosts li, #relatedContent #relatedNews li, #relatedContent #relatedLinks li, #relatedContent #relatedStaffLinks li, #relatedContent #relatedStaff li, #relatedContent #relatedCourses li, #relatedContent #relatedResearch li, #relatedContent #relatedFacilities li, #relatedContent #relatedSchool li, #relatedContent #relatedDepartment li, #relatedContent #relatedNewsEvents li,  #relatedContent #relatedSchools li, #relatedContent #relatedDepartments li,
+#wideContent .sys_col_last_semi #topics li, #wideContent .sys_col_last_semi #recentComments li, #wideContent .sys_col_last_semi #relatedPosts li, #wideContent .sys_col_last_semi #relatedNews li, #wideContent .sys_col_last_semi #relatedLinks li, #wideContent .sys_col_last_semi #relatedStaffLinks li, #wideContent .sys_col_last_semi #relatedStaff li, #wideContent .sys_col_last_semi #relatedCourses li, #wideContent .sys_col_last_semi #relatedResearch li, #wideContent .sys_col_last_semi #relatedFacilities li, #wideContent .sys_col_last_semi #relatedSchool li, #wideContent .sys_col_last_semi #relatedDepartment li, #wideContent .sys_col_last_semi #relatedNewsEvents li
+{
+	background: transparent url('/Images/website/navdotslv1.gif') repeat-x scroll bottom left;
+	padding: 8px 0;
+	font-size: 1.3em;
+}
+
+#relatedContent #topics p, #relatedContent #recentComments p, #relatedContent #relatedPosts p, #relatedContent #relatedNews p, #relatedContent #relatedLinks p, #relatedContent #relatedStaffLinks p, #relatedContent #relatedStaff p, #relatedContent #relatedCourses p, #relatedContent #relatedResearch p, #relatedContent #relatedFacilities p, #relatedContent #relatedSchool p, #relatedContent #relatedDepartment p, #relatedContent #relatedNewsEvents p, #relatedContent #relatedDepartments p, #relatedContent #relatedSchools p,
+#wideContent .sys_col_last_semi #topics p, #wideContent .sys_col_last_semi #recentComments p, #wideContent .sys_col_last_semi #relatedPosts p, #wideContent .sys_col_last_semi #relatedNews p, #wideContent .sys_col_last_semi #relatedLinks p, #wideContent .sys_col_last_semi #relatedStaffLinks p, #wideContent .sys_col_last_semi #relatedStaff p, #wideContent .sys_col_last_semi #relatedCourses p, #wideContent .sys_col_last_semi #relatedResearch p, #wideContent .sys_col_last_semi #relatedFacilities p, #wideContent .sys_col_last_semi #relatedSchool p, #wideContent .sys_col_last_semi #relatedDepartment p, #wideContent .sys_col_last_semi #relatedNewsEvents p
+{
+	font-size: 1em;
+}
+
+#relatedContent #relatedVideo .sys_player,
+#wideContent .sys_col_last_semi #relatedVideo .sys_player
+{
+	margin: 0 -4px;
+}
+
+#relatedContent .sys_player a,
+#wideContent .sys_col_last_semi .sys_player a
+{
+	width: 184px;
+	height: 136px;
+	display: block;
+}
+
+#relatedContent p span,
+#wideContent .sys_col_last_semi p span
+{
+	font-size: 1.154em;
+	font-family: Georgia, 'Times new Roman';
+}
+
+/* add basic styling for rhs column bullets */
+#relatedContent > ul {
+    list-style: circle;   
+    font-size: 1.3em;
+    line-height: 1.3em;
+    color: #666;
+    margin-left: 16px;
+    margin-top:2px;
+    margin-bottom:2px;
+    padding-right: 2px;
+}
+
+/* Two style settings for when columns are used as if they were a right-hand column */
+#wideContent .sys_col_last_semi #topics h2, #wideContent .sys_col_last_semi #recentComments h2, #wideContent .sys_col_last_semi #relatedPosts h2, #wideContent .sys_col_last_semi #relatedVideo h2, #wideContent .sys_col_last_semi #relatedNews h2, #wideContent .sys_col_last_semi #relatedLinks h2, #wideContent .sys_col_last_semi #relatedStaffLinks h2, #wideContent .sys_col_last_semi #relatedStaff h2, #wideContent .sys_col_last_semi #relatedCourses h2, #wideContent .sys_col_last_semi #relatedResearch h2, #wideContent .sys_col_last_semi #relatedFacilities h2, #wideContent .sys_col_last_semi #relatedSchool h2, #wideContent .sys_col_last_semi #relatedDepartment h2, #wideContent .sys_col_last_semi #relatedNewsEvents h2
+{
+    font-family: 'Georgia' , 'Times new Roman';
+    margin-bottom: .5em;
+}
+
+#wideContent .sys_col_last_semi #topics ol, #wideContent .sys_col_last_semi #recentComments ol, #wideContent .sys_col_last_semi #relatedPosts ol, #wideContent .sys_col_last_semi #relatedVideo ol, #wideContent .sys_col_last_semi #relatedNews ol, #wideContent .sys_col_last_semi #relatedLinks ol, #wideContent .sys_col_last_semi #relatedStaffLinks ol, #wideContent .sys_col_last_semi #relatedStaff ol, #wideContent .sys_col_last_semi #relatedCourses ol, #wideContent .sys_col_last_semi #relatedResearch ol, #wideContent .sys_col_last_semi #relatedFacilities ol, #wideContent .sys_col_last_semi #relatedSchool ol, #wideContent .sys_col_last_semi #relatedDepartment ol, #wideContent .sys_col_last_semi #relatedNewsEvents ol,
+#wideContent .sys_col_last_semi #topics ul, #wideContent .sys_col_last_semi #recentComments ul, #wideContent .sys_col_last_semi #relatedPosts ul, #wideContent .sys_col_last_semi #relatedVideo ul, #wideContent .sys_col_last_semi #relatedNews ul, #wideContent .sys_col_last_semi #relatedLinks ul, #wideContent .sys_col_last_semi #relatedStaffLinks ul, #wideContent .sys_col_last_semi #relatedStaff ul, #wideContent .sys_col_last_semi #relatedCourses ul, #wideContent .sys_col_last_semi #relatedResearch ul, #wideContent .sys_col_last_semi #relatedFacilities ul, #wideContent .sys_col_last_semi #relatedSchool ul, #wideContent .sys_col_last_semi #relatedDepartment ul, #wideContent .sys_col_last_semi #relatedNewsEvents ul
+{
+    list-style: none outside none;
+    margin: 0;
+}
+
+
+#relatedContent #bigDebate p
+{
+	margin-bottom: 1em;
+}
+
+#relatedContent #bigDebate .sys_more
+{
+	background: transparent url('/Images/website/navdotslv1.gif') repeat-x scroll top left;
+	padding-top: .5em;
+}
+
+#relatedContent #bigDebate h2
+{
+	padding: 0 0 0 45px;
+	min-height: 40px;
+	height: auto !important;
+	height: 40px;
+	background: transparent url('/Images/website/quotesidebar.gif') no-repeat scroll top left;
+}
+
+#wideContent #quickLinks, #relatedContent #quickLinks
+{
+	margin-bottom: 10px;
+}
+
+#wideContent #quickLinks li, #relatedContent #quickLinks li
+{
+	padding-top: 10px;
+	padding-left: 0;
+	background: transparent url('/Images/website/listdots.gif') repeat-x scroll bottom left;
+}
+
+#wideContent #quickLinks li a, #relatedContent #quickLinks li a
+{
+	padding-left: 15px;
+	font-size: 1.5em;
+	font-family: 'Georgia' , 'Times new Roman';
+	display: inline-block;
+	padding-bottom: 14px;
+}
+
+#wideContent #quickLinks li.sys_studyHere a, #wideContent #quickLinks li.sys_openDays a, #wideContent #quickLinks li.sys_download a, #relatedContent #quickLinks li.sys_studyHere a, #relatedContent #quickLinks li.sys_openDays a, #relatedContent #quickLinks li.sys_download a
+{
+	padding-left: 45px;
+}
+
+
+.sys_studyHere a
+{
+	background: transparent url('/Images/website/icons/icostudy.gif') no-repeat top left;
+}
+
+.sys_openDays a
+{
+	background: transparent url('/Images/website/icons/icocloud.gif') no-repeat 3px 0 !important;
+}
+
+#wideContent #quickLinks .sys_download a, #relatedContent #quickLinks .sys_download a
+{
+	background: transparent url('/Images/website/icons/icodownload.gif') no-repeat top left;
+}
+
+
+#contentPromo
+{
+	float: right;
+	border-top: 1px solid #ccc;
+	padding: 10px 80px 0 10px;
+	background: #F3F5F7 url('/Images/website/promo2.jpg') no-repeat scroll top right;
+	min-height: 95px; /*IE6 min-height hack !important needed to fix this */
+	height: auto !important;
+	height: 95px;
+	width: 110px;
+}
+#contentPromo p
+{
+	font-size: 1.8em;
+	font-family: 'Georgia' , 'Times New Roman';
+	color: #333;
+}
+#contentPromo p span
+{
+	color: #666699;
+	font-size: 1.556em;
+	line-height: 1em;
+	font-family: 'Georgia' , 'Times New Roman';
+}
+
+#mainContent #newsList, #overlayMainContent #newsList
+{
+	margin: 0;
+}
+
+
+#mainContent #newsList li, #overlayMainContent #newsList li
+{
+	background: transparent url('/Images/website/listdots.gif') repeat-x scroll bottom left;
+	padding: 0 0 1em 0;
+	margin-bottom: 2em;
+	overflow: hidden;
+	height: 1%;
+	font-size: 1em;
+	font-weight: normal;
+}
+
+
+#newsList .sys_date
+{
+	font-weight: bold;
+	font-size: 1.3em;
+	margin-bottom: 1em;
+}
+
+
+#newsList img
+{
+	float: left;
+	margin-bottom: 1em;
+}
+
+#newsList p, #newsList h3
+{
+	padding-left: 110px;
+	font-size: 1.3em;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: 1em;
+}
+#newsList li.sys_first h3, #newsList li.sys_first p
+{
+	padding-left: 177px;
+}
+
+#newsList li.sys_first h3
+{
+	font-size: 1.5em;
+}
+
+#newsList .sys_date
+{
+	margin-bottom: 0;
+}
+
+#relatedContent #register
+{
+	margin-bottom: 10px;
+}
+
+#relatedContent #register p
+{
+	background: #990066;
+	padding: 5px 10px;
+	font-size: 1.5em;
+	font-family: 'Georgia' , 'Times New Roman';
+}
+
+#pageOptions
+{
+	margin-bottom: 5px;
+}
+
+#pageOptions li
+{
+	padding: 10px 10px 10px 40px;
+	font-size: 1.5em;
+	font-family: 'Georgia' , 'Times New Roman';
+}
+
+#pageOptions .sys_rss
+{
+	padding-top: 5px;
+	background: transparent url('/Images/website/icons/icorss.gif') no-repeat scroll 3px 5px;
+}
+
+#pageOptions .sys_email
+{
+	background: transparent url('/Images/website/icons/icomail.gif') no-repeat scroll 0 12px;
+}
+
+/** added to protect landing feature columns **/
+#wideContent .sys_col ul
+{
+	margin: 0px;
+}
+
+#wideContent .sys_col li
+{
+	font-weight: normal;
+	font-size: 1em;
+	background: none;
+}
+
+#wideContent .sys_col
+{
+	float: left;
+	width: 245px;
+}
+
+#wideContent #quickLinks li.sys_last, /* name adjustment here to allow for classnames provided by Contensis */ #wideContent .sys_col_last
+{
+	float: left;
+	width: 235px;
+	background: none;
+}
+
+#wideContent #features
+{
+	height: 246px;
+}
+
+#wideContent #features span.sys_featureImage h2
+{
+	display: block;
+	color: #fff;
+	background: transparent url('/Images/website/blackopac80.png') repeat scroll top left;
+	font-size: 2.8em;
+	padding: 8px 12px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	width: 701px;
+}
+
+#wideContent #features span.sys_featureImage h2.sys_hide
+{
+	display: none;
+}
+
+#wideContent .sys_box
+{
+	width: 213px;
+	margin: 0 10px 10px 0;
+	float: left;
+	display: inline;
+	position: relative;
+	border-top: 1px solid #ccc;
+	background: #F3F5F7;
+	padding: 11px;
+}
+
+#wideContent #quickLinks
+{
+	width: 235px;
+	float: left;
+}
+
+#wideContent .sys_overlay
+{
+	padding: 0;
+	width: 235px;
+}
+
+#wideContent .sys_overlay div
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+#wideContent .sys_overlay h3
+{
+	padding: 10px;
+	background: rgba(255,255,255,0.9);
+	_background: transparent;
+	filter: Progid:DXImageTransform.Microsoft.gradient(startColorstr=#eeffffff,endColorstr=#eeffffff);
+	width: 215px;
+	margin: 0;
+}
+
+/* Deprecated css which can be removed post-Apr 7th 2011 */
+#wideContent .sys_overlay p
+{
+	padding: 10px;
+	background: rgba(0,0,0,0.8);
+	_background: transparent;
+	filter: Progid:DXImageTransform.Microsoft.gradient(startColorstr=#dd000000,endColorstr=#dd000000);
+	width: 215px;
+	color: #fff;
+}
+/* Deprecation ends */
+
+#wideContent .sys_overlay a.sys_overlay_text
+{
+	display: block;
+	font-size: 125%;
+	padding: 10px;
+	background: rgba(0,0,0,0.8);
+	_background: transparent;
+	filter: Progid:DXImageTransform.Microsoft.gradient(startColorstr=#dd000000,endColorstr=#dd000000);
+	width: 215px;
+	color: #fff;
+}
+
+
+
+
+#wideContent .sys_last .sys_box
+{
+	margin-right: 0;
+}
+
+#wideContent .sys_podcasts .sys_player
+{
+	margin-top: 1em;
+	width: 213px;
+	height: 24px;
+}
+
+
+/* 3 column cheat for landing page */
+
+#wideContent .sys_col_semi
+{
+	float: left;
+	width: 517px;
+	padding: 0 4px 0 0px;
+}
+
+#wideContent .sys_col_last_semi
+{
+	float: left;
+	width: 200px;
+	background: none;
+	padding: 0 0 0 4px;
+}
+
+#wideContent .sys_col_last_semi #siteTools p, #wideContent .sys_col_last #siteTools p
+{
+	margin-bottom: 0em;
+}
+
+/* Panelled wide pages */
+#wideContent div.sys_doublePanel, 
+#wideContent div.sys_doublePanelWideLeft {
+    width: 725px;
+    margin-top: 10px;
+    padding-top: 10px;
+    background: url('/Images/website/dots.gif') repeat-x top left;
+}
+
+#wideContent div.sys_doublePanel div.sys_panelHolder {
+    background-color: #E1E6EC;
+    color: #666666;
+    overflow: auto;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#wideContent div.sys_doublePanel div.sys_panelLeft, #wideContent div.sys_doublePanel div.sys_panelRight {
+    padding-right: 7px;
+    width: 347px;
+}
+
+#wideContent div.sys_doublePanel div.sys_panelRight {
+    padding-left: 9px;
+    background: #E1E6EC url('/Images/website/verticaldotsshort.png') repeat-y top left;
+    float: right;
+}
+#wideContent div.sys_doublePanel div.sys_panelLeft 
+{
+    padding-left: 8px;
+    float: left;
+}
+#wideContent div.sys_doublePanel h2 
+{
+    padding-top: 0;
+    font-size: 1.8em;
+    line-height: 1.8em;
+    padding-left: 7px;
+    background-color: #990066;
+    color: #FFF;
+    width: 340px;
+}
+
+#wideContent div.sys_doublePanel p 
+{
+    padding-left: 7px;
+    padding-right: 3px;
+}
+
+/*Wide Green Title area pages JS doing remove if affects standard double panel*/
+
+#wideContent div.sys_doublePanelGreen, 
+#wideContent div.sys_doublePanelWideLeft {
+    width: 725px;
+    margin-top: 10px;
+    padding-top: 10px;
+    background: url('/Images/website/dots.gif') repeat-x top left;
+}
+
+#wideContent div.sys_doublePanelGreen div.sys_panelHolder {
+    background-color: white;
+    color: white;
+    overflow: auto;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#wideContent div.sys_doublePanelGreen div.sys_panelLeft, #wideContent div.sys_doublePanel div.sys_panelRight {
+    padding-right: 7px;
+    width: 347px;
+}
+
+#wideContent div.sys_doublePanelGreen div.sys_panelRight {
+    padding-left: 9px;
+    background: white url('/Images/website/verticaldotsshort.png') repeat-y top left;
+    float: right;
+}
+#wideContent div.sys_doublePanelGreen div.sys_panelLeft 
+{
+    padding-left: 8px;
+    float: left;
+}
+#wideContent div.sys_doublePanelGreen h2 
+{
+    padding-top: 0;
+    font-size: 1.8em;
+    line-height: 1.8em;
+    padding-left: 7px;
+    background-color: #66A300;
+    color: #FFF;
+    width: 340px;
+}
+
+#wideContent div.sys_doublePanelGreen p 
+{
+    padding-left: 7px;
+    padding-right: 3px;
+}
+
+/* Double panel with wide left */
+
+#wideContent div.sys_doublePanelWideLeft div.sys_panelLeft
+{
+    float: left;
+    width: 515px;
+    margin-right: 10px;
+}
+#wideContent div.sys_doublePanelWideLeft div.sys_panelRight
+{
+    float: right;
+    width: 200px;
+    margin: 0;
+}
+
+
+
+/* Styles for Tabbed 3 column (such as courses) */
+
+#wideContent div.sys_centralSection
+{
+    width: 515px;
+    float: left;
+    margin-right: 10px;
+    display: inline;
+}
+
+#wideContent div.sys_rhsSection
+{
+    width: 200px;
+    float: right;
+}
+
+
+
+/* End Tabbed 3 column */
+
+
+/* Triple Image and Text Promo */
+div.sys_tripleTextAndImagePromoRow {
+    float: left;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    background: url('/Images/website/dots.gif') repeat-x top left;
+}
+
+div.sys_tripleTextAndImagePromoRow div.sys_textAndImagePromo {
+    background-color: #CCCCCC;
+    width: 235px;
+    margin-right: 10px;
+    float: left;
+}
+
+div.sys_tripleTextAndImagePromoRow div.sys_textAndImagePromo.sys_order3 {
+    margin-right: 0;
+}
+
+#content div.sys_tripleTextAndImagePromoRow div.sys_textAndImagePromo h2 {
+    background-color: #66A300;
+    color: #FFF;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    margin-bottom: 0;
+    padding-left: 10px;
+}
+
+#content div.sys_tripleTextAndImagePromoRow div.sys_textAndImagePromo h2 a
+{
+    background-color: #66A300;
+    color: #FFF;
+ 
+}
+
+div.sys_tripleTextAndImagePromoRow div.sys_textAndImagePromo img {
+    width: 235px;
+}
+
+div.sys_tripleTextAndImagePromoRow div.sys_textAndImagePromo p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+/* Quadruple image promo row */
+div.sys_quadrupleImagePromoRow {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 10px;
+    float: left;
+    background: url('/Images/website/dots.gif') repeat-x top left;
+}
+
+div.sys_quadrupleImagePromoRow div.sys_imagePromo {
+    float: left;
+    margin-right: 10px;
+    width: 172px;
+    border: 1px solid #CCCCCC;
+}
+
+div.sys_quadrupleImagePromoRow div.sys_imagePromo.sys_order3 {
+    float: left;
+    margin-right: 9px;
+}
+
+div.sys_quadrupleImagePromoRow div.sys_imagePromo.sys_order4 {
+    float: left;
+    margin-right: 0;
+}
+
+#content div.sys_quadrupleImagePromoRow div.sys_imagePromo img {
+    float: left;
+    margin: 0;
+    width: 172px;
+}
+
+/* Footer Styles 
+************************************************************************************************************************/
+
+#footer
+{
+	clear: both;
+	background: transparent url('/Images/website/bgfooter.gif') repeat-x scroll top center;
+	overflow: hidden;
+	height: 1%;
+	padding: 10px 20px;
+}
+#miniMap
+{
+	width: 934px;
+}
+#miniMap li
+{
+	float: left;
+	width: 187px;
+	margin: 0 0 .9em 0;
+	padding: 0;
+}
+
+#miniMap ul
+{
+	margin-top: .9em;
+	overflow: hidden;
+}
+
+#miniMap li a
+{
+	font-size: 1.8em;
+	font-family: 'Georgia' , 'Times New Roman';
+}
+#miniMap li a:hover
+{
+}
+#footer li li a
+{
+	font-size: 1.2em;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#footer a:hover
+{
+	text-decoration: underline;
+}
+#precedent a
+{
+	float: right;
+}
+#precedent a:hover
+{
+}
+#miniMap
+{
+	overflow: hidden;
+	height: 1%;
+	padding-bottom: 20px;
+	background: transparent url('/Images/website/dotsfooter.gif') repeat-x scroll bottom center;
+}
+#footerBottom
+{
+	clear: both;
+	padding-top: 12px;
+}
+#footerBottom li
+{
+	float: left;
+	font-size: 1.3em;
+	padding-right: 10px;
+	margin-right: 10px;
+	background: transparent url('/Images/website/dividerfooter.gif') no-repeat scroll 100% 2px;
+}
+#footerBottom li.sys_first, #footerBottom li.sys_last
+{
+	background: none;
+}
+#sliderWrapper
+{
+	position: absolute;
+	top: 180px;
+	right: 0;
+	overflow: hidden;
+	width: 45px;
+	height: 500px;
+}
+#sliderOriginal
+{
+	position: absolute;
+	right: -610px;
+	z-index: 600;
+}
+#sliderOriginal .sys_sliderButton
+{
+	width: 42px;
+	height: 105px;
+	background: #fff url('/Images/website/taboriginal.gif') no-repeat scroll 3px 3px;
+	position: absolute;
+	left: -42px;
+	cursor: pointer;
+	text-indent: -9000px;
+}
+.sys_sliderContent
+{
+	width: 550px;
+	background: #fff;
+	float: left;
+	padding-right: 60px;
+}
+.sys_sliderContent .sys_date
+{
+	font-weight: bold;
+	margin-bottom: 1em;
+}
+.sys_sliderInner
+{
+	background: #F3F5F7;
+	padding: 7px;
+	margin: 7px;
+}
+.sys_sliderRight
+{
+	width: 520px;
+	background: transparent url('/Images/website/slidercontentbg.gif') repeat-y scroll top right;
+	overflow: hidden;
+}
+.sys_sliderInner img
+{
+	float: left;
+	margin: 0 15px 15px 0;
+}
+#sliderOriginal .sys_sliderInner p, #sliderOriginal .sys_sliderInner h3
+{
+	padding: 0 15px 0 332px;
+}
+.sys_sliderInner h3
+{
+	margin-top: 10px;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+#sliderHappening
+{
+	position: absolute;
+	right: -610px;
+	z-index: 601;
+}
+#sliderHappening .sys_sliderButton
+{
+	cursor: pointer;
+	position: absolute;
+	left: -42px;
+	width: 42px;
+	height: 165px;
+	margin-top: 108px;
+	background: #fff url('/Images/website/tabhappening.gif') no-repeat scroll 3px 3px;
+	text-indent: -9000px;
+}
+#sliderHappening .sys_sliderInner
+{
+	padding: 14px;
+}
+.sys_sliderInner h2
+{
+	font-size: 1.8em;
+	margin-bottom: .8em;
+}
+#sliderHappening .sys_sliderInner h3
+{
+	margin: 0 0 1em;
+}
+.sys_sliderInner li
+{
+	clear: both;
+	padding-bottom: 15px;
+	margin-bottom: 15px;
+	background: transparent url('/Images/website/dotsslider.gif') repeat-x bottom left;
+	overflow: hidden;
+}
+.sys_sliderInner li.sys_last
+{
+	background: none;
+	padding: 0;
+	margin: 0;
+}
+
+
+
+/*** tabs ***/
+#main ul.sys_tabs
+{
+	list-style-type: none;
+	margin: 2em 0 1em 0;
+	padding: 0;
+	float: left;
+	width: 100%;
+	background: url(/Images/website/tabsdots.gif) repeat-x bottom left;
+}
+
+#main ul.sys_tabs li
+{
+	position: relative;
+	top: 3px;
+	overflow: hidden;
+	background: #f3f5f7;
+	float: left;
+	margin: 0 5px 0 0;
+	padding: 0 13px 0 0;
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+#main .sys_multipleSearchResults ul.sys_tabs li
+{
+	font-size: 1.75em;
+}
+
+#main ul.sys_tabs li.sys_selected
+{
+	background: #ffffff url(/Images/website/tabdots.gif) no-repeat top right;
+	border-bottom: 5px solid #ffffff;
+}
+
+#main ul.sys_tabs li a
+{
+	display: block;
+	padding: 7px 0 7px 13px;
+}
+
+#main ul.sys_tabs li.sys_selected a
+{
+	background: url(/Images/website/tabadots.gif) repeat-y top left;
+}
+
+#main div.sys_contentBox
+{
+	clear: both;
+}
+
+/*** tables ***/
+
+#main table, #overlayMainContent table
+{
+	margin-bottom: 2em;
+}
+
+#main table caption, #overlayMainContent table caption
+{
+	display: none;
+}
+
+#main th, #overlayMainContent th
+{
+	color: #666666;
+	text-align: left;
+	font-size: 1.3em;
+	padding-bottom: 1em;
+}
+
+#main td, #overlayMainContent td
+{
+	color: #666666;
+	font-size: 1.3em;
+	background: url(/Images/website/dots.gif) repeat-x left bottom;
+	padding: 1em 2em 1em 0;
+}
+
+/* Styles to prevent the multiplying effect of em size definitions in tables */
+#main td p, #main th p, #overlayMainContent td p,  #overlayMainContent th p,
+#mainContent td ul > li, #wideContent td ul > li, #overlayMainContent td ul > li, #mainContent td ol > li, #wideContent td ol > li, #overlayMainContent td ol > li
+{
+    font-size:1em;   
+}
+
+#main th.sys_nobr, #main td.sys_nobr, #overlayMainContent th.sys_nobr, #overlayMainContent td.sys_nobr
+{
+	white-space: nowrap;
+}
+/* No border table */
+#main table.table_no-border{}
+
+#main table.table_no-border td, #overlayMainContent table.table_no-border td
+{
+	background: none;
+}
+
+/* Solid border table */
+#main table.table_solid-border td, #main table.table_solid-border th,
+#overlayMainContent table.table_solid-border td, #overlayMainContent table.table_solid-border th
+{
+	background: none;
+	border-style: solid;
+	border-width: 2px 2px 0 0;
+	padding: 3px 8px;
+}
+
+#main table.table_solid-border, #overlayMainContent table.table_solid-border
+{
+	border-style: solid;
+	border-width: 0 0 2px 2px;
+	border-color: #666;
+}
+
+
+/* javascript turned off and no specific message added */
+
+noscript p
+{
+	display: none;
+}
+
+/* Forms: Settings to override those from Contensis styles */
+#content div.sys_cms-form-control ul li {
+    font-size: 1em;
+}
+
+#content div.sys_cms-form-control ul li span, 
+#content div.sys_cms-form-control ul li div, 
+#content div.sys_cms-form-control ul li label
+{
+    color: #666;
+    font-weight: normal;
+}
+
+#content div.sys_cms-form-control ul li .sys_sectionbreak-header {
+    padding-bottom: 5px;
+    font-size: 1.4em;
+}
+
+#content div.sys_cms-form-control ul li .sys_sectionbreak-text {
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+#mainContent div.sys_cms-form-control li,
+#wideContent div.sys_cms-form-control li {
+    margin-bottom: 0;
+    background: none;
+    padding-left:5px;
+}
+
+#mainContent .sys_cms-form-control ul.sys_cms-form-body li fieldset  {
+/*padding:0px;*/
+}
+
+#mainContent .sys_cms-form-control ul.sys_cms-form-body li fieldset .sys_fieldcontent {
+    float:right;
+}
+
+/*
+.sys_cms-form-control li fieldset legend{
+float: left;
+width: 31%;
+padding-right: 3%;
+}
+*/
+
+#mainContent .sys_cms-form-control .sys_form-submit {
+padding: 1px 6px;
+}
+
+/*
+#mainContent .sys_cms-form-control.sys_labels-left ul.sys_cms-form-body li div.sys_fieldcontent {
+float:right;
+}
+*/
+
+#mainContent .sys_cms-form-control ul.sys_cms-form-body li fieldset legend {
+clear:both
+}
+
+/*Editor icon classes */
+
+#content div.iconList {
+    margin-bottom: 10px;    
+}
+
+#content div.iconList ul
+{
+    margin-left: 0;
+}
+
+#content div.iconList li {
+ 	background: transparent url('/Images/website/listdots.gif') repeat-x scroll bottom left;
+    padding-left: 0;
+}
+
+/* Classes to allow users to get access to the icons: */
+#content p.iconAtoZ, #content a.iconAtoZ, 
+#content p.iconAtoZSelected, #content a.iconAtoZSelected,
+#content p.iconCloud, #content a.iconCloud,
+#content p.iconComments, #content a.iconComments,
+#content p.iconDocument, #content a.iconDocument,
+#content p.iconDocumentSelected, #content a.iconDocumentSelected,
+#content p.iconDownload, #content a.iconDownload,
+#content p.iconFive, #content a.iconFive,
+#content p.iconMail, #content a.iconMail,
+#content p.iconPrint, #content a.iconPrint,
+#content p.iconRss, #content a.iconRss,
+#content p.iconSearch, #content a.iconSearch,
+#content p.iconSpeechBubble, #content a.iconSpeechBubble,
+#content p.iconStudy, #content a.iconStudy
+{
+	padding-left: 45px;
+	font-size: 1.15em;
+	font-family: 'Georgia' , 'Times new Roman';
+	/* P and a tags need a bit of padding to make sure the icon appears in full */
+	padding-bottom: 10px;
+}
+
+#content a.iconAtoZ, 
+#content a.iconAtoZSelected,
+#content a.iconCloud,
+#content a.iconComments,
+#content a.iconDocument,
+#content a.iconDocumentSelected,
+#content a.iconDownload,
+#content a.iconFive,
+#content a.iconMail,
+#content a.iconPrint,
+#content a.iconRss,
+#content a.iconSearch,
+#content a.iconSpeechBubble,
+#content a.iconStudy
+{
+	height: 25px;
+    display: block;
+}
+
+
+#content p.iconAtoZ , #content a.iconAtoZ
+{
+	background: transparent url('/Images/website/icons/icoaz.gif') no-repeat top left;
+}
+#content p.iconAtoZSelected , #content a.iconAtoZSelected
+{
+	background: transparent url('/Images/website/icons/icoazselected.gif') no-repeat top left;
+}
+#content p.iconCloud , #content a.iconCloud
+{
+	background: transparent url('/Images/website/icons/icocloud.gif') no-repeat top left;
+}
+#content p.iconComments , #content a.iconComments
+{
+	background: transparent url('/Images/website/icons/icocomments.gif') no-repeat top left;
+}
+#content p.iconDocument , #content a.iconDocument
+{
+	background: transparent url('/Images/website/icons/icodocument.gif') no-repeat top left;
+}   
+#content p.iconDocumentSelected , #content a.iconDocumentSelected
+{
+	background: transparent url('/Images/website/icons/icodocumentselected.gif') no-repeat top left;
+}   
+#content p.iconDownload , #content a.iconDownload
+{
+	background: transparent url('/Images/website/icons/icodownload.gif') no-repeat top left;
+}   
+#content p.iconFive , #content a.iconFive
+{
+	background: transparent url('/Images/website/icons/icofive.png') no-repeat top left;
+}
+#content p.iconMail , #content a.iconMail
+{
+	background: transparent url('/Images/website/icons/icomail.gif') no-repeat top left;
+}   
+#content p.iconPrint, #content a.iconPrint
+{
+	background: transparent url('/Images/website/icons/icoprint.gif') no-repeat top left;
+}   
+#content p.iconRss , #content a.iconRss
+{
+	background: transparent url('/Images/website/icons/icorss.gif') no-repeat top left;
+}   
+#content p.iconSearch , #content a.iconSearch
+{
+	background: transparent url('/Images/website/icons/icosearch.gif') no-repeat top left;
+}
+#content p.iconSpeechBubble , #content a.iconSpeechBubble
+{
+	background: transparent url('/Images/website/icons/icospeechbubble.png') no-repeat top left;
+}
+#content p.iconStudy , #content a.iconStudy
+{
+	background: transparent url('/Images/website/icons/icostudy.gif') no-repeat top left;
+}
+
+/* Twitter widget styling */
+.twtr-bd p
+{
+    font-size: 1.0em;
+}
+
+/* Contact section */
+
+#content div.sys_contactSection {
+    background-color: #E1E6EC;
+	color: #666666;
+    padding: 10px;
+}
+
+#content div.sys_contactSection h2
+{
+    color: #990066;
+    padding-left: 45px;
+    background: transparent url('/Images/website/icons/icomail.gif') no-repeat 3px 9px;
+}
+
+/* document tracking */
+
+a.pdftracker {
+
+}
+a.doctracker {
+       
+}
+
+/* Overlay Box links */
+a.overlayBox {
+    
+}
+
+/* Footer at the bottom with links and images */
+div#footerBottom.sys_linksAndImage{
+    height: 110px;
+    background: transparent url('/Images/website/dotsfooter.gif') repeat-x scroll bottom center;
+}
+
+div#footerBottom.sys_linksAndImage .sys_footerLeft{
+    float: left;
+    width: 800px;
+}
+
+div#footerBottom.sys_linksAndImage .sys_footerRight{
+    float: right;
+}
+
+div#footerBottom.sys_linksAndImage .sys_footerRow{
+    clear: left;
+    padding-top: 20px;
+    font-size: 1.3em;
+}

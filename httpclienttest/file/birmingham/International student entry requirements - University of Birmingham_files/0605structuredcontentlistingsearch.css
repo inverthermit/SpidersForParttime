@@ -1,0 +1,851 @@
+﻿/**** ($Id: 0605structuredcontentlistingsearch.css 3036 2015-02-18 12:53:53Z nixonm $) ******/
+
+/***********************************/
+/********** general ****************/
+/***********************************/
+
+/* ticker de-activation */
+#Archive_Ticker_Container, .sys_ticker
+{
+    display: none;
+}
+
+.sys_search-options .sys_checkbox-list .sys_checkbox, .sys_search-options .sys_radiobutton-list .sys_radiobutton
+{
+	min-height: 1.5em;
+	margin: 0;
+	clear: both;
+}
+.sys_search-options .sys_checkbox-list .sys_checkbox input, .sys_search-options .sys_radiobutton-list .sys_radiobutton input
+{
+	display: block;
+	float: left;
+	margin: 0 5px 0 0;
+	padding: 0;
+	width: 13px;
+	height: 13px;
+}
+
+.sys_search-options .sys_checkbox-list .sys_checkbox label, .sys_search-options .sys_radiobutton-list .sys_radiobutton label
+{
+	display: block;
+	float: left;
+	position: relative;
+	margin: 0;
+	padding: 0 0 .6em 0;
+	width: 86%;
+	cursor: pointer; /* cursor: hand;*/
+	font-size: 1em;
+	line-height: 1em;
+}
+.sys_search-options
+{
+	position: static;
+}
+
+.sys_search-options input.sys_button, .sys_search-options .sys_button-row input.sys_button, .sys_advanced-search-options .sys_button-row input.sys_button
+{
+	border: 1px solid #acacac;
+	border-top-color: #e5e5e5;
+	border-left-color: #e5e5e5;
+	color: #333;
+	background-image: none;
+	background-color: #e5e5e5;
+	background-position: 5px 50%;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	padding: .2em 12px;
+	width: auto;
+	height: auto;
+	min-height: 1.2em;
+	line-height: 1.2em;
+	font-weight: 700;
+	font-size: 1em;
+}
+.sys_search-options .sys_button-row input.sys_searchbutton, .sys_search-options .sys_button-row input.sys_search-button, .sys_search-options .sys_basic-search-row input.sys_search-button, .sys_advanced-search-options .sys_button-row input.sys_search-button, .sys_advanced-search-options .sys_button-row input.sys_searchbutton
+{
+	background-image: url("/aspnet_client/ContensisThemes/simple/Common/imgs/search-icon.gif");
+	padding-left: 22px;
+}
+.sys_tools-control div a
+{
+	display: block;
+	color: #333;
+	text-decoration: none;
+	padding: 2px 0 2px 22px;
+	background-repeat: no-repeat;
+	background-position: 0 50%;
+}
+
+/* RSS and Atom Links */
+.sys_rss-link, .sys_button-subscribe-rss
+{
+	display: block;
+	overflow: hidden;
+	white-space: nowrap;
+	font-size: 11px;
+}
+.sys_rss-link a, .sys_button-subscribe-rss a
+{
+	display: block;
+	padding: 2px 0 2px 22px;
+	overflow: hidden;
+	font-weight: 700;
+	background: url('/aspnet_client/ContensisThemes/simple/Common/Imgs/Rss-Feed-Icon.gif') 0 50% no-repeat;
+}
+.sys_atom-link, .sys_button-subscribe-atom
+{
+	display: block;
+	overflow: hidden;
+	white-space: nowrap;
+	font-size: 11px;
+}
+.sys_atom-link a, .sys_button-subscribe-atom a
+{
+	display: block;
+	padding: 2px 0 2px 22px;
+	font-weight: 700;
+	background: url('/aspnet_client/ContensisThemes/simple/Common/Imgs/Atom-Feed-Icon.gif') 0 50% no-repeat;
+	overflow: hidden;
+}
+h1 span.sys_rss-link, h2 span.sys_rss-link, h3 span.sys_rss-link
+{
+	width: 100px;
+	padding-right: 10px;
+	top: 0;
+	right: 0;
+	float: right;
+}
+
+h1 span.sys_atom-link, h2 span.sys_atom-link, h3 span.sys_atom-link
+{
+	width: 100px;
+	padding-right: 5px;
+	top: 0;
+	right: 100px;
+	float: right;
+}
+div.sys_syndicationlinks-control
+{
+	width: 100%;
+	padding: 0 0 24px 0;
+	margin: 0;
+}
+div.sys_syndicationlinks-control .sys_button-subscribe-rss
+{
+	width: 100px;
+	padding-right: 10px;
+	top: 0;
+	right: 0;
+	float: right;
+}
+div.sys_syndicationlinks-control .sys_button-subscribe-atom
+{
+	width: 100px;
+	padding-right: 5px;
+	top: 0;
+	right: 100px;
+	float: right;
+}
+.sys_itemslist img
+{
+	float: left;
+	margin-bottom: 1em;
+}
+.sys_options-inner .sys_keyword-row label, .sys_options-inner .sys_month-row label, .sys_options-inner .sys_year-row label, .sys_options-inner .sys_search-row-label
+{
+	font-size: 1.3em;
+	line-height: 1.3em;
+	color: #666;
+	font-weight: bold;
+}
+.sys_options-inner .sys_search-row-label
+{
+	padding-bottom: 5px;
+}
+.sys_groupheader
+{
+	display: none;
+}
+.sys_subitem
+{
+	clear: left;
+}
+#mainContent .sys_itemslist
+{
+	margin-top: 24px;
+}
+
+
+/***********************************/
+/********* news and events *********/
+/***********************************/
+
+div.sys_news-control .sys_subitem, div.sys_events-control .sys_subitem
+{
+	background: transparent url('/Images/website/listdots.gif') repeat-x scroll bottom left;
+	padding: 0 0 1em 0;
+	margin-bottom: 2em;
+	overflow: hidden;
+	height: 1%;
+	font-size: 1em;
+	font-weight: normal;
+}
+/* basic dd and dt formattting for news/events definition lists  */
+div.sys_news-control dl dd, div.sys_news-control dl dt, div.sys_events-control dl dd, div.sys_events-control dl dt
+{
+	font-size: 1.3em;
+	line-height: 1.3em;
+	color: #666;
+}
+dt.sys_news-datepublished, dt.sys_news-description, dt.sys_news-category, dt.sys_events-date, dt.sys_events-time, dt.sys_events-location, dt.sys_events-description, dt.sys_events-category
+{
+	display: none;
+}
+div.sys_news-control div.sys_thumbnail img, div.sys_events-control div.sys_thumbnail img
+{
+	padding-bottom: 4px;
+}
+#wideContent .sys_news-search-control, #wideContent .sys_events-search-control
+{
+	float: right;
+	width: 200px;
+	min-height: 1em;
+	padding-left: 10px;
+	background-color: #F3F5F7;
+	height: 600px;
+}
+
+
+/********************************/
+/***** Rss additions ************/
+/********************************/
+
+/**********************************/
+/***** News and events mini listings and rss on 2-column pages ********/
+/**********************************/
+
+#wideContent .sys_col .sys_news-minilist-control ul,
+#wideContent .sys_col .sys_events-minilist-control ul,
+#wideContent .sys_col ul.sys_rss
+{
+	list-style: none;
+	font-size: 1.3em;
+}
+
+#wideContent .sys_col .sys_news-minilist-control ul li,
+#wideContent .sys_col .sys_events-minilist-control ul li,
+#wideContent .sys_col ul.sys_rss li
+{
+	padding-left: 0;
+	background: transparent url('/Images/website/listdots.gif') repeat-x scroll bottom left;
+}
+
+#wideContent .sys_col .sys_events-minilist-control ul li.sys_subitem span.sys_events-date
+{
+	display: block;
+	clear:left;
+}
+
+/********************************/
+/***** Rss additions ************/
+/********************************/
+#wideContent .sys_col ul.sys_rss li
+{
+	padding-bottom: 1em;
+}
+
+
+
+/***********************************/
+/******** news-specific ************/
+/***********************************/
+
+.sys_news-search-control .sys_basic-search-row, .sys_news-search-control .sys_search-row
+{
+	margin-bottom: .8em;
+}
+
+.sys_news-search-control label
+{
+	width: 100%;
+	display: block;
+	margin: 0 0 .2em 0;
+}
+
+.sys_news-search-control input
+{
+	width: 95%;
+}
+
+.sys_news-search-control select
+{
+	width: 98%;
+}
+#main #mainContent div.sys_news-control h1
+{
+	margin-left: 0px;
+}
+dd.sys_news-datepublished
+{
+	padding: 6px 0px 4px 0px;
+	font-weight: bold;
+}
+
+
+/***********************************/
+/******** events-specific **********/
+/***********************************/
+
+dd.sys_events-location
+{
+	padding: 2px 0px 2px 0px;
+	font-weight: bold;
+}
+dd.sys_events-time, dd.sys_events-date
+{
+	padding: 10px 0px 4px 0px;
+	font-weight: bold;
+}
+
+dd.sys_events-category
+{
+	padding-top: 2px;
+}
+.sys_events-search-control .sys_search-options .sys_keywords-row, .sys_events-search-control .sys_search-options .sys_datefrom-row, .sys_events-search-control .sys_search-options .sys_dateto-row, .sys_events-search-control .sys_search-options .sys_search-row-label
+{
+	font-size: 1.3em;
+	line-height: 1.3em;
+	color: #666;
+	font-weight: bold;
+}
+
+.sys_events-search-control .sys_search-options .sys_search-row-label
+{
+	padding-bottom: 5px;
+}
+/* Event Tabs Control */
+.sys_tabsfilter-control
+{
+	margin-top: 10px;
+	height: 24px;
+	border-bottom: 1px solid #ccc;
+	clear: both;
+	line-height: 16px;
+}
+.sys_tabsfilter-control ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+.sys_tabsfilter-control:after, .sys_tabsfilter-control ul:after
+{
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
+div#main .sys_tabsfilter-control li
+{
+	float: left;
+	clear: none;
+	list-style-type: none;
+	list-style-image: none;
+	border-top: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	border-left: 1px solid #ccc;
+	border-bottom: 0 none;
+	margin: 0 5px 1px 0;
+	padding: 0;
+	width: auto;
+	cursor: pointer; /* cursor: hand;*/
+	z-index: 0;
+	position: relative;
+}
+
+.sys_tabsfilter-control li a
+{
+	float: left;
+	display: block;
+	color: #666;
+	background: #f0f0f0;
+	padding: 4px 12px;
+	text-decoration: none;
+	position: relative;
+}
+
+.sys_tabsfilter-control li a:hover
+{
+	color: #333;
+	background: #fff;
+	text-decoration: none;
+	border: 3px solid #ccc;
+	border-bottom: 0 none;
+	margin: -3px -3px 0 -3px;
+}
+
+.sys_tabsfilter-control li.sys_selected
+{
+}
+
+.sys_tabsfilter-control li.sys_selected a
+{
+	color: #000;
+	background: #fff;
+	text-decoration: none;
+	border: 3px solid #ccc;
+	border-bottom: 0 none;
+	margin: -3px -3px 0 -3px;
+}
+
+.sys_tabsfilter-control li.sys_date-range-on
+{
+	border-color: #929292;
+}
+/* Event Calendar Controls */
+
+/* Tools Control */
+.sys_events-tools-control .sys_button-subscribe-calendar a
+{
+	background-image: url("/aspnet_client/ContensisThemes/simple/events/imgs/calendar-icon.gif");
+}
+.sys_events-tools-control .sys_button-download a
+{
+	background-image: url("/aspnet_client/ContensisThemes/simple/events/imgs/acrobat-icon.gif");
+}
+/* Full Events Calendar */
+.sys_theme-simple.sys_events
+{
+}
+
+/* Listing Control when part of full calendar */
+.sys_theme-simple.sys_events .sys_events-control
+{
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 70%;
+}
+
+
+/* Item Summary Wrapper */
+.sys_events-control .sys_subitem .sys_events-summary
+{
+	position: relative; /* jpw removed to allow sentence to function  z-index:300;  */
+	top: -15px;
+	margin: 0;
+	padding: 0 0 0 9px;
+	min-height: 1em;
+	zoom: 1;
+}
+
+.sys_events-control .sys_subitem .sys_events-summary dl
+{
+	padding-bottom: 0;
+}
+
+.sys_events-control .sys_subitem .sys_events-summary dl dt.sys_events-date
+{
+	display: none;
+}
+
+.sys_events-control .sys_subitem .sys_events-summary dl dt.sys_events-location
+{
+	width: 60px;
+}
+
+.sys_events-control .sys_subitem .sys_events-summary dl dd.sys_events-location
+{
+	font-weight: 700;
+}
+
+.sys_events-control .sys_subitem .sys_events-summary dl dt.sys_events-description
+{
+	display: none;
+}
+
+/* Search Options */
+.sys_theme-simple.sys_events .sys_events-search-control
+{
+	margin: 0 0 10px 0;
+	padding: 8px 0 10px 8px;
+	float: right;
+	width: 27%;
+}
+
+.sys_events-search-control .sys_search-row, .sys_events-search-control .sys_basic-search-row
+{
+	margin-bottom: .8em;
+	position: static;
+}
+.sys_events-search-control label
+{
+	width: 100%;
+	display: block;
+	margin: 0 0 4px 0;
+}
+
+.sys_events-search-control input
+{
+	width: 95%;
+}
+
+.sys_events-search-control select
+{
+	width: 98%;
+}
+
+
+
+/*----*/
+/* Event list Thumbnails Image */
+.sys_events-control .sys_itemslist div.sys_thumbnail
+{
+	float: right;
+	margin: -15px 6px 8px 8px;
+	padding: 0;
+	position: relative; /* jpw removed to allow sentence to function   z-index:999;   */
+	border: 0px solid #ccc;
+	background-repeat: no-repeat;
+}
+
+.sys_events-control .sys_itemslist div.sys_thumbnail a
+{
+	float: left;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.sys_events-control .sys_itemslist div.sys_thumbnail a:hover
+{
+	border: 3px solid #ccc;
+	margin: -3px;
+}
+.sys_events-control .sys_itemslist div.sys_thumbnail a:active
+{
+	border: 3px solid #333;
+	margin: -3px;
+}
+
+.sys_events-control .sys_itemslist div.sys_thumbnail img
+{
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+/* Icon */
+/* Adds a Default Blank Icon */
+.sys_events-control .sys_itemslist div.sys_icon
+{
+	padding: 0 0 8px 4px;
+	float: right;
+	width: 52px;
+	height: 52px;
+	background-position: 0 0;
+	background-repeat: no-repeat;
+	background-image: url("/aspnet_client/ContensisThemes/simple/events/imgs/icons/large/default.png");
+}
+.sys_events-control .sys_noresults, .sys_events-control .sys_search-term-text
+{
+	padding-top: 8px;
+}
+
+/**************************************
+a-z
+**************************************/
+
+#wideContent div.sys_atoz-control
+{
+	padding-left: 11px;
+	padding-right: 11px;
+	background: #F3F5F7;
+}
+
+#wideContent div.sys_search-control div.sys_atoz-control ul
+{
+	clear: both;
+	margin: 0 0 0 0;
+	padding-top: 1em;
+	padding-bottom: .3em;
+	overflow: hidden;
+}
+
+#wideContent div.sys_search-control div.sys_atoz-control ul li
+{
+	float: left;
+	margin-right: 2px;
+	background: none no-repeat 0 0 transparent;
+	padding-left: 0px;
+	font-size: 1em;
+}
+
+#wideContent div.sys_search-control div.sys_atoz-control ul li a
+{
+	color: #906;
+}
+
+#wideContent div.sys_search-control div.sys_atoz-control ul li span, #wideContent div.sys_search-control div.sys_atoz-control ul li a
+{
+	font-size: 1.5em;
+	width: 1.5em;
+	display: block;
+	text-align: center;
+	padding: 5px 0;
+	font-weight: bold;
+	background: white;
+	border: 1px solid #E1E1E1;
+}
+
+/* search box */
+
+#content div.sys_keywordsearch-search-control div.sys_search-options
+{
+	margin: 10px 0px 50px 0px;
+}
+
+#content div.sys_keywordsearch-search-control div.sys_search-options h2
+{
+	margin-bottom: 0.5em;
+}
+
+#content div.sys_keywordsearch-search-control div.sys_search-row input.sys_text
+{
+	width: 300px;
+	border: 1px solid #CCC;
+	height: 21px; /*margin-left: 11px;*/
+	margin-top: 5px;
+	padding: 2px;
+}
+
+#content div.sys_keywordsearch-search-control div.sys_search-row .sys_submit
+{
+	line-height: 1.5em;
+	font-size: 1.2em;
+	color: #906;
+	padding: 5px 9px;
+	background: #E5E9EE;
+	border: none;
+	margin: 0 0 0 1em;
+}
+
+#wideContent .sys_theme-simple .sys_datarepeatercontrol .sys_subitem
+{
+	border: 0px;
+	border-bottom: 1px dotted #CCC;
+	background: #fff;
+}
+
+#wideContent .sys_theme-simple .sys_itemslist .sys_subitem .sys_subitem-heading
+{
+	font-size: 1.3em;
+	margin-left: 0px;
+	background: none;
+}
+
+#wideContent .sys_theme-simple .sys_itemslist .sys_subitem .sys_subitem-heading a
+{
+	padding-left: 0px;
+}
+
+#wideContent .sys_theme-simple .sys_itemslist div.sys_subitem-summary
+{
+	margin: 0;
+	padding: 0px;
+}
+
+#wideContent .sys_theme-simple .sys_datarepeatercontrol .sys_subitem dl
+{
+	padding: 0px;
+}
+
+/* search box - contensis control */
+
+#wideContent .sys_theme-simple .sys_search-query-control input.sys_searchbox
+{
+	margin: 0 5px 0 0;
+	width: 300px;
+	border: 1px solid #CCC;
+	height: 21px;
+	margin-top: 5px;
+	padding: 2px;
+	float: none;
+}
+
+#wideContent .sys_theme-simple .sys_search-query-control input.sys_button
+{
+	font-size: 1.2em;
+	color: #906;
+	padding: 5px 9px;
+	background: #E5E9EE;
+	margin: 0 0 0 1em;
+	border: 1px solid #ACACAC;
+	border-top-color: #E5E5E5;
+	border-left-color: #E5E5E5;
+	background-position: 5px 50%;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	width: auto;
+	font-weight: 700;
+	float: none;
+}
+
+#wideContent .sys_theme-simple .sys_search-query-control label
+{
+	display: none;
+}
+
+#wideContent .sys_theme-simple .sys_search-query-control
+{
+	margin: 0px 0px 50px 0px;
+}
+
+    /* UoB A to Z header in the listings  */
+	#content div.sys_uob-atoz-control ul{
+		clear:both;
+		margin:0 0 0 0;
+		padding-top: 1em;
+		padding-bottom: .3em;
+		overflow:hidden;
+	}
+    #wideContent div.sys_uob-atoz-control ul
+    {
+        padding-left: 11px;
+    }
+		/* Set the basic features of the li */
+		#content div.sys_uob-atoz-control ul li {
+				float:left;
+				margin-right:2px;
+				background: none no-repeat 0 0 transparent;
+				padding-left: 0px;
+			}
+
+		#content div.sys_uob-atoz-control ul li a,
+		#content div.sys_uob-atoz-control ul li span
+		 {
+				display:block;
+				text-align:center;
+				padding:5px 0;
+				font-weight:bold;
+				background:#ffffff;
+				border:1px solid #e1e1e1;
+			}
+
+
+        /*Sizes for a 3 column page */
+		#mainContent div.sys_uob-atoz-control ul li a,
+		#mainContent div.sys_uob-atoz-control ul li span
+		 {
+				font-size:1.0em;
+				width:1.2em;
+			}
+
+        /* Sizes for a 2 column page */
+		#wideContent div.sys_uob-atoz-control ul li a,
+		#wideContent div.sys_uob-atoz-control ul li span
+		 {
+				font-size:1.2em;
+				width:1.5em;
+			}
+			
+		#content div.sys_uob-atoz-control ul li a
+		{
+			
+				color:#990066;
+		}
+		
+		#content div.sys_uob-atoz-control ul li.sys_selected a {
+					background:#66a300;
+					color:#ffffff;
+				}
+
+/* results - default control */
+
+#wideContent .sys_searchresults-themed .sys_search-control .sys_standardlist-title
+{
+	display: none;
+}
+#wideContent .sys_searchresults-themed .sys_search-control .sys_search-term-text
+{
+	display: none;
+}
+
+ul.sys_pager
+{
+	clear: both;
+	list-style-type: none;
+	margin: 0.5em 0 2em 0;
+	padding: 0;
+}
+
+#search_content ul.sys_pager{
+	margin: 1em 0 1em 2em;
+}
+
+ul.sys_pager li 
+{
+	display: inline;
+	font-size: 1.4em;
+	color: #666666;
+	background:none !important;
+}
+
+#search_content ul.sys_pager li {
+	font-size: 1.3em;
+	font-weight: normal;
+	color: #666;
+	padding-left: 15px;
+	margin-bottom: .75em;
+}
+
+ul.sys_pager li a
+{
+	color: #990066;
+	padding: 0 0 0 14px;
+}
+
+ul.sys_pager li.first a
+{
+	padding: 0 0 0 0;
+}
+
+ul.sys_pager li a:hover, ul.sys_pager li.sys_current-page a
+{
+	color: #333333;
+	font-weight: bold;
+}
+
+
+form#quicksearch label.qs_label {
+
+font-size: 1.5em;
+}
+
+form#quicksearch input.qs_input
+{
+margin: 10px 20px 20px 20px;
+width: 280px;
+padding: 4px
+}
+
+/* Schools and Departments on Multiple Search */
+.sys_multipleSearchOrganisationalUnitList{
+	padding-top: 10px;
+}
+.sys_multipleSearchOrganisationalUnitList h2
+{
+	color: #66A300;
+}
+
+.sys_multipleSearchOrganisationalUnitList ul
+{
+	font-size: 1.3em;
+	font-weight: bold;
+}
+.sys_multipleSearchOrganisationalUnitList li
+{
+	padding-bottom: 5px;
+}

@@ -1,0 +1,715 @@
+﻿/* CSS for the course search and listing controls */
+/* $Id: 0615courselistingsearch.css 3068 2015-03-05 17:41:56Z nixonm $ */
+
+
+#main div.sys_course-control,
+#main div.sys_courses-search-control  {
+    height: auto;
+	margin: 0 0 8px 0;
+}
+
+#main div.sys_courses-search-control  {
+	padding: 11px;
+}
+
+#main div.sys_course-atoz-list
+{
+	padding-bottom: 11px;
+}
+
+/* Change the colour and stick a line across the top if it's a search or an a-to-z result */
+#main div.sys_courses-search-control,
+#main div.sys_course-atoz-list
+  {
+	border-top:1px solid #cccccc;
+	}
+
+	/* Set the colour for the search or the options at the top of an Z to Z */
+	#main div.sys_courses-search-control,
+	#main div.sys_course-atoz-list h2.sys_course-title,
+	#main div.sys_course-atoz-list div.sys_atoz-control,
+	#main div.sys_course-atoz-list div.sys_academiclevelradios ,
+	#main div.sys_course-atoz-list div.sys_coursefilterbuttons
+	{
+		background: #f3f5f7;
+	}
+
+	/* Because the 3 top sections of the A to Z are coloured, have to set the padding on the 
+		individual sections of the control as well as the search control*/ 
+	#main div.sys_courses-search-control,
+	#main div.sys_course-atoz-list div.sys_atoz-control,
+	#main div.sys_course-atoz-list div.sys_academiclevelradios,
+	#main div.sys_course-atoz-list div.sys_coursefilterbuttons
+	{
+		padding-left: 11px;
+		padding-right: 11px;
+	}
+
+	#main div.sys_multipleSearchResults div.sys_coursefilterbuttons
+	{
+		padding-bottom: 11px;	
+	}
+	
+	/* Headers for the search control and the a to z list */
+	#mainContent div.sys_course-control h2.sys_course-title, 
+	#wideContent div.sys_course-control h2.sys_course-title, 
+	#mainContent div.sys_courses-search-control h2,
+	#wideContent div.sys_courses-search-control h2
+	{
+		margin-bottom: 0;
+	}
+
+	/* Headers for the search control and the a to z list */
+	#mainContent div.sys_course-atoz-list h2.sys_course-title, 
+	#wideContent div.sys_course-atoz-list h2.sys_course-title, 
+	#mainContent div.sys_courses-search-control h2,
+	#wideContent div.sys_courses-search-control h2,
+	#main div.sys_uob-courses-search-control h2
+	{
+		color:#333333;
+		font-size:2.2em;
+		height:auto;
+		height:32px;
+		min-height:32px;
+		padding: 0;
+	}
+	
+	/* Over rides settings in style.css to set h2 as Georgia */
+	#wideContent div.sys_course-atoz-list h2,
+	#wideContent div.sys_courses-search-control h2,
+	#mainContent div.sys_course-atoz-list h2,
+	#mainContent div.sys_courses-search-control h2,
+	#main div.sys_uob-courses-search-control h2
+	{
+		font-family: "Georgia", "Times new Roman";	
+	}
+	
+	/* Icon and padding for search header */
+	#main div.sys_courses-search-control h2,
+	#main div.sys_uob-courses-search-control h2
+	{
+		padding-left: 32px;
+		background: url("/Images/website/icons/icosearchselected.gif")  no-repeat;
+	}
+	
+	/* Icon and padding for a to z header */
+	#mainContent div.sys_course-atoz-list h2.sys_course-title,
+	#wideContent div.sys_course-atoz-list h2.sys_course-title
+	{
+		padding-left: 43px;
+		padding-right: 11px;
+		padding-top: 11px;
+		background: #f3f5f7 url("/Images/website/icons/icoazselected.gif") 11px 11px no-repeat;
+	}
+
+	/*Basic settings for textboxes */
+	#main div.sys_course-control input.sys_text, #main div.sys_courses-search-control input.sys_text {
+		margin-top: 5px;
+		width:400px;
+		border:1px solid #cccccc;
+	}
+	
+	/* Labels on the search control*/
+	#main div.sys_courses-search-control div.sys_search-row label{
+		line-height:1.5em;
+		font-size: 1.3em;
+		color: #666;
+		}
+	
+	/* Submit buttons on the search page */
+	#main div.sys_courses-search-control .sys_submit {
+		line-height: 1.5em;
+		font-size:1.5em;
+		color:#990066;
+		padding:5px 9px;
+		background:#e5e9ee;
+		border:none;
+		margin:0 0 0 1em;
+	}
+	
+	#main div.sys_courses-search-control .sys_reset {
+		background:url("/Images/website/clear.gif") no-repeat scroll 0 0 transparent;
+		border:medium none;
+		/*clear:left;*/
+		color:#666699;
+		/*float:left;*/
+		font-size:1.2em;
+		font-weight:bold;
+		height:auto !important;
+		margin:.5em 0 0 0;
+		min-height:21px;
+		padding:.2em 2.5em;
+		text-align:left;
+		display:block;
+	}
+	
+	/*Unordered lists for the A to Z letters need to refer to both mainContent and wideContent 
+		because of li definitions at the mainContent level with padding used to maintain design */
+	#mainContent div.sys_course-control div.sys_atoz-control ul,
+	#wideContent div.sys_course-control div.sys_atoz-control ul {
+		clear:both;
+		margin:0 0 0 0;
+		padding-top: 1em;
+		padding-bottom: .3em;
+		overflow:hidden;
+	}
+
+		/* Added a font-size: 1em to return the basic li to normal size */
+		#mainContent div.sys_course-control div.sys_atoz-control ul li,
+		#wideContent div.sys_course-control div.sys_atoz-control ul li {
+				float:left;
+				margin-right:2px;
+				background: none no-repeat 0 0 transparent;
+				padding-left: 0px;
+				font-size: 1em;
+			}
+
+		#mainContent div.sys_course-control div.sys_atoz-control ul li a,
+		#wideContent div.sys_course-control div.sys_atoz-control ul li a,
+		#mainContent div.sys_course-control div.sys_atoz-control ul li span,
+		#wideContent div.sys_course-control div.sys_atoz-control ul li span
+		 {
+				display:block;
+				text-align:center;
+				padding:5px 0;
+				font-weight:bold;
+				background:#ffffff;
+				border:1px solid #e1e1e1;
+			}
+
+		#mainContent div.sys_course-control div.sys_atoz-control ul li a,
+		#mainContent div.sys_course-control div.sys_atoz-control ul li span
+		 {
+				font-size:1.2em;
+				width:1.2em;
+			}
+
+
+		#wideContent div.sys_course-control div.sys_atoz-control ul li a,
+		#wideContent div.sys_course-control div.sys_atoz-control ul li span
+		 {
+				font-size:1.5em;
+				width:1.5em;
+			}
+			
+		#mainContent div.sys_course-control div.sys_atoz-control ul li a,
+		#wideContent div.sys_course-control div.sys_atoz-control ul li a
+		{
+			
+				color:#990066;
+		}
+		
+		#mainContent div.sys_course-control div.sys_atoz-control ul li.sys_selected a,
+		#wideContent div.sys_course-control div.sys_atoz-control ul li.sys_selected a {
+					background:#66a300;
+					color:#ffffff;
+				}
+	
+	/*  These are the radio buttons for the undergraduate and postgraduate under the a to z or the search */
+	/* Moved a margin in here as padding to maintain design and extend colour*/
+	#main div.sys_course-control div.sys_academiclevelradios,
+	#main div.sys_course-control div.sys_coursefilterbuttons
+	{
+		padding-bottom: 1em;
+	}
+	#main ul.sys_radios,
+	#main div.sys_uob-academic-level-buttons ul.sys_radios,
+	#main div.sys_uob-course-filter-buttons ul.sys_radios
+	{
+		
+		clear:both;
+		margin:0 0 0 0;
+		overflow:hidden;
+	}
+
+		#main ul.sys_radios li,
+		#main div.sys_uob-academic-level-buttons ul.sys_radios li,
+		#main div.sys_uob-course-filter-buttons ul.sys_radios li
+		{
+			float:left;
+			margin-right:28px;
+			background-image: none;
+			font-size:1.2em;
+		}
+
+			/* Overrides of the standard LI settings */
+			#main ul.sys_radios li,
+			#main div.sys_uob-academic-level-buttons ul.sys_radios li,
+			#main div.sys_uob-course-filter-buttons ul.sys_radios li
+			{
+				padding-left: 0;
+				margin-bottom: 0;
+			}
+			
+			#main ul.sys_radios li a,
+			#main div.sys_uob-academic-level-buttons ul.sys_radios li a,
+			#main div.sys_uob-course-filter-buttons ul.sys_radios li a
+			{
+				padding:0 0 0 24px;
+				color:#666666;
+				font-weight:bold;
+				background:url(/Images/website/radio.gif) no-repeat 3px 0;
+				border:none;
+		    }
+
+				#main ul.sys_radios li.sys_selected a,
+				#main div.sys_uob-academic-level-buttons ul.sys_radios li.sys_selected a,
+				#main div.sys_uob-course-filter-buttons ul.sys_radios li.sys_selected a
+				{
+				background:url(/Images/website/radioselected.gif) no-repeat 3px 0;
+			    }
+	
+	/* Heading which contains the description of the search*/
+	#mainContent div.sys_course-control h2.sys_results,
+	#wideContent div.sys_course-control h2.sys_results {
+		color:#66A300;
+		margin: 0 0 0 0;
+	}
+	
+	/* Use the design values for the A to Z Search results description */
+	#mainContent div.sys_course-atoz-list h2.sys_results,
+	#wideContent div.sys_course-atoz-list h2.sys_results
+	{
+		font-size:2.2em;
+		margin-top: 1em;
+	}
+
+		#mainContent div.sys_course-control h2.sys_results em,
+		#wideContent div.sys_course-control h2.sys_results em {
+			color:#666699;
+			font-size:0.9em;
+			font-style:normal;
+		}
+	
+	/* Put a margin on the top so that whatever is above it is spaced as in design*/
+	#main div.sys_course-control div.sys_datarepeatercontrol
+	{
+		margin-top: 1em;
+	}
+	
+	/* Use the design margin for the a to z lists and put the bottom padding in as well */
+	#main div.sys_course-atoz-list div.sys_datarepeatercontrol
+	{
+		margin-top: 2em;
+		padding-bottom: 11px;
+	}
+	
+	/* Reduce the top padding for the ul of courses */
+	#mainContent ul.sys_itemslist
+	{
+		margin-top: 10px;
+		
+	}
+	/* Shows the number of records on each page */
+	#main div.sys_course-control div.sys_paginginfo {
+		clear:both;
+		font-size:1.5em;
+		color:#666666;
+		padding:0.5em 0 1em 0;
+	}
+
+	#main div.sys_course-control div.sys_paginginfo span.sys_paginginfocurrentrecord,
+		#main div.sys_paginginfo span.sys_paginginfomaxrecord,
+		#main div.sys_paginginfo span.sys_paginginforecordcount  {
+		color:#333333;
+		font-weight: bold;
+
+	}
+	
+	/* The styling for the previous/next and paging options */
+	#main div.sys_course-control div.sys_navigation
+	{
+		clear:both;
+		margin:0.5em 0 2em 0;
+		padding:0;
+	}
+
+	#main div.sys_course-control div.sys_navigation span
+	{
+		display:inline;
+	}
+
+	#main div.sys_course-control div.sys_navigation span span{
+		font-size:1.4em;
+		color:#666666;
+		padding: 0 0 0 14px;
+	}
+
+	/* Make the previous stay to the left */	
+	#main div.sys_course-control div.sys_navigation span.sys_navigationprevious span{
+		padding: 0 0 0 0;
+	}
+	
+
+		#main div.sys_course-control div.sys_navigation span a {
+			color:#990066;
+			font-size:1.4em;
+			padding: 0 0 0 14px;
+		}
+
+	#main div.sys_course-control div.sys_navigation span.sys_navigationprevious a {
+		padding:0 0 0 0;
+	}
+
+			#main div.sys_course-control div.sys_navigation span.sys_selected a {
+				color:#333333;
+				font-weight:bold;
+			}
+			
+
+/* new related course listing*/
+
+.sys_search_result {
+    margin: 0 0 20px;
+}
+.sys_search_result ul.sys_courseDescriptionList {
+    margin: 0!important;
+    padding: 0 0 8px 0!important;
+}
+div#mainContent div.sys_search_result ul.sys_courseDescriptionList li {
+    color: #666699 ;
+    display: inline;
+    list-style: none outside none;
+    padding: 0 30px 0 2px;
+    background:none;
+}
+
+div.sys_search_result div.sys_courseBubble {
+    display:none;
+}
+
+/* UOB Course A to Z and Search */
+
+/* Set the the background of the course A to Z header including the Academic Level buttons */
+
+#main div.sys_uob-course-atoz-header
+{
+    background: #F3F5F7;
+}
+
+/* Set the background of the course Search including the Academic Level buttons with padding to give the buttons
+some space underneath */
+#main div.sys_uob-courses-search-control
+{
+    background: #F3F5F7;
+    padding-bottom: 11px;
+}
+
+/* Make the course search more compact than a standard search */
+#main div.sys_uob-courses-search-control div.sys_keywordsearch-search-control
+{
+    padding-bottom: 0px;
+}
+#main div.sys_uob-courses-search-control div.sys_search-options {
+    margin-bottom: 0px;
+    margin-top:0px;
+}
+
+#main div.sys_uob-courses-search-control div.sys_search-options h2 {
+    margin-bottom: 0px;
+}
+
+#main div.sys_uob-courses-search-control div.sys_search-options div.sys_keywords-row input.sys_text {
+
+	margin-top: 5px;
+	width: 400px;
+	height: auto;
+}
+
+/* Move the clear button next to the search button */
+#main div.sys_uob-courses-search-control .sys_reset
+{
+    display: inline;
+    margin-left: 10px;
+    padding-right: 0;
+}
+
+/* Make the academic buttons align with the other controls */
+#main div.sys_uob-courses-search-control div.sys_uob-academic-level-buttons,
+#main div.sys_course-atoz-list div.sys_uob-academic-level-buttons,
+#main div.sys_uob-courses-search-control div.sys_uob-course-filter-buttons,
+#main div.sys_course-atoz-list div.sys_uob-course-filter-buttons
+{
+    padding-left: 11px;
+}
+
+/* Results listing */
+#main div.sys_uob-course-complete-results
+{
+    border-top: 1px solid #CCC;
+}
+
+/*Heading styling */
+#main div.sys_uob-course-complete-results h2.sys_results
+{
+    font-family: "Georgia", "Times new Roman";	
+    font-size:2.2em;
+	color: #66A300;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: .5em;
+    margin-bottom: 0px;
+}
+
+	#main div.sys_uob-course-complete-results h2.sys_results em
+	{
+		color:#666699;
+		font-size:0.9em;
+		font-style:normal;
+	}
+	/* Results */
+	#main div.sys_uob-course-complete-results table,
+	#main div.sys_uob-course-complete-results div.sys_uob_search-no-results
+	{
+	    margin-top: 1.5em;
+	}
+/* Paging information */
+	
+#main div.sys_uob-course-complete-results div.sys_paginginfo
+{
+	clear:both;
+	font-size:1.5em;
+	color:#666666;
+	padding-bottom:1em;
+}
+
+    #main div.sys_uob-course-complete-results div.sys_paginginfo span.sys_paginginfocurrentrecord,
+	#main div.sys_uob-course-complete-results div.sys_paginginfo span.sys_paginginfomaxrecord,
+	#main div.sys_uob-course-complete-results div.sys_paginginfo span.sys_paginginforecordcount
+	{
+	    color:#333333;
+	    font-weight: bold;
+    }
+    
+/* Variations for the search on the homepage */
+/*Make the promo wide enough to take the whole promo */
+
+#content div.sys_promoRow div.sys_uob-courses-search-control
+{
+	border-left:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+	border-bottom:1px solid #cccccc;
+	/*background-color: inherit;*/
+	padding-bottom: 0;
+}
+
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control
+{
+    padding:0;
+    background-color: inherit;
+}
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options
+{
+    margin:0;
+}
+
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options h2
+{
+    background-image: none;
+    font-size: 1.9em;
+    padding-left: 8px;
+    padding-right: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: #788391;
+    color: #fff;
+    height: auto;
+    min-height:0;
+}
+
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options div.sys_search-row
+{
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px; 
+}
+
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options div.sys_keywords-row label
+{
+    font-size: 1.1em;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options div.sys_keywords-row input.sys_text,
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options div.sys_keywords-row input.sys_submit,
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options div.sys_keywords-row input.sys_reset
+{ 
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 60px;
+}   
+
+/*Standardise the vertical settings */
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options div.sys_keywords-row input.sys_submit,
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options div.sys_keywords-row input.sys_reset
+{
+    /*
+    font-size: 1.2em;
+    height: 21px !important;
+*/
+    min-height: 14px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    line-height: 1.2em;
+    /*
+    display: inline-block;
+*/
+}
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options div.sys_keywords-row input.sys_text
+{
+    width: 270px;
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 1.2em;
+}
+
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options div.sys_keywords-row input.sys_submit
+{
+    width: 50px;
+    margin-right: 0;
+    margin-left: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+	background-color: #66A300;
+	color: #FFFFFF;
+}
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-options div.sys_keywords-row input.sys_reset
+{
+    display: none; /* Hide this button on the front page if added */
+    background-color: #E5E9EE;
+    margin-right: 5px;
+    padding-left: 20px;
+    padding-right: 5px;
+    color: #906;
+}
+
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_uob-academic-level-buttons,
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_uob-course-filter-buttons
+{
+    padding-left: 8px;
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+#content div.sys_promoRow div.sys_uob-courses-search-control div.sys_uob-course-filter-buttons li
+{
+	margin-right: 0;
+	min-width: 45%;
+	padding-bottom: 3px;
+}
+
+/* Adjustments for course listing search with tabs */
+#main div.sys_course-complete-tabbed ul.sys_tabs {
+    margin-bottom: 0;
+}
+
+#main div.sys_course-complete-tabbed div.sys_keywordsearch-search-control,
+#main div.sys_course-complete-tabbed div.sys_course-atoz-list {
+    border-top: 0;
+}
+
+#main div.sys_course-complete-tabbed div.sys_search-row {
+    height: 52px;
+}
+
+#main div.sys_course-complete-tabbed div.sys_uob-atoz-control 
+{
+    height: 60px;
+}
+
+#main div.sys_course-complete-tabbed div.sys_uob-course-atoz-header 
+{
+    margin-bottom: 0px;
+}
+
+#main div.sys_course-complete-tabbed ul.sys_tabs li {
+    font-size: 1.6em;
+    background-color: #F3F5F7;
+}
+#main div.sys_course-complete-tabbed ul.sys_tabs li.ui-tabs-selected 
+{
+    background-color: #F3F5F7;
+    border-bottom: 5px solid #f3f5f7;
+}
+#main div.sys_course-complete-tabbed ul.sys_tabs li a,
+#main div.sys_course-complete-tabbed ul.sys_tabs li a:hover
+ {
+    color: #669;
+}
+
+#main div.sys_course-complete-tabbed ul.sys_tabs li.ui-tabs-selected a,
+#main div.sys_course-complete-tabbed ul.sys_tabs li.ui-tabs-selected a:hover
+ {
+    color: #906;
+}
+
+/* Course search in double-panelled wide content */
+#wideContent div.sys_doublePanel div.sys_keywordsearch-search-control,
+#wideContent div.sys_doublePanel div.sys_uob-courses-search-control {
+    background-color: #e1e6ec;
+    border: 0;
+    float: left;
+}
+
+#wideContent div.sys_doublePanel div.sys_uob-courses-search-control div.sys_keywordsearch-search-control {
+    padding: 0;
+}
+
+#wideContent div.sys_doublePanel div.sys_uob-courses-search-control h2
+{
+    font-size: 1.8em;
+    line-height: 1.8em;
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+    background-image: none;
+    padding-left: 7px;
+}
+#wideContent div.sys_doublePanel div.sys_uob-courses-search-control div.sys_search-row {
+    padding-top: 5px;
+    padding-right: 0;
+    padding-left: 7px;
+    
+}
+
+#wideContent div.sys_doublePanel div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-row label{
+    padding-right: 7px;
+}
+
+#wideContent div.sys_doublePanel div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-row input.sys_text {
+    width: 240px;
+    float: left;
+}
+
+#wideContent div.sys_doublePanel div.sys_uob-courses-search-control div.sys_keywordsearch-search-control div.sys_search-row input.sys_search-button 
+{
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 24px;
+    margin-right: 0;
+    margin-top: 3px;
+    float: right;
+}
+
+/*Course search colour schemes */
+
+#main div.sys_uob-courses-search-control.sys_colourGreen h2
+{
+    background-color: #66A300;
+    color: white;
+}
+
+#main div.sys_uob-courses-search-control.sys_colourGreen div.sys_search-row input.sys_search-button {
+    background: transparent url('/Images/website/courses/button-gradient-green.jpg') repeat-x scroll bottom left;
+    color: #FFF;
+}
+
+#main div.sys_uob-courses-search-control.sys_colourPurple h2
+{
+    background-color: #906;
+    color: white;
+}
+
+#main div.sys_uob-courses-search-control.sys_colourPurple div.sys_search-row input.sys_search-button {
+    background: transparent url('/Images/website/courses/button-gradient-purple.jpg') repeat-x scroll bottom left;
+    color: #FFF;
+}

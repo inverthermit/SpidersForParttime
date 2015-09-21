@@ -1,0 +1,315 @@
+﻿/* $Id: 0800print.css 2912 2014-11-17 14:39:46Z nixonm $ */
+/* Print CSS included via custom code */
+/* This has been copied to test that the print css stuff for the print as pdf stuff works */
+
+
+div#navWrap,
+ul#globalNav, 
+div#mainNav, 
+/*div#breadcrumbs, */
+div#search,
+div#sliderWrapper,
+div#bookmarks,
+/*
+and individually
+*/
+div#siteTools,
+div#relatedNews,
+div#relatedLinks,
+div#relatedVideo,
+div#RelatedItemsByTaxonomy_List,
+ul#miniMap,
+ul#footerBottom li{
+    display:none;
+    margin:0px;
+    padding:0px;
+}
+
+* {
+    overflow: visible !important;
+
+}
+
+div {
+    /*float: none !important;*/
+	position: relative;
+	height: auto;
+	width:auto;
+} 
+
+
+div#wrapper {
+	width: 96%!important;
+	padding:5px 5px;
+
+}
+body {
+	background: none;
+}
+
+div.cc-cookies
+{
+	display: none;
+}
+
+div#header,
+div#main,
+div#footer,
+div#content,
+div#mainContent,
+div#wideContent{
+	background:none;
+	padding:0px;
+	margin:0px;
+	width:auto;
+}
+
+div#header h1,
+div#breadcrumbs,
+div#content h1,
+div.sys_news-posted-date {
+	padding:0px 0px 8px 0px;
+	margin:0px;
+}
+
+/* HEADER */
+
+div#header {
+	border-top:3px solid #66A300;
+	padding-top: 2px;
+	/*border-bottom:3px solid #66A300;*/
+}
+
+div#header h1 a {
+	text-indent:0px;
+	background:none;
+	width:auto;
+	padding:0px;
+	margin:0px;
+
+}
+
+
+/* MAIN CONTENT */
+
+div#breadcrumbs {
+	display: none;
+}
+
+div#mainContent p,
+div#wideContent p {
+	padding-bottom: 4px;
+}
+
+/* this will force display of all cupboard items - advised
+turn of to print only content displayed - not advised, as no 'show all' option */
+div#mainContent div.contentCupboard div,
+div#wideContent div.contentCupboard div {
+	display:block!important;
+}
+
+div#mainContent ul,
+div#wideContent ul {
+
+list-style:disc;
+
+}
+
+div#mainContent ul li,
+div#wideContent ul li {
+background: none;
+}
+
+div#mainContent ol,
+div#wideContent ol {
+list-style: decimal;
+}
+
+/* IMAGES */
+div.sys_record-image-control,
+div.sys_record-image-control-caption,
+div#wideContent img.sys_right {
+	float:right;
+}
+
+div#wideContent img.sys_left {
+	float:left;
+}
+
+div#wideContent p.intro img,
+div#mainContent p.intro img {
+	float: none;
+}
+
+
+/* COURSES */
+
+p.sys_back {
+	display:none;
+}
+
+div.sys_search-options,
+div.sys_atoz-control ul li,
+ul.sys_radios li {
+
+	display:none;
+}
+
+div.sys_atoz-control ul li.sys_selected,
+ul.sys_radios li.sys_selected {
+	display:block;
+}
+
+.ui-tabs .ui-tabs-panel {
+display: block !important;
+}
+
+ul.sys_tabs {
+display:none;
+}
+
+
+
+/* LINKS */
+
+#wideContent a:link, #wideContent a:visited, 
+#mainContent a:link, #mainContent a:visited {
+	color: #520;
+	background: transparent;
+	font-weight: bold;
+	text-decoration: underline;
+	}
+
+#mainContent a:link:after, #mainContent a:visited:after,
+#wideContent a:link:after, #wideContent a:visited:after {
+	content: " (" attr(href) ") ";
+	font-size: 90%;
+}
+   
+   
+/* RHS */
+
+/* to show relevant rhs content disable the next style rule and enable the subsequent rules */
+
+div#relatedContent {
+	display:none;
+}
+
+/*
+div#relatedContent {
+	border-top:1px dotted #66A300;
+	width:auto;
+	padding-top:2px;
+}
+
+#relatedContent a:link, #relatedContent a:visited {
+	color: #520;
+	background: transparent;
+	font-weight: bold;
+	text-decoration: underline;
+	}
+
+#relatedContent a:link:after, #relatedContent a:visited:after {
+	content: " (" attr(href) ") ";
+	font-size: 90%;
+}
+
+*/
+
+/* FOOTER */
+
+div#footer{
+	border-top:3px solid #66A300;
+	padding-top:2px;
+}
+
+ul#footerBottom {
+ padding:0px;
+ margin: 0px;
+}
+
+
+ul#footerBottom li.sys_first{
+	display:block;
+	padding:0;
+	margin:0;
+}
+
+.sys_fadeAway {
+	display:none;
+}
+
+/* cupboards */
+
+#main div.sys_accordion h2.sys_summary span
+{
+    display:none;
+}
+
+#main div.sys_accordion {
+background:none;
+}
+
+#main div.sys_accordion h2.sys_expand {
+background:none;
+}
+
+div.sys_squeezeBox {
+    display:block!important;
+}
+
+/* Course pages */
+
+#wideContent div.sys_courseTabs div.sys_centralSection {
+    width: 99%;
+}
+
+div.sys_courseVideo {
+    display: none;
+}
+
+div.sys_courseTabs div.sys_contentScroller {
+    border: none;
+}
+
+div.sys_courseTabs div.sys_contentScroller,
+div.sys_courseTabs div.sys_contentScroller div {
+    /* To override the javascript styling */
+    width: 99% !important; 
+    height: auto !important;
+    position: relative !important;
+}
+
+#wideContent div.sys_contentScroller a:link:after, #wideContent div.sys_contentScroller  a:visited:after {
+	content: "";
+}
+
+#wideContent div.sys_courseTabs div.sys_rhsSection {
+    width: 99%;
+    float: left;
+}
+
+div.sys_courseTabs div.sys_rhsSection div.sys_quickLinks,
+div.sys_courseTabs div.sys_rhsSection div.sys_contactBox
+{
+    display: none;
+}
+
+div.sys_courseTabs div.sys_rhsSection div.sys_quickLinks p.sys_print,
+div.sys_courseTabs div.sys_rhsSection div.sys_quickLinks p.sys_downloadaspdf,
+div.sys_courseTabs div.sys_rhsSection div.sys_quickLinks p.sys_print
+
+
+div.sys_courseTabs #CourseOverviewTab div.sys_rhsSection div.sys_quickLinks,
+div.sys_courseTabs #CourseOverviewTab div.sys_rhsSection div.sys_contactBox
+{
+    display:block;
+}
+
+div.sys_courseTabs div.sys_kisWidget {
+    display: none;
+}
+
+div.sys_courseTabs div.sys_bottomNavigation {
+    display: none;
+}

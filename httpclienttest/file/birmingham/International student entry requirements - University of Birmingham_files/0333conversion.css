@@ -1,0 +1,842 @@
+﻿/* ($Id: 0333Conversion.css 2432 2013-09-09 12:12:00Z nixonm $) */
+
+/* CSS converted from original design */
+
+/* breadcrumbs */
+
+#breadcrumbs  {
+color:#999;
+}
+
+#breadcrumbs {
+    background:#fff;
+    float:left;
+	clear:both;
+	width:922px;
+	padding:0 0 10px 10px;
+}
+
+/* This one's to knock out the dt tag when including a description on related lists */
+
+#relatedLinks * dt {
+	display:none;
+}
+/* Right-hand side site tools */
+#relatedContent .sys_sendtoafriend,
+#wideContent .sys_col_last_semi .sys_sendtoafriend,
+#wideContent .sys_col_last .sys_sendtoafriend,
+#wideContent div.sys_rhsSection .sys_sendtoafriend{
+		background:transparent url('/Images/website/icons/icomail.gif') no-repeat scroll top left;
+		padding:5px 8px 14px 0;
+		font-size:1.5em;
+}
+
+#relatedContent .sys_downloadaspdf,
+#wideContent .sys_col_last_semi .sys_downloadaspdf,
+#wideContent .sys_col_last .sys_downloadaspdf,
+#wideContent div.sys_rhsSection .sys_downloadaspdf {
+		background:transparent url('/Images/website/icons/icodownload.gif') no-repeat scroll top left;
+		padding:5px 8px 14px 0;
+		font-size:1.5em;
+}
+
+#relatedContent .sys_sendtoafriend a, 
+#relatedContent .sys_downloadaspdf a,
+#wideContent .sys_col_last_semi .sys_sendtoafriend a,
+#wideContent .sys_col_last_semi .sys_downloadaspdf a,
+#wideContent .sys_col_last .sys_sendtoafriend a,
+#wideContent .sys_col_last .sys_downloadaspdf a,
+#wideContent div.sys_rhsSection .sys_sendtoafriend a,
+#wideContent div.sys_rhsSection .sys_downloadaspdf a  {
+		font-family:"Georgia","Times New Roman";
+		padding-left:45px;
+	}
+
+/* related news */
+
+div#relatedNews div.sys_news-minilist-control div#MiniListing_List ul.sys_itemslist li.sys_subitem {
+
+margin-bottom: 0px;
+
+}
+
+/* sorting mini-map */
+
+#miniMap li {
+	width:186px;
+}
+
+#miniMap li span.sys_sectionHead {
+	font-size:1.8em;
+	font-family:'Georgia','Times New Roman';
+	color: #666666;
+}
+
+/* getting cms nav to work like design */
+
+#mainNav li ul.sys_children li ul.sys_children li a,
+#mainNav li ul.sys_children li a {
+	color:#333;
+}
+
+#mainNav li ul.sys_children li ul.sys_children li a,
+#globalNav h3,
+#globalNav ul li a,
+#main #globalNav li li a,
+#globalNav li {
+	color:#666;
+}
+
+#globalNav ul.sys_grid a,
+#main #globalNav .sys_grid a,
+#main #globalNav li li a:hover {
+	color:#990066;
+}
+#mainNav li div.sys_selected a,
+#mainNav li ul.sys_children li div.sys_currentitem a,
+#mainNav li ul.sys_children li div.sys_selected a,
+#mainNav li ul.sys_children li ul.sys_children li div.sys_currentitem a {
+	color:#666699;
+}	
+	
+
+#mainNav li div.sys_selected
+{
+	/*border:1px solid #ccc; */
+	background-color:#fff;
+	position:relative;
+
+	top:-1px; /* margin:-1px; Fails in IE6 */
+}
+
+#mainNav li ul.sys_children {
+background-color:#fff;
+
+}
+
+
+#mainNav li ul.sys_children li {
+	border:none;
+	top:0;
+}
+
+/* separated off this item from next to allow for nav item with no children */
+		
+#mainNav li div.sys_currentitem {
+	background-color:#FFF;
+}
+
+#mainNav li ul.sys_children li div.sys_currentitem a,
+#mainNav li ul.sys_children li ul.sys_children li div.sys_currentitem a {
+	background-color:#F3F5F7;
+}
+
+
+#mainNav li div.sys_selected a {
+	background-image:none;	
+	padding-top:5px;
+	padding-bottom:5px;
+
+
+}
+	
+#mainNav li.sys_last a {
+	background-image:none;
+}
+
+#mainNav li li {
+	padding:0;
+	background-image:none;
+}
+
+#mainNav li ul.sys_children li a {
+	background-image:url('/Images/website/navdotslv2.gif');
+	background-color:#fff;
+	padding-left:20px;
+	width:150px;
+}
+
+#mainNav li ul.sys_children li.sys_last a,
+#mainNav li ul.sys_children li.sys_singleitem a  {
+	background-image:none;
+}
+
+#mainNav li ul.sys_children li ul.sys_children li a {
+	padding-left:30px;
+	width:140px;
+}
+
+/* nav additions */
+
+ul.sys_children  {
+	padding-bottom:2px;
+}
+
+.sys_whitebgBox {
+	background:#fff!important;
+	border:1px solid #ccc; 
+}
+
+.sys_bgnavbullet {
+	background:transparent url('/Images/website/navbullet.gif') no-repeat scroll 10px 13px;
+}
+
+.hideFeatureImage {
+display:none;
+}
+
+/* Quotation classes -- formatting taken from blockquote in original css */
+
+/* This style is in editorsc.css */
+.MainContentQuotation, .maincontentquotation {
+	font-size:1.3em;
+	line-height:1.3em;
+}
+
+/* This style is in editorsc.css */
+#mainContent .MainContentQuotation, #wideContent .MainContentQuotation, #overlayMainContent .MainContentQuotation, 
+#mainContent .maincontentquotation, #wideContent .maincontentquotation, #overlayMainContent .mainContentQuotation
+
+{
+	padding:1em 0 1em 40px;
+	margin:1.5em 0;
+	border-top:1px dotted #ccc;
+	border-bottom:1px dotted #ccc;
+	background:transparent url('/Images/website/quotecontent.gif') no-repeat scroll 0 15px;
+}
+
+/* This style is in editorsc.css */
+#mainContent .MainContentQuotation .quotee, #wideContent .MainContentQuotation .quotee, #overlayMainContent .MainContentQuotation .quotee,
+#mainContent .maincontentquotation .quotee, #wideContent .maincontentquotation .quotee, #overlayMainContent .mainContentQuotation .quotee
+{
+		font-size:1.154em;
+		font-family:'Georgia','Times New Roman';
+		font-size:1.3em;
+		line-height:1.3em;
+}
+
+/* bookmarks */
+
+#bookmarks {
+	clear:left;
+}
+
+#bookmarks ul li.sys_first {
+list-style:none;
+background-image:none;
+}
+
+#wideContent #features ul,
+#wideContent #bookmarks ul {
+margin:0;
+} 
+
+#wideContent #features li {
+list-style:none;
+padding:0px;
+margin:0px;
+background-image:none;
+		}
+		
+#bookmarks div.socialMediaContainer ul li,
+#bookmarks div.socialMediaContainer ul{
+	list-style:none;
+	background:none;
+}
+
+#bookmarks div.socialMediaContainer ul li{ 
+	display:inline; padding-right:0.5em
+}
+
+#wideContent #bookmarks div.socialMediaContainer ul li.sys_first {
+font-weight: normal;
+font-size: 1.5em;
+color: #333;
+}
+
+
+/* Site Map CSS */
+
+#wideContent div.sys_sitemap_schools {
+	padding-left:50px;
+}
+
+#wideContent div.sys_sitemap ul {
+	list-style-type: disc;
+	font-size:12px;
+	padding-left:50px;
+}
+
+#wideContent div.sys_sitemap ul ul {
+	padding-left:20px;
+}
+
+#wideContent div.sys_sitemap ul li.sys_folder ul li.sys_0 {
+padding-bottom:0px;
+padding-top:0px;
+margin-bottom: 2px;
+margin-top: 0px;
+background:none;
+padding-left:0px;
+}
+
+#wideContent div.sys_sitemap ul li.sys_folder,
+#wideContent div.sys_sitemap ul li.sys_0 {
+padding-bottom:0px;
+padding-top:0px;
+margin-bottom: 0px;
+margin-top: 0px;
+background:none;
+padding-left:0px;
+}
+
+#wideContent div.sys_sitemap ul li.sys_folder ul {
+padding-bottom:0px;
+padding-top:0px;
+margin-bottom: 0px;
+margin-top: 0px;
+}
+
+#wideContent div.sys_sitemap ul li.sys_folder a,
+#wideContent div.sys_sitemap ul li.sys_0 a,
+#wideContent div.sys_sitemap ul li.sys_folder ul li.sys_0 a{
+font-weight:normal;
+font-size:14px;
+}
+
+#relatedContent div.sys_imagePromo {
+	/*padding:12px 5px 12px 5px;*/
+	padding: 0px 5px 0px 5px;
+	/*background:#F3F5F7;
+	border-top:1px solid #ccc;*/
+	margin-bottom:10px;
+}
+
+/* Form table CSS */
+
+#F1_Panel_1  {
+padding-left: 16px;
+}
+
+#F1_Panel_1 table caption{
+display:none;
+}
+
+#F1_Panel_1 table th{
+
+width:40%;
+padding:4px;
+vertical-align: top;
+}
+
+
+#F1_Panel_1 table td{
+
+width:60%;
+padding: 0px;
+background: none;
+padding:4px;
+vertical-align: top;
+}
+
+/* fix padding underneath sentence podcasts */
+
+#globalNav li.sys_podcasts p {
+	padding-bottom: 10px;
+}
+
+#globalNav li.sys_podcasts object {
+	background: #fff;
+}
+
+
+
+/** sentence changes to enable text delivered **/
+
+#globalNav ul.sys_g1 li.sys_didYouKnow {
+	width:184px;
+	height:135px;
+	padding:10px;
+	background: #fff;
+}
+
+#globalNav ul.sys_g1 li.sys_didYouKnow p {
+	padding:0 0 6px 0px;
+	float:none;
+}
+
+#globalNav ul.sys_g2 li.sys_didYouKnow {
+	top:10px;
+	left:0;
+	}
+	
+#globalNav ul.sys_g2 li.sys_didYouKnow {
+	width:145px;
+	height:209px;
+	padding:10px;
+	background:#fff url('/Images/website/quotesmall.gif') no-repeat scroll 10px 40px;
+}
+
+#globalNav ul.sys_g2 li.sys_didYouKnow p.sys_quotation {
+	padding:8px 0 0 5px;
+	float:none;
+}
+
+#globalNav ul.sys_g4 li.sys_events h4{
+	margin-bottom:4px;
+}
+
+#globalNav ul.sys_g4 li.sys_events {
+    height: 209px;
+}
+
+#globalNav ul.sys_g5 li.sys_news p, #globalNav ul.sys_g5 li.sys_events p{
+	margin-bottom:4px;
+}
+
+#globalNav ul.sys_g8 li.sys_news ul li p{
+	margin-bottom:4px;
+}
+
+
+/* no jscript globalnav fix */
+#globalNav ul {
+	top:45px;
+}
+
+#globalNav ul.sys_origPos {
+	top:67px;
+}
+
+/* rss reader */
+
+div.sys_baserssfeedreader-themed p {
+padding:0px;
+margin:0px 0px 0px 0px;
+font-size:160%;
+}
+
+div.sys_baserssfeedreader-themed div {
+padding:0px 0px 0px 0px;
+margin:0px 0px 12px 0px;
+font-size:80%;
+background-color:#E8E8E8 ;
+}
+
+div.sys_baserssfeedreader-themed div p {
+padding:0px;
+margin:0px;
+}
+
+
+/* Tag Clouds */ 
+
+#relatedContent #tagCloud {
+	background: #F3F5F7;
+	border-top: 1px solid #CCC;
+	margin-bottom: 10px;
+	padding: 12px 12px 6px;
+}
+
+#relatedContent ul.sys_tagcloud-control {
+	width:100%;
+	padding:0 0 20px 0;
+	font-size:11px;
+	text-align:left;
+}
+
+#relatedContent ul.sys_tagcloud-control:after {
+	content: "."; 
+	display: block;
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+}
+
+#relatedContent ul.sys_tagcloud-control li.sys_tagcloud-tag {
+	display:inline;
+	margin:0;
+	padding:0;
+	border:0 none;
+	list-style-type:none;
+	width:auto;
+	clear:none;
+}
+		
+#relatedContent ul.sys_tagcloud-control li a {
+	font-weight:400; 
+	display:inline; 
+	position:relative; 
+	z-index:1;
+	padding:.2em 6px .2em 0;
+	white-space:nowrap;
+	background:none;
+	line-height:1.5em;
+}
+	
+#relatedContent ul.sys_tagcloud-control li a.sys_tagcloud-weight1 {
+	font-size:10px;
+}
+	
+#relatedContent ul.sys_tagcloud-control li a.sys_tagcloud-weight2 {
+	font-size:11px;
+	margin-top:-2px;
+}
+		
+#relatedContent ul.sys_tagcloud-control li a.sys_tagcloud-weight3 {
+	font-size:12px;
+	margin-top:3px;
+	font-weight:700;
+	color:#5093c2;
+}
+		
+#relatedContent ul.sys_tagcloud-control li a.sys_tagcloud-weight4 {
+	font-size:15px;
+	font-weight:700;
+	color:#618ddd;
+}
+		
+#relatedContent ul.sys_tagcloud-control li a.sys_tagcloud-weight5 {
+	font-size:20px; 
+	font-weight:700;
+	color:#3e74d7;
+}
+
+
+/* related items listing */
+/* should be moved to 0501searchresults when that becomes available on live */
+
+div.sys_relateditemslisting-control .sys_subitem {
+	background:transparent url('/Images/website/listdots.gif') repeat-x scroll bottom left;
+	padding:0 0 1em 0;
+	margin-bottom:1em;
+	overflow:hidden;
+	height:1%;
+	font-size:1em;
+	font-weight:normal;
+}
+/* basic dd and dt formattting for news/events definition lists  */
+div.sys_relateditemslisting-control dl dd,
+div.sys_relateditemslisting-control dl dt
+{
+	font-size:1.3em;
+	line-height:1.3em;
+	color: #666;
+}
+
+div#mainContent div.sys_itemslist, 
+div#RelatedItemsList_List
+{
+	margin:0px;
+}
+
+div#mainContent div.sys_relateditemslisting-control .sys_thumbnail,
+div#wideContent div.sys_relateditemslisting-control .sys_thumbnail {
+	background:none repeat scroll 0 0 #fff;
+	border:1px solid #fff;
+	float:left;
+}
+
+/*UI Tabs */
+
+#main div.sys_contentTabs ul.sys_tabs li.ui-state-active {
+background:#ffffff url("/Images/website/tabdots.gif") no-repeat top right;
+border-bottom:5px solid #ffffff;
+}
+
+#main div.sys_contentTabs ul.sys_tabs li.ui-state-active a{
+background:url("/Images/website/tabadots.gif") repeat-y scroll left top transparent;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected { 
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-selected a, 
+.ui-tabs .ui-tabs-nav li.ui-state-disabled a, 
+.ui-tabs .ui-tabs-nav li.ui-state-processing a { 
+	cursor: text; 
+}
+
+.ui-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a { 
+	cursor: pointer; 
+} /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+
+.ui-tabs .ui-tabs-panel { 
+	display: block; 
+}
+
+.ui-tabs .ui-tabs-hide { 
+	display: none; 
+}
+
+
+/* REGISTRATION */
+
+#wideContent .sys_theme-simple .sys_validationsummary ul li {
+    background: none;
+}
+
+#wideContent p#forgotpassword {
+	padding:15px 10px;
+	clear:both;
+}
+
+
+/* Registration - forgotten password */
+
+#wideContent div.sys_forgotpassword-control {
+	padding: 10px 0 20px 10px;
+}
+
+#wideContent div.sys_forgotpassword-control label {
+font-size:100%;
+font-weight:normal;
+}
+
+#wideContent div.sys_forgotpassword-control input{
+font-size:100%;
+font-weight:normal;
+}
+
+/* report comment form */
+
+div#CommentReportForm {
+padding:0px;
+margin:0px;
+
+}
+
+
+div#CommentReportForm div#F1_Panel_1 {
+padding:0px 14px 0px 4px;
+}
+
+div#CommentReportForm fieldset {
+
+border: grey dotted 1px;
+
+}
+
+div#CommentReportForm fieldset legend{
+
+padding:2px 8px;
+background: #fff;
+margin: 0px 3px;
+border: grey dotted 1px;
+
+}
+
+div#CommentReportForm fieldset p{
+
+padding:6px 6px 0px 8px;
+
+}
+
+div#CommentReportForm fieldset p.sys_explanFormParaFirst{
+
+padding-top:16px;
+
+}
+
+div#CommentReportForm fieldset table {
+margin-left:20px;
+}
+
+/* gallery rules: reduce text size and hide upload dates */
+.sys_mediagallery-control .sys_itemslist .sys_subitem .sys_subitem-heading a,
+.sys_mediagallery-control .sys_itemslist .sys_subitem .sys_subitem-heading span {
+	font-size:80%;
+}
+
+/* This copies the formatting properties of the simple theme for our converted media galleries */
+.sys_mediagallery-control .sys_itemslist .sys_subitem .sys_subitem-heading span {
+	margin: 5px 10px;
+	padding: 0px;
+	position: static;
+	display: inline-block;
+	color: #333;
+	font-weight: 400;
+}
+
+.sys_mediagallery-control .sys_itemslist .sys_subitem .sys_mediagallery-summary dl dd.sys_mediagallery-uploaded {
+display: none;
+}
+
+.sys_mediagallery-control #MediaGallery_List .sys_itemslist .sys_subitem {
+margin: 0 3px 10px 0;
+
+}
+
+/*thick box */
+
+/* ----------------------------------------------------------------------------------------------------------------*/
+/* ---------->>> global settings needed for thickbox <<<-----------------------------------------------------------*/
+/* ----------------------------------------------------------------------------------------------------------------*/
+*{padding: 0; margin: 0;}
+
+/* ----------------------------------------------------------------------------------------------------------------*/
+/* ---------->>> thickbox specific link and font settings <<<------------------------------------------------------*/
+/* ----------------------------------------------------------------------------------------------------------------*/
+#TB_window {
+	font: 12px Arial, Helvetica, sans-serif;
+	color: #333333;
+}
+
+#TB_secondLine {
+	font: 10px Arial, Helvetica, sans-serif;
+	color:#666666;
+}
+
+#TB_window a:link {color: #666666;}
+#TB_window a:visited {color: #666666;}
+#TB_window a:hover {color: #000;}
+#TB_window a:active {color: #666666;}
+#TB_window a:focus{color: #666666;}
+
+/* ----------------------------------------------------------------------------------------------------------------*/
+/* ---------->>> thickbox settings <<<-----------------------------------------------------------------------------*/
+/* ----------------------------------------------------------------------------------------------------------------*/
+#TB_overlay {
+	position: fixed;
+	z-index:100;
+	top: 0px;
+	left: 0px;
+	height:100%;
+	width:100%;
+}
+
+.TB_overlayMacFFBGHack {background: url('macFFBgHack.png');}
+.TB_overlayBG {
+	background-color:#000;
+	filter:alpha(opacity=75);
+	-moz-opacity: 0.75;
+	opacity: 0.75;
+}
+
+* html #TB_overlay { /* ie6 hack */
+     position: absolute;
+     height: expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px');
+}
+
+#TB_window {
+	position: fixed;
+	background: #ffffff;
+	z-index: 102;
+	color:#000000;
+	display:none;
+	border: 4px solid #525252;
+	text-align:left;
+	top:50%;
+	left:50%;
+}
+
+* html #TB_window { /* ie6 hack */
+position: absolute;
+margin-top: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px');
+}
+
+#TB_window img#TB_Image {
+	display:block;
+	margin: 15px 0 0 15px;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #666;
+	border-left: 1px solid #666;
+}
+
+#TB_caption{
+	height:25px;
+	padding:7px 30px 10px 25px;
+	float:left;
+}
+
+#TB_closeWindow{
+	height:25px;
+	padding:11px 25px 10px 0;
+	float:right;
+}
+
+#TB_closeAjaxWindow{
+	padding:7px 10px 5px 0;
+	margin-bottom:1px;
+	text-align:right;
+	float:right;
+}
+
+#TB_ajaxWindowTitle{
+	float:left;
+	padding:7px 0 5px 10px;
+	margin-bottom:1px;
+}
+
+#TB_title{
+	background-color:#e8e8e8;
+	height:27px;
+}
+
+#TB_ajaxContent{
+	clear:both;
+	padding:2px 15px 15px 15px;
+	overflow:auto;
+	text-align:left;
+	line-height:1.4em;
+}
+
+#TB_ajaxContent.TB_modal{
+	padding:15px;
+}
+
+#TB_ajaxContent p{
+	padding:5px 0px 5px 0px;
+}
+
+#TB_load{
+	position: fixed;
+	display:none;
+	height:13px;
+	width:208px;
+	z-index:103;
+	top: 50%;
+	left: 50%;
+	margin: -6px 0 0 -104px; /* -height/2 0 0 -width/2 */
+}
+
+* html #TB_load { /* ie6 hack */
+position: absolute;
+margin-top: expression(0 - parseInt(this.offsetHeight / 2) + (TBWindowMargin = document.documentElement && document.documentElement.scrollTop || document.body.scrollTop) + 'px');
+}
+
+#TB_HideSelect{
+	z-index:99;
+	position:fixed;
+	top: 0;
+	left: 0;
+	background-color:#fff;
+	border:none;
+	filter:alpha(opacity=0);
+	-moz-opacity: 0;
+	opacity: 0;
+	height:100%;
+	width:100%;
+}
+
+* html #TB_HideSelect { /* ie6 hack */
+     position: absolute;
+     height: expression(document.body.scrollHeight > document.body.offsetHeight ? document.body.scrollHeight : document.body.offsetHeight + 'px');
+}
+
+#TB_iframeContent{
+	clear:both;
+	border:none;
+	margin-bottom:-1px;
+	margin-top:1px;
+	_margin-bottom:1px;
+}
+
+/*thickbox end */
+
+
+/* hide send to a friend */
+#relatedContent p.sys_sendtoafriend {
+    display:none;   
+}
