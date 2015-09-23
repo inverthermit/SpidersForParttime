@@ -87,7 +87,7 @@ public class getURL {
 	public static String html2Str(String html) { 
 		return html.replaceAll("<[^>]+>", "");
 	}
-	String[][] UnData={
+	public static String[][] UnData={
 			{"36","http://www.bristol.ac.uk/study/undergraduate/2016/accounting-finance/bsc-accounting-finance/","Accounting and Finance","BSc"},
 			{"48","http://www.bristol.ac.uk/study/undergraduate/2016/accounting-finance/bsc-accounting-and-finance-with-study-abroad/","Accounting and Finance with Study Abroad","BSc"},
 			{"48","http://www.bristol.ac.uk/study/undergraduate/2016/accounting-finance/bsc-accounting-finance-europe/","Accounting and Finance with Study in Continental Europe","BSc"},
@@ -422,7 +422,7 @@ public class getURL {
 			{"36","http://www.bristol.ac.uk/study/undergraduate/2016/biological-sciences/bsc-zoology/","Zoology","BSc"},
 			{"48","http://www.bristol.ac.uk/study/undergraduate/2016/biological-sciences/msci-zoology/","Zoology","MSci"}	
 	};
-	String[][] PostData={
+	public static String[][] PostData={
 			{"http://www.bristol.ac.uk/study/postgraduate/2016/ssl/phd-accounting-finance/","Accounting and Finance","PhD"},
 			{"http://www.bristol.ac.uk/study/postgraduate/2016/ssl/msc-accounting-finance-management/","Accounting",""},
 			{"http://www.bristol.ac.uk/study/postgraduate/2016/eng/msc-adv-composites/","Advanced Composites","MSc"},

@@ -29,7 +29,7 @@ import org.htmlparser.filters.TagNameFilter;
 import org.htmlparser.util.NodeList;
 import org.htmlparser.visitors.HtmlPage;
 
-public class BristolUnData {
+public class BristolPostData {
 
 	/**
 	 * @param args
@@ -56,6 +56,7 @@ public class BristolUnData {
 				max=money.get(w);
 			}
 		}
+		if(max!=0)
 		System.out.println(max);
 		
 	}*/
@@ -114,12 +115,12 @@ public class BristolUnData {
 		int i = 1;
 		int j=0;
 		String url="";
-		for(;i<getURL.UnData.length+1;i++)
+		for(;i<getURL.PostData.length+1;i++)
 		{
 			//if(i>=22)
 			{
-				System.out.println(i+":"+getURL.UnData[i-1][1]);
-					HashMap<String,String> data=MaryGetDetails(getURL.UnData[i-1]);
+				System.out.println(i+":"+getURL.PostData[i-1][1]);
+					HashMap<String,String> data=MaryGetDetails(getURL.PostData[i-1]);
 					for(j=0;j<13;j++)
 						{
 							label = new Label(j, i, data.get(Keys[j]));
@@ -161,7 +162,7 @@ public class BristolUnData {
 		RequestConfig requestConfig = RequestConfig.custom().setCookieSpec(CookieSpecs.STANDARD_STRICT).build();  
 		CloseableHttpClient httpclient = HttpClients.custom().setDefaultRequestConfig(requestConfig).build();  
 		
-		HttpGet httpGet = new HttpGet(url[1]); 
+		HttpGet httpGet = new HttpGet(url[0]); 
 		HttpResponse response = httpclient.execute(httpGet);  
 		HttpEntity entity = response.getEntity();
 		
@@ -202,7 +203,36 @@ public class BristolUnData {
 	    result.put("School",school);
         	        	System.out.println("School:"+school);
     	  
-        
+      //**************************get fees**********************
+        //div id=fees
+      parser=Parser.createParser(htmls, "utf-8");
+      AndFilter FeeFilter=new AndFilter(new TagNameFilter("div"),
+              new HasAttributeFilter("id","fees"));
+      NodeList nodes3 = parser.extractAllNodesThatMatch(FeeFilter);
+      if(nodes3.size()>0)
+      {
+    	  Pattern p = Pattern.compile("[0-9]+,[0-9]+");
+  		Matcher m = p.matcher(nodes3.elementAt(0).toHtml());
+  		ArrayList<Integer> money=new ArrayList<Integer>();
+  		while (m.find()) {
+  			money.add(Integer.parseInt(m.group().replace(",", "")));
+  		}
+  		int max=0;
+  		for(int w=0;w<money.size();w++)
+  		{
+  			if(money.get(w)>max)
+  			{
+  				max=money.get(w);
+  			}
+  		}
+  		if(max!=0)
+  		{
+  			System.out.println(max); 
+  			result.put("Tuition Fee", ""+max);
+  		}
+  		    	
+        	            	
+      }
         
       //**************************get entry**********************
         parser=Parser.createParser(htmls, "utf-8");
@@ -290,12 +320,12 @@ public class BristolUnData {
     	    	break;
     	    }
         }
-        result.put("Level", "Undergraduate");
+        result.put("Level", "Postgraduate");
 		result.put("Scholarship", "");
 		
-		result.put("Title",url[2]);
-	    result.put("Type",url[3]);
-	    result.put("Length (months)",url[0]);
+		result.put("Title",url[1]);
+	    result.put("Type",url[2]);
+	    //result.put("Length (months)",url[0]);
 		httpclient.close();
         return result;
 	}//...
