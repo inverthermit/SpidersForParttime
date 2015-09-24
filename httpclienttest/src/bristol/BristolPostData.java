@@ -119,7 +119,7 @@ public class BristolPostData {
 		{
 			//if(i>=22)
 			{
-				System.out.println(i+":"+getURL.PostData[i-1][1]);
+				System.out.println(i+":"+getURL.PostData[i-1][0]);
 					HashMap<String,String> data=MaryGetDetails(getURL.PostData[i-1]);
 					for(j=0;j<13;j++)
 						{
@@ -195,7 +195,7 @@ public class BristolPostData {
         
       //**************************get school*************************
 	    //{"36","http://www.bristol.ac.uk/study/undergraduate/2016/accounting-finance/bsc-accounting-finance/","Accounting and Finance","BSc"},
-        String[] urlSplit=url[1].split("/");	        	
+        String[] urlSplit=url[0].split("/");	        	
 	    String school=urlSplit[urlSplit.length-2];
 	    char[] cs=school.toCharArray();
         cs[0]-=32;
@@ -237,7 +237,7 @@ public class BristolPostData {
       //**************************get entry**********************
         parser=Parser.createParser(htmls, "utf-8");
 	    AndFilter EntryFilter=new AndFilter(new TagNameFilter("div"),
-                new HasAttributeFilter("id","typical-offer"));
+                new HasAttributeFilter("id","entry-requirements"));
         NodeList nodes4 = parser.extractAllNodesThatMatch(EntryFilter);
         //String Structure="";
         if(nodes4.size()>0)
@@ -292,6 +292,11 @@ public class BristolPostData {
                     result.put("IELTS Average Requirement", "6");
             		result.put("IELTS Lowest Requirement", "5.5");
                 }
+                else
+                {
+                	result.put("IELTS Average Requirement", "6");
+            		result.put("IELTS Lowest Requirement", "5.5");
+                }
     	    	break;
     	    }
         }
@@ -301,7 +306,7 @@ public class BristolPostData {
 		 //**************************get structure**********************
 		parser=Parser.createParser(htmls, "utf-8");
 	    AndFilter StructureFilter=new AndFilter(new TagNameFilter("div"),
-                new HasAttributeFilter("id","course-structure"));
+                new HasAttributeFilter("id","programme-structure"));
         NodeList nodes5 = parser.extractAllNodesThatMatch(StructureFilter);
         //String Structure="";
         if(nodes5.size()>0)
@@ -316,6 +321,22 @@ public class BristolPostData {
                 structure=HTMLFilter(structure);
                 //System.out.println(structure);
                 
+        	    result.put("Structure",structure.trim());
+    	    	break;
+    	    }
+        }
+        else//pgr-overview
+        {
+        	parser=Parser.createParser(htmls, "utf-8");
+    	    AndFilter OverviewFilter=new AndFilter(new TagNameFilter("div"),
+                    new HasAttributeFilter("id","pgr-overview"));
+            nodes5 = parser.extractAllNodesThatMatch(OverviewFilter);
+            for(int i=0;i<nodes5.size();i++)
+    	    {
+    	    	
+    	    	Node node=(Node)nodes5.elementAt(i);
+                String structure=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+                structure=HTMLFilter(structure);                
         	    result.put("Structure",structure.trim());
     	    	break;
     	    }
