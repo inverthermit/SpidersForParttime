@@ -131,8 +131,8 @@ public class BristolPostData {
 				
 				
 			
-			
-			/*if(i>10)
+			/*
+			if(i>10)
 				break;*/
 		}
 		
@@ -191,7 +191,64 @@ public class BristolPostData {
 	    	result.put("Month of Entry", "");
 	    }
 	    
-	    
+	  //**************************get length*************************
+	    parser=Parser.createParser(htmls, "utf-8");
+	    TagNameFilter LengthFilter=new TagNameFilter("tr");
+        NodeList nodes0 = parser.extractAllNodesThatMatch(LengthFilter);
+        //System.out.println(nodes3.size());
+        if(nodes0.size()>0)
+        {
+        	for(int i=0;i<nodes0.size();i++)
+    	    {
+        		Node node=(Node)nodes0.elementAt(i);
+        		String tr=html2Str(node.toHtml());
+        		if(tr.contains("Programme length")||tr.contains("Course length"))//Course length
+        		{
+        			
+        			//Four years
+        			//seven years
+        			//One year
+        			// Three to four years
+        			//two years
+        			String Duration=tr;
+        			if(Duration.contains("One year")||Duration.contains("one year"))
+            		{
+            			result.put("Length (months)","12");
+            		}
+            		else if(Duration.contains("Two year")||Duration.contains("two year"))
+            		{
+            			result.put("Length (months)","24");
+            		}
+            		else if(Duration.contains("Three year")||Duration.contains("three year"))
+            		{
+            			result.put("Length (months)","36");
+            		}
+            		else if(Duration.contains("Four year")||Duration.contains("four year"))
+            		{
+            			result.put("Length (months)","48");
+            		}
+            		else if((Duration.contains("One")||Duration.contains("one"))&&Duration.contains("year"))
+            		{
+            			result.put("Length (months)","12");
+            		}
+            		else if((Duration.contains("Two")||Duration.contains("two"))&&Duration.contains("year"))
+            		{
+            			result.put("Length (months)","24");
+            		}
+            		else if((Duration.contains("Three")||Duration.contains("three"))&&Duration.contains("year"))
+            		{
+            			result.put("Length (months)","36");
+            		}
+            		else if((Duration.contains("Four")||Duration.contains("four"))&&Duration.contains("year"))
+            		{
+            			result.put("Length (months)","48");
+            		}
+            		break;
+        		}
+    	    
+    	    }
+        	
+        }
         
       //**************************get school*************************
 	    //{"36","http://www.bristol.ac.uk/study/undergraduate/2016/accounting-finance/bsc-accounting-finance/","Accounting and Finance","BSc"},
