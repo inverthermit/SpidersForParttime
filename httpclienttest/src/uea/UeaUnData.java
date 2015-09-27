@@ -121,25 +121,32 @@ public class UeaUnData {
 		int i = 1;
 		int j=0;
 		String url="";
-		for(;i<getURL.UnUrl.length+1;i++)
+		for(;i<getURL.UnUrl.length+1;)
 		{
-			//if(i>=22)
-			{
-				System.out.println(i+":"+getURL.UnUrl[i-1][0]);
-					HashMap<String,String> data=UeaGetDetails(getURL.UnUrl[i-1]);
-					for(j=0;j<13;j++)
-						{
-							label = new Label(j, i, data.get(Keys[j]));
-							sheet.addCell(label);
-						}
+			try{
+				if(i>=80)
+				{
+					System.out.println(i+":"+getURL.UnUrl[i-1][0]);
+						HashMap<String,String> data=UeaGetDetails(getURL.UnUrl[i-1]);
+						for(j=0;j<13;j++)
+							{
+								label = new Label(j, i, data.get(Keys[j]));
+								sheet.addCell(label);
+							}
+						
+					
+				}
 				
+				if(i>85)
+					break;
+				i++	;
+			}
+			catch(Exception ee)
+			{
+				System.out.println("Retry:"+i);
 			}
 				
-				
 			
-			
-			if(i>10)
-				break;
 		}
 		
 		
@@ -164,10 +171,11 @@ public class UeaUnData {
 	
 	public static HashMap<String,String> UeaGetDetails(String[] url) throws Exception
 	{
-		HashMap<String,String> result=new HashMap<String,String>();
-		RequestConfig requestConfig = RequestConfig.custom().setCookieSpec(CookieSpecs.STANDARD_STRICT).build();  
-		CloseableHttpClient httpclient = HttpClients.custom().setDefaultRequestConfig(requestConfig).build();  
 		
+		HashMap<String,String> result=new HashMap<String,String>();
+		RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(10000).setConnectTimeout(10000).build();  
+		CloseableHttpClient httpclient = HttpClients.custom().setDefaultRequestConfig(requestConfig).build();  
+				 
 		HttpGet httpGet = new HttpGet(url[0]); 
 		HttpResponse response = httpclient.execute(httpGet);  
 		HttpEntity entity = response.getEntity();
@@ -381,15 +389,41 @@ public class UeaUnData {
     	    	{
     	    		Structure+="\r\nYear 5\r\n";
     	    	}
-    	    	//System.out.println("Structure:\n");
-    	    	//System.out.println(node.toHtml().replaceAll("(<table([^>]*?)>)(.*?)(</table>)",""));
+
+    	    	parser=Parser.createParser(node.toHtml(), "utf-8");
+    	    	AndFilter CourseFilter=new AndFilter(new TagNameFilter("div"),
+    	                new HasAttributeFilter("class","unit_header"));
+    	        NodeList nodes2 = parser.extractAllNodesThatMatch(CourseFilter);
+    	        if(nodes2.size()>0)
+    	        {
+    	        	for(int w=0;w<nodes2.size();w++)
+        	        {
+        	        	Structure+=html2Str(nodes2.elementAt(w).toHtml()).trim()+"\r\n";
+        	        }
+    	        }
+               
+    	    	
+    	    }
+            String structure=(html2Str(Structure.replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+            structure=HTMLFilter(structure);
+            System.out.println(structure);
+    	    result.put("Structure",structure.trim());
+    	    //result.put("Structure",Structure.trim());
+        }
+        else
+        {
+        	//id=course-profileTab
+        	parser=Parser.createParser(htmls, "utf-8");
+    	    AndFilter ProfileFilter=new AndFilter(new TagNameFilter("div"),
+                    new HasAttributeFilter("id","course-profileTab"));
+            NodeList nodes12 = parser.extractAllNodesThatMatch(ProfileFilter);
+            if(nodes12.size()>0)
+            {
+            	Node node=(Node)nodes12.elementAt(0);
                 String structure=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
                 structure=HTMLFilter(structure);
-                //System.out.println(structure);
-                
         	    result.put("Structure",structure.trim());
-    	    	break;
-    	    }
+            }
         }
         result.put("Level", "Undergraduate");
 		result.put("Scholarship", "");

@@ -22,7 +22,7 @@ public class POIReadAndPost {
 	
 	public static String StructureDir="C:\\Users\\Administrator\\Desktop\\wyl\\structure_ug";
 
-	public static String filepath="D:\\BRISTOL\\BristolPost.xls";
+	public static String filepath="D:\\UEA\\UEAPostFixed.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -73,7 +73,7 @@ public class POIReadAndPost {
             LinkedHashMap<String, String> sc=new LinkedHashMap<String, String>();
 
             //sc.put("Alumni Loyalty Scholarship","20%");
-            //sc.put("Lancaster Master¡¯s Scholarship", "10000");
+            //sc.put("Lancaster Masterï¿½ï¿½s Scholarship", "10000");
             //***********Mary Undergraduate
             /*for(int k=0;k<MaryAdd.MaryUnScho.length;k++)
             {
@@ -139,10 +139,10 @@ public class POIReadAndPost {
 			line=line.replace("\t", " ").trim();
 			if(line.equals(" ")||line.equals("\r"))
 				continue;
-			//if(line.equals("Year 1")||line.equals("Year 2")||line.equals("Year 3")||line.equals("Year 4")||line.equals("Final Year"))//Final Year
+			if(line.equals("Year 1")||line.equals("Year 2")||line.equals("Year 3")||line.equals("Year 4")||line.equals("Final Year"))//Final Year
 			//if(line.equals("Programme Year One")||line.equals("Programme Year Two")||line.equals("Programme Year Three")||line.equals("Programme Year Four")||line.equals("Final Year"))//Final Year
 			//if(line.contains("Year 1")||line.contains("Year 2")||line.contains("Year 3")||line.contains("Year 4")||line.contains("Year 5")||line.contains("Final Year"))//Final Year
-			if(line.equals("First year")||line.equals("Second year")||line.equals("Third year")||line.equals("Fourth year")||line.equals("Final Year"))//Final Year
+			//if(line.equals("First year")||line.equals("Second year")||line.equals("Third year")||line.equals("Fourth year")||line.equals("Final Year"))//Final Year
 					
 			{
 				if(index!=0)
