@@ -57,7 +57,7 @@ public class UeaAdd {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "__utma=255880599.783891032.1440813629.1440813629.1440928260.2; __utmz=255880599.1440813629.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3An-vznB5hyd2q8-Pw-JGAJCrWrOM4I8Y5.GqF2CNhxgFWnNKzQLTv7OtNnosOzV51HxHc7X9UFWhc; CNZZDATA1256122972=564179847-1440172729-http%253A%252F%252Fmyoffer.cn%252F%7C1443269129");
+	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AKA2f0_XiScuMcPTMVSw9UOlUwP6TcbQG.sG4YT6t0%2BC%2FBl%2Fp8xSSoFnckNBuPjxM3oHyGWrqz9Yo; CNZZDATA1256122972=1789449401-1440137143-%7C1443402036");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");

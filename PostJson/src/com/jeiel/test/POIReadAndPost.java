@@ -22,7 +22,7 @@ public class POIReadAndPost {
 	
 	public static String StructureDir="C:\\Users\\Administrator\\Desktop\\wyl\\structure_ug";
 
-	public static String filepath="D:\\UEA\\UEAPostFixed.xls";
+	public static String filepath="D:\\UEA\\UEAUnFixed.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
