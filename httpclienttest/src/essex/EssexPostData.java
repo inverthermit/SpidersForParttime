@@ -34,7 +34,7 @@ import org.htmlparser.visitors.HtmlPage;
 
 import essex.getURL;
 
-public class EssexUnData {
+public class EssexPostData {
 
 	/*
 	 structure: div id=modules-ug
@@ -54,7 +54,7 @@ public class EssexUnData {
 	}
 	public static void WriteToExcel()
 	{
-		File outputFile = new File(FILE_PATH + "\\" + "gen_dataF.xls");
+		File outputFile = new File(FILE_PATH + "\\" + "Postgen_data.xls");
 		OutputStream os = null;
 		WritableWorkbook book=null;
 		WritableSheet sheet=null;
@@ -101,12 +101,12 @@ public class EssexUnData {
 		int i = 1;
 		int j=0;
 		String url="";
-		for(;i<getURL.UnData.length+1;i++)
+		for(;i<getURL.PostData.length+1;i++)
 		{
-			if(i>=182)
+			if(i>=0)
 			{
-				System.out.println(i+":"+getURL.UnData[i-1][0]);
-					HashMap<String,String> data=EssexGetDetails(getURL.UnData[i-1]);
+				System.out.println(i+":"+getURL.PostData[i-1][0]);
+					HashMap<String,String> data=EssexGetDetails(getURL.PostData[i-1]);
 					for(j=0;j<13;j++)
 						{
 							label = new Label(j, i, data.get(Keys[j]));
@@ -118,8 +118,8 @@ public class EssexUnData {
 				
 			
 			
-			if(i>205)
-				break;
+			/*if(i>10)
+				break;*/
 		}
 		
 		
@@ -182,7 +182,7 @@ public class EssexUnData {
       //**************************get entry**********************
         parser=Parser.createParser(htmls, "utf-8");
 	    AndFilter EntryFilter=new AndFilter(new TagNameFilter("div"),
-                new HasAttributeFilter("id","ContentMain_entryRequirementsUg"));
+                new HasAttributeFilter("id","entry-requirements-pg"));
         NodeList nodes4 = parser.extractAllNodesThatMatch(EntryFilter);
         //String Structure="";
         if(nodes4.size()>0)
@@ -246,7 +246,7 @@ public class EssexUnData {
 		 //**************************get structure**********************
 		parser=Parser.createParser(htmls, "utf-8");
 	    AndFilter StructureFilter=new AndFilter(new TagNameFilter("div"),
-                new HasAttributeFilter("id","modules-ug"));
+                new HasAttributeFilter("id","modules-pg"));
         NodeList nodes5 = parser.extractAllNodesThatMatch(StructureFilter);
         //String Structure="";
         if(nodes5.size()>0)
@@ -302,7 +302,7 @@ public class EssexUnData {
 		}
         
         /*
-		 structure: div id=modules-ug
+		 structure: div id=modules-pg
 		 entry: div id=ContentMain_entryRequirementsUg   IELTS inside
 		 fee: a id=ContentMain_UGFactFile_hlFeeFinderLinkOverseas
 		  (<a id="ContentMain_UGFactFile_hlFeeFinderLinkOverseas" href="/fees/fee_finder.aspx?status=2&amp;level=U&amp;course=BSC+N400&amp;mode=F&amp;year=2016/17">Overseas</a>)
@@ -314,7 +314,7 @@ public class EssexUnData {
         //**********************************get fee**********************
         parser=Parser.createParser(htmls, "utf-8");
 	    AndFilter FeeLinkFilter=new AndFilter(new TagNameFilter("a"),
-                new HasAttributeFilter("id","ContentMain_UGFactFile_hlFeeFinderLinkOverseas"));
+                new HasAttributeFilter("id","ContentMain_PGFactFile_hlFeeFinderLinkOverseas"));
         NodeList nodes7 = parser.extractAllNodesThatMatch(FeeLinkFilter);
         //String Structure="";
         if(nodes7.size()>0)
@@ -373,11 +373,11 @@ public class EssexUnData {
         
         
         
-        result.put("Level", "Undergraduate");
+        result.put("Level", "Postgraduate");
 		result.put("Scholarship", "");
 		result.put("Title",url[1]);
 	    result.put("Type",url[1].split(" ")[0]);
-	    result.put("Length (months)",url[2]);
+	    //result.put("Length (months)",url[2]);
 	    result.put("School",url[4]);
 		httpclient.close();
         return result;
