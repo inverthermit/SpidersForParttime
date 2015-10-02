@@ -54,7 +54,7 @@ public class EssexPostData {
 	}
 	public static void WriteToExcel()
 	{
-		File outputFile = new File(FILE_PATH + "\\" + "Postgen_data.xls");
+		File outputFile = new File(FILE_PATH + "\\" + "Postgen_data3.xls");
 		OutputStream os = null;
 		WritableWorkbook book=null;
 		WritableSheet sheet=null;
@@ -103,7 +103,7 @@ public class EssexPostData {
 		String url="";
 		for(;i<getURL.PostData.length+1;i++)
 		{
-			if(i>=0)
+			if(i>=65)
 			{
 				System.out.println(i+":"+getURL.PostData[i-1][0]);
 					HashMap<String,String> data=EssexGetDetails(getURL.PostData[i-1]);
@@ -118,8 +118,8 @@ public class EssexPostData {
 				
 			
 			
-			/*if(i>10)
-				break;*/
+			if(i>105)
+				break;
 		}
 		
 		
@@ -377,7 +377,7 @@ public class EssexPostData {
 		result.put("Scholarship", "");
 		result.put("Title",url[1]);
 	    result.put("Type",url[1].split(" ")[0]);
-	    //result.put("Length (months)",url[2]);
+	    result.put("Length (months)",url[2]);
 	    result.put("School",url[4]);
 		httpclient.close();
         return result;
