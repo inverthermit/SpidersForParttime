@@ -21,7 +21,7 @@ import net.sf.json.JSONObject;
 import net.sf.json.util.JSONStringer;
 
 public class Add {
-	private static String postUrl = "http://myoffer.cn/external/api/courses";
+	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
 
 	private static int index=1;
 	/**
@@ -32,7 +32,7 @@ public class Add {
 		// TODO Auto-generated method stub
 		try {
 			List<Major> list=POIReadAndPost.getData(null);
-			for(;index<=120;){
+			for(;index<=90;){
 				add(postUrl,list.get(index-1));
 			}
 		} catch (Exception e) {
@@ -57,7 +57,7 @@ public class Add {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "CNZZDATA1256122972=436580706-1440482499-http%253A%252F%252Fmyoffer.cn%252F%7C1441589326; connect.sid=s%3ApiZieJwYTzyPxwL_JyMVG2XS9XyZ3Ms9.7SCYjpCwuSHKO1OB2b6BKtyYGahDZfg4hRB%2BDwzGCsE");
+	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AqTggW03LkaNZhNhWWTB1K9yWywKMkZyq.94FJkgVHhoschh%2F7d3uZkHqBf%2B7GQgbJ7TS8bjm0r9o; CNZZDATA1256122972=1789449401-1440137143-%7C1444289597");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -127,7 +127,7 @@ public class Add {
 		   		course.put("scholarship", scholarshipList);
 		   	
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "LIVERPOOL");
+		    value.put("university", "ROYAL");
 		    value.put("course", course);
 		   	entry.put("value", value);
 		   	//System.out.println(entry.toString());
