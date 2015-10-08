@@ -319,7 +319,11 @@ public class UeaUnData {
               //******************************IELTS***********************
                 String International=entry;
         		ArrayList<String> list = new ArrayList<String>();
-                if(International.contains("7.0"))
+        		if(International.contains("7.5"))
+                {
+                	list.add("7.5");
+                }
+        		if(International.contains("7.0"))
                 {
                 	list.add("7.0");
                 }
