@@ -98,7 +98,7 @@ public class RoyalPostData {
 		String url="";
 		for(;i<getURL.PostData.length+1;i++)
 		{
-			//if(i>=22)
+			if(i>=78)
 			{
 				System.out.println(i+":"+getURL.PostData[i-1][0]);
 					HashMap<String,String> data=RoyalGetDetails(getURL.PostData[i-1]);
@@ -140,7 +140,7 @@ public class RoyalPostData {
 	public static HashMap<String,String> RoyalGetDetails(String[] url) throws Exception
 	{
 		HashMap<String,String> result=new HashMap<String,String>();
-		RequestConfig requestConfig = RequestConfig.custom().setCookieSpec(CookieSpecs.STANDARD_STRICT).build();  
+		RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(10000).setConnectTimeout(10000).build();  
 		CloseableHttpClient httpclient = HttpClients.custom().setDefaultRequestConfig(requestConfig).build();  
 		
 		HttpGet httpGet = new HttpGet(url[0]); 

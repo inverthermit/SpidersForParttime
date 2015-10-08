@@ -98,7 +98,7 @@ public class RoyalUnData {
 		String url="";
 		for(;i<getURL.UnData.length+1;i++)
 		{
-			if(i>=212)
+			if(i>=239)
 			{
 				System.out.println(i+":"+getURL.UnData[i-1][0]);
 					HashMap<String,String> data=RoyalGetDetails(getURL.UnData[i-1]);
@@ -113,8 +113,8 @@ public class RoyalUnData {
 				
 			
 			
-			/*if(i>10)
-				break;*/
+			if(i>243)
+				break;
 		}
 		
 		
@@ -140,7 +140,7 @@ public class RoyalUnData {
 	public static HashMap<String,String> RoyalGetDetails(String[] url) throws Exception
 	{
 		HashMap<String,String> result=new HashMap<String,String>();
-		RequestConfig requestConfig = RequestConfig.custom().setCookieSpec(CookieSpecs.STANDARD_STRICT).build();  
+		RequestConfig requestConfig = RequestConfig.custom().setSocketTimeout(30000).setConnectTimeout(30000).build();  
 		CloseableHttpClient httpclient = HttpClients.custom().setDefaultRequestConfig(requestConfig).build();  
 		
 		HttpGet httpGet = new HttpGet(url[0]); 
