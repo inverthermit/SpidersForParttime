@@ -117,8 +117,8 @@ public class NewcastlePostData {
 				
 			
 			
-			/*if(i>10)
-				break;*/
+			if(i>10)
+				break;
 		}
 		
 		
@@ -176,32 +176,7 @@ public class NewcastlePostData {
 	    	result.put("Month of Entry", "");
 	    }
 	    
-	   
-      
-		 //**************************get structure**********************
-		parser=Parser.createParser(htmls, "utf-8");
-	    AndFilter StructureFilter=new AndFilter(new TagNameFilter("div"),
-                new HasAttributeFilter("class",""));
-        NodeList nodes5 = parser.extractAllNodesThatMatch(StructureFilter);
-        //String Structure="";
-        if(nodes5.size()>0)
-        {
-        	for(int i=0;i<nodes5.size();i++)
-    	    {
-    	    	
-    	    	Node node=(Node)nodes5.elementAt(i);
-    	    	//System.out.println("Structure:\n");
-    	    	//System.out.println(node.toHtml().replaceAll("(<table([^>]*?)>)(.*?)(</table>)",""));
-                String structure=(html2Str(node.toHtml().replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
-                structure=HTMLFilter(structure);
-                //System.out.println(structure);
-                
-        	    result.put("Structure",structure.trim());
-    	    	break;
-    	    }
-        }
-
-		 //**************************get duration**********************
+//**************************get duration**********************
         
         parser=Parser.createParser(htmls, "utf-8");
         TagNameFilter DurationFilter=new TagNameFilter("h3");
@@ -210,163 +185,154 @@ public class NewcastlePostData {
         if(nodesF.size()>0)
         {
         	String Duration=nodesF.elementAt(0).toHtml();
-            if(Duration.contains("1 Year"))
+        	if(Duration.contains("6 months"))
+    		{
+    			result.put("Length (months)","6");
+    		}
+        	else if(Duration.contains("9 months"))
+    		{
+    			result.put("Length (months)","9");
+    		}
+        	else if(Duration.contains("12 months"))
     		{
     			result.put("Length (months)","12");
     		}
-    		else if(Duration.contains("2 Year"))
+    		else if(Duration.contains("24 months"))
     		{
     			result.put("Length (months)","24");
     		}
-    		else if(Duration.contains("3 Year"))
+    		else if(Duration.contains("36 months"))
     		{
     			result.put("Length (months)","36");
     		}
-    		else if(Duration.contains("4 Year"))
+    		else if(Duration.contains("48 months"))
     		{
     			result.put("Length (months)","48");
     		}
-    		else if(Duration.contains("5 Year"))
-    		{
-    			result.put("Length (months)","60");
-    		}
-    		else if(Duration.contains("1")&&Duration.contains("Year"))
-    		{
-    			result.put("Length (months)","12");
-    		}
-    		else if(Duration.contains("2")&&Duration.contains("Year"))
-    		{
-    			result.put("Length (months)","24");
-    		}
-    		else if(Duration.contains("3")&&Duration.contains("Year"))
-    		{
-    			result.put("Length (months)","36");
-    		}
-    		else if(Duration.contains("4")&&Duration.contains("Year"))
-    		{
-    			result.put("Length (months)","48");
-    		}
-    		else if(Duration.contains("5")&&Duration.contains("Year"))
+    		else if(Duration.contains("60 months"))
     		{
     			result.put("Length (months)","60");
     		}
         }
+	    
+	    parser=Parser.createParser(htmls, "utf-8");
+	    AndFilter AllFilter=new AndFilter(new TagNameFilter("div"),
+                new HasAttributeFilter("class","contentSeparator tab containAsides tabtp"));
+        NodeList nodes = parser.extractAllNodesThatMatch(AllFilter);
+        //String Structure="";
+        if(nodes.size()>0)
+        {
+        	for(int k=0;k<nodes.size();k++)
+    	    {
+        		htmls=nodes.elementAt(k).toHtml();
+      
+		 //**************************get structure**********************
+		
+    	    	if(htmls.contains("<h2>Modules</h2>"))
+    	    	{
+    	    		//System.out.println("Structure:\n");
+        	    	//System.out.println(node.toHtml().replaceAll("(<table([^>]*?)>)(.*?)(</table>)",""));
+                    String structure=(html2Str(htmls.replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+                    structure=HTMLFilter(structure);
+                    //System.out.println(structure);
+                    
+            	    result.put("Structure",structure.trim());
+    	    	}
+    	    	
+
+		 
         
         
         //**************************get entry**********************
         //<div class='expandable'>
 
-          parser=Parser.createParser(htmls, "utf-8");
-  	    AndFilter EntryFilter=new AndFilter(new TagNameFilter("div"),
-                  new HasAttributeFilter("class","expandable"));
-          NodeList nodes4 = parser.extractAllNodesThatMatch(EntryFilter);
-          String entryAll="";
-          if(nodes4.size()>0)
-          {
-          	for(int i=0;i<nodes4.size();i++)
-      	    {
-      	    	
-      	    	Node node=(Node)nodes4.elementAt(i);
-      	    	String entry=(html2Str(node.toHtml())).replace("\r", "");
-      	    	entry=entry.replace("\n", " ");
-      	    	//entry=entry.replace("<br>", " ");
-      	    	entry=HTMLFilter(entry);
-                  //System.out.println(entry);
-                  //
-                 entryAll+=entry; 
-                
-      	    }
-          }
-          entryAll=entryAll.replace("\r\n", " ").trim();
-          if(entryAll.equals(""))
-          {
-        	  parser=Parser.createParser(htmls, "utf-8");
-      	    AndFilter EntryFilter2=new AndFilter(new TagNameFilter("div"),
-                      new HasAttributeFilter("class",""));
-              NodeList nodesE = parser.extractAllNodesThatMatch(EntryFilter2);
-              //String Structure="";
-              if(nodesE.size()>0)
+        else if(htmls.contains("<h2>Entry Requirements</h2>"))
+        {
+        	String entry=(html2Str(htmls)).replace("\r", "");
+	    	entry=entry.replace("\n", " ");
+	    	//entry=entry.replace("<br>", " ");
+	    	entry=HTMLFilter(entry);
+            //System.out.println(entry);
+            result.put("Academic Entry Requirement",entry);
+            
+            
+            //****************IELTS
+            String International=entry;
+            
+      		ArrayList<String> list = new ArrayList<String>();
+      		if(International.contains("7.5"))
               {
-              	for(int i=0;i<nodesE.size();i++)
-          	    {
-          	    	
-          	    	Node node=(Node)nodesE.elementAt(i);
-          	    	entryAll=(html2Str(node.toHtml())).replace("\r", "");
-          	    	entryAll=entryAll.replace("\n", " ");
-          	    	//entry=entry.replace("<br>", " ");
-          	    	entryAll=HTMLFilter(entryAll);
-          	    	break;
-          	    }
+              	list.add("7.5");
               }
-          }
-          result.put("Academic Entry Requirement",entryAll);
-          //****************IELTS
-          String International=entryAll;
-  		ArrayList<String> list = new ArrayList<String>();
-  		if(International.contains("7.5"))
-          {
-          	list.add("7.5");
-          }
-  		if(International.contains("7.0"))
-          {
-          	list.add("7.0");
-          }
-          if(International.contains("6.5"))
-          {
-          	list.add("6.5");
-          }
-          if(International.contains("6.0"))
-          {
-          	list.add("6.0");
-          }
-          if(International.contains("5.5"))
-          {
-          	list.add("5.5");
-          }
-          if(list.size()==1)
-          {
-          	result.put("IELTS Average Requirement", list.get(0));
-          	result.put("IELTS Lowest Requirement", list.get(0));
-          }
-          else if(list.size()>=2)
-          {
-          	result.put("IELTS Average Requirement", list.get(0));
-          	result.put("IELTS Lowest Requirement", list.get(1));
-          }
-          else
-          {
-          	result.put("IELTS Average Requirement","6.0");
-              
-      	    result.put("IELTS Lowest Requirement", "5.5");
-          }
+      		if(International.contains("7.0"))
+              {
+              	list.add("7.0");
+              }
+              if(International.contains("6.5"))
+              {
+              	list.add("6.5");
+              }
+              if(International.contains("6.0"))
+              {
+              	list.add("6.0");
+              }
+              if(International.contains("5.5"))
+              {
+              	list.add("5.5");
+              }
+              if(list.size()==1)
+              {
+              	result.put("IELTS Average Requirement", list.get(0));
+              	result.put("IELTS Lowest Requirement", list.get(0));
+              }
+              else if(list.size()>=2)
+              {
+              	result.put("IELTS Average Requirement", list.get(0));
+              	result.put("IELTS Lowest Requirement", list.get(1));
+              }
+              else
+              {
+              	result.put("IELTS Average Requirement","6.0");
+                  
+          	    result.put("IELTS Lowest Requirement", "5.5");
+              }
+        }
+         
+          
           
           
         //**********************************get fee**********************
-        
-    	Pattern p = Pattern.compile("&pound;[0-9]+");
-    	Matcher m = p.matcher(htmls.replace(",", ""));
-    	ArrayList<Integer> money=new ArrayList<Integer>();
-    	while (m.find()) 
-    	{
-    		money.add(Integer.parseInt(m.group().replace("&pound;", "")));
-    	}
-    	int max=0;
-    	for(int w=0;w<money.size();w++)
-    		{
-    	    	if(money.get(w)>max)
-    	    		{
-    	    	    	max=money.get(w);
-    	    	    }
+        else if(htmls.contains("<h2>Fees & Funding</h2>"))
+        {
+        	//System.out.println(htmls);
+        	Pattern p = Pattern.compile("&pound;[0-9]+");
+        	Matcher m = p.matcher(htmls.replace(",", ""));
+        	ArrayList<Integer> money=new ArrayList<Integer>();
+        	while (m.find()) 
+        	{
+        		money.add(Integer.parseInt(m.group().replace("&pound;", "")));
+        	}
+        	int max=0;
+        	for(int w=0;w<money.size();w++)
+        		{
+        	    	if(money.get(w)>max)
+        	    		{
+        	    	    	max=money.get(w);
+        	    	    }
+        	    }
+        	 if(max!=0)
+        	 {
+        	 	System.out.println(max); 
+        	 	result.put("Tuition Fee", ""+max);
+        	 }
+        }
+    	    	//System.out.println(htmls);
+    	
     	    }
-    	 if(max!=0)
-    	 {
-    	 	System.out.println(max); 
-    	 	result.put("Tuition Fee", ""+max);
-    	 }
+        }
         
         
-        
-        result.put("Level", "Undergraduate");
+        result.put("Level", "Postgraduate");
 		result.put("Scholarship", "");
 		result.put("Title",url[1]);
 	    result.put("Type",GetType(url[1]));
@@ -381,7 +347,7 @@ public class NewcastlePostData {
 	}
 	public static String GetType(String input)//BA BEng Bsc Msc MEng 
 	{
-		String types="BA;BEng;BSc;BDS;BN;BVSc;MOSci;MESci;MEcol;MPhys;MMath;MMarBiol;MBChB;MChem;MSc;MEng;Double MA;Joint MA;MA;MArich;MBA;PG;Pg;EdD;MEd;Postgraduate Diploma;Postgraduate Certificate;Doctorate;Graduate Certificate;LLM;LLB;GradDip;MTh;MRes";
+		String types="BA;BEng;BSc;BDS;BN;BVSc;MOSci;MESci;MEcol;MPhys;MMath;MMarBiol;MBChB;MChem;MSc;MEng;Double MA;Joint MA;MA;MArich;MBA;PG;Pg;EdD;MEd;Postgraduate Diploma;Postgraduate Certificate;Doctorate;Graduate Certificate;LLM;LLB;GradDip;MTh;MRes;MPhil;PhD;MD";
 		
 		String[] array=types.split(";");
 		for(int i=0;i<array.length;i++)
