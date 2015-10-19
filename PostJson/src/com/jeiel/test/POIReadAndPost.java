@@ -22,7 +22,7 @@ public class POIReadAndPost {
 	
 	public static String StructureDir="C:\\Users\\Administrator\\Desktop\\wyl\\structure_ug";
 
-	public static String filepath="D:\\ROYAL\\RoyalPostDataFixed.xls";
+	public static String filepath="D:\\ESSEX\\EssexPostOrigin.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -147,6 +147,7 @@ public class POIReadAndPost {
 					||line.equals("Year 2")
 					||line.equals("Year 3")
 					||line.equals("Year 4")
+					||line.equals("Year 5")
 					||line.equals("Final Year")
 					//||line.contains("Your first year will provide")
 					//||line.contains("In your second year, you will")

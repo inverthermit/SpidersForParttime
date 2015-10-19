@@ -32,7 +32,7 @@ public class Add {
 		// TODO Auto-generated method stub
 		try {
 			List<Major> list=POIReadAndPost.getData(null);
-			for(;index<=90;){
+			for(;index<=67;){
 				add(postUrl,list.get(index-1));
 			}
 		} catch (Exception e) {
@@ -127,7 +127,7 @@ public class Add {
 		   		course.put("scholarship", scholarshipList);
 		   	
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "ROYAL");
+		    value.put("university", "ESSEX");
 		    value.put("course", course);
 		   	entry.put("value", value);
 		   	//System.out.println(entry.toString());
