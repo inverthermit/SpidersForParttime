@@ -53,7 +53,7 @@ public class NewcastlePostData {
 	}
 	public static void WriteToExcel()
 	{
-		File outputFile = new File(FILE_PATH + "\\" + "Post_gen_data1.xls");
+		File outputFile = new File(FILE_PATH + "\\" + "Post_gen_data9.xls");
 		OutputStream os = null;
 		WritableWorkbook book=null;
 		WritableSheet sheet=null;
@@ -99,10 +99,9 @@ public class NewcastlePostData {
 		
 		int i = 1;
 		int j=0;
-		String url="";
 		for(;i<getURL.PostData.length+1;i++)
 		{
-			if(i>=0)
+			if(i>=290)
 			{
 				System.out.println(i+":"+getURL.PostData[i-1][0]);
 					HashMap<String,String> data=NewCastleGetDetails(getURL.PostData[i-1]);
@@ -117,7 +116,7 @@ public class NewcastlePostData {
 				
 			
 			
-			if(i>10)
+			if(i>302)
 				break;
 		}
 		
@@ -158,6 +157,7 @@ public class NewcastlePostData {
 		    
 		     
 		}
+		String originHTML=htmls;
 		System.out.println("Got reply!");
 		//htmls=HTMLFilter(htmls);
 		Parser parser=null;
@@ -178,41 +178,24 @@ public class NewcastlePostData {
 	    
 //**************************get duration**********************
         
-        parser=Parser.createParser(htmls, "utf-8");
-        TagNameFilter DurationFilter=new TagNameFilter("h3");
+        parser=Parser.createParser(htmls.replace("<header", "<form").replace("</header>", "</form>"), "utf-8");
+        AndFilter DurationFilter=new AndFilter(new TagNameFilter("form"),new HasAttributeFilter("class","pageTitle"));
         NodeList nodesF = parser.extractAllNodesThatMatch(DurationFilter);
         //String Structure="";
         if(nodesF.size()>0)
         {
         	String Duration=nodesF.elementAt(0).toHtml();
-        	if(Duration.contains("6 months"))
-    		{
-    			result.put("Length (months)","6");
-    		}
-        	else if(Duration.contains("9 months"))
-    		{
-    			result.put("Length (months)","9");
-    		}
-        	else if(Duration.contains("12 months"))
-    		{
-    			result.put("Length (months)","12");
-    		}
-    		else if(Duration.contains("24 months"))
-    		{
-    			result.put("Length (months)","24");
-    		}
-    		else if(Duration.contains("36 months"))
-    		{
-    			result.put("Length (months)","36");
-    		}
-    		else if(Duration.contains("48 months"))
-    		{
-    			result.put("Length (months)","48");
-    		}
-    		else if(Duration.contains("60 months"))
-    		{
-    			result.put("Length (months)","60");
-    		}
+        	Pattern p = Pattern.compile("[0-9]+ months");
+        	Matcher m = p.matcher(Duration);
+        	int duration=0;
+        	if(m.find()) 
+        	{
+        		duration=Integer.parseInt(m.group().replace(" months", ""));
+        	}
+        	if(duration!=0)
+        	{
+        		result.put("Length (months)",duration+"");
+        	}
         }
 	    
 	    parser=Parser.createParser(htmls, "utf-8");
@@ -226,9 +209,22 @@ public class NewcastlePostData {
     	    {
         		htmls=nodes.elementAt(k).toHtml();
       
+        		
+        		 //**************************get structure**********************
+        		
+    	    	if(htmls.contains("<h2>Profile</h2>"))
+    	    	{
+    	    		//System.out.println("Structure:\n");
+        	    	//System.out.println(node.toHtml().replaceAll("(<table([^>]*?)>)(.*?)(</table>)",""));
+                    String structure=(html2Str(htmls.replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+                    structure=HTMLFilter(structure);
+                    //System.out.println(structure);
+                    
+            	    result.put("Structure",structure.trim());
+    	    	}
 		 //**************************get structure**********************
 		
-    	    	if(htmls.contains("<h2>Modules</h2>"))
+    	    	else if(htmls.contains("<h2>Modules</h2>"))
     	    	{
     	    		//System.out.println("Structure:\n");
         	    	//System.out.println(node.toHtml().replaceAll("(<table([^>]*?)>)(.*?)(</table>)",""));
@@ -324,6 +320,29 @@ public class NewcastlePostData {
         	 {
         	 	System.out.println(max); 
         	 	result.put("Tuition Fee", ""+max);
+        	 }
+        	 else
+        	 {
+        		p = Pattern.compile("&pound;[0-9]+");
+             	m = p.matcher(originHTML.replace(",", ""));
+             	money=new ArrayList<Integer>();
+             	while (m.find()) 
+             	{
+             		money.add(Integer.parseInt(m.group().replace("&pound;", "")));
+             	}
+             	max=0;
+             	for(int w=0;w<money.size();w++)
+             		{
+             	    	if(money.get(w)>max)
+             	    		{
+             	    	    	max=money.get(w);
+             	    	    }
+             	    }
+             	 if(max!=0)
+             	 {
+             	 	System.out.println(max); 
+             	 	result.put("Tuition Fee", ""+max);
+             	 }
         	 }
         }
     	    	//System.out.println(htmls);
