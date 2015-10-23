@@ -12,7 +12,6 @@ import jxl.write.Label;
 import jxl.write.WritableSheet;
 import jxl.write.WritableWorkbook;
 import jxl.write.WriteException;
-import jxl.write.biff.RowsExceededException;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
@@ -29,16 +28,14 @@ import org.htmlparser.filters.TagNameFilter;
 import org.htmlparser.util.NodeList;
 import org.htmlparser.visitors.HtmlPage;
 
-import imperial.getURL;
-
-public class ImperialUnData {
+public class ImperialPostData {
 
 	/**
 	 * @param args
 	 */
 	
 	public static int MAX_THREAD=60;
-	public static String[][] Data=imperial.getURL.UnData;
+	public static String[][] Data=imperial.getURL.PostData;
 	public static String FILE_PATH="d:\\IMPERIAL";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -48,7 +45,7 @@ public class ImperialUnData {
 	public static WritableSheet sheet=null;
 	public static void WriteToExcel()
 	{
-		File outputFile = new File(FILE_PATH + "\\" + "gen_data.xls");
+		File outputFile = new File(FILE_PATH + "\\" + "Postgen_data.xls");
 		OutputStream os = null;
 		WritableWorkbook book=null;
 		try {
@@ -255,7 +252,7 @@ public class ImperialUnData {
 		                
 		    	    }
 		        }
-		        result.put("Level", "Undergraduate");
+		        result.put("Level", "Postgraduate");
 		        //result.put("IELTS Average Requirement", "");
 				//result.put("IELTS Lowest Requirement", "");
 				result.put("Scholarship", "");
@@ -263,7 +260,37 @@ public class ImperialUnData {
 				result.put("Title",url[2]);
 			    result.put("Type",url[3]);
 			    result.put("School", url[4]);
-			    result.put("Length (months)",url[5]);
+			    
+			    //Length
+			    int[] LenNum={3,4,6,8,16,21,23};
+			    int[] YearNum={1,2,3,4};
+			    int LenFlag=0;
+			    for(int lencount=0;lencount<LenNum.length;lencount++)
+			    {
+			    	if(url[5].contains(LenNum[lencount]+" month"))
+			    	{
+			    		result.put("Length (months)",LenNum[lencount]+"");
+			    		LenFlag=1;
+			    		break;
+			    	}
+			    }
+			    if(LenFlag==0)
+			    {
+			    	for(int lencount=0;lencount<YearNum.length;lencount++)
+				    {
+				    	if(url[5].contains(YearNum[lencount]+"Y"))
+				    	{
+				    		result.put("Length (months)",YearNum[lencount]*12+"");
+				    		LenFlag=1;
+				    		break;
+				    	}
+				    }
+			    }
+			    if(LenFlag==0)
+			    {
+			    	result.put("Length (months)",url[5]);
+			    }
+			    
 				httpclient.close();
 		        return result;
 			}
