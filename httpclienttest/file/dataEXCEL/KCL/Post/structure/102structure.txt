@@ -1,0 +1,52 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Introduction to Digital Culture and Society (40 credits).
+Dissertation (60 credits).
+
+     
+   Indicative non-core content
+   Modules from the Department of Digital Humanities (DDH) and the Department of Culture, Media and Creative Industries (CMCI) include;
+Semester One
+&bull; 7AAICC08 Ontologies of Digital Media
+&bull; 7AAICC09 Inside Today's Museum: Tate Modern (selective entry*)
+&bull; 7AAICC12 Visual Culture
+&bull; 7AAICC19 Culture and the City
+&bull; 7AAICC21 Music and American Culture
+&bull; 7AAICC23 Youth Subcultures
+&bull; 7AAICC28 Digital Industries and Internet Culture
+&bull; 7AAICC29 Fashion, Culture and Society
+&bull; 7AAICC34 The Aesthetic Economy and Aesthetic Markets
+&bull; 7AAICC36 Transnational Screen Production
+&bull; 7AAICC39 The Social Life of Big Data
+&bull; 7AAICC40 Cultural Memory
+&bull; 7AAICC48 Transmedia Storytelling
+&bull; 7AAVMWEB Web Technologies
+&bull; 7AAVMARC Communication and Consumption of Cultural Heritage
+&bull; 7AAVD0S Open Source, Open Access, Open Culture
+&bull; 7AAICC08 Ontologies of Digital Media
+&bull; 7AAVDM06 Crowds and Clouds - Digital Ecosystems
+&bull; 7AAVDM07: From Information to Knowledge &ndash; Metadata and Systems for digital assets and media
+&bull; 7AAVDM10 Digital Media, Digital Marketing
+Semester Two
+&bull; 7AAICC10 Cultural Policy
+&bull; 7AAICC25 Towards Tomorrow's Museum: Tate Modern (selective entry)
+&bull; 7AAICC35 Social Media: Protest and Political Campaigning
+&bull; 7AAICC38 Readings in the Music Business
+&bull; 7AAICC45 Culture: Conflict, Diplomacy and International Relations
+&bull; 7AAIAM05 Museum Curating Now: Behind the Scenes at the Tate: Tate Modern (selective entry)
+&bull; 7AAVDH05 Digital Publishing
+&bull; 7AAVDH06 Editorial models for Digital Texts: Theory and Practice
+&bull; 7AAVMAPS Maps and Apps and the GeoWeb: Introduction to Spatial Humanities
+&bull; 7AAICC35 Digital Culture and Political Protest
+&bull; 7AAICC39 The Social Life of Big Data
+&bull; 7AAVDM04 Curating and Preserving Digital Culture
+&bull; 7AAVDM05 Digital Asset and Media Technologies in Practice
+&bull; 7AAVDM09 Management for Digital Content Industries
+Full module descriptions are now available on the DDH
+ and CMCI
+ websites.
+     
+   
+   FORMAT AND ASSESSMENT
+  The programme consists of a compulsory core module (40 credits), optional modules (which consider aspects of the core module in greater detail) to the value of 80 credits, and a supervised research project (dissertation worth 60 credits). The taught core and optional modules are assessed by coursework and/or examination. One of the optional modules offered is an internship  (20 credits) in an organisation relevant to digital culture.

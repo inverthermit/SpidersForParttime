@@ -1,0 +1,301 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Core modules:
+Drug Development Pharmacology (DDP) (15 credits)
+Drug Development Statistics and Data Management (SDM) (15 credits)
+Drug Discovery and Development (DDD) (15 credits)
+Exploratory Drug Development (EDD) (15 credits)
+Preclinical Science (PSC) (15 credits)
+Translational Medicine Experimental Research Project (PRT) (90 credits).
+
+     
+   Indicative non-core content
+   Optional modules:
+ADME, Pharmacokinetics and Pharmacodynamics (ADM) (15 credits)
+Biological and Advanced Therapies (BAT) (15 credits)
+Clinical Drug Development (CLD) (15 credits)
+Drug Regulatory Affairs (RGN) (15 credits)
+Drug Safety and Ethics (DSE) (15 credits).
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Three assignments, plus one online multiple choice test for each module.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      ADME, Pharmacokinetics   Pharmacodynamics - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MMM0009    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  During this module, students will gain a comprehensive understanding of the principles of pharmacokinetics and pharmacokinetic/pharmacodynamic relationships and will learn how to apply these principles to predict the importance of demographic factors, drug-disease interactions, drug-drug interactions with modelling of PK/PD of specific drugs based on data provided.
+Pharmacokinetic analysis from sample collection through data analysis to the interpretation of results will be considered as well as factors affecting absorption, distribution, metabolism and excretion of a drug.
+  
+    Drug Development Pharmacology - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBM0013    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module covers the fundamental principles of pharmacology and how pharmacological concepts are applied in the context of pharmaceutical sciences. It will explore the role of pharmacology in the drug discovery/development process.
+Key topics include: fundamental principles of pharmacology, such as dose-response relationship, benefit:risk ratio, agonism and antagonism, targets for drug action, in vitro techniques for assessing drug action, and pharmacokinetics/pharmacodynamics. There will be sessions on drugs and the cardiovascular system, drugs and blood, anti-infective drugs, drugs and cancer, and immunopharmacology.
+  
+    Drug Development Statistics   Data Management - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MMM0004    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module aims to provide a broad understanding of statistics as they apply to medicines development, including those used in clinical trials, to enable a power calculation to be done, to organise clinical trial data and to analyse and report the data. 
+The module will consist of classroom teaching with a large element of practical experience designing studies and evaluating, analysing and presenting data.
+  
+    Drug Discovery And Development - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBP0001    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module covers the structure of the pharmaceutical industry and how research is organised, as well as how new drugs (both small molecules and biotechnology products) are discovered and selected for development. We will provide an overview of the whole drug development process, including drug registration, marketing and post marketing responsibilities.
+A case study running through the module will help students to understand how drug discovery/ development works in practice.
+  
+    Exploratory Drug Development - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MMM0003    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module provides students with an understanding of the major principles associated with testing pharmaceutical compounds in human subjects. Over five days we will consider how a new medicine is selected for development, appraisal of toxicological and pharmacological data to aid dose selection in phase 1 clinical trials, and phase 1 clinical trial design and execution.
+Key topics include: Preclinical assessment, first-in-human (FIH) study design, clinical trial dose selection, ethical principles in human experimentation, pharmacokinetic issues, biomarkers and surrogates, Phase 1 clinical trial monitoring and analysis, regulatory issues, and gene therapy/stem cell therapy.
+Practical exercises will include case studies on aspects of early drug development.
+  
+    Preclinical Science - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBP0002    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module covers three major areas:
+The pharmacology part of the module will include basic principles, plus the use of animal models, including transgenic models. You will see how the pharmacology studies inform the choice of drug candidates.
+You will learn of the importance of preclinical safety testing, including what tests are needed to start and progress a clinical development programme. You will learn how to look for critical information within a toxicology report and will visit a major toxicology laboratory. 
+The module will also introduce aspects of pharmaceutical sciences, including the choice of formulation, stability testing, scale-up and how these issues can impact on a clinical trial programme.
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Biological   Advanced Therapies - Optional
+
+    
+  
+      
+     Module code:  
+7BBP0014    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This module provides advanced training in the area of medicines produced by biotechnology. Participants will study the new therapeutic technologies that are in development as well as the ethical and regulatory frameworks that apply to these products. The differences between the clinical development programmes required by these different technologies will also be explored. The areas covered include recombinant proteins, monoclonal antibodies, vaccines, both prophylactic and therapeutic, gene therapy, stem cells and epigenetics.
+  
+    Clinical Drug Development - Optional
+
+    
+  
+      
+     Module code:  
+7BBP0005    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This module covers the development of a new medicine from early exploratory clinical development right through to the stage of applying for a licence for marketing. We will highlight practical issues associated with running clinical trials, including large-scale multinational projects.
+Key topics include: Clinical trial design, clinical end points, writing a protocol, project management, ethical and legal aspects of clinical research, logistics issues in clinical trials, clinical trials in children, data gathering for phase 2-4 studies, adverse events in clinical trials. You will take part in workshop sessions and practical exercises to &ldquo;develop&rdquo; a new molecule and learn how to apply the principles of statistics to clinical trial design.
+  
+    Drug Regulatory Affairs - Optional
+
+    
+  
+      
+     Module code:  
+7BBP0007    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This module explores the principles that underpin drug regulation in the UK and worldwide. Over five days, we will consider the regulatory requirements for special patient populations, commercial issues from product life cycle development through to marketing, pharmacovigilance, and the handling of off label and unlicensed medicines.
+Key topics include: European regulatory procedures, ethics committees, adverse drug reaction reporting, regulatory requirements in special populations (eg, children, the elderly), advertising, internet sales, medical aspects of the Marketing Authorisation, bioequivalence and generics, special licensing issues (such as for biologicals, devices, herbal and homoeopathic medicines), and pharmacovigilance (pre- and post-marketing)
+You will take part in a series of workshops to learn about practical aspects of Clinical Trial Authorisations, preparation of Summaries of Product Characteristics and Patient information leaflets, risk minimisation, and reclassification of the legal status of medicines.
+  
+    Drug Safety   Ethics - Optional
+
+    
+  
+      
+     Module code:  
+7BBP0011    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  In this module, two of the most important issues within the drug development process and the whole of clinical research are addressed.
+In addition to reviewing the general principles of medical ethics and how they apply to clinical research as defined within the various guidelines and statutes we will have presentations from patient groups and a member of an ethics committee. The issues around business ethics and marketing will also be explored.
+We will look at the mechanisms of cellular toxicology, the value of spontaneous reporting and the use of large electronic data bases as means of evaluating the safety of medicines. We will look at safety issues from the point of view of the sponsor, the investigator and the regulator and learn how to develop and implement a risk management plan.

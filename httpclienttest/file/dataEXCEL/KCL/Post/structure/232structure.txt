@@ -1,0 +1,1048 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   You will attend eight of the modules currently offered to BSc students which may include an individual project on a subject of your choice. Subject to timetable constraints, considerable choice is possible. A list of modules offered in our department, which changes slightly from year to year, can be found on our website. 
+You may also take a limited number of modules taught in other London colleges and modules from the Financial Mathematics programme, subject to approval.
+     
+   
+   FORMAT AND ASSESSMENT
+  You must take eight modules which may include an individual project on a subject of your choice. You will also take examinations, mostly in May/June.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+    
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Analysis I - Optional
+
+    
+  
+      
+     Module code:  
+5CCM221A    
+  
+    Credit level:  
+5  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+Real Analysis is one of the core subjects in every reputable Mathematics degree programme. It enables us to explain why results require proof and that statements are only true in a context of some precise technical conditions. It also provides the knowledge needed to make sense of a variety of other topics in the syllabus, such as complex analysis, dynamical systems and differential equations, all of which have immense importance within the subject. It is expected that you will understand and be able to reproduce the proofs of the major theorems of the subject. You should also appreciate the logical relationships between the different parts of the subject and be able to use the ideas of the module in a variety of situations.
+Syllabus:
+The module builds upon the material in 4CCM115a Numbers and Functions, which you are expected to know. It emphasises the difference between school level calculus and a rigorous treatment of the same topics. The material starts with definitions of limits of sequences and series, and simple criteria for convergence, with many examples of the kind you should learn how to handle. This part of the module includes the Cauchy criterion, absolute convergence of series and a study of power series.
+Real variable theorems include definitions of continuity and differentiation with proofs of well established theorems for functions of a single real variable up to Taylor's theorem.
+Properties of an elementary integral in one space dimension will be studied briefly, starting from a list of axioms for the integral. Proofs will be given of the fundamental theorem of
+calculus and of the rules for evaluating integrals.
+Books:
+You are advised to acquire and use one of the following books (all available in the library):
+&bull; K G Binmore: Mathematical Analysis, a straightforward approach, Cambridge University Press.
+&bull; R Haggarty: Fundamentals of Mathematical Analysis. Addison Wesley.
+&bull; David S. Stirling : Mathematical Analysis and Proof, Albion.
+&bull; David Brannan: A First Course in Mathematical Analysis, Cambridge University
+
+  
+    Applied Analytic Methods - Optional
+
+    
+  
+      
+     Module code:  
+5CCM250A    
+  
+    Credit level:  
+5  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+This module will introduce you to various mathematical problems that can be solved by analytical means. The goal is to demonstrate in an explicit and non-abstract way the importance of Analysis and the need to justify formal methods and arguments. The module prepares you for applying analytical methods to 'real world' problems.
+Syllabus:
+About five topics will be selected from the following list: 1) evaluation of integrals from known results by differentiation under the integral, including some work on improper integrals; 2) Laplace transforms; 3) solution of ordinary differential equations by power series; 4) Fourier series &ndash; possibly used to solve the one-dimensional wave equation; 5) rudimentary calculus of variations; 6) generating functions; 7) Green's functions for ordinary differential equations with two point boundary conditions; 8) the Dirichlet problem in the unit disc; 9) other topics at a similar level.
+Books:
+The module will be self-contained and there are no required texts. Many books serve to give further information on the topics covered. A few suggestions are given below.
+&bull; W. Ledermann, Integral calculus, Library of Mathematics. London:
+&bull; Routledge and Kegan Paul, 1964.
+&bull; V.I. Smirnov, A course of higher mathematics. Vol. II: Advanced calculus,
+&bull; International Series of Monographs in Pure and Applied Mathematics.
+&bull; Oxford-London-Edinburgh: Pergamon Press, 1964.
+&bull; C.H. Edwards and D.E. Penney, Differential equations and boundary value
+&bull; problems, Pearson Education, 2004.
+&bull; R.K. Nagle, E.B. Saff, and A.D. Snider, Fundamentals of differential
+&bull; equations and boundary value problems, Pearson Education, 2004.
+&bull; I.N. Sneddon, Fourier series, Library of Mathematics. London: Routledge
+&bull; and Kegan Paul, 1961.
+&bull; G.P. Tolstov, Fourier series, New York: Dover Publications, 1976.
+&bull; I.M. Gelfand and S.V. Fomin, Calculus of variations, Mineola, NY: Dover
+&bull; Publications, 2000.
+&bull; D.I.A. Cohen, Basic techniques of combinatorial theory, New York-
+&bull; Chichester-Brisbane: John Wiley   Sons, 1978.
+&bull; N. Biggs, Discrete mathematics, Oxford Science Publications, New York:
+&bull; The Clarendon Press, Oxford University Press, 1989.
+
+  
+    Complex Analysis - Optional
+
+    
+  
+      
+     Module code:  
+6CCM322A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+This module will provide a detailed introduction to complex function theory which
+interrelates the geometric and analytic aspects. A principal goal is Cauchy's famous
+integral theorem and its many intriguing consequences.
+Syllabus:
+M&ouml;bius transformations, analytic functions, Cauchy-Riemann equations, complex trigonometric and exponential functions, complex logarithm, contour integration, Cauchy's Theorem, Cauchy's Integral Formulae, Taylor series, Identity Theorem, Liouville's Theorem, Laurent Expansion, singularities, residues, winding number, Cauchy's Residue Theorem, Argument Principle, Maximum Modulus Principle.
+Books:
+Books covering most of the course are
+&bull; I. Stewart   D. Tall, Complex Analysis, Cambridge 1993
+&bull; J. Bak   D. Newman, Complex Analysis, Springer, 1997
+&bull; H A Priestley, Introduction to Complex Analysis, OUP 2003
+
+  
+    Discrete Mathematics [extended Version] - Optional
+
+    
+  
+      
+     Module code:  
+6CCM251B    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+To give students an understanding of the nature of an algorithmic solution to problems, to illustrate the idea by applications to problems in discrete mathematics and to promote an algorithmic viewpoint in subsequent mathematical work.
+Syllabus:
+Elementary properties of Integers. Functions and their behaviour. Introduction to Recursion. Algorithms and complexity. Graphs including Euler's Theorem, shortest path algorithm and vertex colouring. Trees - applications include problem solving and spanning trees. Directed Graphs including networks. Dynamic programming. Codes and Cyphers - with Hamming codes and RSA.
+Books:
+The module was designed as a combination of useful and interesting (hopefully both) topics and so is not based on any particular book.
+Books you may like to look at are (do not buy but use for background reading):
+&bull; Introduction to Graph Theory, Robin J Wilson
+&bull; Discrete Mathematics and Its Applications, Kenneth H Rosen
+&bull; Discrete and Combinatorial Mathematics, Ralph P Grimaldi
+&bull; Elementary number theory and its Applications, K H Rosen (for RSA)
+
+  
+    Elementary Number Theory - Optional
+
+    
+  
+      
+     Module code:  
+6CCM224B    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+The aim of this module is to give an introduction to elementary number theory and to further develop the algebraic techniques met in 'Introduction to Abstract Algebra'. By introducing several new concepts in the concrete setting of rational integers, this module is a good preparation for more demanding modules in number theory and algebra.
+Syllabus:
+Review of divisibility, prime numbers and congruences. Residue class rings, Euler's &phi;-function, primitive roots. Quadratic residues and quadratic reciprocity law. Irrational and transcendental numbers. Sums of squares. Some Diophantine equations. If time permits we will also learn about the 'AKS' algorithm for primality testing.
+Books:
+The module is not based on any particular book, but the following books may be useful:
+D. M. Burton, Elementary Number Theory, McGraw-Hill Education, 5th ed., 2001.
+J. H. Silverman, A Friendly Introduction to Number Theory, Prentice Hall, 3rd ed., 2005.
+G. A. Jones and J. M. Jones, Elementary Number Theory, Springer, 1998.
+
+  
+    Fourier Analysis - Optional
+
+    
+  
+      
+     Module code:  
+6CCM318A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+The purpose of the module is to introduce the notions of Fourier series and Fourier transform and to study their basic properties. The main part of the module will be devoted to the one dimensional case in order to simplify the definitions and proofs. Many multidimensional results are obtained in the same manner, and those results may also be stated. The Fourier technique is important in various fields, in particular, in the theory of (partial) differential equations. It will be explained how one can solve some integral and differential equations and study the properties of their solutions using this technique.
+Syllabus:
+Series expansions. Definition of Fourier series. Related expansions. Bessel's inequality. Pointwise and uniform convergence of Fourier series. Periodic solutions of differential equations. The vibrating string. Convolution equations. Mean square convergence. Schwartz space S. Fourier transform in S. Inverse Fourier transform. Parseval's formula. Solutions of differential equations with constant coefficients.
+Books:
+A book covering most of the module is:
+H. Dym and P. McKean, Fourier series and integrals, Academic Press, 1972.
+
+  
+    Galois Theory - Optional
+
+    
+  
+      
+     Module code:  
+6CCM326A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+To develop the theory of finite extensions of fields, culminating in an understanding of the Galois Correspondence. To demonstrate the power of this theory by applying it to the solution of historically significant questions. For instance: for which polynomials can all the roots be written as 'radical expressions' (i.e. expressions involving the usual operations of arithmetic together with roots of any degree)? To provide an important tool for further studies in Algebra e.g. Number Theory.
+Syllabus:
+Review of the basic theory of rings, polynomials and fields; Eisenstein's Criterion; first properties of finite extensions of fields and their degrees; algebraicity and transcendence; field embeddings and automorphisms; normal extensions; separable extensions; the Galois Correspondence; examples of practical calculation; soluble groups and extensions; (in)solubility of polynomial equations by radical expressions.
+Further topics may include finite fields, constructability by straightedge and compass, etc. as time allows.
+Books:
+The following are highly recommended:
+&bull; I. Stewart, 'Galois Theory ', Chapman and Hall: 2nd ed. 1989, 3rd ed. 2004.
+&bull; J. Rotman, 'Galois Theory ', Universitext, Springer, 2nd ed. 1998.
+The course most closely follows the level and order of exposition of the 2nd edition of (1). (The 3rd, expanded, edition starts at too elementary a level but contains interesting extra detail). Rotman's book (2) lacks some of the colour and historical detail of (1). On the other hand, it has useful sections on groups and rings. Further background material on groups may be found in:
+&bull; T. Barnard and H. Neill,'Teach Yourself Mathematical Groups', Hodder and Stoughton, 1996.
+
+  
+    Geometry of surfaces [extended version] - Optional
+
+    
+  
+      
+     Module code:  
+6CCM223B    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Not yet available
+  
+    Groups And Symmetries - Optional
+
+    
+  
+      
+     Module code:  
+5CCM232A    
+  
+    Credit level:  
+5  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+To provide an understanding of group theory and some of its applications.
+Syllabus:
+General group theory: Definitions of a group, cyclic groups, coset spaces, conjugacy classes, normal subgroups, quotient groups, dihedral groups, isomorphism theorems, group of automorphisms. Direct products and semi-direct products.
+Classical groups: GL(n,R), U(n), SU(n), 0(n), S0(n) and the various relations between them; centres of classical groups; 0(n) = Z2 x S0(n), n odd; the semi-direct product relation for n even; scalar product and 0(n), U(n); parametrization of S0(2) and S0(3), rotations in R2 and R3; S0(3) = SU(2)/Z2; Euclidean group, Lorentz group.
+Applications to symmetries of geometrical objects, vector fields and equations.
+Books:
+&bull; J F Humphreys: A course in Group Theory, Oxford Science Publications
+&bull; C Isham: Lectures on Groups and Vector Spaces for Physicists, World Scientific
+&bull; E Wigner: Group Theory, Academic Press
+
+  
+    Groups and symmetries [extended version] - Optional
+
+    
+  
+      
+     Module code:  
+6CCM232B    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  not yet available
+  
+    History And Development Of Mathematics - Optional
+
+    
+  
+      
+     Module code:  
+6CCM360A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims and Objectives:
+This course aims to make you familiar with the broad outlines of the history of mathematics; to show how to interpret past mathematical writings, and how to construct a historical argument.
+Syllabus:
+Ancient mathematics; the Greeks; the Islamic world; medieval and Renaissance mathematics; the scientific revolution; the invention of the calculus; non-euclidean geometry; the rigorous approach and problems of foundations; the twentieth century.
+Books:
+&bull; The History of Mathematics --- A Reader, eds J Fauvel and J Gray, (Open University, 1987) (basic reference text, choice of readings)
+Plus a choice of the following surveys:
+&bull; A History of Mathematics --- An Introduction, V J Katz (Addison-Wesley, 1998)
+&bull; A Concise History of Mathematics, D Struik (Dover, 1987)
+&bull; The History of Mathematics --- An Introduction, D M Burton (McGraw Hill, 1997)
+&bull; The Fontana History of the Mathematical Sciences, I Grattan-Guinness (Fontana 1997)
+&bull; A History of Mathematics, C Boyer and U Merzbach (Wiley, 1989)
+&bull; A Contextual History of Mathematics, R Calinger (Prentice-Hall, 1999)
+&bull; There will also be notes for the course on sale at the beginning of the semester.
+
+  
+    Intermediate Dynamics - Optional
+
+    
+  
+      
+     Module code:  
+5CCM231A    
+  
+    Credit level:  
+5  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims:
+The aim of the module is to develop the basic concepts and mathematical techniques of classical analytical mechanics, including Newtonian, Lagrangian, and Hamiltonian methods, and to lay the foundation for studies of quantum theory, statistical mechanics, and chaos.
+Syllabus:
+Newton's Laws; Conservation Laws; Kepler's Laws; Lagrangian Dynamics; Hamiltonian Dynamics; Poisson Brackets; Noether's Theorem; Liouville's Theorem and the Poincare Recurrence Theorem. If there is sufficient time the Action Principle and modes of vibration will also be studied.
+Books:
+Any of the many books you can find in the library on classical mechanics or dynamics can be consulted including:
+&bull; H. Goldstein, C. Poole and J. Safko, Classical Mechanics
+&bull; T. W. Kibble and F. H. Berkshire, Classical Mechanics
+&bull; A. P. French and M. Ebison, Introduction to Classical Mechanics
+
+  
+    Intermediate dynamics [extended version] - Optional
+
+    
+  
+      
+     Module code:  
+6CCM231B    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Module description not yet available
+  
+    Introductory Quantum Theory - Optional
+
+    
+  
+      
+     Module code:  
+6CCM332A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      written examination/s     
+    
+     
+  Aims and objectives:
+This module provides a first introduction to quantum mechanics, the theory used to describe processes at and below atomic length scales. Its basic formalism differs drastically from what occurs in classical mechanics, and the probabilistic aspects raise unexpected interpretational questions. The lectures will not attempt to solve those, but aim at discussing the formalism itself and at showing how it leads to key features of quantum mechanics such as Heisenberg's uncertainty principle and the surprising discreteness of certain quantities.
+Syllabus:
+Historical account of the problems with classical physics which made the development of quantum physics necessary; wave-particle dualism. Schr&ouml;dinger's equation and probabilistic interpretation. Some simple one-dimensional examples. A more abstract formulation, including some remarks on general Hilbert spaces and operators. Heisenberg's uncertainty relation. Heisenberg picture of time evolution. If time permits, an outlook on symmetries, the Hydrogen atom, and other topics.
+Books:
+&bull; Bransden, Joachain "Quantum Mechanics" gives a fairly complete account, including a lot of physics background information.
+&bull; Isham "Lectures on Quantum Theory" provides a good and detailed summary of the mathematical tools and discusses interpretational issues.
+
+  
+    Linear Algebra - Optional
+
+    
+  
+      
+     Module code:  
+5CCM222A    
+  
+    Credit level:  
+5  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+This course sets concepts from the 'methods' course 4CCM113a (CM113A) (e.g. determinant and dimension) in the more general framework of abstract vector spaces. It also gives the precise definitions and proofs that are essential for much of higher mathematics, both pure and applied. Further concepts and methods are also introduced in the same manner. Examples from Rn and Cn will be given where possible to illustrate the geometrical meaning behind the algebraic ideas. The course will emphasise the interplay between abstract and more concrete ideas.
+Syllabus:
+General definition and properties of vector spaces, subspaces and linear maps. Linear independence, basis and dimension. Rank and nullity for linear maps. The relation between linear maps and matrices. Change of basis and similarity of matrices. Inverse matrices. Eigenvectors, eigenvalues and diagonalisation of matrices. Inner product spaces and orthogonal diagonalisation.
+Books:
+The course will not follow one particular textbook. There is a vast array of books on linear algebra that contain the material of the course (often also covering the preliminary material from linear methods). Here is a small sample, listed in roughly increasing order of sophistication:
+&bull; Elementary Linear Algebra', Howard Anton, 8th ed., Wiley, 2000.
+&bull; Linear Algebra with Applications', W. Keith Nicholson, 3rd ed. PWS 1995.
+
+  
+    Linear algebra [extended version] - Optional
+
+    
+  
+      
+     Module code:  
+6CCM222B    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  not yet available
+  
+    Mathematical Biology - Optional
+
+    
+  
+      
+     Module code:  
+6CCMCS05    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+Mathematical biology is a very active and fast growing interdisciplinary area in which mathematical concepts, techniques, and models are applied to a variety of problems in developmental biology and biomedical sciences. Many biological processes can be quantitatively characterized by differential equations. This course introduces you to a variety of models mainly based on ordinary differential equations and techniques for analysing these models. Mathematical concepts on nonlinear dynamics and chaos will be introduced. Population models (predator-prey, competition), epidemic models and reaction enzyme kinetics will be discussed. Some probabilistic modelling of molecular evolution will also be introduced.
+No previous knowledge of biology is necessary.
+Syllabus:
+Continuous population models for single species; Discrete population models for single species; Continuous population models for interacting species; Modelling infectious disease transmission/spread using ODEs; Reaction kinetics; Introduction to DNA and modelling of molecular evolution
+Books:
+The following book contains a substantial portion of the module:
+J.D. Murray, Mathematical Biology, Vol I, 3rd Edition, Springer, 2002.
+
+  
+    Mathematical Finance I Discrete Time - Optional
+
+    
+  
+      
+     Module code:  
+6CCM388A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims and objective:
+This module aims to model the evolution of asset prices using the methodology of no-arbitrage in complete markets. The binomial asset pricing model will be the (mathematically easy!) vehicle used to introduce (profound!) financial concepts and necessary probability notions. This facilitates an intuitive understanding of terminology, preparing the student for the continuous-time equivalent, as well as providing a powerful practical tool.
+Syllabus:
+Asset price in discrete time, random walks, conditional expectation, elements of discrete-time martingale theory, the binomial asset pricing model, option pricing in discrete time, and -time permitting- discrete time term structure models and/or discrete time portfolio theory.
+Books:
+The material covered will be similar to that in the book (although extra material might replace some portions):
+Steven E. Shreve: Stochastic Calculus for Finance I: The Binomial Asset Pricing Model,
+
+  
+    Mathematical Finance Ii Continuous Time - Optional
+
+    
+  
+      
+     Module code:  
+6CCM338A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s     
+      One 2-hour examination. Exercise sheets will be given out regularly. In addition, it is essential that students work through the theory as the course progresses.
+     
+  Aims and objectives:
+This module aims to introduce you to a number of topics in continuous-time mathematical finance theory, along with the associated probabilistic background. The approach will be applied and practical in character, while at the same time mathematically rigorous.
+Syllabus:
+You will receive an introduction to elements of the following topics: Stochastic processes in continuous time, Brownian motion; Elements of continuous-time martingale theory; Ito calculus, elementary stochastic differential equations; Absence of arbitrage, forward prices; Asset pricing in continuous time; Geometric Brownian motion asset model; Option pricing in continuous time, Black-Scholes-Merton model, PDE methods; Introduction to continuous-time term structure models
+Books:
+Lecture notes for the previous combined discrete and continuous time course are "Financial Mathematics: An Introduction to Derivatives Pricing" by Hughston   Hunter (1999).
+This module expands on those notes using the course text book "Stochastic Calculus for Finance II: Continuous-Time Models", 2nd Edition, Springer (2008) by S. E. Shreve.
+It will be assumed that you are familiar with the material in "Stochastic Calculus for Finance I: The Binomial Asset Pricing Model", 2nd Edition, Springer (2008) by S. E. Shreve.
+Other good books for background reading
+&bull; J. C. Hull, Options, Futures, and Other Derivatives, Prentice-Hall (Seventh Edition, 2008).
+&bull; M. W. Baxter and A. J. O. Rennie, Financial Calculus, Cambridge University Press (1996).
+&bull; R. Jarrow and S. Turnbull, Derivative Securities, Southwestern Press (1999).
+&bull; B. Oksendal, Stochastic Differential Equations, Springer-Verlag (Sixth Edition, 2007).
+&bull; P. Wilmott, Derivatives, Wiley (1998).
+
+  
+    Numerical Methods - Optional
+
+    
+  
+      
+     Module code:  
+6CCM359A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+      One 45-minute practical (computer based) Excel test near the end of the semester, which counts for 20% of the final mark. Moreover, up to 10% of the final mark can be achieved by volunteering during tutorials. The remaining 70-80% of the course marks are assessed by one 2-hour written examination. Exercise sheets will be handed out weekly. For the first two weeks, homework must be submitted electronically (as email attachment). After that, work will not be collected, but solutions to exercises will be discussed during tutorials. Exercise sheets will be placed on the web page, as the course proceeds.
+     
+  Aims and objectives:
+To learn the theory and practice of numerical problem solving; to learn to use Excel spreadsheets, and Maple.
+Syllabus:
+Solution of non-linear equations. Approximation of functions by polynomials. Numerical differentiation and integration. Numerical solution of ordinary differential equations, and systems of linear equations. Rates of convergence, and errors. The algorithms developed will be implemented in Excel spreadsheets or in Maple.
+Books:
+&bull; R Burden   J Faires, Numerical Methods (3ed), Brooks-Cole 2003
+&bull; D Kincaid   W Cheney, Numerical Analysis (3ed), Brooks-Cole 2002
+&bull; R Burden   J Faires, Numerical Analysis (8ed), Brooks-Cole 2005
+&bull; E Joseph Billo, Excel for Scientists and Engineers: Numerical Methods, Wiley 2007
+
+  
+    Partial Differential Equations And Complex Variable - Optional
+
+    
+  
+      
+     Module code:  
+5CCM211A    
+  
+    Credit level:  
+5  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims and Objectives:
+The theory of Partial Differential Equations (PDEs) forms the basis for many fundamental areas of mathematics. Apart from their fundamental role in physics and mechanics, such as in describing how electromagnetic-waves propagate through space, PDEs also provide the tools for many areas of pure mathematics. In 'geometric analysis', for instance, the way in which a given space is curved (e.g a surface such as a sphere) is studied by associating to it a geometric evolution equation ---- the idea is this, different spaces sound differently when you tap them, as for example we know from tapping drums of different shapes and sizes; the question, then, is "can you hear the shape of a drum"?
+An important technique in solving PDEs is provided by functions of a complex variable, which constitutes one of the most elegant branches of pure mathematics. The second part of the module will be devoted to the implementation of those techniques.
+The module will be taught in a manner akin to Calculus II, That is, this is a 'methods course' and so will not deal with the many abstractions that a more rigorous exposition would entail. Nevertheless, a student who has mastered this module will be in a strong position to appreciate the subtleties of a rigorous module on Complex Analysis such as 6CCM322A, or one of the many third and fourth year modules dealing with various aspects of PDEs.
+Syllabus:
+Partial Differential Equations
+Basic ideas: linear equations, homogeneous equations, superposition principle. Laplace's equation in two variables, simple boundary value problems. Separation of variables. Fourier series. Introduction to Fourier transforms with applications.
+Complex Variable
+Revision of complex numbers. Basic definitions: open sets, domain, curves, trace of a curve. Definitions of continuity, differentiability, analyticity. Cauchy-Riemann equations. Integration along a smooth curve; integration along a contour; Cauchy's theorem. Cauchy's integral formula, Laurent's theorem, Taylor's theorem. Calculus of residues. Contour integration.
+Books:
+Many books serve to give further information on the topics covered --- visit the Chancery Lane library! &ndash; or visit Foyles bookshop in Charing Cross Road. The following are a few suggestions --- but are fairly arbitrary choices:
+&bull; P. Drabek, G. Holubova, Elements of Partial Differential Equations, (de Gruyter)
+&bull; Y. Pichover, J. Rubinstein, An Introduction to Partial Differential Equations, (CUP)
+&bull; W. A. Strauss, Partial Differential Equations An Introduction (Wiley)
+&bull; N. Asmar, Partial Differential Equations with Fourier Series and Boundary Value Problems, (Pearson, Prentice-Hall)
+&bull; H F Weinberger, Partial Differential Equations with Complex Variables and Transform Methods (Dover 1995)
+For complex variable theory:
+&bull; H A Priestley, Introduction to Complex Analysis (2nd Edition) (OUP)
+
+  
+    Partial differential equations and complex variable [extended version] - Optional
+
+    
+  
+      
+     Module code:  
+6CCM211B    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  NOT YET AVAILABLE
+  
+    Probability And Statistics Ii [extended Version] - Optional
+
+    
+  
+      
+     Module code:  
+6CCM241B    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+This course should make you familiar with the standard techniques of elementary statistics and, by introducing such fundamental concepts as hypothesis testing, estimation and analysis of variance, prepare you for further study in both theoretical and practical statistics.
+Syllabus:
+Bivariate probability, continuous densities, generating functions. The exponential densities, including normal, t-, &chi;2 and F. Simple parametric and nonparametric tests. Further topics include the consistency, efficiency and sufficiency of estimates, maximum likelihood estimation; the central limit theorem, the Neyman-Pearson lemma and the likelihood ratio test; regression, analysis of variance.
+Books:
+Wackerly, Mendenhall   Scheaffer: Mathematical Statistics with Applications (7th edition), Duxbury. (This text is strongly recommended but it is not compulsory.)
+
+  
+    Real Analysis Ii - Optional
+
+    
+  
+      
+     Module code:  
+6CCM321A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+The main aims of the module are:
+&bull; to extend your knowledge and appreciation of analysis to a wider range of situations and introduce you to the important concepts that are applicable in these more general cases;
+&bull; to establish the central results on continuity in this more general context;
+&bull; to demonstrate some applications of the theory to other parts of mathematics.
+Syllabus:
+Metrics and norms. Open and closed sets. Continuity. Bounded linear maps. Cauchy sequences. Completeness. Absolutely convergent series in complete normed spaces. Contraction mapping theorem. Connectedness and path connectedness. Totally disconnected metric spaces. Compactness. Compact and sequentially compact sets. Uniformly continuous functions. Stone--Weierstrass theorem. Integration (rigorous definition via uniform approximation by step functions). Integrals depending on a parameter. Picard's existence theorem for first order differential equations.
+Books:
+The following books contain a substantial portion of the module:
+&bull; J.C.   H. Burkill, A second course in mathematical analysis
+&bull; W.A. Light, An introduction to abstract analysis
+&bull; W.A. Sutherland, Introduction to metric and topological spaces
+&bull; Kolmogorov   S. Fomin, Introductory real analysis
+
+  
+    Representation Theory Of Finite Groups - Optional
+
+    
+  
+      
+     Module code:  
+6CCM351A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+The aim of this module is to develop the basic theory of linear representations and characters of finite groups over the complex numbers.
+Syllabus:
+The basic definitions and standard properties of linear representations of finite groups over the complex numbers (in particular Schur's lemma and Maschke's theorem). The relation between representations and characters, the orthogonality relations and other fundamental properties of characters and character tables. Application of the above results to performing explicit calculations for groups of small order.
+One of the following more advanced topics will be covered: induction and restriction of representations and characters, algebraic integers and their applications to characters of finite groups, or representations over the real numbers
+Books, course material:
+&bull; Walter Ledermann: "Introduction to group characters''.
+&bull; The first half of: J-P. Serre, "Linear representations of finite groups".
+&bull; James   Liebeck: "Representations and Characters of Groups"
+
+  
+    Rings And Modules - Optional
+
+    
+  
+      
+     Module code:  
+6CCM350A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+This is a second module in abstract algebra. It aims to develop the general theory of rings (especially commutative ones) and then study in some detail a new concept, that of a module over a ring. Both abelian groups and vector spaces may be viewed as modules and important structure theorems for both follow from the general theory. The theory of rings and modules is key to many more advanced algebra courses e.g. Algebraic Number Theory. It can also help with others, e.g. Galois Theory, Representation Theory and Algebraic Geometry.
+Syllabus:
+Basic concepts of ring theory: subrings, ideals, quotient, product, matrix and polynomial rings; factorisation in integral (euclidean, principal ideal) domains. Basic concepts of module theory: submodules, quotient modules, direct sums, homomorphisms, finitely generated, cyclic, free and torsion modules, annihilator ideals. Matrices and finitely generated modules over a principal ideal domain: Equivalence of matrices, structure theory of modules, applications to abelian groups and to vector spaces with a linear transformation.
+Books
+(Rough decreasing order of suitability.):
+&bull; B. Hartley and T.O. Hawkes, 'Rings, Modules and Linear Algebra', Chapman and Hall, 1970.
+&bull; N. Jacobson, 'Basic Algebra I', W.H. Freeman and co., 1974
+&bull; M.E. Keating, A first Course in Module Theory, Imperial College Press, 1998.
+&bull; J.A. Beachy, 'Introductory lectures on rings and modules', Cambridge University Press, 1999
+&bull; J.J. Rotman, 'A First Course in Abstract Algebra, With Applications', 3rd edition, Pearson Prentice Hall, 2006.
+&bull; R.B.J.T. Allenby: 'Rings, Fields and Groups: an Introduction to Abstract Algebra', 2nd edition, Edward Arnold, 1991.
+
+  
+    Space-time Geometry And General Relativity - Optional
+
+    
+  
+      
+     Module code:  
+6CCM334A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+The aim of the course is to show how the concept of a four-dimensional manifold provides an appropriate model for space-time, with the geometric notions of metric and curvature leading to Einstein's general theory of relativity, a geometric theory of gravity. The course develops differential geometry to include tensor calculus and covariant differentiation, as well as solutions to Einstein's field equations.
+Syllabus:
+Equivalence principle and special relativity. Basics of Geometry: Tensors, Geodesics, Connections. Einstein's equations. Schwarzchild solution: bending of light, perihelion shift of Mercury. Cosmology: FRW, Big Bang and inflation.
+Books:
+The online lecture notes and notes taken during the lectures are the main source. There are many good books if you want further explanations, but in particular try:
+&bull; W. Rindler, Essential Relativity, Springer, 1977
+&bull; L.P. Hughston and K.P. Tod, An introduction to general relativity, CUP, 1990
+&bull; R. D'Inverno, Introducing Einstein's Relativity, OUP, 1992
+&bull; M. Berry, Principles of Cosmology and Gravitation, CUP, 1976
+&bull; J.B. Hartle, "An Introduction to Einstein's General Relativity", Addison Wesley, 2002.
+&bull; R.M. Wald, "General Relativity", Chicago, 1984
+
+  
+    Special Relativity And Electromagnetism - Optional
+
+    
+  
+      
+     Module code:  
+6CCM331A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives:
+The first part of the module aims at understanding electromagnetism, both in its unified description in terms of Maxwell's equations and at the level of simple phenomena from electrostatics, magnetostatics and wave propagation. The aim of the second part is to give an introduction to Einstein's concept of space-time and to discuss Lorentz transformations and their far-reaching consequences.
+Syllabus:
+Electric and magnetic fields; charge; Lorentz force. Maxwell's equations (in various forms). Electrostatics; magnetostatics; wave equation.
+Inertial frames, Newtonian space and time, Galilei transformations. Propagation of light and principle of relativity. Derivation of Lorentz transformations. Consequences: simultaneity, time dilation, length contraction, etc. Lorentz group; three- and four-vectors and -tensors. Relativistic mechanics: energy and momentum, E=mc2. Relativistic formulation of electrodynamics.
+Books:
+The following textbooks may be useful:
+&bull; J.D. Jackson, Classical Electrodynamics
+&bull; W. Rindler, Essential Relativity
+&bull; R. Feynman, Lectures on Physics, vols. I and II
+
+  
+    The Project Option - Optional
+
+    
+  
+      
+     Module code:  
+6CCM345A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Full-year     
+   
+    
+  
+       
+    
+     
+  Module description not yet available.
+  
+    Theory Of Complex Networks - Optional
+
+    
+  
+      
+     Module code:  
+6CCMCS02    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aim of the course:
+&bull; Present the basic concepts of the theory of complex networks.
+&bull; Introduce various techniques which should enable you to partake in active research in the field.
+Syllabus:
+Concepts of local- and global measures of network structure. Adjacency matrix, vertex degree, clustering coefficient, degree distributions, degree correlations. Example networks. Eigenvalue spectra, Laplacian. Spectra of random matrices. Random graph ensembles. Complexity and entropy. Generating function methods. Giant components. Percolation. Path length characteristics. Evolving networks, preferential attachment, scale-free networks. Derivation of power-laws.
+Books:
+&bull; M.E.J. Newman, A.L. Barabasi, D. Watts, "The Structure and Dynamics of Networks", Princeton University Press (2006).
+&bull; S.N. Dorogovtsev, J.F.F. Mendes, "Evolution of Networks", Oxford University Press (2003).
+&bull; S.Bornholdt, H.G. Schuster, "Handbook of Graphs and Networks, from the Genome to the Internet", Wiley (2003)
+&bull; R. Pastor Satorras, M.Rubi, A.Diaz-Guilera, "Statistical Mechanics of Complex Networks", Cambridge University Press (2004).
+&bull; M.E.J. Newman, "Networks, An Introduction", Oxford Uni. Press (2010).
+
+  
+    Topology - Optional
+
+    
+  
+      
+     Module code:  
+6CCM327A    
+  
+    Credit level:  
+6  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims and objectives: 
+The aims of the module are to introduce the basic notions of general topology and algebraic topology. The concepts of homology and/or homotopy will be introduced and methods developed for computing the resulting topological invariants.
+Syllabus:
+Topological spaces, compactness and connectedness, quotient and product topologies, topological groups, homotopy of maps, fundamental groups, covering spaces, homology.
+  
+Books:
+&bull; JR Munkres: Topology (2nd edition), Prentice Hall, 2000
+&bull; MA Armstrong: Basic Topology, Springer, 1990
+&bull; DW Blackett: Elementary Topology, Academic Press, 1982
+&bull; S Carlson: Topology of surfaces, Knots, and Manifolds, Wiley, 2001
+&bull; ND Gilbert and T Porter: Knots and Surfaces, OUP, 1994
+&bull; WS Sutherland, Introduction to Metric and Topological Spaces, OUP, 1988

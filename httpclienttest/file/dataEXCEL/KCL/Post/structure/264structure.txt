@@ -1,0 +1,318 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Fundamental module 1Neuroanatomy   Neuropathology
+Cell biology
+Neurotransmission
+Cell signalling
+Fundamental module 2
+Neurogenetics
+Developmental Neurobiology
+Neuronal Plasticity
+Neuroimmunology
+Fundamental module 3
+Systems Neuroscience
+Addiction Biology
+Neuropsychology of Mental Health
+Neuroimaging
+Neurodegeneration
+
+     
+   Indicative non-core content
+   One of the following specialised optional modules:
+Psychiatric Genetics research
+Addiction Biology research
+Developmental Neurobiology research
+Neurodegeneration research
+Neuroimaging research
+Functional Neuroimaging and Tractography research
+Cognitive Neuroscience research
+Neuroscience in Neural Stem Cells and Nervous System Repair
+Neuroscience research (part-time only)
+  
+     
+   
+   FORMAT AND ASSESSMENT
+  Each of the Fundamental modules (A1-A3) is assessed with a written examination and a coursework essay. The Specialised modules are assessed with a written examination and the writing of an abstract to an unseen published paper (presented without the abstract). The research project is assessed by a research report, a laboratory notebook and a poster presentation.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      A1 Fundamental Neuroscience (30 credits) - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PAMNNA1    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Sections:
+A1.1 Neuroanatomy and neuropathology
+A1.2 Neurotransmission
+A1.3 Cell signalling
+A1.4 Neurodegeneration
+
+  
+    A2 Fundamental Neuroscience (30 credits) - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PAMNNA2    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Sections:
+A2.1 Neurogenetics
+A2.2 Developmental neurobiology
+A2.3 Neuronal plasticity
+A2.4 Neuroimmunology
+
+  
+    A3 Fundamental Neuroscience (30 credits) - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PAMNNA3    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Sections:
+A3.1 Systems neuroscience
+A3.2 Addiction biology
+A3.3 Neuropsychology of mental health
+A3.4 Neuroimaging
+
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      B1 Psychiatric Genetics (30 Credits) - Optional
+
+    
+  
+      
+     Module code:  
+7PAMNNB1    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The module in Psychiatric Genetics will be principally taught by the Department of Neuroscience and the Social, Genetic and Developmental Psychiatry (SGDP) Centre, a  department recognised as a world leader in the field of behavioural genetics research. The module is one of several taught modules on the MSc Neuroscience and will further develop the students&rsquo; understanding of genetic approaches to psychiatric disorders gained from the compulsory modules in fundamental neuroscience (especially modules  A2 and A3).
+The module will cover the latest genetic research applied to a range of disorders including schizophrenia, bipolar disorder, attention deficit hyperactivity
+disorder (ADHD), autism spectrum disorders (ASD), major depression and related phenotypes such as cognitive ability. It will help students understand the principles of a  range of genetic research methods, preparing them for a successful MSc research project in this area.
+The module will also include dedicated lectures on quantitative genetics, epigenetics, gene - environment interaction and the investigation of genetic risk factors  for psychiatric illness at the molecular, cellular and neurophysiological levels. These lectures will be supported by tutorials on genetic variation, statistical methods and the  interpretation of scientific papers in the field.
+The aim of the module is to develop the students&rsquo; knowledge and understanding of the various strands of research related to psychiatric genetics and an ability to interpret the  literature. Students completing this module will have the option of combining this with a Module C1 Research Project in Psychiatric Genetics to allow them to further specialise in  this area. Alternatively, students may wish to choose a research project in a different subject area leading to an understanding of research activities in two neuroscience  fields.
+  
+    B2 Addiction Biology research (30 credits) - Optional
+
+    
+  
+      
+     Module code:  
+7PAMNNB2    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  Drug use is a wide spread phenomenon in virtually all societies. Drug addiction is a major psychiatric disease that can develop from drug use with severe impact on the individual and on society. To deliver effective treatment for addiction, a thorough understanding of its neuronal underpinnings is required. The behavioural neuroscience of addiction deals with the question of how drugs interact with the brain and induce drug addiction and with what can be done to either prevent or treat it.
+In this specialised module students will learn about the pharmacological characteristics of addictive drugs and what their behavioural effects in humans are in the short and long term. The student will understand how the drugs interact with the brain at molecular and systems level and what plastic changes in the brain lead to addiction related behaviours. Students will be able to discuss animal models of addiction and their findings about how drugs interact with the reward circuitry of the brain. Genetic and environmental risk factors of drug addiction are introduced and students will be able to discuss these factors in the context of the individual&rsquo;s development. Finally, strategies for prevention and addiction treatment are discussed.
+Although much is known about drug effects in the brain there is still no effective treatment available which makes this research a true challenge with high clinical relevance and potential benefits for society. This specialised module is suitable for all students registered for the MSc Neuroscience, regardless of their prior experience in this area.
+
+  
+    B3 Developmental Neurobiology research (30 credits) - Optional
+
+    
+  
+      
+     Module code:  
+7PAMNNB3    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  Understanding how the nervous system develops is one of the most fundamental and most exciting challenges in biology. As in other tissues, there is a diversity of cell types but what makes the nervous system work is the pattern of interconnections between these cell types.
+This module examines how intrinsic and extrinsic cues lead to the development of functional circuits that allow the nervous system to adapt to a changing environment. A particular feature of the module is that it will expose the student to key areas of research in the field. Not only will it allow them to understand how research questions are generated and then investigated experimentally, but it will also ask what questions remain to be answered.
+In the course of the module, students will learn about the specification of the nervous system that first arises in the embryo and then the progressive patterning of the embryonic brain and spinal cord. The control of neurogenesis and neuronal migration is crucial to normal development and the students will be introduced to different model systems. Central to the formation of functional circuits is the guidance of growth cones to their targets. The students will be able to discuss the diversity of guidance mechanisms and of associated signalling processes: is current research providing any generalising principles. Having reached the appropriate targets, the correct circuits have to be established. The students will be able to explore the cues driving this from the level of the synapse to the cortical column. Finally, the students will evaluate the therapeutic importance of the field from neuro-developmental disorders to the stem cell rescue of damaged circuits. The strong emphasis on current research in the field will enable the students to understand how complex problems of development and of neurobiology can be dissected into answerable questions.
+  
+    B4 Neurodegeneration research (30 credits) - Optional
+
+    
+  
+      
+     Module code:  
+7PAMNNB4    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The increasing lifespan of humans is resulting in a dramatic rise in the number of individuals affected by neurodegenerative diseases, the most prominent of these being Alzheimer&rsquo;s disease. Therefore, it is of crucial importance to understand the pathogenic processes involved in order to develop effective therapies to patients. This specialised module will provide the students with advanced knowledge on current understanding of neurodegenerative mechanisms, allowing them to undertake basic or clinical research projects or to work towards the discovery and development of novel drugs to treat these debilitating conditions.
+Students will gain a clinical and pathological overview of common disorders, such as dementia (including Alzheimer&rsquo;s disease), Parkinson&rsquo;s disease, motor neuron disease, but also less common disorders, such as prion diseases. The genetic influences and risk factors associated with the development of neurodegeneration will be reviewed. The focus of the module will then move to understanding the molecular mechanisms involved in the onset and progression of neurodegenerative disease. Students will be introduced to model systems for investigating relevant disease processes and in which to trial prospective new drugs when they become available.
+Teaching in this module is undertaken by lecturers actively involved in the research areas covered by this module and working primarily within the MRC Centre for Neurodegeneration Research at King&rsquo;s College London, ensuring that students will be made aware of the most recent developments in the field. The neurodegeneration specialised module is suitable for all students registered for the MSc Neuroscience, regardless of their prior experience in this area.
+  
+    B5 Neuroimaging research (30 credits) - Optional
+
+    
+  
+      
+     Module code:  
+7PAMNNB5    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The advent of neuroimaging over the last 40 years has revolutionised clinical practice and had a huge impact on research in the fields of psychiatry, psychology, neurology, neuroscience and beyond. Clinical neuroimaging systems are mirrored by smaller scale pre-clinical systems allowing the same techniques to be applied in both fields. Students will start the module learning about the range of neuroimaging acquisition and analysis techniques available and the basic concepts of neuroimaging, building on the neuroimaging lectures in the fundamental module, A3. The wide range of neuroimaging modalities will be covered including X-ray computerised tomography (CT), Magnetic Resonance Imaging (MRI), Single Photon Emission Tomography (SPET), Positron Emission Tomography (PET), Electroencephalography (EEG) and Magneto&shy;encephalography (MEG).
+Image processing and analysis has been key to the establishment of neuroimaging techniques for research and clinical purposes and students will be taught about the classical and cutting edge techniques that are used to explore and evaluate both structure and function. Finally the application of neuroimaging techniques to a wide range of neurological and psychiatric conditions will be considered using a common framework to guide the student as to both the clinical and research applications of neuroimaging within the field of neuroscience. Students participating in the module will also have tailored preparation for neuroimaging MSc projects.
+  
+    B6 fMRI and Tractography  (30 Credits) - Optional
+
+    
+  
+      
+     Module code:  
+7PAMNNB6    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  One of the major challenges of modern neuroscience is to define the complex pattern of neural connections that is the substrate for cognition and behaviour. Cerebral networks have been investigated extensively in many animal species but until recently it has not been possible to verify their existence in humans or to identify tracts that might be unique to the human brain.
+This module will provide an overview of a variety of imaging techniques, such as Diffusion Tensor Imaging tractography, functional MRI, and EEG to explore the anatomical and functional aspects of brain connectivity and possible behavioural correlates. The lectures will cover the functional anatomy of the networks underlying language, visuo-spatial attention, vision, memory and emotions. The students will learn how researchers are using novel imaging methods to define the functional anatomy of the connections in the living human brain and the impact of neurological and psychiatric disorders on large scale neurocognitive networks.
+Many of the lectures will be given by members of the Natbrainlab who are actively involved in the field and who have pioneered some of the applications of diffusion tensor tractography to the human brain in recent years. This specialised module is suitable for all students registered for the MSc Neuroscience, regardless of their prior experience in this area.
+  
+    B7 Cognitive Neuroscience (30 Credits) - Optional
+
+    
+  
+      
+     Module code:  
+7PAMNNB7    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The module is one of several taught modules on the MSc Neuroscience and will further develop the students&rsquo; knowledge of cognitive neuroscience gained from the compulsory modules in fundamental neuroscience, especially modules A3. By focusing on current research in this area, the module will also enhance the student&rsquo;s understanding of research methods and so improve their ability to undertake a successful MSc research project. It will introduce students to the range of methods used in cognitive neuroscience including functional neuroanatomy in health and disease. Students will then be introduced to relevant theoretical concepts and exciting new evidence on neuroscience of various cognitive domains, cognitive development across the life span, and cognitive recovery and rehabilitation after brain damage. Other lectures will cover the effects of sex, drugs, genes and personality in cognition and the neural basis of these effects and the neuroscience of social cognition which includes our ability to recognise emotions and think about them from another person&rsquo;s perspective. 
+The module will place a strong emphasis on enabling students to critically appraise the relevant scientific literature and is compulsory for those students wishing to specialise in this subject area
+The aim is to develop the student&rsquo;s ability to understand and to interpret scientific literature specific to research in cognitive neuroscience. Students completing this module in combination with Module C7 Research Project in Cognitive Neuroscience will be equipped to make an informed career choice, either in further postgraduate education (eg PhD) or employment related to developmental neurobiology. Alternatively, students may wish to choose a research project in a different subject area leading to an understanding of research activities in two neuroscience fields.

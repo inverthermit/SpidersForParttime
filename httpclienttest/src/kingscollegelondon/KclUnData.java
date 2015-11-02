@@ -245,14 +245,20 @@ MPharm: £19,000
 			    }
                 //**********************************get length**********************
 		        //<div class="pgt_content_subheading">Duration</div>\r\n[\s\S ]*<div class="pgt_tabbed_content">([\s\S]*)</div>
-		    	Pattern p = Pattern.compile("<div class=\"pgt_content_subheading\">Duration</div>\\r\\n[\\s\\S ]*<div class=\"pgt_tabbed_content\">([\\s\\S]*)</div>");
-		    	Matcher m = p.matcher(htmls);
+		    	//Pattern p = Pattern.compile("<div class=\"ug_content_subheading\">Duration</div>\\r\\n[\\s\\S ]*<div class=\"ug_tabbed_content\">(.)+</div>");
+			    Pattern p = Pattern.compile("<div.*[dD]uration.*>[\\s]*<div.*>");
+		    	
+			    Matcher m = p.matcher(htmls);
 		    	
 		    	 if(m.find())
 		    	 {
-		    		 System.out.println(m.group());
-		    	 	String length=(m.group().replaceAll("<div.*[dD]uration.*>[\\s]*<div.*>", "").replaceAll("</div>", "")); 
-		    	 	System.out.println(length);
+		    		 //System.out.println(m.group());
+		    		 String length="";
+		    		 if(m.group().contains("ug_tabbed_content"))
+		    	 	length=(m.group().split("ug_tabbed_content\">")[1].replace("</div>", "")).trim(); 
+		    		 else if(m.group().contains("pgt_tabbed_content"))
+				    	 	length=(m.group().split("pgt_tabbed_content\">")[1].replace("</div>", "")).trim(); 
+		    	 	//System.out.println(length);
 		    	 	result.put("Length (months)",length);
 		    	 }
 			    //**************************get school & faculty**********************

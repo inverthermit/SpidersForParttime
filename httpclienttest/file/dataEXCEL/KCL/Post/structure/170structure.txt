@@ -1,0 +1,499 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Dissertation (60 credits).
+
+     
+   Indicative non-core content
+   The following list gives an indication of the kinds of modules we offer, although the exact provision will vary slightly from year to year: please check the department&rsquo;s module webpages
+for more information. Each of these modules is worth 20 credits except where specified.  You must take at least 80 credits worth of optional modules on topics in the History of Philosophy: qualifying modules are specified below by means of an asterisk.
+&bull; Aesthetics
+&bull; The Concept of Mental Disorder
+&bull; Early Modern Philosophy*
+&bull; Epistemology
+&bull; Ethics
+&bull; Ethics II
+&bull; Ethics II
+&bull; First-Order Logic (note: presupposes some competence in basic symbolic logic)
+&bull; Foundations of Analytic Philosophy*
+&bull; Foundations of Phenomenology*
+&bull; General Philosophy (40 credits)
+&bull; Greek Philosophical Texts I: Plato* (note: presupposes some competence in the ancient Greek language)
+&bull; Greek Philosophical Texts II: Aristotle* (note: presupposes some competence in the ancient Greek language)
+&bull; Greek Philosophy I: Plato*
+&bull; Greek Philosophy II: Aristotle*
+&bull; Greek Philosophy III: Special Topics*
+&bull; Indian Philosophy I: The Orthodox Schools*
+&bull; Indian Philosophy II: The Heterodox Schools*
+&bull; Kant I: Critique of Pure Reason*
+&bull; Kant II: Moral Philosophy*
+&bull; Mathematical Logic: Limitative Results (note: presupposes some competence in basic symbolic logic)
+&bull; Medieval Philosophy*
+&bull; Metaphysics
+&bull; Nineteenth-Century Continental Philosophy*
+&bull; Perspectives on Death   Killing
+&bull; Philosophy of Language
+&bull; Philosophy of Mathematics
+&bull; Philosophy of Medicine
+&bull; Philosophy of Mind
+&bull; Philosophy of Mind II: Special Topics
+&bull; Philosophy of Physics
+&bull; Philosophy of Psychology I
+&bull; Philosophy of Psychology II
+&bull; Philosophy of Religion
+&bull; Philosophy of Science
+&bull; Political Philosophy
+&bull; Political Philosophy II: Special Topics
+&bull; Twentieth-Century Continental Philosophy*
+     
+   
+   FORMAT AND ASSESSMENT
+  Mostly taught through lectures and seminars. Assessment methods vary from module to module, but will largely revolve around either sat examinations or submitted essays. Candidates also write a dissertation over the summer.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+    
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+    Greek Philosophical Texts I: Plato - Optional
+
+    
+  
+      Teaching staff:  
+Dr Shaul Tor  
+     Module code:  
+7AAN2023    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+One weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      written examination/s;     coursework;     practical/s;     
+      Formative assessment: weekly translation exercises, with a philosophical commentary; plus one x 2,000-word formative essay, viz. a translation and philosophical commentary on a passage of approximately 15 lines
+Summative assessment: one x two-hour end of year examination, viz. translation and philosophical commentary on two passages of approximately 15 lines
+     
+  This module is intended for students who have studied ancient Greek for at least one year, and who wish to gain experience in the close examination of the works of Plato in the original language. Each week the students prepare a translation and a brief philosophical commentary on that week&rsquo;s portion of the set text. The emphasis is upon the student&rsquo;s own critical engagement with both the language and philosophical content of the text, primarily as an independent work, but also within its philosophical, historical and cultural contexts. To facilitate this, grammatical explanation of the Greek is offered whenever needed, and secondary literature is used to only to stimulate this &lsquo;student-centred&rsquo; discussion. In this way, the students are assisted in penetrating and elaborating the meaning of this text further than the study of it merely in translation could achieve.
+The text for 2015&ndash;16 will be Plato's Meno.
+
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2023.aspx
+
+  
+     Greek Philosophical Texts II: Aristotle - Optional
+
+    
+  
+      Teaching staff:  
+Dr Will Rasmussen  
+     Module code:  
+7AAN2024    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      written examination/s;     coursework;     practical/s;     
+      Formative assessment: weekly translation exercises, with a philosophical commentary; plus one x 2,000-word formative essay, viz. a translation and philosophical commentary on a passage of approximately 15 lines
+Summative assessment: one x two-hour end of year examination, viz. translation and philosophical commentary on two passages of approximately 15 lines
+     
+  This module is intended for students who have studied ancient Greek for at least one year, and who wish to gain experience in the close examination of the works of Aristotle in the original language. A portion of the set text is prepared for translation each week, along with a philosophical commentary upon it. The emphasis is upon the student's own critical engagement with both the language and philosophical content of the texts, both as independent works and in their philosophical, historical and cultural contexts. Secondary literature is used to stimulate and guide discussion. In this way, the students are assisted in penetrating the meaning of these texts further than the study of them merely in translation could achieve.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2024.aspx
+
+  
+     Greek Philosophy II: Aristotle - Optional
+
+    
+  
+      Teaching staff:  
+Dr Joachim Aufderheide  
+     Module code:  
+7AAN2027    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      written examination/s;     coursework;     
+      Formative assessment: two x 1,500&ndash;2,000-word essays, due by end of semester or as otherwise instructed
+Summative assessment: one x two-hour end of year examination
+     
+  This course is designed to introduce the students to Aristotle's wonderfully rich but intricate philosophical writings by focusing on some of the most prominent topics in Aristotle's philosophy. Students will learn how to read, how to criticise, and how to make sense of Aristotle and will thus be in a position to benefit from the wealth of Aristotle's thought. In the first five weeks we will study Aristotle's Epistemology and Psychology, as well as parts of the Metaphysics and his Physics. The last five weeks are devoted to key topics in Aristotle's Ethics.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2027.aspx
+
+  
+     Indian Philosophy I: The Orthodox Schools - Optional
+
+    
+  
+      Teaching staff:  
+Dr Will Rasmussen  
+     Module code:  
+7AAN2034    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar.  
+  
+      Assessment:  
+      written examination/s;     coursework;     
+      Formative assessment: 1 x 2,000&ndash;3,000-word essay, due by end of semester or as otherwise instructed.  
+Summative assessment: 1 x 4,000-word essay
+     
+  Although it is not strictly required, students who take this module are very strongly encouraged to do so in conjunction with 7AAN2035 Indian Philosophy II: The Heterodox Schools in the second semester.
+
+This module (along with 7AAN2035 Indian Philosophy II: The Heterodox Schools) is intended for students who wish to gain an introduction to Indian philosophy that looks carefully at the high standard of logic, epistemology, metaphysics and linguistics that grounded the various philosophical systems. The schools most fully examined are Mimamsa, Samkhya, Nyaya, Vaiseshika, Buddhism, Jainism and Advaita Vedanta. The examination of these schools makes use of translations of the primary texts and focuses upon the vigorous debate over conceptual analysis and argumentative strategies by which the schools presented their philosophical positions, defended them against attacks by other schools, and mounted in turn their own attacks. Studying Indian philosophy in this way demonstrates both the similarities and the philosophically important differences in the way the main issues of philosophy have been addressed in India and in the West.
+NB The initial lecture hour will be shared with students taking 6AANA016 Indian Philosophy: the Orthodox Schools, but they will otherwise be subject to different requirements.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2034.aspx
+
+  
+     Indian Philosophy II: The Heterodox Schools - Optional
+
+    
+  
+      Teaching staff:  
+Dr Will Rasmussen  
+     Module code:  
+7AAN2035    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      coursework     
+      Formative assessment:one x 2,000&ndash;3,000-word essay, due by end of semester or as otherwise instructed
+Summative assessment: one x 4,000-word essay
+     
+  This module (along with 7AAN2034 Indian Philosophy: The Orthodox Schools) is intended for students who wish to gain an introduction to Indian philosophy that looks carefully at the high standard of logic, epistemology, metaphysics and linguistics that grounded the various philosophical systems. The schools most fully examined are Mimamsa, Samkhya, Nyaya, Vaiseshika, Buddhism, Jainism and Advaita Vedanta. The examination of these schools makes use of translations of the primary texts and focuses upon the vigorous debate over conceptual analysis and argumentative strategies by which the schools presented their philosophical positions, defended them against attacks by other schools, and mounted in turn their own attacks. Studying Indian philosophy in this way demonstrates both the similarities and the philosophically important differences in the way the main issues of philosophy have been addressed in India and in the West.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2035.aspx
+
+  
+     Intentionality   Perception In Phenomenology   Ancient Philosophy - Optional
+
+    
+  
+      Teaching staff:  
+  Professor Mark Textor and Professor MM McCabe  
+     Module code:  
+7AAN2037    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      coursework     
+      Formative assessment: one x 2,000&ndash;3,000-word essay, due by end of semester or as otherwise instructed
+Summative assessment: one x 4,000-word essay,
+     
+  Intentionality has been a fundamental topic in Phenomenology. More recently, the topic has found its way (back) into analytic philosophy. Studies of intentionality were first inspired by Brentano's book, Psychology from an Empirical Standpoint (1874, 1914). Brentano's book is a commentary on Aristotle's De anima, written from the perspective of 19th century philosophy and psychology. Aristotle's work is the foundation of a theory of intentionality. This module will introduce students to philosophical theories of intentionality and perception through discussions of Aristotle's De anima and Brentano's Psychology from an Empirical Standpoint. We will mainly focus on the core texts, but if there is time and opportunity we will also look at authors such as Husserl or Sartre who have developed this tradition further.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2037.aspx
+  
+     Kant I: Critique Of Pure Reason - Optional
+
+    
+  
+      Teaching staff:  
+Dr Sacha Golob  
+     Module code:  
+7AAN2039    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      coursework     
+      Formative assessment: one x 2,000&ndash;3,000-word essay, due by end of semester or as otherwise instructed
+Summative assessment: one x 4,000-word essay
+     
+  This course introduces students to the epistemology and metaphysics of Immanuel Kant. Kant's Critique of Pure Reason is examined in detail. Topics include Kant's treatment of the relation between experience and concepts; the nature of space and time; the concepts of substance and causality; knowledge of the external world and Kant's refutation of scepticism; the self and the unity of the thinking subject; human freedom, and its relation to the thesis of determinism; the doctrine of transcendental idealism.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2039.aspx
+
+  
+     Nineteenth-Century Continental Philosophy - Optional
+
+    
+  
+      Teaching staff:  
+Dr Sacha Golob  
+     Module code:  
+7AAN2053    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      coursework     
+      Formative assessment:one x 2,000&ndash;3,000-word essay, due by end of semester or as otherwise instructed
+Summative assessment: one x 4,000-word essay
+     
+  This module introduces two of the most influential and subtle of modern philosophers: G.W.F. Hegel and Friedrich Nietzsche. Beginning with a brief overview of Kant&rsquo;s philosophy, the course examines how Hegel and Nietzsche attempt, in very different ways, to refine, transform, or destroy the legacy of the Enlightenment. The focus, in particular, will be on the conception of the self, of normativity, and of the philosophical method, that emerges from texts such as Hegel&rsquo;s Phenomenology of Spirit and Nietzsche&rsquo;s Genealogy of Morality. All texts will be studied in translation.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2053.aspx
+
+  
+    Early Modern Philosophy - Optional
+
+    
+  
+      Teaching staff:  
+Dr Jasper Reid  
+     Module code:  
+7AAN2004    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      coursework     
+      Formative assessment: 1 x 2,000&ndash;3,000-word essay, due by end of semester or as otherwise instructed
+Summative assessment: 1 x 4,000-word essay
+     
+  Is all extension corporeal, or might there be such a thing as empty and/or absolute space? Might spirits such as God or the human soul be extended? Is there really any such thing as extension at all, or does it only have an ideal existence in the mind? We will look at these and related issues, as they were handled by a range of seventeenth- and eighteenth-century authors, including Descartes, Gassendi, More, Newton, Malebranche, Spinoza, Bayle, Berkeley, Leibniz and Kant. Our focus will generally be a metaphysical one, but we will also touch on matters of physics, theology and epistemology.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2004.aspx
+
+  
+    Greek Philosophy I: Plato - Optional
+
+    
+  
+      Teaching staff:  
+Dr Raphael Woolf
+  
+     Module code:  
+7AAN2026    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      written examination/s;     coursework;     
+      Formative assessment:two x 1,500&ndash;2,000-word essays, due by end of semester or as otherwise instructed
+Summative assessment: one x two-hour end of year examination
+     
+  Students are encouraged, though not required, to take this module in conjunction with 7AAN2027 Greek Philosophy II: Aristotle and/or 7AAN2031 Greek Philosophy III: Special Topics in the second semester.
+This module is designed to give students a good grounding in some key areas of the thought of Plato. It will place emphasis on how one should go about reading the writings of this foundational philosophical figure, and by extension teach how one should approach the reading of texts in the history of philosophy more generally.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2026.aspx
+
+  
+    Greek Philosophy III: Special Topics - Optional
+
+    
+  
+      Teaching staff:  
+Module tutor: Dr Raphael Woolf
+Lecturers: Dr Raphael Woolf; Dr Shaul Tor  
+     Module code:  
+7AAN2031    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      written examination/s;     coursework;     
+      Formative assessment: one x 2,000&ndash;3,000-word essay, due by end of semester or as otherwise instructed
+Summative assessment: one x 4,000-word essay,
+     
+  The Hellenistic period of philosophy begins with the founding of the Stoic, Epicurean and Sceptical schools around the time of Aristotle, and extends to the late antique period. These three schools developed some of the most interesting ideas to be found in ancient philosophy, for instance the determinism of the Stoics, the atomism and hedonism of the Epicureans, and of course the sceptical approach initiated by Pyrrho, which culminated in the work of Sextus Empiricus. Hellenistic philosophy reacts to earlier Greek thought &ndash; the Presocratics, Plato and Aristotle &ndash; but is in many ways a new beginning for ancient philosophy. This course will introduce some of the principal themes of the Stoics, Epicureans and Sceptics, considering each philosophical school in its own right, as well as some ways they influenced and criticised one another.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2031.aspx
+
+  
+    Kant II: Moral Philosophy - Optional
+
+    
+  
+      Teaching staff:  
+Dr John Callanan  
+     Module code:  
+7AAN2040    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar
+  
+  
+      Assessment:  
+      coursework     
+      Formative assessment: 1 x 2,000&ndash;3,000-word essay; Summative assessment: 1 x 4,000-word essay.
+     
+  This course provides an introduction to the moral and aesthetic philosophy of Immanuel Kant. This year's course will focus upon Kant's moral philosophy and will involve a reading of a seminal text in the history of moral philosophy, Kant&rsquo;s Groundwork of the Metaphysics of Morals. We will also look at some other of Kant&rsquo;s ethical writings when appropriate. Through a reading of these texts, students will gain a critical understanding of the nature of a Kantian approach to the topics of morality and freedom.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2040.aspx
+
+  
+    Medieval Philosophy - Optional
+
+    
+  
+      Teaching staff:  
+Dr Christopher Hughes  
+     Module code:  
+7AAN2045    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      coursework     
+      Formative assessment: one x 2,000&ndash;3,000-word essay, due by end of semester or as otherwise instructed.
+Summative assessment: one x 4,000-word essay
+     
+  Despite certain negative connotations of the word &ldquo;medieval,&rdquo; the medieval period saw major innovations in philosophy, in such areas as logic, metaphysics and theories of law and personhood. This module covers some of the main figures and topics in European medieval philosophy, beginning with formative figures of the late ancient world (such as Boethius and Augustine), stretching through earlier thinkers of the Christian medieval world like Anselm and Abelard, and finishing with the later period of Aquinas, Scotus and Ockham. In any given year, the module will cover a representative sample of these thinkers, without necessarily attempting to be comprehensive &ndash; the focus is on philosophical ideas, not giving a complete historical survey. Some attention will be paid to the interaction between philosophy and Christian religious commitments: many central themes in Philosophy of Religion first arose in the medieval period.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2045.aspx
+
+  
+    Twentieth Century Continental Philosophy - Optional
+
+    
+  
+      Teaching staff:  
+Dr Sacha Golob  
+     Module code:  
+7AAN2095    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+One weekly one-hour lecture and one weekly one-hour seminar.  
+  
+      Assessment:  
+      coursework     
+      &bull; Formative assessment: one x 2,000&ndash;3,000-word essay, due by the end of the semester or as otherwise instructed.
+&bull; Summative assessment: one x 4,000-word essay.
+     
+  This module introduces some of the most influential thinkers within modern &lsquo;continental&rsquo; philosophy. The course aims both to highlight key points of contact with analytic philosophy, and to capture and analyse some of the features that make the &lsquo;continental&rsquo; tradition distinctive. The following is a rough outline of the topics and texts to be covered, and some suggested sample reading.
+&bull; Sartre, Being and Nothingness. Main topics: his theory of consciousness, self-consciousness and intentionality, his account of radical freedom and choice, the nature of 'existentialism'.
+&bull; Merleau-Ponty, Phenomenology of Perception. Main topics: Phenomenology as a philosophical method, the fundamental importance of embodiment and motor skills, the links between Merleau-Ponty&rsquo;s position and contemporary, analytic philosophy of mind, the implications of his theory for aesthetics.
+&bull; Foucault History of Sexuality vol. 1/Discipline and Punish. Main topics: the nature of power, the rise of biopower in the modern state, the 'invention of sexuality' as a case study in the construction of subjectivity.
+&bull; Sample readings: McCulloch, Using Sartre; No&euml; Action in Perception (analytic exploration of themes very close to M-P); Foucault, History of Sexuality Vol. 1.

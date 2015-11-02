@@ -1,0 +1,525 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Individual Project.
+
+     
+   Indicative non-core content
+   Compulsory Modules:Advanced Software Engineering: Software Measurement    Testing
+Group Project
+Software Design   Architecture.
+
+Optional Modules:Access Control   Privacy Policies
+Advanced Research Topics
+Agents   Multi-Agent Systems
+Computational Models
+Data Structures and their Implementation in C++
+Database Technology
+Distributed Systems
+Web Infrastructure
+Parallel    Distributed Algorithms
+Software Engineering of Internet Applications.
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures; tutorials; seminars; laboratory sessions; optional career planning workshops. Assessed through: coursework; written examinations; final project report.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Advanced Software Engineering - Software Measurement   Testing - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7CCSMASE    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Aims
+To convey an understanding of the basic elements of software measurement and testing, in particular focusing on automated test data generation and with a discussion of the relative strengths and weakness of each technique.
+Learning Outcomes
+To be able to describe, apply and critique several well-known software metrics. To be able to describe and apply several well-known software testing techniques. To be able to compare testing techniques and present arguments relating to the most appropriate choice thereof.
+Provisional Syllabus
+Measurement: Representation and modelling, Scales, Structural Measures
+Unit testing: Control Flowgraph Based testing including Data Flow based testing
+Finding test cases using test data generation techniques. Coverage
+Slicing and static analysis techniques
+Industrial applications and industrial relevance of testing
+Comparative software testing techniques
+
+  
+    Group Project - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7CCSMGPR    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  To provide the experience of working in a syndicate to design, implement and document a substantial software product.
+  
+    Software Design   Architecture - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7CCSMDAS    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Aims
+To explore the practice of software architecting as applied to the development of enterprise systems. To learn about software architecture, architecture patterns, frameworks, design patterns, pattern languages, layers of change, the architecting process and the practical process of software design and implementation. Ideas are put into practical perspective through an introduction to the UML2 superstructure, enterprise component middleware.
+Learning Outcomes
+To be able to function as a software architect; to have an advanced knowledge of the issues, techniques and processes involved in architecture design; ability to design .NET-based enterprise software systems; expert proficiency in the UML2 superstructure to design architectures; to be able to work with and design metamodels and model transformations.
+Provisional Syllabus
+Components and connectors in the UML2 superstructure Architectural styles Domain-specific metamodels and case studies A metamodel for enterprise components
+Semantics through the OCL
+Metamodelling with the Meta Object Facility Model driven engineering and model-driven architecture
+
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Access Control   Privacy Policies - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMAPP    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  To provide specialist knowledge and understanding of the core aspects of policy representation in the context of Computer Science, including an understanding of access control and privacy policy formulation and implementation for centralised and decentralised computer systems.
+  
+    Advanced Research Topics - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMART    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      coursework     
+    
+     
+  Aims
+To teach you to read and understand research papers and research lectures on your own, and pursue a research topic.
+Learning Outcomes
+You should obtain a good understanding of a particular technical area at a level that goes substantially beyond the taughts MSc materia.   You should also learn to explore a research area, to identify the important issues and understand their connection with each other and to demonstrate your technical understanding by presenting the results to a scientifica audience.
+Provisional Syllabus
+In this optional module, you will study advance research literature preferably in an area that is related to the material taught in your programme.
+7CCSMART is a first-term module, with work starting at the beginning of the first term, but with the assignment continuing into the second term. Lectures will cover research methods, report/paper writing, and presentation techniques. You must attend at least five selected research seminars during the first term and read several related research papers.
+You must agree your choice of research topic with the module organiser, which must be on a topic of in the research area of one of the members of the Department. Towards the end of the first term, you must submit a first draft of a report (approximately 10-15 pages), which will be reviewed by the organiser and other students. The final draft of the report must be submitted in the second term. The submitted report forms the basis of the assessment.
+Topics will include:
+Doing Research
+Writing
+Writing Scientific Papers
+Presenting Scientific Papers
+References
+Sources
+Refereeing
+  
+    Agents   Multi-Agent Systems - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMAMS    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims
+To describe some techniques employed in the characterisation of agents and multi-agent systems. To provide a critical introduction to theories and methods regarding multi-agent computer systems and their component agents.
+Learning Outcomes
+On completion of the module, you will be expected to have acquired: A thorough, systematic understanding of key features of current theories and methods regarding multi-agent systems and their component agents; A sound appreciation of the conceptual issues involved in the characterisation of agents and their abilities; Knowledge of some of the main techniques employed in the formal characterisation of agents and multi-agent systems; An ability to critically evaluate current work in this field, and to evaluate the principal theories and methods.
+Provisional Syllabus
+Topics will be selected from:
+Intelligent agents and their design
+Knowledge in multi-agent systems
+The Belief-Desire-Intention model of rational agents
+Reactive and hybrid agent architectures
+Agent Communication: KQML, FIPA
+Auctions and Negotiations Game Theory Argumentation based Reasoning and Communication
+Agent-based methodologies Applications
+
+  
+    Computational Models - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMCOM    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims
+The aim of this module is to define, analyse and compare abstract models of computation and their associated programming paradigms.
+Learning Outcomes
+On successfully completing the module you should be able to demonstrate a deep knowledge and understanding of the fundamentals of formal languages and the principal models of computation and be able to work with theoretical/research-based knowledge at the forefront of the subject; judiciously apply and combine tools and techniques (frequently in novel ways) to solve a range of complex subject-specific problems with minimal direction; analyse subject material, draw inferences, and find relationships that demand that innovative thinking be engaged in and creativity be exhibited in formulating solutions; critically evaluate, exercise judgement, and compare and contrast relevant material with minimal guidance and to consider and argue for alternative, novel approaches; demonstrate a high degree of independence in managing your own learning and reflecting upon it in order to complete research tasks autonomously.
+Provisional Syllabus
+Introduction to abstract models of computation
+Finite Automata, Push-Down Automata and applications to parsing
+Turing machines
+Functional calculi
+Interaction-based systems
+Concurrent computation
+
+  
+    Data Structures   Their Implementation In C++ - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMDSI    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The aims of this course are to present properties, implementations, and applications of fundamental and advanced data structures required for the efficient representation, organisation, searching, and manipulation of computer data. The course uses the C++ programming language as the implementation environment.
+  
+    Database Technology - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMDBT    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  To study present and predicted developments in database technology from a formal perspective.
+  
+    Distributed Systems - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMDSM    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This course aims to provide an overall understanding of the basic concepts and practical technology of distributed computing, an in-depth understanding of the considerations applied in designing software for distributed systems. It will give students knowledge of algorithmic and architectural techniques used to address these considerations, and provide means of assessing how well novel technologies are able to handle faults in distributed systems.
+  
+    Parallel   Distributed Algorithms - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMPDA    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims
+To provide you with an introduction and overview to the computational aspects of parallel and distributed computing. To introduce several important parallel computing models that capture the essence of existing and proposed types of synchronous and asynchronous parallel computers. To study typical models for distributed computing. To study a few typical algorithms for each model, selected from various basic areas such as sorting, selection, graphs, matrices, numerical problems, and computational geometry. To provide an important skill for those who may work with large applications since these usually must be implemented on a parallel or distributed system, due to their memory space and speed requirements.
+Learning Outcomes
+On successfully completing this module you should understand a number of different models of parallel and distributed computing and understand the basic techniques for designing algorithms in these models.
+Provisional Syllabus
+PART I: Parallel Models and Algorithms
+Models of Parallel Computation:
+PRAMs; Scan Vector Model; Complexity measures
+Designing Parallel Algorithms:
+Basic PRAM techniques; Doubling technique; Summation trees and prefix summation
+Interconnection networks:
+Graph models of networks; Network properties; Searching and sorting on meshes
+Sorting and Searching on PRAMs:
+Merge sort; Compare-exchange sorts; Batchers sorting algorithms; Computing the Median
+Pointer-based algorithms:
+List ranking; Tree contraction; Connected components; Minimum spanning tree; All-pairs shortest path
+Geometric Algorithms:
+Convex hulls; Closest pair of points; Visibility
+PART II: Distributed Models and Algorithms
+Concepts of distributed computation:
+Termination; Failure tolerance; Network topology
+Distributed Search:
+Distributed BFS
+Random walks; Introduction to Markov processes; Random walks (hitting time, cover time (s.t)-connectivity
+Distributed networks:
+Broadcasting; Robust distributed networks
+
+  
+    Software Engineering Of Internet Applications - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMSIA    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims
+This module will cover different approaches for building internet applications and the choice of design techniques and technologies involved from a software engineering perspective, considering issues of efficiency, modularity and maintainability.
+Learning Outcomes
+You will gain the ability to design and implement internet-based applications in a modular manner, using appropriate languages and techniques. You will also gain the ability to specify and design medium-sized enterprise information systems using appropriate languages and techniques.
+Provisional Syllabus
+Model-driven architecture and application to internet applications
+Client-side processing techniques: JavaScript, HTML
+Server-side processing techniques: JSP, Servlets, database interfaces, sessions, connection pools
+Modularity and maintainability of internet applications
+Java EE architecture and patterns
+Web services
+
+  
+    Web Infrastructure - Optional
+
+    
+  
+      Teaching staff:  
+Dr Simon Miles  
+     Module code:  
+7CCSMWIN    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Teaching arrangements
+Lecture: 2 hours per week
+Tutorial: 1 hour per week (there is no tutorial in the first week)
+  
+  
+      Assessment:  
+      written examination/s     
+      Summative assessment:
+Type Weighting Marking Model
+Written examination (2 hours), January 100%
+Double Marking
+Formative assessments: Tutorial exercise sheets and online quizzes
+Module Pass Mark: 50%
+     
+  Aims
+To provide an overall understanding of the communication models and languages underlying the Web. To provide an in-depth understanding of technologies and standards allowing the Web to be extended so that software can interact with the data available on it. To provide an understanding of security threats to Internet applications and the main technologies used to tackle them. To give students an understanding of the motivations behind Web technologies, suitable for them to evalaute current and future options.
+Learning outcomes
+A student successfully completing this module will:
+Development of Knowledge and Understanding
+Have a comprehensive and detailed knowledge of the languages, standards
+and communication technologies underlying the Web and recent
+developments in this area;
+Understand the security mechanisms used to protect Web applications
+from unauthorised use;
+Understand how protocols and languages combine to solve communication
+problems;
+Understand how data across the web can be interlinked in a manner that
+allows computation;
+Cognitive/Intellectual Skills
+Be able to analyse Web-related problems using appropriate techniques
+and evaluating alternatives;
+Be able to design solutions to such problems and evaluate the success of
+those solutions, possibly developing novel approaches;
+Apply their knowledge of the Web and its languages to these solutions;
+Key/Transferable Skills
+Know how to access and evaluate different sources of information regarding
+Web standards, and technology standards more generally;
+Have experience of solving technical, Web-related problems, and arguing
+for solutions to them;
+Practical Skills
+Be able to apply their knowledge of languages to meet appropriate software
+requirements.
+Syllabus
+Technological basis of the Web
+HTTP
+Web servers
+Resource identification
+Web languages fundamentals
+HTML/XHTML
+Form handling
+XML
+XML validation with schemas
+Web service languages
+Security on the Web
+Authentication methods
+Digital certificates
+Public and private key encryption
+SSL
+Distributed computation on Web data
+Semantic Web
+Web services
+Data provenance
+Cloud computing
+
+Suggested reading
+L. Shklar and R. Rosen, Web Application Architecture, 2nd Edition, Wiley, 2009, ISBN: 978-0470518601
+D. Gourley and B. Totty, HTTP: The Definitive Guide, O'Reilley, 2002,
+ISBN: 1-56592-509-2
+J. Rhoton and R. Haukioja, Cloud Computing Architected, 2011,
+ISBN: 0-9563556-1-7
+E.T. Ray, Learning XML, 2nd Edition, O'Reilley, 2003, ISBN: 0-596-00420-6
+Coulouris, J.D. and T. Kindberg, Distributed Systems: Concepts and Design, 4th Edition, Addison-Wesley, 2005, ISBN: 0-321-26354-5
+S. Garfinkel, Web Security, Privacy and Commerce, O'Reilley, 2001,
+ISBN: 0-596-00045-6

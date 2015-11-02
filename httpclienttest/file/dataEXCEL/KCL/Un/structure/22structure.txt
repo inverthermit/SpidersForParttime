@@ -1,0 +1,107 @@
+Currently, our students study the modules shown below. However, we review our modules on a regular basis, in order to continue to offer innovative and exciting programmes and this list is therefore subject to change. Please check here for updates, or contact the School/Department direct for further advice.   
+  
+     
+    YEAR 1
+  Eight modules, listed below. 
+     
+   
+  YEAR 1 CORE
+   Computer Systems I (15 credits) 
+Data Structures (15 credits)
+Elementary Logic with Applications (15 credits)
+Foundations of Computing I (15 credits)
+Introduction to Artificial Intelligence (15 credits)
+Practical Experiences of Programming (15 credits)
+Programming Applications (15 credits)
+Programming Practice (15 credits)   
+    
+  
+    
+  
+   
+   
+   
+   
+  
+     
+  
+    
+    YEAR 2
+   Eight modules, listed below. 
+   
+   
+  YEAR 2 CORE
+  
+   Database Systems (15 credits)
+Operating Systems   Concurrency (15 credits)
+Foundations of Computing II (15 credits)
+Programming Language Design Paradigms (15 credits)
+Computer Science Logic (15 credits)
+Object-oriented Specification   Design (15 credits)
+Software Engineering Group Project (30 credits)   
+      
+  
+  
+  
+ 
+ 
+  
+   
+   
+   
+   
+   
+   
+   YEAR 3
+   One core module plus seven optional modules. 
+     
+   
+  YEAR 3 CORE
+   Third Year Group MSci Project (15 credits)   
+      
+  YEAR 3 OPTIONS
+   Internet Systems
+Software Measurement   Testing
+Parallel Algorithms
+Distributed Systems
+Computational Models
+Software Architecture   Design
+Software Engineering of Internet Applications
+Computer Graphics Systems
+Artificial Intelligence
+Advanced Security Topics
+Optimisation Methods
+Text Searching   Processing
+Cryptography   Information Security
+
+  
+  
+  
+   
+   
+     
+      YEAR 4
+   One core module plus six optional modules.   
+      
+  YEAR 4 CORE
+   MSci Individual Project (30 credits)   
+     
+  YEAR 4 OPTIONS
+   Artificial Intelligence*
+Text Searching   Processing*
+Algorithms for Computational Molecular Biology
+Optimisation Methods*
+Computer Forensics   Cybercrime
+Computational Models*
+Agents and Multi-Agent Systems
+Advanced Research Topics
+Advanced Security Topics*
+Cryptography   Information Security*
+Advanced Software Engineering*
+The Internet*
+Parallel   Distributed Algorithms*
+Algorithm Design   Analysis
+Software Design   Architecture*
+Software Engineering of Internet Applications*
+Multimedia Compression Methods   Systems
+A modules with * can only be selected if you have not already taken the third year version of this module.

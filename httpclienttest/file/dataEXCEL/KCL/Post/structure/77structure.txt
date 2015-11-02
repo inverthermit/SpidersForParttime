@@ -1,0 +1,634 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   &bull; Recent Developments in Digital Technologies in Education  
+&bull; A subject specific dissertation.
+     
+   Indicative non-core content
+   Recommended modules:
+Computer Science Education: Theory and Practice  (designed specifically for and available to Secondary ICT/computing teachers)
+
+In addition students can choose from a wide variety of optional modules in the department including:
+Recent Developments in Education Management
+Teacher Development
+Psychology   Learning
+International   Comparative Education  
+
+     
+   
+   FORMAT AND ASSESSMENT
+  In order to gain MA Computing in Education, students must complete and pass four taught modules (30 credits each) and a dissertation (60 credits). There are no examinations - all modules are assessed by written work.
+The programme may be taken over one year (full time) or two years (part time). A serving teacher would normally complete the MA on a part time basis and complete one module in each of the autumn and spring terms in year 1, plus a further two modules and the dissertation in year 2. 
+The sessions for each module normally take place on one evening each week from 5.30 - 7.30pm at the Waterloo Campus. The compulsory Recent Developments in Digital Technologies in Education module involves two face-to-face sessions on Saturdays and 10 online sessions.
+Students who have gained 60 master's level credits as part of their PGCE can normally transfer these in, and would then only have to complete two 30 credit taught modules instead of four, plus the dissertation.  Please note that the period between first registration on the previous programme of study and the date of the College award will not normally exceed ten years. For example, if you are intending to start the MA as a part time student in September 2015 and you would like to transfer in master&rsquo;s level credits from your PGCE, you must have started your PGCE in 2007 or later.
+More information about the programme, lecturers, and experiences of students can be found on the Department of Education and Professional Studies' MA Computing in Education study page
+. Incoming students can also find the timetable, key contacts, recommended reading and enrolment information via the departmental Welcome to King's pages.
+
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Recent Developments in Digital Technologies in Education - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Mary Webb  
+     Module code:  
+7SSEM032    
+  
+    Credit level:  
+7  
+    Credit value:  
+30    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    Teaching pattern:  
+Two face-to-face workshops held at the start and middle of the module on a Saturday together with weekly tasks and readings in ten on-line sessions  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      One 6,000 word assignment
+     
+  This module will introduce a broad range of current major developments associated with ICT in education. In particular it will include a consideration of computational thinking in the curriculum and its importance for learning. Students may be from a range of subject areas including computer science and they will consider computational thinking as well as the use of computers and the Internet in their subjects for learning, teaching and the curriculum, the nature of educational software, how learners may be changing in the digital age and the impact of new technologies such as multimedia and social networking software. Other areas covered include web-based learning, the role of computer-mediated communications, pedagogy with technology, modelling, learning though gaming, mobile learning and e-assessment. Module teaching is comprised of two face-to-face workshops held at the start and middle of the module on a Saturday together with weekly tasks and readings in ten on-line sessions. Online activities each week will involve:
+A task related to the week's theme usually including the study of a specific paper, with each student posting their reactions, comments and reflections to an on-line asynchronous discussion board for others to view and respond. Online synchronous (chat) seminars in small groups to discuss the week's theme. These happen on the same evening each week.
+
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Advanced Curriculum Studies In Mathematics Education - Optional
+
+    
+  
+      Teaching staff:  
+Professor Eva Jablonka  
+     Module code:  
+7SSEM016    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Thursdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      6,000 word assignment
+     
+  In times of great challenge and flux, it is very important that mathematics teachers and mathematics consultants, policy makers and managers are able to critique their work in terms of the rich traditions of the mathematics education curriculum. By the end of the module, participants will be able to delineate the main assumptions behind a range of theoretical frameworks for conceptualising and analysing the learning and teaching of mathematics and their implications for policy and classroom practice. In particular, participants will engage with core readings in learning theories (from cognitive constructivist, socio-cultural, interactionist, to sociological perspectives), and the teaching and assessment frameworks they often imply. Through their encounter with seminal scholarly texts, participants will develop a critical perspective on contemporary schemes currently impacting on mathematics learning, teaching and assessment, and shaping alternatives for the future. Developing academic skills (reading and writing and argumentation based on scholarly sources and critique) will be an important emphasis of the module.
+  
+    Business Management In Education - Optional
+
+    
+  
+      Teaching staff:  
+Dr Gerard Lum  
+     Module code:  
+7SSEM054    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Tuesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      6,000 word assignment
+     
+  This module is designed to provide participants with practical business management skills that are applicable across all education sectors. Drawing on best practice from commercial settings the module will allow you to develop your capabilities across a range of management functions, from strategic planning to marketing, from team building to resource management. Today these skills are as relevant to state schools as they are to the private /profit-making sector, as relevant to the primary school as the university. Whether you plan to set up your own school or want to be able to develop viable plans for a new venture in an existing institution, this module will give you the skills you need. The focus of the module is practical rather than literature-based and the assignment provides the opportunity to develop your own strategic business/marketing plan for your own educational business venture.
+  
+    Computer Science Education - Optional
+
+    
+  
+      Teaching staff:  
+Dr Sue Sentance  
+     Module code:  
+7SSEX007    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Tuesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  This module covers the theoretical basis and pedagogy for teaching computer science including programming and for introducing the concepts of computing to pupils in school. Issues identified by research in the area of teaching and learning programming and computer science are considered together with the implications for computing education at primary and secondary level. Topics covered will include pedagogical approaches to programming, teaching "unplugged", gender and computing and learning with and through computer games. Students on this module will have access to online materials to enhance their subject knowledge and learn programming (Python 3) if necessary (although this will not be taught in the module).  This course is offered both as a 30 credit module on the modular MA Education programmes and as a standalone short course.
+  
+    Education, Policy And The City - Optional
+
+    
+  
+      Teaching staff:  
+Professor Becky Francis
+  
+     Module code:  
+7SSEM005    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Wednesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  Policies are developed in order to tackle what are perceived to be social issues or problems. For example, currently we have policies which aim to include children, students and all learners in society in order to improve their life chances. However, concerns about 'problems' in society are not new. In the nineteenth century in Britain, the movement of many people from the country-side to the newly emerging cities was accompanied by social changes and concerns about poverty, poor housing, child labour and what were viewed as the threats of the growing urban working class. It became accepted that the government (the state) would have to do something about these issues. Social policies were enacted to try to ameliorate these problems. Obviously education &ndash; the focus of this module - was one form of policy intervention. In this module we want to consider the origins of state intervention (policy) into educational provision. We will examine how and why certain policies were taken up, which ideologies have dominated at certain times and we will explore the sorts of policy outcomes which have come from all this. We want to consider how policies are developed and how they are implemented. We also want to consider how they change in the different contexts in which they are interpreted, experienced, enacted and/or resisted as well as through the actions of those charged with their implementation. Our module title includes the word 'city' because it is in cities that we can most easily see the way in which educational and other policies do their work and are resisted/ appropriated/impact on the lives of those who 'people policy'.
+  
+"The city concentrates and makes highly visible the contrasts between the rich and the poor. This concentration and visibility means that conflicts over scarce resources, not least education, between rich and poor are more likely, more extreme, and in turn, more visible in urban areas" (Coulby, 1992, p. 221)
+
+  
+    Educational Leadership - Optional
+
+    
+  
+      Teaching staff:  
+Dr Gerard Lum  
+     Module code:  
+7SSEM065    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Wednesdays 5.30-7.30pm  
+  
+      Assessment:  
+      coursework     
+      6,000 word assignment
+     
+  The idea that the role of managing education should involve &lsquo;leadership&rsquo; has come to prominence around the world in recent years, not least because leadership has come to be seen as the means of achieving organisational change and improvement. Today it is not just headteachers and college principals who are involved in leadership; increasingly leadership is seen as something that permeates throughout the organisation, something that might potentially involve many or even all of the staff in a school or college. Recent official policy has made much of the need for leadership, yet there is a need to distinguish between official rhetoric and educational reality. In this module we look beyond the rhetoric to consider what it takes to be a leader, the kind of knowledge and abilities it requires. We also look at some of the challenges of leadership and the responsibilities leadership brings. What participants should take away from this module is a richer and fuller understanding of how leadership can properly contribute to the running of an educational institution.
+  
+    Foundations Of Teaching   Learning Science - Optional
+
+    
+  
+      Teaching staff:  
+Dr Christine Harrison  
+     Module code:  
+7SSEM017    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Tuesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  By the end of this module, participants will be able to demonstrate knowledge and understanding of theoretical frameworks, particularly sociological and psychological, on teaching and learning in Science education; demonstrate an ability to critically consider research based evidence and its implications for practice and apply their knowledge, understanding and intellectual skills to write an informed and critical review about a topic in their chosen area of study. The module develops knowledge and understanding of a range of theoretical frameworks, particularly sociological and psychological influences, on teaching and learning in science education and the seminal texts and literature in these areas.
+  
+    Improving Learning And Attainment In The Classroom  - Optional
+
+    
+  
+      Teaching staff:  
+Dr Simon Gibbons  
+     Module code:  
+7SSEM067    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Full-year     
+   
+    Teaching pattern:  
+The module will consist of five lectures/seminars plus close one-to-one tutorial support for within-school projects.  
+  
+      Assessment:  
+      coursework     
+      6000-8000 word project  report
+     
+  This module is intended for serving teachers who wish to review and enhance their classroom performance, making use of cutting edge research on pupil learning in their subject areas and drawing on expert curriculum advice. It should be of interest both to newly qualified teachers and to experienced teachers seeking to review and develop their professional know-how. The module will consist of five lectures/seminars which will explore current and recent policies intended to enhance pupil learning, examine research on the most effective ways to promote progress and support teachers in the setting up and conducting of a classroom based research project. Students on the module will then have one-to-one tutorial support as they carry out an in-school project - identifying an area for improvement in terms of their own pupils' learning, planning an intervention and gathering data in order to reflect upon this intervention's effectiveness. The assessed submission will be a 6,000-8,000 word report of the project. You must be working full or part time as a teacher in school to enrol on this module.
+  
+    International And Comparative Education - Optional
+
+    
+  
+      Teaching staff:  
+Dr Mili and Professor Chris Winch    
+     Module code:  
+7SSEM061    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Tuesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  What can you learn from comparing education systems, schools or teachers? International comparisons have recently risen to prominence in the education policy discourse. At its best, comparative education can inform us about learning in different places or times and can provide us with fresh perspectives on ourselves. When we engage in international comparative education, differences are often stark. A world of alternatives opens up to us - with the capacity to challenge and reassure in equal measure. But caution is advisable. When we observe differences, what are the less visible factors we need to account for? When we find trends across countries, do they reflect national consensus or international pressures? What then is the influence of organisations such as the OECD, UNESCO, the World Bank and the EU? The question arises: are policy makers&rsquo; interpretations justified or do they merely reflect pre-set political imperatives? In this module, we will: familiarise ourselves with the field of comparative education; consider the relationship between education and aspects of national contexts; evaluate the methodology, contribution and limitations of international comparative education; and, identify international trends in curriculum, assessment and pedagogy. During the module, students will be required to identify a topic for their written assignment. One session will be devoted to short presentations on initial exploration of the topic and formative feedback for the full assignment. Students will benefit from the international perspectives of the tutors, outside speakers, and their fellow students.
+  
+    Issues In Teaching   Learning Modern Foreign Languages - Optional
+
+    
+  
+      Teaching staff:  
+Dr Jane Jones  
+     Module code:  
+7SSEM022    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Tuesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  This module aims to extend students&rsquo; understanding of the key theories that underpin modern foreign language teaching and learning and to explore how these concepts can be applied effectively in different language teaching practices and contexts represented by students in the group. Topics include a critical approach to the communicative language teaching, new insights into learner motivation, the increasingly important topic of learning/learner strategies, content-based language learning, collaborative learning and the linguistic and cultural representations modelled through film in the classroom. Students, having examined a range of teaching and learning approaches and the underlying theoretical precepts, will relate these to their own cultural and educational contexts. The module is interactive, being based on active learning methods and is very student-focused. The session formats are varied and involve both personal reflection and collaborative study as we learn together as a learning group. All sessions draw on data collected by students for the session in order to develop research skills. Key texts are identified for each session and draw on a wide range of international research. Students choose to focus on a related topic in greater depth for their end-of-module essay which is agreed by the module tutor. Support is provided for assignment writing.
+  
+    Language And Power - Optional
+
+    
+  
+      Teaching staff:  
+Prof Ben Rampton  
+     Module code:  
+7SSEM023    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Tuesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  This module addresses a number of perspectives on the relationship between language and power. It sets up a dialogue between theories and methods from social theory, critical discourse analysis, interactional sociolinguistics and linguistic anthropology. It examines the dynamics of language and power in, for example, gender and sexuality, race and ethnicity, education, informal, institutional   mass-mediated discourse, and global and local interaction. The module also helps students to conduct their own analyses. By the end of this module, participants will have an understanding of relations of language and power in a wide range of domains and communicative settings, and an understanding of how relevant research approaches might be practically applied.
+  
+    Notions Of English - Optional
+
+    
+  
+      Teaching staff:  
+Dr Bethan Marshall  
+     Module code:  
+7SSEM025    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Tuesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  By the end of this module participants will have an understanding of key elements of an epistemological framework for the teaching of English; a knowledge of the competing philosophies of English, the history of these positions and their current manifestations; an understanding of understanding of the cognitive activities distinctively involved in English; an ability to reflect on their own assessment practices and an awareness of the assumptions underlying their own pedagogical practices and an ability to reflect on their efficacy in relation to the teaching of English The module develops knowledge and understanding of aspects of psychological, philosophical and aesthetic and literary theory relevant to a theoretical foundation for an arts-oriented English and key issues in the debates about the place and relative importance of the arts in education.
+  
+    Psychology And Learning - Optional
+
+    
+  
+      Teaching staff:  
+Dr Jill Hohenstein
+  
+     Module code:  
+7SSEM030    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Wednesdays 5.30 - 7.30pm
+  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  This is an optional module that provides an introduction to principles and applications of Psychology to Learning in formal and informal contexts. Over the last three decades, psychological theories and explanation of learning have developed far beyond simple, mechanistic models (such as reinforcement) that are applied in formal settings (especially schools). Within this module, participants will have the opportunity to explore: individual and social circumstances that may promote or hinder learning; characteristics of learning in formal and informal contexts; and individual and social theories of learning. Further, the module will explore how theories of learning have been adapted and ignored in education policies: at pre-school, primary and secondary school levels; with regard to curriculum; and with regard to assessment. In considering explanations of learning, the module will consider issues of development, multiple intelligences, interpersonal support that underlies learning and the effect of culture/activity on learning experience.
+  
+    Recent Developments In Education Management - Optional
+
+    
+  
+      Teaching staff:  
+Dr Gerard Lum  
+     Module code:  
+7SSEM031    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Tuesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  Those tasked with managing today&rsquo;s educational institutions are confronted with all manner of problems which require them constantly to assess priorities in the face of competing demands. Rising to this challenge requires a rich understanding of the social, economic and political contexts within which schools and other educational institutions must operate. The last two or three decades have seen profound changes in the demands placed on schools and those who manage them. School principals, headteachers and those in senior and middle leadership roles need to be alert to a wide range of issues arising from questions about educational quality, equity and accountability, questions about organisational change and the difficulties faced by schools required to succeed in an education &lsquo;market&rsquo;. In this module we go beyond mere &lsquo;problem-solving&rsquo; techniques to adopt a more purposeful and critical analysis of the problems facing educational institutions today, both in the UK and around the world.
+  
+    Recent Developments In Mathematics Education - Optional
+
+    
+  
+      Teaching staff:  
+Professor Eva Jablonka  
+     Module code:  
+7SSEM033    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Wednesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  This course will provide an overview of recent developments in mathematics education. A major focus of this module will be the exploration of research being undertaken at King's in the context of recent developments more widely. The content of this course will be subject to regular review so as to ensure that the course reflects recent developments. We anticipate that the topics which will be considered will be drawn from: 
+ International comparisons, 
+ Progression in learning mathematics,
+ Processes in mathematics, 
+ The role of IT in mathematics education, 
+ Social theories of teaching   learning,
+ The impact of feminisms on mathematics education,
+ Social Justice and mathematics education, 
+ Assessment practices and mathematics education.
+  
+    Recent Developments In Modern Foreign Languages Education - Optional
+
+    
+  
+      Teaching staff:  
+Dr Jane Jones  
+     Module code:  
+7SSEM034    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Tuesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  The module explores recent initiatives and policy developments in MFL Education in a rich variety of cultural contexts and phases of language learning represented by students in the group. Topics that are considered include updates in debates about the use of the Target Language and the role of Grammar, formative assessment and Assessment for Learning (AfL), early language learning, the role of technology, citizenship and the languages curriculum, gender issues as they relate to language learning, special needs and inclusion, cultural learning and subject leadership in MFL. We seek to consider how these issues relate to and shape pedagogy and classroom practices. The module is research focused and includes important work that has been pioneered at King&rsquo;s College London. Students will be expected to read widely and to reflect critically on issues. The sessions are based on active learning methods and collaborative learning. Students collect data for each session to further develop research skills. Comparison is an important feature of the learning that is designed to enable students to value and learn from other contexts as well as to deepen their understanding of their own teaching and learning contexts. Students chose an essay on a topic of interest in negotiation with the tutor and support is provided for assignment writing.
+  
+    Recent Developments In Science Education - Optional
+
+    
+  
+      Teaching staff:  
+Dr Heather King  
+     Module code:  
+7SSEM035    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Thursdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  This module aims to develop students' knowledge and understanding of recent research developments in science education with a particular focus on the theoretical base. It will develop students' abilities to review critically and evaluate research findings and to consider their implications for practice. The module will examine recent bodies of research in the following areas: the role of language: the practice of argumentation; the nature of representations; teacher beliefs; learner 'identity'; technology mediated education; and learning outside the classroom. During the module, you will be required to select one topic for a fuller analysis for your written assignment which should involve in-depth consideration, analysis and critical review of one-research based recent development in science education. Time in the sessions will be devoted to a discussion on your initial thoughts in order to provide formative feedback for the full assignment.
+  
+    School Effectiveness And Improvement - Optional
+
+    
+  
+      Teaching staff:  
+Dr Gerard Lum  
+     Module code:  
+7SSEM037    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Thursdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  The idea that the effectiveness of a school can be evaluated in &lsquo;objective&rsquo; or &lsquo;scientific&rsquo; terms has taken hold in a good many countries in recent years, not least in the USA and the UK. Similarly, with the idea of school improvement: in many countries, official policy is based on the assumption that such improvement can be measured and its conditions reliably predicted. These ideas are bolstered by a burgeoning body of research into school effectiveness and school improvement. In this module we subject these ideas to critical scrutiny, examining their conceptual and methodological underpinnings in order to assess whether the claims arising from such research are justified. This module will be of interest to anyone who has ever wondered about the meaningfulness and educational worth of SATs, school league tables and other measures used to hold schools and teachers to account; it will be of particular interest to those who seek to have a comprehensive understanding of such measures with a view to managing their implementation in schools or other educational institutions.
+  
+    Social Context Of Schooling - Optional
+
+    
+  
+      Teaching staff:  
+Professor Becky Francis
+  
+     Module code:  
+7SSEM038    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Wednesdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  This module is designed to provide a framework through which to examine the conflicting aims, claims, values and beliefs which have underpinned educational provision over time. The module considers several key social science concepts or fields of study with education as the major substantive focus and processes of social change providing the major context of concern. The key concepts include: gender, 'race', class, reproduction theory, globalisation, the market, the politics of knowledge and performativity. The overall aim of the module is to introduce students to a set of concepts, theories and ideas which will enable them to place their own subject interests in relation to wider social, political and economic changes taking place in modern society.
+  
+    Social Justice And Education Policy - Optional
+
+    
+  
+      Teaching staff:  
+Professor Becky Francis  
+     Module code:  
+7SSEM039    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Block teaching
+  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  This module considers what is meant by the concept of social justice and explores some of the difficulties involved in trying to enact socially just practices in education policy. It will consider tensions between distributive, cultural and associational forms of justice by looking at some examples of contexts in which these tensions arise. Each session will focus on a different axis of social differentiation, for example, poverty, disability, sexuality and faith.
+  
+    Teacher Development - Optional
+
+    
+  
+      Teaching staff:  
+Professor Chris Winch    
+     Module code:  
+7SSEM040    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Thursdays 5.30 - 7.30pm  
+  
+      Assessment:  
+      coursework     
+      One 6,000 word assignment
+     
+  In recent years, the gaze of researchers and policy makers has focused increasingly on teachers and teacher change. In this module, teacher development is considered as an area of knowledge from a range of perspectives including historical, philosophical, ethical, sociological, ethical, and political. Within these various concepts of 'teacher' are introduced and tensions among them explored. These include notions of the teacher as, for example: domain knowledge specialist; curriculum worker; bureaucrat; exemplary life coach and pastoral carer, and so on. The roles and representations of teachers (for example, as 'professionals' or as 'change agents') are explored in depth. Teachers' careers touching on their social, personal and professional growth are considered e.g., the reflective practitioner, the competence facilitator, the practitioner and practice oriented researcher, the professional leader, educational manager. Participants are expected to use their knowledge and experience of their own and their colleagues' development to interpret and inform their reading and discussions.

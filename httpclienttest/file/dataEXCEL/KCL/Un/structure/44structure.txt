@@ -1,0 +1,102 @@
+Core modules as below.   
+  
+     
+    YEAR 1
+  Core modules as below. 
+     
+   
+  YEAR 1 CORE
+   Mathematical Methods in Physics
+Programming Practice
+Data Structures
+Logic Design
+Engineering and Entrepreneurial Skills
+Organisational Behaviour
+Economics
+Electronics Applications Project and Engineering Lab I
+  
+   
+    
+  
+    
+  
+   
+   
+   
+   
+  
+     
+  
+    
+    
+   
+  YEAR 2 CORE
+  
+   Electrical Engineering II
+Circuit Theory
+Signals and Systems
+Principles of Electronics
+Marketing
+Accounting
+Database Systems
+Electronics Applications Project and Engineering Lab II
+   
+      
+  
+  
+  
+ 
+ 
+  
+   
+   
+   
+   
+   
+   
+  
+   
+  YEAR 3 CORE
+   Business Strategy and Operational Management
+Human Resource Management
+Real Time Systems and Control
+Group Project
+Optimization Methods
+  
+   
+      
+  YEAR 3 OPTIONS
+   Students must take two modules from the following:
+Communications Systems
+Internet Systems
+Sensors and Actuators
+Electronic Circuits
+Distributed Systems
+Computer Vision
+Pattern Recognition
+  
+  
+   
+   
+     
+      
+  YEAR 4 CORE
+   Individual Project
+Project Management
+Operations Management
+Telecommunication Networks I
+   
+     
+  YEAR 4 OPTIONS
+   Students must take 3 modules from the following:
+Random Variables and Stochastic Processes
+Digital Signal Processing
+Mobile and Personal Communications
+Telecommunication Networks II
+Web Infrastructure
+Robotic Systems
+Optical Communications
+Digital Communications
+Communications Theory
+Cryptography and Information Security
+Network Theory

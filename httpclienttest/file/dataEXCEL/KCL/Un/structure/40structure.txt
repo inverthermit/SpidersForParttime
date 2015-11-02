@@ -1,0 +1,103 @@
+YEAR 1
+  Core modules as below. 
+     
+   
+  YEAR 1 CORE
+   Mathematical Methods in Physics
+Computer Systems
+Programming Applications
+Foundations of Computing I
+Engineering and Entrepreneurial Skills
+Programming Practice
+Logic Design
+Electronics Applications Project and Engineering Lab I
+  
+   
+    
+  
+    
+  
+   
+   
+   
+   
+  
+     
+  
+    
+    
+   
+  YEAR 2 CORE
+  
+   Engineering Mathematics
+Signals and Systems
+Electronics Applications Project and Engineering Lab II
+Circuit Theory
+Database Systems
+Principles of Electronics
+Electrical Engineering II
+Foundations of Computing II
+   
+      
+  
+  
+  
+ 
+ 
+  
+   
+   
+   
+   
+   
+   
+  
+   
+  YEAR 3 CORE
+   Real Time Systems and Control
+Group Project
+Hardware Design
+Internet Systems
+   
+      
+  YEAR 3 OPTIONS
+   Students must take three modules from the following modules:
+Communications Systems
+Sensors and Actuators
+Electronic Circuits
+Distributed Systems
+Agents and Multi-agent Systems
+Computer Vision
+Pattern Recognition
+Cryptography and Information Security
+Advanced Security Topics
+Optimization Methods
+  
+  
+   
+   
+     
+      
+  YEAR 4 CORE
+   Individual Project
+Random Variables and Stochastic Processes
+Telecommunication Networks I
+  
+   
+     
+  YEAR 4 OPTIONS
+   Students must take four modules from the following list:
+Digital Communications
+Antennas and Propagation
+Digital Signal Processing
+Telecommunication Networks II
+Algorithm Design and Analysis
+Cryptography and Information Security
+Advanced Security Topics
+Mobile and Personal Communications
+Optical Communications
+Communications Theory
+Network Theory
+Web Infrastructure
+Algorithm issues in the World Wide Web
+Robotic Systems

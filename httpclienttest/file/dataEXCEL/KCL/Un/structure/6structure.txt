@@ -1,0 +1,81 @@
+The first two years of the course are identical for all students. In the third year students will have the choice of 2 optional modules. Currently, the programme comprises the following modules. . King's reviews its options on a regular basis, in order to continue to offer innovative and exciting programmes and this list is therefore subject to change. Please check here for updates, or contact the Department for further advice.   
+  
+     
+    YEAR 1
+  Mathematics and Mechanics (30 credits)
+This module builds upon the entry-level knowledge of students, and introduces a number of fundamental methods and concepts in applied mathematics that are needed for physics. These include: trigonometric and hyperbolic functions and identities, binomial expansions, calculus, power and Taylor series, matrices, vectors, and complex numbers.
+  
+Fields, Waves and Matter (15 credits)
+This  module provides an introduction to the microscopic properties of the different types of matter, the forces between them, and the properties of electromagnetic radiation.
+Joint Honours Lab (15 credits)
+The first year laboratory course introduces the practical elements of the physics degree and develops laboratory skills that will be required in the second, third and fourth years. The laboratory classes tie in with classrom based courses and introduce the elements required for practical problem solving, such as experimental design and library based research.
+Introduction to Human Anatomy   Physiology (15 credits)
+The module will provide the students with an understanding of the basic human anatomy and physiology. The students will learn the coupling of structure with function. The use of computer-assisted learning (Anatomy   Physiology Online, Primal Pictures) during tutorial sessions will enable the students to learn using virtual 3D representations taken from the Visible Human data set. Furthermore, the Anatomy   Physiology Online software will allow self-assessment in preparation for the final module examination. There will also be two lab sessions that will be assessed from the experimental write-ups.
+Computational statistics (15 credits)
+This series of seminars will provide the students with an understanding of  how to convert an  engineering problem into a mathematics formulation and model engineering  questions.  This will be done with examples from  engineering: solid mechanics, dynamics and kinematic with applications to biomedical models, understanding of the fundamental concepts of descriptive and inferential statistics. A practical problem-solving approach will be  used to encourage deeper understanding of the theoretical content. This will  involve laboratory sessions in which the computational aspects of statistics are explored using Matlab and applied to real  problems. Students will also learn the  basic concepts of computer programmin in Matlab with the aim of applying them to statistical problems.
+  
+Computational Applied Biomathematics (15 credits)
+This module will show how to convert an engineering problem into a mathematics formulation and model engineering questions. This will be done with examples from engineering: solid mechanics, dynamics and kinematic with applications to biomedical models.
+Electrical Engineering I (15 credits)
+This module will introduce physical quantities and fundamental laws of electrical circuits. The basics of direct and alternating current networks will be explained allowing the evaluation of complex networks.
+ 
+     
+    
+  
+    
+  
+   
+   
+   
+   
+  
+     
+  
+    
+    YEAR 2
+   Electrical Engineering II (15 credits)
+This module will introduce fundamental laws of electrostatic and electrodynamics field theory. The physical quantities of electromagnetic fields will be introduced and examples for electrical engineering will be given.
+Systems and Control Theory (15 credits)
+This module will introduce the theory of signal and linear systems; the concepts of modeling, description, and classification of signals and systems; specific methods of signal processing.
+Introduction to Biomechanics and Molecular Biology (15 credits)
+The module will provide students with an understanding of the fundamental principles of molecular biology: cellular organisation, DNA, RNA, proteins and analytic techniques in molecular biology. Students will learn about the structure and function of DNA, RNA and proteins. They will learn the analytic tools required to characterise these biological molecules. They will also learn how cells can be manipulated to synthesis recombinant proteins. A laboratory class will be carried out in the isolation, handling and quantitative analysis of biomolecules, integrating the learnt components of the module.
+Mechatronics (15 credits)
+The module will provide students with an understanding of the basic elements of mechatronics: sensors, signal conditioning, displays, actuators, control systems and system response and microprocessors with interfacing. Students will learn how to simulate the key components of mechatronics systems using LabVIEW. They will also learn how to prototype applications using components and breadboard. The basic mathematical models of mechatronics systems will be learned and applied through practical problem solving. A mini-project will be carried out to apply a PIC microcontroller to a practical application, integrating the learnt components of the module.
+Signal Processing (15 credits)
+This module will introduce the theory of signal processing and its applications including: short-time Fourier analysis and spectrograms, design and analysis of digital filters, multidimensional signal processing, digital image fundaments, image compression, motion estimation, image enhancement, image restoration and reconstruction, and image analysis.
+Introduction to Medical Physics and Clinical Engineering (15 credits)
+The module will provide students with an understanding of the basic physical and engineering principles underlying medical technology. It will also introduce them to the concepts of basic safety in healthcare.
+Computational Methods (30 credits)
+The module will provide students with an understanding of computer programming and an understanding of the application and implementation of a suite of numerical tools for solving modelling problems.
+Biomedical Engineering Professional Issues (15 credits)
+This module will introduce students to professional issues of Biomedical Engineering &ndash; as internal specialisation, medical equipment design, ethics issues, guiding and communicating research.
+ 
+   
+      
+  
+  
+  
+ 
+ 
+  
+   
+   
+   
+   
+   
+   
+   YEAR 3
+   Introduction to Materials and Biomaterials (15 credits)
+The module will provide students with an understanding of the basic science related to biocompatible materials used in medicine. The course will cover the applications of such biomaterials for the repair, replacement or regeneration of tissues or organs.
+Introduction to Medical Imaging (15 credits)
+The module will provide an understanding of the main physical methods of medical imaging, including: X-ray imaging methods; Basis of image reconstruction and Computed Tomography; Radionuclide imaging methods (gamma camera, SPECT, PET); Magnetic resonance imaging method (spin echo, gradient echo, echo planar imaging, MR angiography); Ultrasound methods (real time B-mode, Colour flow mapping), other imaging methods and image fusion, PACS and clinical implementation.
+Modelling Flow and Transport (15 credits)
+This module will introduce students to the underlying principles behind transport phenomena within the human body. It will emphasise conservation laws and solution techniques important within a biomedical context, including: control volume analysis, vector calculus, diffusion, advection diffusion, reactions, and Navier-Stokes equations.
+Object-Oriented Programming (15 credits)
+The primary aim of the module is to enable the students to tackle complex programming problems, making good use of the object-oriented programming paradigm to simplify the design and implementation process. Practical skills will be learnt using the C++ programming language,
+Advanced Mechanics (15 credits)
+This module will introduce students to large deformation mechanics, theory and methods for simulation. It will emphasise topics including: kinematics, stress and strain, finite elasticity, hyperelasticity, parameter estimation and non-linear solution techniques.
+Applied Finite Elements (15 credits)
+The module will provide students with a deeper understanding of mechanics simulations and will require them to design and implement their own code for mechanics simulations using the finite element method.
+BEng Research Project (30 Credits)
+This will equip students with the knowledge and skills required to participate actively in research and development and to provide a vehicle for those seeking an educational foundation for further MSc and PhD studies. The project will give students the chance to manage a long-term assignment with guidance from a supervisor.

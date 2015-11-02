@@ -1,0 +1,184 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Principles of Analytical Techniques
+Numerical Methods and Regulatory Affairs
+Principles  of Drug Delivery and Disposition.
+
+     
+   Indicative non-core content
+   Solid Dosage Forms
+Liquid Dosage Forms
+Research Project.
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures; laboratory classes; tutorials; laboratory-based research project or dissertation; modules assessed by coursework and written examination.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Drug Delivery: Liquid Dosage Forms And Microbiology - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBPM018    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This specialist module covers the design and manufacture of liquid and semi-solid dosage forms and associated microbiology. It complements the module on Drug Delivery: Solid Dosage Forms.
+ On completion of the course the student should have an in-depth knowledge of:
+The design and manufacture of the various liquid and semi-solid pharmaceutical dosage forms including parenterals, emulsions, suspensions, creams, and ointments
+An appreciation of the processes, technology and equipment utilised in the manufacture of liquid and semi-solid dosage forms
+An detailed understanding of the biopharmaceutical aspects governing topical drug delivery and the use of penetration enhancers
+Be able to characterise the rheological behavior of materials and appreciate its significance in the design, development and assessment of dosage forms
+An appreciation of pharmaceutical excipients and their properties
+An appreciation of products resulting from biotechnology and of issues concerning the formulation of such products
+An understanding of the causes, control and assessment of microbiological contamination of products
+An understanding of the principles and methods of sterilisation and preservation of pharmaceutical products
+Be able to characterise liquid and semi-solid dosage forms and to assess their quality
+
+  
+    Drug Delivery: Solid Dosage Forms - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBPM017    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This specialist module covers the design and manufacture of solid dosage forms. On completion of the course the student should have:
+An understanding of the key physicochemical principles underlying the design and development of solid dosage forms including thermodynamics, kinetics, and molecular and crystal structure
+A detailed knowledge of the properties of the solid state and its significance, theory of crystal growth, crystal engineering and polymorphism
+An understanding of the fundamental aspects of powder technology
+An appreciation of pharmaceutical excipients used in solid dosage forms and their properties
+An appreciation of the processes, technology and equipment utilised in the manufacture of solid dosage forms
+An understanding of the approaches developed for modifying release from products
+The ability to characterise dosage forms and to assess their quality
+
+  
+    Principles Of Chemical Analysis Techniques, Numerical Methods And Regulatory Affairs - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBPM011    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+      Assessment of the module is based upon performance in a written examination (70 per cent) and coursework (30 per cent).
+     
+  An introductory module concerned with the fundamental philosophy, principles and practice of chemical analysis and quality control, with particular reference to the pharmaceutical sciences. 
+ On completion of the module the student should have: An appreciation of the science and role of analytical chemistry; the ability to design and undertake measurement protocols to GLP standard; an understanding of basic numerical methods and statistics used in chemical analysis and quality control; an appreciation of the scope and limitations of various techniques for product identification and  the assignment of molecular structure and the analysis of complex mixtures.
+
+  
+    Principles Of Drug Delivery And Disposition - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBPM010    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+      Assessment of the module is based upon performance in a written examination (70 per cent) and coursework (30 per cent).
+     
+  This is an introductory module which provides an overview of drug delivery and drug disposition, ie drug absorption, distribution, metabolism, excretion and elementary pharmacokinetics, providing essential background knowledge for the pharmaceutical scientist. 
+On completion of the module the student should have: An understanding of the significance of physicochemical properties in drug delivery and drug disposition; an appreciation of the approaches for delivering drugs to the body and the associated dosage forms; an understanding of the methods for evaluation of drug release from tablets, capsules and inhalers; an understanding of the structure of biological membranes and the various mechanisms associated with drug transport across them; an appreciation of the potential sites, reactions and factors which influence drug metabolism; an appreciation of the significance of drug metabolism in relation to biological activity; an understanding of the principles of pharmacokinetics and  an ability  to define and calculate the commonly used pharmacokinetic parameters.
+  
+    Research Project/dissertation - Pharmaceutical Sciences - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBPM014    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Students on all three Masters Degree Programmes in the Pharmaceutical Sciences (Drug Metabolism   Toxicology, Pharmaceutical Analysis   Quality Control, Pharmaceutical Technology) are required to carry out a research project. The aim of the  research project  is  to provide students with the opportunity to study a particular topic in depth, give practical experience of research methodologies and in the presentation of scientific data, both orally and as a written report. 
+ The Department of Pharmacy at King's is research active and as a result, Masters candidates are offered a considerable choice of research topics from across the entire spectrum of the pharmaceutical sciences, including:
+Computational methods with applications in the pharmaceutical sciences
+Drug delivery   formulation science
+Drug metabolism
+Toxicology
+Pharmaceutical analysis
+Isolation, identification and biological evaluation of materials derived from natural sources
+
+The selection and allocation of research projects is carried out in November, and students are required to select three possible topics from a list of usually over sixty available, the final allocation being made by the Programme Directors. Obviously the projects selected must be appropriate for the degree programme being undertaken. 
+ Project work starts in the second semester and students are expected to spend the equivalent of two days a week working on their projects. Following the summer examinations (these are generally held in May/June), work on the projects is carried out full time, and the final report is submitted for assessment in mid-August. 
+ Students undertaking the degree programmes part-time are normally expected to carry out a practical-based project at their place of work, and they frequently have ideas for areas of investigation which would be of interest to their employers. However, depending on the nature of their employment it is appreciated that this may not be possible for everyone. In such instances these individuals are permitted to submit a critical survey of the literature (dissertation) rather than a practical-based research project. 
+ Research projects/dissertations are assessed on the basis of the final written report (90 per cent) and a short oral presentation (10 per cent) at the end of the second semester.

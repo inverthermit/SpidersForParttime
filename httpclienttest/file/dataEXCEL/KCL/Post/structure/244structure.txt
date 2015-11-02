@@ -1,0 +1,869 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Core Modules (must be taken and passed)
+The Politics of Health and Medicine (30 credits, term 1)
+One of  either:
+Designing Quantitative Research for Social Science   Health, OR Designing Qualititative Research for Social Science   Health (15 credits, Term 2), OR  Critical Policy Research (15 credits, term 2)
+Compulsory Modules (must be taken)
+7SSHM620 Foundations of Social Science, Health   Medicine
+ (30 credits, term 1)
+The module is designed to introduce students to the basic theories and concepts at the interface of social science, health   medicine. It is designed to create a mini-canon that all (non-gerontology) SSHM students will master before branching out into their respective programme-specific and specialist modules
+PG Certificate and Diploma
+Students registered for the PG Certificate take Medicine, Health and Society and a further 30 credits from compulsory and/or optional modules. PG Diploma students take all compulsory and core modules (except for the Dissertation) and optional modules to gain a total of 120 credits.
+
+
+     
+   Indicative non-core content
+   Students can select 30 - 35 credits of optional modules from within the Department or other Department's within King's College. The list below shows a sample of modules taught with the department (please note not all modules may run in any one year):
+Foundations in Social Science, Health and Medicine &ndash; Required
+Medicine, Health and Society &ndash; Required
+Designing Quantitative Research for Social Science   Health OR Designing Qualitative Research for Social Science   Health &ndash; Required
+Critical Policy Research &ndash; Required
+Dissertation in Medicine, Health and Public Policy (MSc students only) &ndash; Required
+Case Studies in Bioethics   Society &ndash; Optional
+Global Health Ethics &ndash; Optional
+Ageing in a Global Context - Optional
+Ethics of Clinical Research &ndash; Optional
+Pharmaceuticals   Society &ndash; Optional
+Genomics   Society &ndash; Optional
+Connecting Medicine, Science   Society - Optional
+The Politics of Disaster   Emergencies &ndash; Optional
+War, Memory   Mental Health &ndash; Optional
+Psychiatry, Culture   Globalization &ndash; Optional
+The Global Bioeconomy: State, Capital   Society - Optional
+Designing Quantitative Research for Social Science   Health OR Designing Qualitative Research for Social Science   Health &ndash; Optional
+Quantitative Data Analysis &ndash; Optional
+Data Manipulation   Management &ndash; Optional
+Researching Vulnerable Populations - Optional
+     
+   
+   FORMAT AND ASSESSMENT
+  Teaching involves a combination of lectures, seminars and workshopsthat place an emphasis on group dialogue, presentations and debate.Assessment includes a mix of examinations, written work and oral presentations.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Connecting Medicine, Science   Society - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Claire Marris
+http://www.kcl.ac.uk/sspp/departments/sshm/people/academic/marris/Dr-Claire-Marris.aspx  
+     Module code:  
+7SSHM601    
+  
+    Credit level:  
+7  
+    Credit value:  
+30    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    Teaching pattern:  
+The module is taught through a mixture of lectures and seminars  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      2,000 word formative essay
+7,000 word summative assessed (100%)
+     
+  This module is designed to introduce students to social science perspectives on how scientific knowledge is translated from the lab to the clinic. The module explores a series of case studies of translational research; evaluates different theoretical approaches to investigating the links between medicine, science and society; focusing on the social science framing of the interaction between the bench and the bedside. Specifically, the module aims to:
+&bull; Critically appraise social science perspectives on the multifaceted interface between science and medicine.
+&bull; Critically discuss key social science perspectives on the contested interaction between &lsquo;the bench and the bedside&rsquo;
+&bull; Critically explore the complex nature of multidisciplinary research on medicine, science and society
+&bull; Critically examine core themes on the social science of the &lsquo;lab-clinic interface&rsquo; through a series of in-depth case studies
+
+  
+    Designing Qualitative Research For Social Science   Health - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Karen Lowton
+http://www.kcl.ac.uk/sspp/departments/sshm/geront/people/academic/lowton.aspx  
+     Module code:  
+7SSHM503    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    Teaching pattern:  
+Lectures  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      1 x 3,500 word report
+     
+  This module aims to convey the fundamentals of qualitative research design in the social sciences including research methods, sampling, field work, analysis and ethics. It aims to equip students with the knowledge, skills and understanding required to conduct qualitative research in social science and health.
+On successful completion of this module, students will be able to:
+&bull; Formulate appropriate research questions.
+&bull; Select the most appropriate research design to address a specific research problem.
+&bull; Demonstrate knowledge of common research deigns and methods used in qualitative research (interviews, focus groups and observation).
+&bull; Design and administer a brief topic guide and critically discuss its strengths and weaknesses.
+&bull; Analyse qualitative data using simple coding
+&bull; Demonstrate the ability to design and conduct a small original qualitative research project.
+&bull; Demonstrate the ability to structure a written qualitative research report.
+Indicative Reading
+Grbich C (1999) Qualitative Research in Health. Sage, Australia
+Charmaz K (2006) Constructing Grounded Theory, Sage, London
+Gray D (2009) Doing Research in the Real World (2nd edition), Sage, London
+
+  
+    Designing Quantitative Research For Social Science   Health - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr. Karen Glaser
+http://www.kcl.ac.uk/sspp/departments/sshm/geront/people/academic/glaser.aspx  
+     Module code:  
+7SSHM502    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    Teaching pattern:  
+Lectures  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      1 x 3000 word report (100%)
+     
+  This module aims to enable students to develop an understanding of ethical research design in quantitative studies (survey and experiments) as well as wider research issues. To prepare students to apply this knowledge in a research context such as their masters&rsquo; dissertation or health services research.
+On completion of the module students will be able to:
+1. Formulate appropriate research questions.
+2. Select the most appropriate research design to address a specific research problem.
+3. Demonstrate knowledge of common research designs and methods used in quantitative research (survey and experiments).
+4. Design and administer a brief questionnaire and critically discuss its strengths and weaknesses.
+5. Critically review methods used in published studies in social sciences and in health services research.
+Indicative Reading
+1. Gray DE. (2009) Doing research in the real world 2nd edition. London, Sage
+2. de Vaus, DA 2002, Surveys in Social Research. 5th Edition, Routledge, London.
+3. Bowling, A 1997, Research methods in health: Investigating health and health services, Open University Press, Buckingham.
+
+  
+    Dissertation In Medicine, Science   Society - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+TBC  
+     Module code:  
+7SSHM003    
+  
+    Credit level:  
+7  
+    Credit value:  
+60    
+    
+      Semester:  
+    Full-year      
+   
+    Teaching pattern:  
+Private Study
+Workshops
+Tutorials  
+  
+      Assessment:  
+      written examination/s     
+   
+    
+    
+      1 x 1,000 word proposal (10%)
+1 x 15 - 18,000 word dissertation (90%)
+
+     
+  1. To develop students&rsquo; capacity to conduct research through critical and systematic enquiry related to medicine, science and society and to develop their skills in research design.
+2. To give students the opportunity to investigate an area of biomedicine in depth by planning and executing a small-scale independent social research project.
+3. To develop students&rsquo; skills in the complexities of data collection, representation and analysis.
+4. To develop students&rsquo; critical understanding of the process and the contested issues entailed in doing social research.
+5. To develop students&rsquo; ability to critically analyse and synthesise in an extended piece of writing (15,000 words) involving extensive literature review, and critical evaluation of research methods, reporting and interpreting findings.
+6. To develop students' research and writing skills so they can fulfil the professional and academic roles expected of students with a Master's education,
+7. To provide students with a policy analysis framework to enable them to critically discuss the framing of research issues by policy and the policy implications of research.
+  
+    Foundations In Social Science, Health   Medicine - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Courtney Davis  
+     Module code:  
+7SSHM620    
+  
+    Credit level:  
+7  
+    Credit value:  
+30    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    Teaching pattern:  
+10 x 3 hour lectures/seminars  
+  
+      Assessment:  
+      written examination/s;     coursework;     
+   
+    
+    
+      Unseen written examination: 3 hours (50% of module)
+Assessed coursework: 3,000 words (50% of module)
+
+     
+  The module is designed to introduce students to the basic theories and concepts at the interface of social science, health   medicine. This module will be compulsory for PGT students on the following programmes: &lsquo;Medicine, Science   Society&rsquo;, &lsquo;Global Health   Social Justice&rsquo;, and &lsquo;Bioethics   Society&rsquo;; it will familiarise students in these programmes with the most important approaches towards understanding health and medicine from the disciplines of sociology, anthropology, Science and Technology Studies (STS), and philosophy and ethics. It is designed to create a mini-canon that all (non-gerontology) SSHM students will master before branching out into their respective programme-specific and specialist modules.
+On successful completion of this module, students will be able to:
+1. Understand the social, political, and economic factors that influence health and medicine;
+2. Be familiar with, and critically appraise, the most important concepts that social scientists and philosophers have used to theorise about health and medicine
+3. Act as an independent and self-critical learner who manages their own requirements for continuing academic and professional development.
+
+  
+    Social Science Approaches To Biomedicine - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Scott Vrecko
+http://www.kcl.ac.uk/sspp/departments/sshm/people/academic/Dr-Scott-Vrecko.aspx  
+     Module code:  
+7SSHM600    
+  
+    Credit level:  
+7  
+    Credit value:  
+30    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    Teaching pattern:  
+The modules is taught through a mixture of lectures and seminars  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      2,000 word formative essay
+7,000 assessed essay (100%)
+     
+  This module is designed to introduce students to social science perspectives on science and medicine. It aims to give a comprehensive survey of the key literature, themes and issues in the interrelated field of science studies and medical sociology. Specifically, the module aims to:
+&bull; Critically discuss the multifaceted theories and concepts used in science studies and medical sociology
+&bull; Critically explore key contested social science perspectives on the interrelated fields of medicine and science
+&bull; Critically illuminate the complex nature of multidisciplinary research on medicine, science and society
+&bull; Critically illustrate core themes through a series of in-depth case studies
+
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Ageing In A Global Context - Optional
+
+    
+  
+      Teaching staff:  
+Dr Mayumi Hayashi
+http://www.kcl.ac.uk/sspp/departments/sshm/geront/people/academic/Hayashi.aspx  
+     Module code:  
+7SSHM505    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Lectures  
+  
+      Assessment:  
+      coursework     
+      1 x 3,500 words (100%)
+     
+  This module aims to provide students with a critical understanding of the implications of population ageing and rising life expectancy in populations across the developed and developing world. Cross-national examples will be drawn from Europe and the English speaking countries, Africa, Asia and Latin America.
+Topics covered will include:
+demography
+health transitions and social changes
+ageing and the Development Agenda
+Global institutions and politics
+social policies for ageing societies
+human rights in an ageing world
+This module will draw on the multi-disciplinary strengths of King's College and across the Department of Political Economy to provide important perspectives on population ageing and the growing numbers of older people around the world.
+On successful completion of this course, students will be able to:
+1. Demonstrate a knowledge and understanding of demographic processes and how these vary across the world.
+2. Demonstrate knowledge and understanding of population ageing and its effects on family support systems, living arrangements and intergenerational relationships.
+3. Critically evaluate the key social, political and economic implications of changing demographic processes on contemporary societies across the world.
+4. Analyse the policy and practice implications of ageing societies.
+5. Demonstrate a critical awareness of global institutions and their impact on the lives of older people.
+
+  
+    Case Studies In Bioethics   Society - Optional
+
+    
+  
+      Teaching staff:  
+Dr Silvia Camporesi
+Dr Annette Rid
+Prof Ilina Singh  
+     Module code:  
+7SSHM617    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+The course will run over 10 weeks for 3 hours weekly: 1.5 hours of lecture, and 1.5 hours of presentation and discussion of an illustrative case study when appropriate.  
+  
+      Assessment:  
+      coursework     
+      Written formative assessment: one x 2,000-word essay (0 % total grade)
+Written summative assessment: one x 4,000-word essay (100 % total grade)
+     
+  This module offers students a critical introduction to key concepts and topics in bioethics, using a bottom-up approach based on case studies and grounded in current debates and controversies surrounding the developments of biomedicine and neuroscience. Through the case-study approach, the module aims to enable students to understand how such controversies and proposed solutions emerge in unique social, political and regulatory contexts. Some of the concepts and topics covered include well-being, reproductive freedom, and enhancement.
+  
+    Ethics Of Clinical Research - Optional
+
+    
+  
+      Teaching staff:  
+Dr Silvia Camporesi and Dr Annette Rid  
+     Module code:  
+7SSHM615    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+The course will run over 10 weeks for 2 hours weekly: 1 hour of lecture and 1 hour of presentation and discussion of an illustrative case study.  
+  
+      Assessment:  
+      coursework     
+      Written summative assessment: one x 3,000-word essay (100 % total grade)
+     
+  This module aims to offer students an introduction to the foundations of clinical research ethics, through the discussion of paradigmatic cases of research misconduct from the post WWII up-to-now, the analysis of national and international guidelines for clinical research, and a critical discussion of fundamental concepts in research ethics, such as autonomy, risk, benefit, clinical equipoise and exploitation. Where appropriate case studies will be used to enhance the analysis of these concepts.
+  
+    Foundations Of Bioethics   Society - Optional
+
+    
+  
+      Teaching staff:  
+Dr Silvia Camporesi  
+     Module code:  
+7SSHM616    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+The course will run over 10 weeks for 3 hours weekly: 1.5 hours of lecture, and 1.5 hour of presentation and discussion of an illustrative case study where appropriate.  
+  
+      Assessment:  
+      written examination/s;     coursework;     
+      One formative essay 1,000 words
+One summative essay 3,000 words
+1 x unseen examination (3 hours)
+     
+  This module offers students a critical introduction to the theoretical frameworks used in contemporary bioethics. In the first part of the module (weeks 1-3) we will critically discuss how the discipline of bioethics developed historically, introduce students to key questions in metaethics, and examine work in bioethics that applies general moral theories to analyze bioethical problems (&lsquo;applied ethics&rsquo;).
+The core of the module (weeks 3-9) will engage students in a critical analysis of methods and approaches that have been specifically developed in the context of bioethics, such as principlism, casuistry, narrative approaches, and feminist approaches to addressing bioethical issues. The final session of the module (week 10) will examine issues around agenda-setting and the framing of problems in bioethics.
+The course will run over 10 weeks for 3 hours weekly: 1.5 hours of lecture, and 1.5 hour of presentation and discussion of an illustrative case study where appropriate.
+
+  
+    Genomics And Society - Optional
+
+    
+  
+      Teaching staff:  
+Dr Barbara Prainsack
+http://www.kcl.ac.uk/sspp/departments/sshm/people/academic/Dr-Barbara-Prainsack.aspx  
+     Module code:  
+7SSHM609    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Lectures  
+  
+      Assessment:  
+      coursework     
+      1 x 500 word proposal (formative)
+ 1 x 3,000 word essay (100%)
+     
+  This module is designed to familiarise students with core social science perspectives on genomics, as well as with key contributions from the ELSA (ethical, legal, and social aspects of genomics) literature. It will cover research-related, clinical, political, social, economic, and ethical dimensions of genomics. Specifically, the module aims to:
+&bull; Critically explore key contested social science perspectives on research-related, clinical, regulatory, social, economic, and economic dimensions of genomics;
+&bull; Critically illuminate the complex nature of multidisciplinary research on medicine, bioscience and society;
+&bull; Equip students with the analytic and conceptual skills necessary for a critical and productive engagement with literature in both the life sciences and the social sciences at the interface of genomics and society.
+
+  
+    Internship - Optional
+
+    
+  
+      Teaching staff:  
+Dr Carlo Caduff  
+     Module code:  
+7SSHM614    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Full-year     
+   
+    Teaching pattern:  
+9 (indicative) x seminars/tutorials
+115 hours private study/work time (105 hours minimum work placement plus 10 hours report writing)  
+  
+      Assessment:  
+      coursework     
+      1 x 3,000 Word placement report (100%)
+1 x 1,000 Word word (minimum) reflexive journal article (formative only)
+
+     
+  This module aims:
+&bull; To develop students&rsquo; work-related knowledge, skills and capabilities via a pre-approved and monitored internship placement within an approved host organisation, in the UK or abroad.
+&bull; To develop students&rsquo; understanding of business and/or policy environments, organisational structures and working practices relevant to a particular industry sector through work-based learning, reflective learning and field research.
+&bull; To develop students&rsquo; understanding of the knowledge, skills and capabilities needed to support further career development in a particular industry. 
+On successful completion of this module, students will be able to:
+&bull; Critically reflect on the skills, attributes and behaviours required for successful professional conduct in an organisational context.
+&bull; Understand and reflect on the goals, objectives and culture of a specific organisation, through first-hand experience.
+&bull; Make connections between knowledge and skills developed as part of the degree programme, and the skills required to operate effectively in an organisation.
+&bull; Critically assess their personal professional development over the course of the internship, with particular emphasis on i) securing an appropriate internship project; ii) working in the context of the internship project; and iii) understanding how this experience relates to their longer-term career goals.
+
+  
+    Law   Reproduction 1: Assisted Reproduction   the Embryo (half-module) - Optional
+
+    
+  
+      
+     Module code:  
+7FFLG909    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  Half-module
+
+Taught by: Professor Rosamund Scott
+
+This module addresses the law relating to assisted reproduction and the embryo, primarily in England   Wales. You explore the law on assisted reproduction and surrogacy and consider legitimate uses of the embryo beyond the reproductive sphere, studying embryo research / stem cell research / therapeutic cloning. These themes are united by the fact that the latter activities may stem from the embryos created but not used in medically assisted reprodution. You also consider some key underlying ethical issues.
+
+  
+    Law   Reproduction 2: Dilemmas   Choices (half-module) - Optional
+
+    
+  
+      
+     Module code:  
+7FFLG910    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  Half-module
+
+Taught by: Professor Rosamund Scott
+
+This module covers aspects of the law relating to reproduction in England and Wales and in selected other jurisdictions, and some key ethical issues underlying the law. You consider the scope of the legal interest in having a child, or in avoiding reproduction or in deciding about the kind of child one may have. You explore the law relating to abortion, prenatal diagnosis, wrongful birth, preimplantation genetic diagnosis, wrongful life, wrongful conception and the sterilisation of someone who is mentally disabled.
+
+  
+    Pharmaceuticals And Society - Optional
+
+    
+  
+      Teaching staff:  
+Professor John Abraham  
+     Module code:  
+7SSHM612    
+  
+    Credit level:  
+7  
+    Credit value:  
+7  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Lectures  
+  
+      Assessment:  
+      coursework;     presentation/s;     
+      1 x formative presentation
+1 x 3,500 word essay (100%)
+     
+  The module will introduce students to an authoritative and comprehensive analysis of the interaction between pharmaceuticals and society from a range of social science perspectives, including anthropology, bioethics, economics, history, politics and sociology. Specifically, the module aims to:
+&bull; Evaluate key theoretical approaches to the nature of pharmaceutical development, regulation, marketing and consumption
+&bull; Explore the complex nature and interaction of social science and techno-scientific factors explaining the role of pharmaceuticals in society
+&bull; Provide an understanding of the types of evidence that need to be brought to bear on risk-benefit decisions about pharmaceuticals across many institutional contexts and especially the role of social science in illuminating the nature of that evidence
+&bull; Raise awareness of the international nature of the pharmaceutical-society interaction
+&bull; Provide the analytical tools for systematic discussion of the global dimensions of health needs and pharmaceutical provision
+
+  
+    Psychiatry, Culture And Globalization - Optional
+
+    
+  
+      Teaching staff:  
+Professor Nikolas Rose
+http://www.kcl.ac.uk/sspp/departments/sshm/people/academic/Professor-Nikolas-Rose.aspx  
+     Module code:  
+7SSHM608    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Lectures  
+  
+       
+      1 x 2 hour exam (50%)
+1 x 3,000 word essay (50%)
+
+     
+  &bull; This module examines the social organisation of psychiatry as an apparatus for defining and regulating &lsquo;madness&rsquo; - and sanity.
+&bull; We consider contemporary western psychiatric conceptions of mental illness and their critics, and use historical investigations to explore the complex links between psychiatric theories and practices and the emergence of &lsquo;modern&rsquo; societies.
+&bull; We consider the birth of the asylum system in the nineteenth century and its relation to the development of modern, urban and industrial forms of life and cultural norms of conduct.
+&bull; We explore &lsquo;colonial&rsquo; psychiatry, and its role in the management of conduct in the colonies. We examine the transformation of the psychiatric system in the first half of the twentieth century, with the discovery of &lsquo;the neuroses&rsquo; and a &lsquo;psychiatrisation of everyday life&rsquo;.
+&bull; We analyse further major changes in psychiatry over the last twenty five years: the moves towards &lsquo;community psychiatry&rsquo; and the management of risk; the rise of biological explanations and treatments of mental disorder; the transnational spread of psychiatric medications such as tranquillisers and antidepressants.
+&bull; We explore the globalization of psychiatry, considering both the rise of &lsquo;transcultural&rsquo; psychiatry, and the recent scholarship on the spread of &lsquo;western&rsquo; categories and practices to other societies and cultures.
+&bull; Throughout the module, our focus will be on the relations of knowledge, power and expertise in psychiatry in different cultures, upon the ways in which psychiatry has operated as a means of social regulation, and upon the role of psychiatry in the cultural construction of normality and abnormality.
+  
+    Quantitative Data Analysis - Optional
+
+    
+  
+      Teaching staff:  
+Dr Giorgio Di Gessa
+http://www.kcl.ac.uk/sspp/departments/sshm/geront/people/academic/Giorgio-Di-Gessa.aspx  
+     Module code:  
+7SSHM504    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Seminars  
+  
+      Assessment:  
+      coursework     
+      1 x 3,500 word essay (100%)
+     
+  This module aims to provide students with an understanding of statistics in the social sciences and the ability to interrogate a social science dataset statistically using SPSS.
+On completion of this module, students will:
+&bull; Understand the concepts behind basic descriptive and inferential statistics for social science research, and how to interpret these statistics
+&bull; Understand the principles of correlation, t-tests, chi-square and regression in social science research, and how to interpret these tests
+&bull; Demonstrate competence in a basic level of data manipulation using SPSS to prepare social science datasets for statistical analysis
+&bull; Demonstrate competence in the use of statistical software (SPSS) to interrogate social science datasets using descriptive statistics and commonly used statistical tests
+Indicative Reading
+Fielding and Gilbert (2006) Understanding Social Statistics, 2nd Edition SAGE
+Agresti   Finlay (2008) Statistical Methods for the Social Sciences, Fourth Edition Prentice Hall
+Field (2009) Discovering statistics using SPSS , 3rd Edition SAGE
+
+  
+    Researching Vulnerable Populations - Optional
+
+    
+  
+      Teaching staff:  
+Dr Karen Lowton
+http://www.kcl.ac.uk/sspp/departments/sshm/geront/people/academic/lowton.aspx  
+     Module code:  
+7SSHM506    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Lectures  
+  
+      Assessment:  
+      coursework     
+      1 x 3000 word essay (100%)
+     
+  This module aims to provide students with a critical understanding of the ethical approaches and governance of health and social science research, as applied to sensitive issues and vulnerable populations. The module will explore contrasting responses from different interest groups and theoretical standpoints, including the social and behavioural sciences, and public and social policy where appropriate. NB: The module will not cover issues relating to basic clinical research.
+On successful completion of this module, students will be able to demonstrate a critical understanding of:
+1. The fundamental ethical considerations and legal frameworks underpinning health and social science research.
+2. The ethical considerations arising throughout the research process: from initial project concept to research governance and dissemination.
+3. Consent, capability and autonomy in research participation.
+4. The general principles and practices underpinning the interests and protection of vulnerable research participants, including confidentiality and anonymity.
+5. The dilemmas and required responses to &lsquo;wearing two hats&rsquo; of clinician and researcher.
+6. Ethical and practical issues relating to the safety of researchers
+Indicative Reading
+Beauchamp TL, Childress JF. (2001) Principles of Biomedical Ethics, 5th edition. Oxford University Press, Oxford.
+Iphofen R. (2009) Ethical decision making in social research: a practical guide. Palgrave Macmillan, Basingstoke.
+Mauthner M, Birch M, Jessop J, Miller T (eds) (2002) Ethics in Qualitative Research. London, Sage
+
+  
+    Science Policy   Society - Optional
+
+    
+  
+      Teaching staff:  
+Dr Alex Faulkner  
+     Module code:  
+7SSAM134    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      coursework;     presentation/s;     
+      1 x formative seminar presentation
+1 x 5000 word essay (100% if overall mark)
+     
+  This module will enable students to understand key issues in science policy from social science and science and technology (STS) perspectives.   The module explores a series of core themes of science policy and politics, such as agenda setting and the role of professional expertise in science policy.   It also examines some of the most important interfaces between science policy and political cultures; religion, economic innovation, law, research ethics and public engagement, and it pays special attention to topical issues in current science policy making.
+  
+    Science, Technology And Global History - Optional
+
+    
+  
+      Teaching staff:  
+Dr Jahnavi Phalkey  
+     Module code:  
+7YYI0015    
+  
+    Credit level:  
+7  
+    Credit value:  
+20 credits  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+10 x 2-hour weekly seminars  
+  
+      Assessment:  
+      coursework     
+      1 x 4,000 word essay and class participation
+     
+  This course is aimed at thinking broadly about the experiences and meanings of science and technology for the global population during the late nineteenth and twentieth centuries. We will focus on key themes in twentieth century global history: public health, race, global trade, decolonisation, modernisation, the nuclear age, green revolution and population control. We want to understand the normative and moral aspects of the debates and arguments around the "civilizing mission" under European colonialism through "modernization" during the Cold War under the global leadership of the United States and the Soviet Union, and how this transition of world politics was played out globally with respect to science and technology. We will see that interactions between cultures have often been negotiated through practices concerning the control and regulation of territories and populations. The ideas around civilisation and progress that helped legitimate these practices under colonial rule, continued through the period after World War II, providing the foundations for efforts to develop and modernise the emerging decolonised world. Through close attention to ideas and processes (more than on details of specific cases), we will examine the diversity of the historical actors and the context of their interactions.
+
+  
+    The Global Bioeconomy - Optional
+
+    
+  
+      Teaching staff:  
+Dr Stuart Hogarth
+http://www.kcl.ac.uk/sspp/departments/sshm/people/academic/hogarth.aspx  
+     Module code:  
+7SSHM610    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Lectures  
+  
+      Assessment:  
+      coursework     
+      1 x 500 word formative essay
+ 1 x 3,500 word summative essay (100%)
+     
+  This module enables students to understand social science perspectives on the contemporary bioeconomy. Spanning both industrialised nations and the emerging economies of Asia Pacific, it will explore how the biomedical research enterprise is being reshaped by governments and corporations as they search for competitive advantage in an increasingly global bioeconomy.
+The module is interdisciplinary drawing inter alia on science and technology studies, socio-legal studies and political economy. Topics covered will include: the emergence of the idea of a knowledge-based economy, and its function as part of the neoliberal state project (the shift from government to governance); the concept of promissory science and the promotion of biotechnology as a &lsquo;frontier technology&rsquo;; the formation of public policy through processes of multi-level governance at the local, national and transnational levels; the intersection between public policy and commercial strategy, and the changing relationships between governments, corporations and academic scientists; the globalisation of academic research and corporate R D; the role of regulation as a both a response to and a shaper of biotechnologies; the importance of intellectual property rights in the bioeconomy, the legalisation of patents on novel life-based technologies and the globalisation of the IP regime favoured by Western pharmaceutical companies through the TRIPS agreement; and the public health consequences of focusing biomedical R D on emergent biotechnologies
+
+  
+    The Politics Of Disasters And Emergencies - Optional
+
+    
+  
+      Teaching staff:  
+Dr Carlo Caduff
+http://www.kcl.ac.uk/sspp/departments/sshm/people/academic/Dr-Carlo-Caduff.aspx  
+     Module code:  
+7SSHM613    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Lectures  
+  
+      Assessment:  
+      coursework     
+      2 X 500 word reading responses (formative)
+1 x 500 word proposal (10%)
+1 x 2,500 word essay (90%)
+     
+  We seem to live in a world of disasters and emergencies, with one crisis piling on another. In this module we explore the contemporary politics of disasters and emergencies and we examine how critical events garner attention and galvanize social and political action. Rather than take disasters and emergencies as presumably self-evident events for granted, we explore disasters and emergencies as a social imaginary, and that is to say, as a particular way of perceiving the world. This perception is now at the heart of an expanding industry of emergency management and disaster relief. In this module we analyze this global industry, using anthropological, sociological, and historical approaches. How have disasters and emergencies contributed to the rethinking and reshaping of what political action means today? How has the temporality of emergency affected the perception of social and political problems?
+Aims
+&#61607; To describe the key actors and institutions as well as discourses and practices that seek to address contemporary health crises.
+&#61607; To introduce students to the key concepts and debates in anthropological, sociological, and historical studies of disasters and emergencies.
+&#61607; To give students the abilities to analyze emergency relief and disaster prevention from a critical point of view.
+&#61607; To provide students with an understanding of the relationship between social, cultural, political, and economic factors that shape the perception of disasters and emergencies.
+&#61607; To provide students with the skills to critically evaluate humanitarian interventions and to identify the role of key stakeholders in shaping them.
+
+  
+    War, Memory   Mental Health - Optional
+
+    
+  
+      Teaching staff:  
+Dr. Hanna Kienzler
+http://www.kcl.ac.uk/sspp/departments/sshm/people/academic/Dr-Hanna-Kienzler.aspx
+Dr. Orkideh Behrouzan
+http://www.kcl.ac.uk/sspp/departments/sshm/people/academic/Dr-Orkideh-Behrouzan.aspx  
+     Module code:  
+7SSHM611    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Lectures  
+  
+      Assessment:  
+      coursework     
+      1 x 1,500 word essay (40%)
+1 x 2,000 word essay (60%)
+     
+  This module examines the phenomenon of war related violence, destruction, distress, and trauma-related health problems, health-seeking and healing practices. We will follow and discuss the debates of researchers who have tried to determine and verify the effects of violent conflict on the mental health of those affected by focusing on concepts like war trauma, posttraumatic stress disorder (PTSD), social suffering, and idioms of distress. We will problematize conventional and universal understandings of trauma, and disease-centered approaches to traumatic experience and health interventions.
+Class sessions will involve lectures, guest lectures, student presentations, discussions, film screenings, and review activities. To involve students in their own learning, make seminar topics come alive, to deepen students&rsquo; knowledge of a topic, and to develop particular skills, questions which stimulate critical thinking, annotated suggestions for further readings, and lists of related websites will be provided.
+Aims
+&bull; To introduce students to key concepts and debates around war trauma and relevant interventions.
+&bull; To approach mental health and wars from an interdisciplinary angle by reviewing the publications of work in the fields of medicine, public health, psychiatry, anthropology, sociology, history and philosophy.
+&bull; To develop an understanding of theories of and approaches related to the key concepts related to war, mental health and healing.
+&bull; To synthesise, compare, and critically discuss key concepts, academic debates, research approaches and relevant ethnographic studies.

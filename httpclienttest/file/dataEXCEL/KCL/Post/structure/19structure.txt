@@ -1,0 +1,27 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Individual Project
+Principles of Management
+Advanced Software Engineering
+Project Management
+Software Design and Architecture
+Group Project
+     
+   Indicative non-core content
+   Operations Management
+Database Technology
+Data Structures   their implementation in C++
+The Internet
+Parallel and Distributed Algorithms
+Distributed Systems
+Agents and Multi-Agent Systems
+Computational Models
+Software Engineering of Internet Applications
+Access Control   Privacy Policies
+Optimisation Methods
+Text Searching and Processing
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures; tutorials; seminars; laboratory sessions; optional career planning workshops. Assessed through: coursework; written examinations; final project report.

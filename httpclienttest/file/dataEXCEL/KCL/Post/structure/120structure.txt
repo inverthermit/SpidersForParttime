@@ -1,0 +1,394 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Individual engineering project.
+
+     
+   Indicative non-core content
+   Operations Management
+Principles of Management
+Project Management.
+
+Six  modules from the following:
+Communication Theory
+Compression Methods for Multimedia
+Digital Communications
+Fundamentals of Digital Signal Processing
+Mobile and Personal Communications
+Pattern Recognition
+Random Variables and Stochastic Processes
+Telecommunication Networks I.
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures; tutorials, seminars. 
+Assessed through: coursework, written examinations, and final project report.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Individual Project - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7CEEM406    
+  
+    Credit level:  
+7  
+    Credit value:  
+60    
+    
+      
+   
+    
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+    
+     
+  The aim of this course is to learn by individual experience through theoretical and practical work to achieve a specific objective within a fixed time independently; to combine the learned academic knowledge and to effectively use this knowledge for the work to be carried out in design, experiment, modelling and analysis; to develop skills in project planning and management; and to be trained in the skills of a practising engineer and a scientist.
+Specific objectives are determined and recorded in the project plan after discussion with the Supervisor.
+Syllabus
+A project is normally selected in the first semester.
+A 'project plan' should be agreed with the supervisor and discussed with the second marker. This should be prepared by the student by the first two weeks of the second semester and presented on an A4 page, submitting the aims and objectives of the project and a brief outline of the work programme.
+The student will submit a project report, give an oral presentation and attend an oral examination.
+
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Communications Theory - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMCTH    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  Aims
+To introduce the basic concepts behind the advanced digital communications systems, including widely used equalisers, multi-carrier transceivers for data transmission channels with moderate/severe Inter-Symbol Interference (ISI).
+Learning outcomes
+At the end of the module students should:
+understand the ISI channel, the capacity, the gap, coloured noise and the receiver concept;be able to analyse and design the Zero Forcing Equaliser (ZFE), the Minimum Mean Square Error Linear Equaliser (MMSE LE) and the MMSE/ZF Decision-Feedback Equalizers (MMSE DFE, ZF-DFE);be able to compare the performance of these equalisers and understand their advantages/disadvantages and their applications in practical communication systems;understand and appreciate the importance of diversity in communication, especially, in wireless communications; be able to analyse the diversity of channels; understand the PAKE;understand the principles of multi-carrier transmission, in particular, Orthogonal Frequency Division Multiplexing (OFDM) and Discrete Multi-Tone (DMT) communication systems, and optimal Multi-Input-Output (MIMO) channel partitioning;understand and appreciate the application of multi-carrier transmission in widely used communication systems such as 802.11a, Wireless LAN standard, digital terrestrial television broadcast generally known as Digital Video Broadcast (DVB) and broadband internet delivery using Asymmetric Digital Subscriber Line (ADSL):appreciate the multi-carrier structure for being ideal to be optimised by water filling to achieve high transmissions data rates.
+Syllabus
+Equalisation: A brief review of fundamental concepts of digital communications; the ISI channel; correlated Gaussian noise; gap analysis and capacity; receiver concept; D-transform; basic zero-forcing equalisers (ZFE); minimum mean square error (MMSE) linear equalisers (MMSE-LE); bias concept in MMSE approach; MMSE decision feedback equalisers (MMSE-DFE); zero-forcing decision feedback equalisers (ZF-DFE); spectral (canonical) factorisation; performance comparison of different equalisers; diversity channels and the RAKE.
+Multi-carrier transmission: introduction and the basic concepts; aggregate and geometric SNR; matrix channel (MIMO) model and partitioning; modal modulation and channel modes; singular value decomposition; OFDM channel partitioning; cyclic prefix; OFDM digital transceiver; practical examples such as (time permitting): ADSL, WLAN, DVB, WiMAX.
+
+  
+    Digital Communications - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMDCO    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  Aims
+To provide a deep understanding of digital transmission techniques, emphasising important concepts and features of digital radio systems.
+Learning outcomes
+At the end of the modules students should
+understand various detection techniques for base-bans signals;understand various digital modulation techniques;be familiar with filtering requirements of radio systems;be able to evaluate the performance of various radio systems;be able to write link budgets for different radio systems;have an awareness of the existing forward error control codes such as block codes and convolutional codes as well as the ability to draw the state diagram, the trellis diagram, and the encoder structure for a given code;understand the different decoding algorithms such as the Viterbi algorithm.
+Provisional Syllabus
+Scrambling/descrambling; multiplexing techniques; Additive White Gaussian Noise, AWGN; detection for baseband digital signals corrupted by AWGN; eye diagram and inter symbol interference ISI; bit error rate performance of baseband digital signals in presence of noise and ISI; description of M-ary digital modulation systems (PSK, MSK, QAM); symbol performance in the presence of AWGN and ISI and co-channel interference (CCI); power spectral analyses; bandwidth requirement and timing recovery circuits; reliability objectives; system gain; fade margin requirements for a specific system availability; design guidelines; transparent and regenerative transponders; single channel per carrier systems (SCPC); frequency division multiple access FDMA; time division multiple access TDMA; link budget, error control coding schemes; linear systematic codes; block codes; cyclic codes; convolutional codes; turbo codes; decoding techniques.
+
+  
+    Fundamentals Of Digital Signal Processing - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMDSP    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  Aims
+To introduce the fundamentals of digital signal processing, including the basics of analogue-to-digital and digital-to-analogue conversion, digital filters, digital spectral analysis and digital multirate signal processing.
+Learning outcomes
+At the end of the module students should
+understand the implications of the sampling theorem and the consequences of aliasing and quantisation distortion;
+appreciate the importance of the z-transform and its properties; and the impulse response and transfer function of a digital filter
+have familiarity with ideal filter approximation functions;
+be able to design digital filters to meet prescribed specifications;
+be proficient in the use of the discrete Fourier transform (DFT) and its fast form (FFT) to perform signal analysis, and be conscious of spectral leakage and smearing effects;
+have an appreciation of the building blocks of digital multirate signal processing, decimators and interpolators, and their practical application in filter realization and sample-rate conversion.
+Provisional Syllabus
+Characterization and classification of digital signals; digital processing of continuous-time signals: sampling, aliasing and reconstruction; the z-transform, regions of convergence, inverse and properties; linear time invariant (LTI) discrete-time systems, input/output convolution, impulse response sequence and transfer function based upon the discrete-time Fourier transform (DTFT), poles and zeros, magnitude and phase characteristics; methods for digital filter design; spectral analysis with the DFT and FFT; digital multirate signal processing, decimation and interpolation.
+
+  
+    Mobile And Personal Communications - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMMPC    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s     
+    
+     
+  Aims
+The aim of this module is provide the students with a comprehensive knowledge of all technical aspects, operations and applications of second generation and third generation cellular mobile systems. Part I of the course deals with the concept of cellular systems and the basic design of analogue cellular systems. Part III is concerned with system and application aspects of second generation (GSM GPRS) and third generation cellular mobile system (UMTS).
+Learning outcomes
+At the end of the course students should:
+understand basic elements of a mobile network;understand operation of cellular mobile systems;have familiarity with second generation systems;be able to understand the techniques used in third generation systems;be able to plan and optimise cellular networkshave an awareness of services and applications.
+Syllabus
+Principle of cellular mobile systems, cellular network planning, link budget, sectorisation, cell splitting, operation of analogue systems, all aspects of GSM and GPRS from physical to network layer, introduction to UMTS, UMTS terrestrial radio access network, protocol and functions of UMTS, UMTS core networks, services and applications, WCDMA planning and optimisation, introduction to fixed and mobile WiMAX, and description of their technical aspects, introduction and technical description of Long Term Evolution (LTE)
+
+  
+    Operations Management - Optional
+
+    
+  
+      
+     Module code:  
+7CEM2435    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  The aim of this course is to examine the role and the increasing importance of operations; understand the strategic impact of operations and the various approaches to operations strategy; understand the importance of computers and emerging technologies in operations; obtain a solid foundation on operations and process management and appreciate strategies available for process design and planning of operation systems; become familiar with the concepts of lean operations and JIT, supply chain management, ERP, MRP and OPT; and become aware of the use of discrete event simulation in the design of operations systems.
+At the end of the course students should:
+appreciate the importance of operations and operations strategy;
+have an understanding of the operations performance objectives, the various approaches to operations strategy and strategy formulation;
+become familiar with the key issues in the design of operations (such as process design and analysis) and in the management of operations (such as planning and control, lean production, supply chain management);
+be aware of the use of quantitative techniques and simulation for studying operations and be able to apply these in order to design a new or analyse an existing process;
+be aware of the opportunities and challenges in the management of operations;
+reflect critically on these through case studies.
+Syllabus
+Operations and Processes
+Operations Strategy 
+Supply network and process design Lean synchronisation Just in Time (JIT) Materials Requirements Planning (MRP) and Enterprise Resource Planning (ERP) Optimised Production Technology (OPT)Discrete event simulation
+
+  
+    Pattern Recognition - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMPNN    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  The aim of this course is to introduce both statistical and neural network theory and approaches for solving pattern recognition problems. Further, to consolidate lectures with MATLAB-based computer assignments.
+At the end of the course students should:
+be familiar with Bayesian decision theory;
+be familiar with parametric density estimation;
+be familiar with nonparametric density estimation;
+be familiar with linear discriminant functions;
+be familiar with perceptrons;
+be familiar with Winner-take-all groups;
+be familiar with multi-layer perceptrons;
+be familiar with feature selection and extraction techniques;
+be familiar with clustering techniques.
+Syllabus
+Introduction to pattern recognition
+Bayesian decision theory
+Parametric density estimation
+Nonparametric density estimation
+Linear discriminant functions
+Perceptrons
+Winner-take-all groups
+Multi-layer perceptrons
+Feature selection and extraction techniques
+Clustering technique
+
+  
+    Project Management - Optional
+
+    
+  
+      
+     Module code:  
+7CEM2403    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  To introduce the students to the world of project management, including techniques to evaluate, organise, plan and monitor projects.
+  
+    Random Variables And Stochastic Processes - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMRVA    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  Aims
+To familiarise students with the fundamentals of probability theory and random variables, and to help them appreciate and understand the application of this important mathematical tool to more advanced topics related to continuous and discrete-time random processes and filtering.
+Learning outcomes
+At the end of the module students should be able to
+identify and formulate fundamental probability distribution and density functions, as well as functions of random variables
+explain the concepts of expectation and conditional expectation, and describe their properties
+understand and analyze continuous and discrete-time random processes
+explain the concepts of stationarity and wide-sense stationarity, and appreciate their significance
+employ the theory of stochastic processes to analyse linear systems
+apply the above knowledge to solve basic problems in filtering, prediction and smoothing
+Provisional Syllabus
+Review of probability theory: Conditional probability and independence, random variables, probability distribution and density, function of random variables, expectation, independence, conditional expectation and its properties.
+Random processes: Continuous and discrete-time random processes, correlation function and power spectrum, Gaussian and Poisson processes, continuity of random processes, differentiation and integration, stationarity and wide-sense stationarity, white noise, ergodicity.
+Systems with stochastic inputs: Transfer functions, response of linear systems to Gaussian inputs, input-output relationships, power spectral density of the output process.
+Mean square estimation: Filtering, prediction, and smoothing.
+
+  
+    Telecommunications Networks I - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMTN1    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  Aims
+The aim of the module is to provide an introduction to the principles of telecommunication networks architectures, the the technical vocabulary of telecommunications networks; technical problems in telecommunications networks: analysis and solutions. The module will serve as a basis for further advance topics in telecommunication networks and the Internet.
+Learning outcomes
+This module provides background in the area of computer and telecommunication networking by introducing the concept of standards and layering and going through the layered architecture of the TCP/IP protocol stack and studying in details the operations of example protocols at each layer.
+Syllabus
+Network protocols: architectures, standards, and the TCP/IP protocol stack.
+Physical layer: digital encoding and decoding techniques, transmission media.
+Data link layer: synchronisation, flow control, error control, HDLC.
+Local area networks (LANs): Aloha, S-Aloha, CSMA protocols, Ethernet, token ring, FDDI, wireless LANs, connecting devices (bridges and repeaters).
+Wide area networks: circuit switching and packet switching, X.25.
+Routing in packet switching networks: routing requirements and criteria, Dijkastra and Bellman Ford algorithms.
+Network layer: IPv4 operation including addressing and fragmentation, IPv6.
+Transport protocols: UDP, TCP including congestion control.

@@ -1,0 +1,299 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Individual Project.
+     
+   Indicative non-core content
+   Any two modules from the following:
+Digital Communication
+Mobile and Personal Communications
+Network Theory
+Optical Communications
+Random Variables and Stochastic Processing
+Telecommunications Networks I
+Telecommunications Networks II.
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Two modules assessed by written examinations. The modules may contain an obligatory coursework component. Assessment of written final research project (i.e. Research Thesis).
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+    
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Digital Communications - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMDCO    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  Aims
+To provide a deep understanding of digital transmission techniques, emphasising important concepts and features of digital radio systems.
+Learning outcomes
+At the end of the modules students should
+understand various detection techniques for base-bans signals;understand various digital modulation techniques;be familiar with filtering requirements of radio systems;be able to evaluate the performance of various radio systems;be able to write link budgets for different radio systems;have an awareness of the existing forward error control codes such as block codes and convolutional codes as well as the ability to draw the state diagram, the trellis diagram, and the encoder structure for a given code;understand the different decoding algorithms such as the Viterbi algorithm.
+Provisional Syllabus
+Scrambling/descrambling; multiplexing techniques; Additive White Gaussian Noise, AWGN; detection for baseband digital signals corrupted by AWGN; eye diagram and inter symbol interference ISI; bit error rate performance of baseband digital signals in presence of noise and ISI; description of M-ary digital modulation systems (PSK, MSK, QAM); symbol performance in the presence of AWGN and ISI and co-channel interference (CCI); power spectral analyses; bandwidth requirement and timing recovery circuits; reliability objectives; system gain; fade margin requirements for a specific system availability; design guidelines; transparent and regenerative transponders; single channel per carrier systems (SCPC); frequency division multiple access FDMA; time division multiple access TDMA; link budget, error control coding schemes; linear systematic codes; block codes; cyclic codes; convolutional codes; turbo codes; decoding techniques.
+
+  
+    Mobile And Personal Communications - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMMPC    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s     
+    
+     
+  Aims
+The aim of this module is provide the students with a comprehensive knowledge of all technical aspects, operations and applications of second generation and third generation cellular mobile systems. Part I of the course deals with the concept of cellular systems and the basic design of analogue cellular systems. Part III is concerned with system and application aspects of second generation (GSM GPRS) and third generation cellular mobile system (UMTS).
+Learning outcomes
+At the end of the course students should:
+understand basic elements of a mobile network;understand operation of cellular mobile systems;have familiarity with second generation systems;be able to understand the techniques used in third generation systems;be able to plan and optimise cellular networkshave an awareness of services and applications.
+Syllabus
+Principle of cellular mobile systems, cellular network planning, link budget, sectorisation, cell splitting, operation of analogue systems, all aspects of GSM and GPRS from physical to network layer, introduction to UMTS, UMTS terrestrial radio access network, protocol and functions of UMTS, UMTS core networks, services and applications, WCDMA planning and optimisation, introduction to fixed and mobile WiMAX, and description of their technical aspects, introduction and technical description of Long Term Evolution (LTE)
+
+  
+    Network Theory - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMNTH    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  Aims
+The aim of this module is to provide students comprehensive knowledge of different mathematical techniques that are used in modelling and performance analysis of the computer and communication networks.
+Learning outcomes
+This module will cover three topics that are relevant for researchers in the area of communication networking: Graph theory, Optimisation, and Queuing theory. All topics will be discussed along with their applications in networking. The depth of coverage will be sufficient to allow students to read and understand papers that use these standard techniques. Ideas will be taught through intuition, mathematically correct formalisation, and detailed numerical examples. Students are expected to have an undergraduate level knowledge of calculus and linear algebra.
+Syllabus
+Network properties: Introduction to Graph theory. random graphs, complex Networks.Web and Social Networks: small-world phenomena, cascading behaviour, user evaluation in social networks.Network Modelling: Introduction to Queuing theory, Markov Chains, Queuing Networks.Network Optimisation: Shortest path algorithms, Spanning Tree, Linear programming. heuristics
+
+  
+    Optical Communications - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMOPC    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  Aims
+To introduce various discrete optimization problems, efficient algorithms for solving these problems, and general algorithmic techniques, which can be applied to a wide range of optimization problems. The emphasis is put on network optimization problems and on general optimization techniques. To discuss applications of optimization problems in communication systems, computer networks, manufacturing, scheduling, and resource allocation.
+Learning outcomes
+Students who successfully complete this module will be able to express computational problems from various application areas as (discrete) optimization problems; will be familiar with commonly used algorithms and main algorithmic techniques for optimization problems; will understand the principles underpinning the discussed algorithms; will be able to select an appropriate algorithm for a given optimization problem or to develop a new algorithm based on a general algorithmic technique; will be able to analyse the running time of the developed algorithmic solutions.
+Syllabus
+Single-source shortest-paths problem:
+Dijkstra's algorithm
+The Bellman-Ford algorithm
+Shortest paths in directed acyclic graphs
+All-pairs shortest paths:
+Johnson's algorithm
+Network flow problems:
+Maximum flows, Minimum-cost flows and Multicommodity flows, and their
+applications
+Maximum matching problem and its applications to resource allocation problems
+The Ford-Fulkerson method for the maximum-flow problem
+The Successive-shortest-paths algorithm for the minimum-cost flow problem
+Linear programming (LP):
+Basic properties of LP problems
+LP formulation of network flow problems
+Integer programming
+Computationally hard optimization problems:
+Polynomial-time problems and NP problems
+NP-hard optimization problems
+Optimization techniques for NP-hard problems:
+Branch-and-bound method for finding exact solutions
+Simulated annealing
+Genetic algorithms
+
+  
+    Random Variables And Stochastic Processes - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMRVA    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  Aims
+To familiarise students with the fundamentals of probability theory and random variables, and to help them appreciate and understand the application of this important mathematical tool to more advanced topics related to continuous and discrete-time random processes and filtering.
+Learning outcomes
+At the end of the module students should be able to
+identify and formulate fundamental probability distribution and density functions, as well as functions of random variables
+explain the concepts of expectation and conditional expectation, and describe their properties
+understand and analyze continuous and discrete-time random processes
+explain the concepts of stationarity and wide-sense stationarity, and appreciate their significance
+employ the theory of stochastic processes to analyse linear systems
+apply the above knowledge to solve basic problems in filtering, prediction and smoothing
+Provisional Syllabus
+Review of probability theory: Conditional probability and independence, random variables, probability distribution and density, function of random variables, expectation, independence, conditional expectation and its properties.
+Random processes: Continuous and discrete-time random processes, correlation function and power spectrum, Gaussian and Poisson processes, continuity of random processes, differentiation and integration, stationarity and wide-sense stationarity, white noise, ergodicity.
+Systems with stochastic inputs: Transfer functions, response of linear systems to Gaussian inputs, input-output relationships, power spectral density of the output process.
+Mean square estimation: Filtering, prediction, and smoothing.
+
+  
+    Telecommunications Networks I - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMTN1    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  Aims
+The aim of the module is to provide an introduction to the principles of telecommunication networks architectures, the the technical vocabulary of telecommunications networks; technical problems in telecommunications networks: analysis and solutions. The module will serve as a basis for further advance topics in telecommunication networks and the Internet.
+Learning outcomes
+This module provides background in the area of computer and telecommunication networking by introducing the concept of standards and layering and going through the layered architecture of the TCP/IP protocol stack and studying in details the operations of example protocols at each layer.
+Syllabus
+Network protocols: architectures, standards, and the TCP/IP protocol stack.
+Physical layer: digital encoding and decoding techniques, transmission media.
+Data link layer: synchronisation, flow control, error control, HDLC.
+Local area networks (LANs): Aloha, S-Aloha, CSMA protocols, Ethernet, token ring, FDDI, wireless LANs, connecting devices (bridges and repeaters).
+Wide area networks: circuit switching and packet switching, X.25.
+Routing in packet switching networks: routing requirements and criteria, Dijkastra and Bellman Ford algorithms.
+Network layer: IPv4 operation including addressing and fragmentation, IPv6.
+Transport protocols: UDP, TCP including congestion control.
+
+  
+    Telecommunications Networks II - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMTN2    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  Aims
+The aim of the module is to provide comprehensive knowledge of different architectural and technical aspects of current and future interworking pure IP-based networks. The course will reflect state-of-the-art efforts towards the Wireless Internet (r)evolution, which is the current driver of research efforts in both academia and R D sectors in industry.
+Learning outcomes
+This course provides a background in the area of computer and communications networking (focusing on wireless networks). The course covers MAC, IP and transport layer issues for IP-based networks, along with in depth theoretical analysis and practical aspects of networking.
+Syllabus
+MAC Protocols: Random Access and Contention techniques, MAC protocols for LANs, ALOHA and Slotted ALOHA, CSMA systems, including non-persistent, p-persistent CSMA/CD, the IEEE 802 protocols, Ethernet, token bus and token ring systems, FDDI;
+Routing Algorithms: Routing Objectives and Algorithms in packet switched networks, Routing methodology in ARPANET, LAN Architectures;
+Internet Architecture&ndash;TCP: A brief history of the Internet, the Internet backbone, the Internet Protocol, IPv4 Datagram, Fragmentation and Re-assembly, Classful IP Addressing, Subnetting, DNS, Internet Routing - BGP, RIP, OSPF; IPv6-IPv6 and IPv4 Interoperation; TCP Mechanisms (Slow Start, Congestion Avoidance, Fast Retransmit, Fast Recovery);
+TCP over Wireless Networks: TCP variants and analysis of their performance over wireless network;
+Mobile IP and QoS Architectures for the Internet: Solutions for Macro-Mobility; Integrated Services, Differentiated Services;
+Network Simulators

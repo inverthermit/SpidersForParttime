@@ -1,0 +1,150 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Introduction to Neuroimaging
+Neuroimaging Acquisition   Analysis
+Applications of Neuroimaging
+Practical Neuroimaging
+Neuroimaging Research Project (3 1/2 months)
+
+     
+   
+   FORMAT AND ASSESSMENT
+  The first three modules, "Introduction to Neuroimaging", "Neuroimaging Acquisition and Analysis" and "Applications of Neuroimaging", are each assessed by a written examination and a coursework essay.
+The fourth module, "Practical Neuroimaging", is assessed by an examination designed to test the candidate's skill in abstract writing and by an oral presentation associated to a mini Neuroimaging project and to its report.
+In the first four modules, students' practical skills are also evaluated through computer-lab assessments.
+The fifth module "Neuroimaging Research Project" is assessed by a research report, a lab book and a poster presentation.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Applications of Neuorimaging - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PASNAPP    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module will focus on examining the applications of neuroimaging mainly, but not exclusively, in the rich and varied clinical population studied locally. The lectures will be given by expert scientists and clinicians in each of the disease themes, most of them working at or in close collaboration with the Institute of Psychiatry. Psychology, psychiatry, neurology, neuroscience and beyond will be covered. In addition to these lectures, other non-clinical applications of neuroimaging will be looked at, from brain development (including foetal and baby imaging) to hypnosis, neurofeedback, pre-clinical imaging, pharmacological MRI, and neuromarketing.
+  
+    Dissertation/Project - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PASNRES    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The dissertation/project will be carried out at the Institute of Psychiatry and will be tailored to the students&rsquo; interests and career aspirations. Methodological development, image analysis or applications of neuroimaging to clinical or normal populations will be possible. Previous students have worked on machine learning analysis techniques, and applications of structural, functional, diffusion and spectroscopy measures to motor neurone disease, schizophrenia, Parkinson&rsquo;s disease and autism for example.
+
+  
+    Introduction to Neuroimaging - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PASNITN    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module will provide students with a solid grounding in the foundations of neuroimaging acquisition and analysis, as well as research methods. The general principles of neuroimaging will be introduced, including mathematics, statistics, physics, and computing, as well as the basis of neuroanatomy and physiology. Building on these foundations, the students will then have introductions to the main neuroimaging technologies and their overall research and clinical usages. Finally, this module will focus on research methods, including data protection and ethical issues, study design, abstract/paper writing and critiquing.
+  
+    Neuroimaging Acquisition and Analysis - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PASNNAA    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module will describe in further detail how the broad range of neuroimaging techniques work and how the data they produce are analysed. The physics and technologies behind each of the main neuroimaging modalities will be covered as well as their associated day-to-day implementation. The students will also learn about the various types of data acquired, how to analyse them, and how to interpret the final results.
+  
+    Practical Neuroimaging - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PASNPRA    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module aims to bring the students at the heart of neuroimaging research by immersing them in the working life of all those involved in neuroimaging work. Students will look at the practical aspects of neuroimaging from study design and data acquisition, through to data analysis, interpretation and write up. Students will be involved in one of more than 50 ongoing studies within the Centre for Neuroimaging Sciences, will have access to a new MRI scanner with dedicated teaching time, a mock scanner for training, high performance computing for analysis, and they will attend the regular research and clinical seminar series at the IoP.

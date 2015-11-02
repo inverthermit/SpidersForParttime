@@ -39,6 +39,10 @@ public class KclPostData {
 	 * @param args
 	 */
 	/*
+	 * 
+	 * 
+	 * 
+	 * EXCEL:=VLOOKUP(C2,Sheet2!A:O,15,TRUE)
 	index/ structure/ entryrequirements/ 
 	
 	Fees http://www.kcl.ac.uk/study/ug/funding/fees/index.aspx
@@ -59,7 +63,7 @@ public class KclPostData {
 	
 	Entry: div id=leftcolumn_col2
 	
-	IELTS:http://www.kcl.ac.uk/study/ug/admissions/language/english.aspx
+	IELTS:http://www.kcl.ac.uk/study/pg/admissions/requirements/language.aspx
 	
 	Tuition fees 2016-17
 
@@ -243,11 +247,28 @@ MPharm: £19,000
 			    {
 			    	result.put("Month of Entry", "");
 			    }
-			    
+			  //**********************************get length**********************
+		        //<div class="pgt_content_subheading">Duration</div>\r\n[\s\S ]*<div class="pgt_tabbed_content">([\s\S]*)</div>
+		    	//Pattern p = Pattern.compile("<div class=\"ug_content_subheading\">Duration</div>\\r\\n[\\s\\S ]*<div class=\"ug_tabbed_content\">(.)+</div>");
+			    Pattern p = Pattern.compile("<div.*[dD]uration.*>[\\s]*<div.*>");
+		    	
+			    Matcher m = p.matcher(htmls);
+		    	
+		    	 if(m.find())
+		    	 {
+		    		 //System.out.println(m.group());
+		    		 String length="";
+		    		 if(m.group().contains("ug_tabbed_content"))
+		    	 	length=(m.group().split("ug_tabbed_content\">")[1].replace("</div>", "")).trim(); 
+		    		 else if(m.group().contains("pgt_tabbed_content"))
+				    	 	length=(m.group().split("pgt_tabbed_content\">")[1].replace("</div>", "")).trim(); 
+		    	 	//System.out.println(length);
+		    	 	result.put("Length (months)",length);
+		    	 }
 			    //**************************get school & faculty**********************
 			    parser=Parser.createParser(htmls, "utf-8");
 			    AndFilter SchoolFilter=new AndFilter(new TagNameFilter("div"),
-		                new HasAttributeFilter("class","ug_tabbed_content"));
+		                new HasAttributeFilter("class","pgt_tabbed_content"));
 		        NodeList nodes3 = parser.extractAllNodesThatMatch(SchoolFilter);
 		        if(nodes3.size()>0)
 		        {
@@ -258,11 +279,6 @@ MPharm: £19,000
 		        			String school=HTMLFilter(html2Str(nodes3.elementAt(i).toHtml()).trim());
 				        	//System.out.println("School:"+school.replaceAll("\r\n", " "));
 				        	result.put("School",school.replaceAll("\r\n", " "));
-		        		}
-		        		else if(nodes3.elementAt(i).toHtml().contains("years"))
-		        		{
-		        			//System.out.println("Length:"+HTMLFilter(html2Str(nodes3.elementAt(i).toHtml()).replaceAll("\r\n", " ").trim()));
-		        			result.put("Length (months)",HTMLFilter(html2Str(nodes3.elementAt(i).toHtml()).replaceAll("\r\n", " ").trim()));
 		        		}
 		        	}
 		        	

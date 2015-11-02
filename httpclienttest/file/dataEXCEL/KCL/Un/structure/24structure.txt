@@ -1,0 +1,81 @@
+Currently, our students study the modules shown below. However we review our modules on a regular basis, in order to continue to offer innovative and exciting programmes and this list is therefore subject to change. Please check here for updates, or contact the School/department direct for further advice.   
+  
+     
+    YEAR 1
+  Eight core modules. 
+     
+   
+  YEAR 1 CORE
+   Data Structures (15 credits)
+Programming Practice (15 credits)
+Elementary Logic  with  Applications  (15 credits)
+Programming Applications (15 credits)
+Computer Systems I (15 credits)
+Foundations of Computing I (15 credits)
+Introduction to Artificial Intelligence  (15 credits)
+Practical Experiences of Programming  (15 credits)   
+    
+  
+    
+  
+   
+   
+   
+   
+  
+     
+  
+    
+    YEAR 2
+   Eight core modules. 
+   
+   
+  YEAR 2 CORE
+  
+   Database Systems (15 credits)
+Operating Systems   Concurrency (15 credits)
+Foundations of Computing II (15 credits)
+Programming Language Design Paradigms (15 credits)
+Computer Science Logic (15 credits)
+Object-oriented Specification   Design (15 credits)
+Software Engineering Group Project (30 credits)   
+      
+  
+  
+  
+ 
+ 
+  
+   
+   
+   
+   
+   
+   
+   YEAR 3
+   Spent at an approved overseas university (30 credits). 
+     
+     
+   
+   
+     
+      YEAR 4
+   One core individual project and six optional modules.   
+      
+  YEAR 4 CORE
+   Individual Project (30 credits)   
+     
+  YEAR 4 OPTIONS
+   Internet Systems
+Software Measurement   Testing
+Parallel Algorithms
+Distributed Systems
+Computational Models
+Software Architecture   Design
+Software Engineering of Internet Applications
+Computer Graphics Systems
+Cryptography and Information Security
+Artificial Intelligence
+Advanced Security Topics
+Optimisation Methods
+Text Searching   Processing

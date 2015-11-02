@@ -1,0 +1,38 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Individual Project
+Project Management
+Operations Management
+Principles of Management
+In addition, students must take at least 30 credits from the following modules:
+Multimedia Compression Methods and Systems
+Parallel   Distributed Algorithms
+Algorithm Design   Analysis
+Computational Models
+Optimisation Methods
+Text Searching   Processing
+Web Algorithms
+     
+   Indicative non-core content
+   Students take upm to 45 credits from the options below or any remaining options from the list above:
+Computer Vision
+Pattern Recognition
+Database Technology
+Data Structures   Implementation 
+Distributed Systems
+Artificial Intelligence
+Software Engineering of Internet Applications
+Biologically Inspire Methods
+Advanced Software Engineering
+Software Design   Architecture
+Agents   Multi-Agent Systems
+Access Control   Privacy Policies
+Advanced Research Topics
+Cryptography   Information Security
+The Internet
+Group Project
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures; tutorials; seminars; laboratory sessions; optional career planning workshops. Assessed through: coursework; written examinations; final project report.

@@ -1,0 +1,27 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   In addition to the modules below, each student completes an individual project.
+     
+   Indicative non-core content
+   Students study the following compulsory modules:
+Probability Theory: provides the rigorous mathematical foundation for all areas of quantitative finance.
+Stochastic Analysis: the mathematical study of random dynamical behaviour over time
+Risk Neutral Valuation: the basic methodology behind derivative pricing and hedging
+Interest Rate and Foreign Exchange Dynamics: applications of quantitative finance techniques to more complex financial products.
+In addition students choose four optional modules chosen from topics such as:
+Credit Risk Management
+Financial Markets
+Numerical and Computational Methods in Finance
+Incomplete Markets
+Risk in Finance
+Statistics in Finance
+Exotic Derivatives
+C++ for Financial Mathematics
+More details about the course structure and individual modules can be found in the handbook [http://www.kcl.ac.uk/nms/depts/mathematics/study/current/handbook/progs/pg/mscfinancialmathematics.aspx
+]
+  
+     
+   
+   FORMAT AND ASSESSMENT
+  At least eight taught modules assessed by written examinations and one individual project. Two prizes are normally awarded each year for best overall performance in the MSc in Financial Mathematics.

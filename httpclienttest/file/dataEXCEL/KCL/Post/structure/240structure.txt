@@ -1,0 +1,709 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Introduction to Medical Imaging Sciences
+Research Skills
+Research Project 1 (Group project)
+Research Project 2 (Individual project)
+
+     
+   Indicative non-core content
+   
+Modules of the M.Res. in Medical Imaging Sciences
+Cardiovascular Imaging 1 (15 credits)
+Cardiovascular Imaging 4 (15 credits)
+Physics   Mathematics of Radionuclide Imaging (15 credits)
+Medical Imaging Acquisition (15 credits)
+Medical Image Reconstruction (15 credits)
+Medical Imaging Chemistry 1 (15 credits)
+Imaging Chemistry 2 (15 credits)
+Medical Imaging Biology 1 (15 credits)
+Imaging Biology 2 (15 credits)
+Medical Image Computing (15 credits)
+Computational Modelling (15 credits)
+Perinatal Imaging Science (15 credits)
+Machine Learning (15 credits)
+
+Modules of the M.Sc. in Radiopharmaceutics   PET Radiochemistry
+Cyclotron Engineering   Nuclear Chemistry (30 credits)
+
+Modules of the M.Sc. in Nuclear Medicine: Science   Practice
+Radiopharmaceutical   Regulatory Issues in Nuclear Medicine (15 credits)
+Scientific Basis of Nuclear Medicine (15 credits)
+Diagnostic Nuclear Oncology   Radionuclide Therapy (15 credits)
+
+Modules of the M.Sc. in Medical Engineering   PhysicsMedical Imaging with Non-Ionising Radiation (15 credits)
+Medical Imaging with Ionising Radiation (15 credits)
+
+Modules of the M.Sc. in Neuroimaging
+Applications of Neuroimaging (30 credits)
+Practical Neuroimaging (30 credits)
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Taught modules are presented in a variety of formats, including lectures, workshops, laboratory practicals, site visits etc. Assessment is based on coursework and examination.
+Both research projects are carried out under the supervision of academics within the Division&rsquo;s five departments (Biomedical Engineering; Cancer Imaging; Cardiovascular Imaging; Imaging Chemistry and Biology and Perinatal Imaging and Health). Some research projects may take place in a collaborating laboratory elsewhere in King's or at a collaborating institution.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Introduction To Medical Imaging Sciences - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MIGEP14    
+  
+    Credit level:  
+7  
+    Credit value:  
+30    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     practical/s;     presentation/s;     
+   
+    
+    
+    
+     
+  To provide the fundamentals of radiopharmaceutical science, nuclear chemistry and show its application in the design and formulation of radiopharmaceuticals
+To give an overview and appreciation of radiation dosimetry and hazards and their control
+To provide a fundamental understanding of current imaging modalities and functional, molecular and cellular imaging.
+To provide students with a detailed knowledge and understanding of research methods that are relevant to Imaging Sciences.
+To provide students with the necessary skills to critically appraise published literature on imaging research techniques and findings.
+To provide students with the skills and knowledge to appraise the latest advances in scientific scholarship and the needs of the community in the area of Imaging Sciences.
+To provide students with an understanding of the current regulatory framework required for translational imaging research
+To prepare a foundation for more detailed studies of radiopharmaceutics and radiochemistry topics for subsequent modules.
+
+  
+    Medical Imaging Research Project 2 - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MIGEP17    
+  
+    Credit level:  
+7  
+    Credit value:  
+60    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    
+  
+      Assessment:  
+      practical/s;     oral examination/s;     presentation/s;     
+   
+    
+    
+    
+     
+  To equip students with research skills necessary to execute and develop methodologically robust literature/laboratory-based research projects
+To provide students with the skills and knowledge to critically appraise the latest advances in scientific scholarship and the needs of the community in the area of medical imaging sciences
+To develop students&rsquo; written and oral presentation skills in the communication of scientific findings
+To equip students with the knowledge and skills required to participate actively in research and development and also to provide a vehicle for those seeking an academic foundation for future PhD studies
+
+  
+    Research Project 1 - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MIGEP16    
+  
+    Credit level:  
+7  
+    Credit value:  
+60    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    
+  
+      Assessment:  
+      coursework;     practical/s;     oral examination/s;     presentation/s;     
+   
+    
+    
+    
+     
+  To equip students with research skills necessary to execute and develop methodologically robust literature/laboratory-based research projects
+To provide students with the skills and knowledge to critically appraise the latest advances in scientific scholarship and the needs of the community in the area of medical imaging sciences
+To develop students&rsquo; written and oral presentation skills in the communication of scientific findings
+To equip students with the knowledge and skills required to participate actively in research and development and also to provide a vehicle for those seeking an academic foundation for future PhD studies
+
+  
+    Research Skills - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MIGEP48    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+   
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+    Bioelectricity - Optional
+
+    
+  
+      Teaching staff:  
+Module Leader: Dr Martin J Bishop  
+     Module code:  
+7MIGEP36    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This module aims:
+1. To provide a fundamental grounding in the biophysical properties of cells that give rise to bioelectric properties of tissues/organs, with a particular focus on cardiac and neural systems
+2. To provide an understanding of clinical pathologies related to bioelectric phenomena in the body, and how electrical measurements and devices can be used to better understand and treat these conditions
+3. To provide an overview of how electrical measurements in the lab can be combined with simple mathematical modelling and computational techniques to represent and understand the bioelectric behaviour of excitable cells, both at the single cell level and within electrically-coupled networks
+
+  
+    Cardiovascular Imaging 1 - Optional
+
+    
+  
+      Teaching staff:  
+Module Leader: Dr Valentina Puntmann  
+     Module code:  
+7MIGEP35    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     oral examination/s;     presentation/s;     
+    
+     
+  Introduction into image generation, acquisition and post-processing
+Detailed knowledge and understanding of research methods that are relevant to imaging in clinical management
+Basis of cardiovascular morphology and pathophysiology
+Review of the current state of art of cardiovascular imaging in clinical routine
+Understanding of the fundamentals of evidence based medicine and translational pathway in imaging biomarkers
+Overview of statistical methods applicable to Cardiovascular Imaging
+Necessary skills to critically appraise published literature on imaging research techniques and findings principles of good clinical practice and regulatory environment in translational and clinical imaging research
+
+  
+    Computational Modelling - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP45    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+   
+  
+    Cyclotron Engineering And Nuclear Chemistry - Optional
+
+    
+  
+      
+     Module code:  
+7MISR04A    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The aims of this course are to
+To explain the design and operation of cyclotrons and targets
+To explain the theory of nuclear reactions taking place in cyclotrons and nuclear reactors, and the decay processes of radionuclides
+To describe the production routes to key medical radionuclides
+To engender awareness of the importance of radiation protection and GMP issues
+To provide hands on experience of radionuclide production in a commercial or academic or hospital cyclotron
+
+  
+    Diagnostic Nuclear Oncology And Radionuclide Therapy - Optional
+
+    
+  
+      
+     Module code:  
+7MIGMP04    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This course provides students with an understanding of the basic principles of radionuclide therapy, radiation protection and radiation biology.
+ The course will include training in the protection requirements of clinical practice in thyroid cancer, neuro-endocrine tumours, bone metastases, benign joint disease, radio-immuno and radio-peptide therapy through a programme of lectures, tutorials and demonstrations. The students will acquire the knowledge necessary to undertake radionuclide therapy in a safe and appropriate manner.
+  
+    Dynamical Systems in Physiology - Optional
+
+    
+  
+      Teaching staff:  
+Module Leader: Dr Oleg Aslanidi  
+     Module code:  
+7MIGEP33    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This module aims:
+1. To provide a fundamental understanding of the current concepts of dynamical systems and their analysis, including stability and bifurcations of steady-states and periodic solutions
+2. To provide examples of the applications of these concepts to diverse physiological problems, including biochemical reactions, gene regulation networks and neural/cardiac excitability
+3. To provide students with the theoretical and computational skills to solve the problems, including an understanding of the advantages and limitations of different methodologies
+
+  
+    Image Acquisition - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP43    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+   
+  
+    Image Computing - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP46    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+   
+  
+    Image Reconstruction - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP44    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+   
+  
+    Imaging Biology - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP42    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+   
+  
+    Imaging Chemistry - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP41    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+   
+  
+    Introduction to Physiological Fluid Mechanics - Optional
+
+    
+  
+      Teaching staff:  
+Module Leader: Dr Jordi Alastruey-Arimon  
+     Module code:  
+7MIGEP34    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This module aims:
+1. To provide an understanding of advanced concepts in fluid mechanics and learn about their applications to study blood flow in the cardiovascular system
+2. To provide students with the skills and knowledge to choose an appropriate method to solve problems, including an understanding of the advantages and limitations of different methods
+
+  
+    Machine Learning - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP49    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+   
+  
+    Medical Imaging With Ionising Radiation - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP10    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  The aims of the course are to educate students in the physics of medical imaging with ionising radiation and to equip them with knowledge of computed tomography, nuclear medicine and thematic topics relevant thereto (eg. the use computers/clinical applications).
+At the conclusion of the module the student will be able to:
+Discuss the physical processes behind image formation in nuclear medicine and diagnostic radiology
+Explain the normal and pathological appearances of images and identify common imaging artefacts
+Discuss the physical principles and operation of radiographic and nuclear medicine equipment
+Explain the factors that affect imaging system performance
+Understand the legislation and guidance that ensures safe working in the radiation environment
+
+  
+    Medical Imaging With Non-Ionising Radiation - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP09    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  The aims of the course are to educate students in the physics of medical imaging with non-ionizing radiation (MRI and Ultrasund) and to equip them with knowledge of magnetic resonance imaging, ultrasound imaging and thematic topics relevant thereto (e.g. the use of computers/clinical applications).
+At the conclusion of the module the student will be able to:
+Discuss the physical processes behind image formation using non-ionising radiation
+Explain the normal and pathological appearances of images and identify common imaging artefacts
+Discuss the physical principles and operation of ultrasound and MRI equipment
+Explain the factors that affect the imaging system performance
+Understand the legislation and guidance that ensures safe working
+
+  
+    Perinatal Imaging Science - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP47    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+   
+  
+    Radiopharmaceutical   Regulatory Issues In Nuclear Medicine - Optional
+
+    
+  
+      
+     Module code:  
+7MIGMP02    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn);    Semester 2 (spring);     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  This course will describe the scientific basis of radiopharmacy and its application to nuclear medicine functions in the UK. Health and safety legislation and the regulatory bodies concerned with radioactive materials will also be covered. On completion of the course, students will have an understanding of the principles of radiopharmaceutical design, an appreciation of the practical aspects of radiopharmacy operation and a knowledge of regulatory control in nuclear medicine. Assessment is by written examination and coursework.
+  
+    Radiopharmaceutical Chemistry - Optional
+
+    
+  
+      
+     Module code:  
+7MISR03A    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     practical/s;     presentation/s;     
+    
+     
+  The aims of this course are:To show how positron, gamma and particle emitting radiopharmaceuticals are designed, synthesized and analysed, in relation to the properties of the radionuclide and the biological target
+To show how the components of radiopharmaceuticals (organic precursors, chelating agents, biological molecules especially proteins and peptides, radionuclides) are synthesized and analysed
+To provide detailed knowledge of the analytical methods used to characterize precursors and radiopharmaceuticals in terms of structure, labelling efficiency, stability
+To provide opportunity to gain hands-on experience with the above synthetic and analytical methods
+To show the importance of interdisciplinary collaboration to achieve advances in radiopharmaceutical design and clinical use
+To engender an appreciation of the importance of Good Manufacturing Practice in the production of radiopharmaceuticals
+To illustrate the R D process leading to clinical application of radiopharmaceuticals
+To encourage literature searching and literature awareness
+
+  
+    Radiopharmacology - Optional
+
+    
+  
+      
+     Module code:  
+7MISPR02    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     practical/s;     presentation/s;     
+    
+     
+  The aim of the course is:
+To provide the fundamental principles of radiopharmacology and show their application in the design and formulation of radiopharmaceuticals
+To give an understanding of the biological effects of ionising radiation
+To give an understanding of current research and strategies employed in transport   targeting of radiopharmaceuticals (ADME)
+To provide a rational understanding of radiation dosimetry formalisms and computation methods
+To explore the relations between radiation physics   biology and their practitioners
+To provide an introduction to experimental methods: in vitro 
+and in vivo
+To survey current applications of radiopharmaceuticals and radiotracers in biological   drug research
+
+  
+    Scientific Basis Of Nuclear Medicine - Optional
+
+    
+  
+      
+     Module code:  
+7MIGMP03    
+  
+    Credit level:  
+7  
+    Credit value:  
+30  
+  
+  
+      Semester:  
+    Semester 1 (autumn);    Semester 2 (spring);     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  This course will describe the scientific basis of nuclear medicine and its practical application to nuclear medicine. It will also cover the equipment used, statistical methods and the role of computing in the acquisition, processing, display and communication of nuclear medicine studies. On completion of the course, students will have a strong scientific base for the understanding of the practical aspects of nuclear medicine. Assessment is by written examination and coursework.

@@ -1,0 +1,333 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Financial Reporting   Analysis
+Management Accounting   Control
+Financial Management
+Corporate Governance   Accountability
+Research Methods
+
+     
+   Indicative non-core content
+   Financial Statement Analysis
+Advanced Financial Reporting
+Advanced Financial Management
+Accounting Organisations   Society
+Behavioural Finance
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Term one: compulsory modules covering 
+Financial management
+Reporting and analysis
+Management accounting
+Research methods
+
+Term two:
+Compulsory module covering corporate governance   accountability
+Options covering advanced finance and other areas of management.
+
+Term three: 
+Individual research project.
+
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Corporate Governance   Accountability - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7SSMM605    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    
+  
+      Assessment:  
+      written examination/s     
+   
+    
+    
+    
+     
+  Board effectiveness, accountability, the need for boardroom ethics and the implications of weaknesses and failures in corporate governance; institutional investor relations; transparency, internal control and risk management; corporate accountability to stakeholders, the importance of stakeholders to long-term corporate value and the broad range of stakeholder needs which companies need to consider; socially responsible investment and the social, environmental and ethical dimensions of financial management and financial investment; international harmonisation of corporate governance.
+  
+    Financial Management - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7SSMM602    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+      Assessment:  
+      written examination/s     
+   
+    
+    
+    
+     
+  Time value of money and discounted cash flow analysis; Capital budgeting and net present value calculations; Valuation of bonds and stocks and the workings of financial institutions; Importance of accountability within financial institutions; Efficient markets hypothesis; Portfolio theory and the Capital Asset Pricing Model (CAPM); Capital structure theory and practice; dividend policy theory and practice: Corporate failure and bankruptcy; Ethical dimensions of financial management.
+
+  
+    Financial Reporting   Analysis - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7SSMM600    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+      Assessment:  
+      written examination/s     
+   
+    
+    
+    
+     
+  Institutional context of financial reporting and the information requirements of investors and other users of financial information; IASB, FASB and harmonisation of financial reporting standards; Financial statements and key financial reporting techniques and methods; International financial reporting standards (IFRS); Cash flow and accrual accounting and the information needs of investors; Cash flow and accounting-based valuation models; Performance analysis using ratios; Forecasting earnings and cash flows for company valuation.
+
+  
+    Management Accounting   Control - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7SSMM601    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+      Assessment:  
+      written examination/s     
+   
+    
+    
+    
+     
+  Introduction to management accounting and control systems; Recent management accounting innovations and their implications for management accounting;  International management accounting, the cultural dimension, and implications for management control systems; Fundamental management accounting and cost concepts; Activity based costing and absorption costing;  Marginal costing,  breakeven analysis, and target costing; Performance measurements in MNC&rsquo;s and the balanced scorecard; Budgets, budgetary controls, and performance evaluation; Behavioural aspects of budgeting and standard costing; Corporate governance and management control in organizations.
+
+  
+    Research Methods - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7SSMM603    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      70% project (2500 words); 20% problem solving exercise; 10% group presentation
+     
+  Research methodology; quantitative techniques of econometric modelling of financial management data; questionnaire survey and interview methods of data collection and analysis; content analysis and financial statement analysis; research ethics.
+
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Accounting Organisations   Society - Optional
+
+    
+  
+      
+     Module code:  
+7SSMM609    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s     
+      2 hr Exam (80%), group presentation (20%)
+     
+  Interdisciplinary and critical perspectives on the roles of financial reporting, management accounting, financial management, and corporate governance and accountability in organisations and society; economic versus interdisciplinary and critical perspectives on accounting, accountability, and financial management; Social, ethical and environmental considerations in accounting, accountability and financial management; Implications of alternative research perspectives for influencing accounting, accountability and financial management practice.
+  
+    Advanced Financial Management - Optional
+
+    
+  
+      
+     Module code:  
+7SSMM608    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s     
+      2 hr Exam (75%); essay (25%)
+     
+  The efficient markets hypothesis and testing; arbitrage pricing theory (APT) and multi-factor asset pricing models; research findings on dividend policy and capital structure debates; options pricing theory; use of real options theory in financial management; issues in international financial management; mergers and takeovers; accountability and ethics in financial management decisions; financial management, corporate governance, and accountability.
+  
+    Advanced Financial Reporting - Optional
+
+    
+  
+      
+     Module code:  
+7SSMM607    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+      2hrs exam (80%); coursework (20%)
+     
+  The financial reporting environment: regulation, market forces and conceptual frameworks; the concept of accountability within the context of financial reporting; accounting and reporting in the context of Public Benefit Entities; framework for the preparation and presentation of financial statements; impact of changing prices on income measurement; alternative models for measuring profit and valuing assets; opportunistic behaviour, creative accounting and their implications for ethics and accountability; social, environmental and ethical dimensions of financial reporting
+  
+    Behavioural Finance - Optional
+
+    
+  
+      
+     Module code:  
+7SSMM610    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+      2 hour Exam (70%); 2 lab assignments (30%)
+     
+  By the end of the module,
+students will be able to demonstrate systematic understanding of the technical tools required to analyze issues in behavioural finance, such as game theoretical concepts and advanced statistical analysis, and relate them to other concepts from accounting and financial management;
+students will be able to show a systematic understanding of key behavioural concepts such as crowding, herding, risk biases, overconfidence, noise, deception, as applied to financial environments, and to exemplify such concepts;
+students will be able to critically evaluate normative theories such as the efficient market hypothesis (EMH), and will be able to design tools and experiments falsifying the main tenets of the EMH;
+students will be able to demonstrate sound comprehensive knowledge of how social behaviour influences decision making processes in financial markets, and apply this knowledge to financial decision making situations;
+students will be able to accurately interpret financial models with a view to their behavioural foundations, and analyze the implications thereof;
+students will be able to analyse and evaluate the outcomes of experimental games, interpret them in a theoretically informed context and derive consequences for practical decision making situations.
+
+  
+    Financial Statement Analysis - Optional
+
+    
+  
+      
+     Module code:  
+7SSMM606    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+      2hr examination (75%); 1500 word coursework (25%)
+     
+  Financial statements and investor information needs; Usefulness of accounting-based valuation models such as residual earnings valuation model and abnormal earnings growth model for company valuation; Use of valuation models to analyse impact of accounting information on share prices; International research findings on the association of earnings, cash flow, and other accounting information with share prices; Impact of institutional context on the usefulness of accounting information to investors in international capital markets; Issues and evidence on the use of valuation models and financial statement information by financial analysts.

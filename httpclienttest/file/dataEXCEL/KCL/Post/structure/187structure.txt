@@ -1,0 +1,488 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Individual Project.
+
+     
+   Indicative non-core content
+   A minimum of four from:
+Agents and Multi-Agent Systems
+Artificial Intelligence
+Biologically Inspired Methods
+Computer Vision
+Pattern Recognition.
+
+Between two and four modules from:
+Access Control   Privcay Policies
+Advanced Research Topics
+Computational Models
+Distributed Systems
+Group Project
+Intelligent Systems for Legal   Administrative Applications
+Robotic Systems
+Text Searching   Processing.
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures, tutorials, seminars, laboratory sessions, optional career planning workshops. 
+Assessed through: coursework, written examinations, final project report.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+    
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Access Control   Privacy Policies - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMAPP    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  To provide specialist knowledge and understanding of the core aspects of policy representation in the context of Computer Science, including an understanding of access control and privacy policy formulation and implementation for centralised and decentralised computer systems.
+  
+    Advanced Research Topics - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMART    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+      Assessment:  
+      coursework     
+    
+     
+  Aims
+To teach you to read and understand research papers and research lectures on your own, and pursue a research topic.
+Learning Outcomes
+You should obtain a good understanding of a particular technical area at a level that goes substantially beyond the taughts MSc materia.   You should also learn to explore a research area, to identify the important issues and understand their connection with each other and to demonstrate your technical understanding by presenting the results to a scientifica audience.
+Provisional Syllabus
+In this optional module, you will study advance research literature preferably in an area that is related to the material taught in your programme.
+7CCSMART is a first-term module, with work starting at the beginning of the first term, but with the assignment continuing into the second term. Lectures will cover research methods, report/paper writing, and presentation techniques. You must attend at least five selected research seminars during the first term and read several related research papers.
+You must agree your choice of research topic with the module organiser, which must be on a topic of in the research area of one of the members of the Department. Towards the end of the first term, you must submit a first draft of a report (approximately 10-15 pages), which will be reviewed by the organiser and other students. The final draft of the report must be submitted in the second term. The submitted report forms the basis of the assessment.
+Topics will include:
+Doing Research
+Writing
+Writing Scientific Papers
+Presenting Scientific Papers
+References
+Sources
+Refereeing
+  
+    Agents   Multi-Agent Systems - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMAMS    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Aims
+To describe some techniques employed in the characterisation of agents and multi-agent systems. To provide a critical introduction to theories and methods regarding multi-agent computer systems and their component agents.
+Learning Outcomes
+On completion of the module, you will be expected to have acquired: A thorough, systematic understanding of key features of current theories and methods regarding multi-agent systems and their component agents; A sound appreciation of the conceptual issues involved in the characterisation of agents and their abilities; Knowledge of some of the main techniques employed in the formal characterisation of agents and multi-agent systems; An ability to critically evaluate current work in this field, and to evaluate the principal theories and methods.
+Provisional Syllabus
+Topics will be selected from:
+Intelligent agents and their design
+Knowledge in multi-agent systems
+The Belief-Desire-Intention model of rational agents
+Reactive and hybrid agent architectures
+Agent Communication: KQML, FIPA
+Auctions and Negotiations Game Theory Argumentation based Reasoning and Communication
+Agent-based methodologies Applications
+
+  
+    Artificial Intelligence - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMAIN    
+  
+    Credit level:  
+7  
+    
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  Over the last 40 years, Artificial Intelligence has developed into one of the core disciplines of computer science, combining symbolic reasoning (usually logic based), and optimised algorithms to provide solutions to complex and computationally difficult problems such as machine learning, visual recognition, natural language processing, planning and robotics. This module presents the main issues encountered in artificial intelligence and introduces approaches to deal with them.
+  
+    Computational Models - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMCOM    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims
+The aim of this module is to define, analyse and compare abstract models of computation and their associated programming paradigms.
+Learning Outcomes
+On successfully completing the module you should be able to demonstrate a deep knowledge and understanding of the fundamentals of formal languages and the principal models of computation and be able to work with theoretical/research-based knowledge at the forefront of the subject; judiciously apply and combine tools and techniques (frequently in novel ways) to solve a range of complex subject-specific problems with minimal direction; analyse subject material, draw inferences, and find relationships that demand that innovative thinking be engaged in and creativity be exhibited in formulating solutions; critically evaluate, exercise judgement, and compare and contrast relevant material with minimal guidance and to consider and argue for alternative, novel approaches; demonstrate a high degree of independence in managing your own learning and reflecting upon it in order to complete research tasks autonomously.
+Provisional Syllabus
+Introduction to abstract models of computation
+Finite Automata, Push-Down Automata and applications to parsing
+Turing machines
+Functional calculi
+Interaction-based systems
+Concurrent computation
+
+  
+    Distributed Systems - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMDSM    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This course aims to provide an overall understanding of the basic concepts and practical technology of distributed computing, an in-depth understanding of the considerations applied in designing software for distributed systems. It will give students knowledge of algorithmic and architectural techniques used to address these considerations, and provide means of assessing how well novel technologies are able to handle faults in distributed systems.
+  
+    Group Project - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMGPR    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  To provide the experience of working in a syndicate to design, implement and document a substantial software product.
+  
+    Intelligent Systems For Legal   Administrative Applications - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMLAA    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  To illustrate the role of knowledge-based systems for legal and administrative applications, through presentation of some examples of such systems. To enable students to make a critical assessment of the requirements such systems are expected to meet, and of the impact they have in legal and administrative practice.
+  
+    Multimedia Compression Methods   Systems - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMMUL    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims
+The aims of this module are to study methods for handling and compressing various kinds of data, such as text, images, audio and video data and understand data compression techniques for multimedia and other applications, in particular to the Internet.
+Learning Outcomes
+On successfully completing this module you should have depth and systematic understanding of the principles of data compression, be able to apply different compression methods for text, image, audio, and video data, and extend their applications in different aspects of computing.
+Provisional Syllabus
+Introduction:
+Raw multimedia data representation
+Transmission medium characteristics
+Data compression
+Adaptive and non-adaptive methods
+Lossy and lossless compression
+Theoretical limits of compressibility
+Text compression:
+Run-length coding
+Entropy coders: Huffman coding, arithmetic coding
+Dictionary coding methods: LZ77, LZW
+Other text compression methods: PPM
+Standard text compression utilities: compress, zip
+Image compression:
+Monochrome and grayscale compression
+Image formats: PCX, TIFF, BMP, DIB, GIF, EPS, WMF, TGA, CGM, HPGL, JPEG and PNG
+GIF compression
+JPEG compression (using Discrete Cosine Transform)
+JPEG 2000 (using wavelets)
+Video compression:
+Frame-by-frame compression: M-JPEG
+Inter-frame compression: MPEG
+Video formats: M-JPEG, MPEG, AVI and MOV
+Audio compression:
+Speech coding: ADPCM, LPC
+CD-quality audio: MPEG layer 3
+Audio formats: WAV, VOC, SND and MIDI
+Compression applications:
+Computer system applications
+Communication network applications
+Broadcast media applications
+Consumer electronics applications
+Publishing applications
+Entertainment applications
+Healthcare applications
+Managing compressed data:
+Self-identifying compressed data
+Error-proofing compression algorithms
+Interaction between compression and other functions
+Interaction between compression algorithms
+Operating on compressed data
+Archiving compressed data
+Interactive multimedia:
+Hypermedia and interactive applications, MHEG
+Interactive virtual reality, VRML
+
+  
+    Optimisation Methods - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMOME    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims
+To introduce various discrete optimisation problems, efficient algorithms for solving these problems, and general algorithmic techniques, which can be applied to a wide range of optimisation problems. The emphasis is put on network optimisation problems and on general optimisation techniques. To discuss applications of optimisation problems in communication systems, computer networks, manufacturing, scheduling, and resource allocation.
+Learning Outcomes
+On successfully completing this module you will be able to express computational problems from various application areas as (discrete) optimisation problems; will be familiar with commonly used algorithms and main algorithmic techniques for optimisation problems; will understand the principles underpinning the discussed algorithms; will be able to select an appropriate algorithm for a given optimisation problem or to develop a new algorithm based on a general algorithmic technique; will be able to analyse the running time of the developed algorithmic solutions.
+Provisional Syllabus
+Single-source shortest-paths problem:
+Dijkstra's algorithm
+The Bellman-Ford algorithm
+Shortest paths in directed acyclic graphs
+All-pairs shortest paths:
+Johnson's algorithm
+Network flow problems:
+Maximum flows, Minimum-cost flows and Multicommodity flows, and their applications
+Maximum matching problem and its applications to resource allocation problems
+The Ford-Fulkerson method for the maximum-flow problem
+The Successive-shortest-paths algorithm for the minimum-cost flow problem
+Linear programming (LP):
+Basic properties of LP problems
+LP formulation of network flow problems
+Integer programming
+Computationally hard optimisation problems:
+Polynomial-time problems and NP problems
+NP-hard optimisation problems
+Optimisation techniques for NP-hard problems:
+Branch-and-bound method for finding exact solutions
+Simulated annealing Genetic algorithms
+
+  
+    Pattern Recognition - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMPNN    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+    
+     
+  The aim of this course is to introduce both statistical and neural network theory and approaches for solving pattern recognition problems. Further, to consolidate lectures with MATLAB-based computer assignments.
+At the end of the course students should:
+be familiar with Bayesian decision theory;
+be familiar with parametric density estimation;
+be familiar with nonparametric density estimation;
+be familiar with linear discriminant functions;
+be familiar with perceptrons;
+be familiar with Winner-take-all groups;
+be familiar with multi-layer perceptrons;
+be familiar with feature selection and extraction techniques;
+be familiar with clustering techniques.
+Syllabus
+Introduction to pattern recognition
+Bayesian decision theory
+Parametric density estimation
+Nonparametric density estimation
+Linear discriminant functions
+Perceptrons
+Winner-take-all groups
+Multi-layer perceptrons
+Feature selection and extraction techniques
+Clustering technique
+
+  
+    Text Searching   Processing - Optional
+
+    
+  
+      
+     Module code:  
+7CCSMTSP    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  Aims
+This unit is devoted to algorithms processing strings and texts efficiently. These types of algorithms are used for software design in the domains of operating systems utilities, search engines on the Internet, data retrieval systems, analysis of genetic sequences, and natural language processing, for example.
+Learning Outcomes
+On completing the module, you should be able to design and implement exact and efficient algorithms for matching patterns in textual data, building indexes for files, and more generally for solving algorithmic problems on strings and sequences.
+Provisional Syllabus
+Basic concepts:
+Periods in strings
+Finite automata and regular expressions
+Exact pattern matching:
+Brute-force algorithms for pattern matching
+The Knuth-Morris-Pratt algorithm
+The Boyer-Moore algorithm
+The Karp-Rabin algorithm
+Horspool's algorithm
+Multiple pattern matching:
+The Aho-Corasick automaton
+Two-dimensional pattern matching
+Structures for indexes:
+Suffix arrays
+Suffix trees
+Suffix automata
+Regular Pattern Matching
+From regular expression to automata
+Simulation of deterministic automata

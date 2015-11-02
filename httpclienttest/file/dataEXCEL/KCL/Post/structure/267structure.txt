@@ -1,0 +1,24 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Research Methods for Theoretical Modelling of Non-Equilibrium Systems
+Research Methods for Simulation of Non-Equilibrium Systems
+Research Methods for Data-Driven Analysis of Non-Equilibrium Systems
+
+     
+   Indicative non-core content
+   The following modules are compulsory:
+Dynamical Modelling of Non-Equilibrium Systems
+Simulation Methods for Non-Equilibrium Systems
+Statistical Learning and Data-Driven Analysis
+Advanced Topics in Non-Equilibrium Systems
+
+And one of the following modules:
+Rare Events and Large Deviations
+Modelling Quantum Many-body Systems
+
+Students may also choose an optional modules from any departments of Mathematics, Physics, Informatics, Geography, and Chemistry
+     
+   
+   FORMAT AND ASSESSMENT
+  The format and assessment of the MSc programme is primarily written examinations, some with coursework element, in six lecture modules, plus an oral presentation and assessed report on three research projects.

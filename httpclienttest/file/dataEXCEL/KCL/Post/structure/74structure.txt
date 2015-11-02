@@ -1,0 +1,31 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Individual Project
+Project Management
+Operations Management
+Principles of Management
+     
+   Indicative non-core content
+   Students must take 30 credits from the following modules:
+Computer Vision
+Pattern Recognition
+Robotics Systems
+Sensors, Actuators   Interfacing
+Embedded Systems   Control
+Students then take a further 45 credits from the following modules or any remaining modules from the above list:
+Access Control   Privacy Policies
+Advanced Secuirty Topics
+Cryptography   Information Secuirty
+Database Technology
+Data Structures   Implementation
+Distributed Systems
+Multimedia Compression Methods and Systems
+Software Engineering of Internet Applications
+Biologically Inspired Methods
+Advanced Software Engineering
+Software Design   Architecture
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures; tutorials; seminars; laboratory sessions; optional career planning workshops. Assessed through: coursework; written examinations; final project report.

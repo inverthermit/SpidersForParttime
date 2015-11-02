@@ -1,0 +1,112 @@
+We review our modules on a regular basis, in order to continue to offer innovative and exciting programmes. Hence, the list of modules presented below is subject to change.   
+  
+     
+    YEAR 1
+  Eight modules. 
+     
+   
+  YEAR 1 CORE
+   Term 1
+Programming Practice
+Computer Systems I
+Foundations of Computing I
+Elementary Logic with Applications
+
+Term 2
+Programming Applications
+Introduction to Artificial Intelligence
+Data Structures
+Practical Experiences of Programming  
+
+First-year students must have gained at least 90 credits, excluding condoned fails, in order to progress to the second year.
+   
+    
+  
+    
+  
+   
+   
+   
+   
+  
+     
+  
+    
+    YEAR 2
+   Seven Modules. 
+   
+   
+  YEAR 2 CORE
+  
+   Term 1
+Robotics Group Project (year-long)
+Adaptive and Robotics Systems
+Computer Science Logic
+Object-Oriented Specification and Design
+
+Term 2
+Foundations of Computing 2
+Operating Systems and Concurrency
+Programming Language Design Paradigms
+Robotics Group Project (continued)
+
+Second-year students must have gained at least 210 credits over the first two years, excluding condoned fails, in order to progress to the third year.
+Additionally, progression from second to third year requires level-5 module average of >=55%, achieved at the first attempt. Students unable to meet this criterion will transfer to the BSc (Hons) Computer Science with Robotics programme or BSc (Hons) Computer Science with Intelligent Systems programme for the third (and thus final) year of their study.   
+      
+  
+  
+  
+ 
+ 
+  
+   
+   
+   
+   
+   
+   
+   YEAR 3
+   Five core modules plus three optional modules. 
+     
+   
+  YEAR 3 CORE
+   Artificial Intelligence
+Pattern Recognition
+Biologically Inspired Methods
+Real Time Systems   Control
+Sensors and Actuators
+   
+      
+  YEAR 3 OPTIONS
+   Choose three of:
+Computer Graphics Systems
+Parallel Algorithms
+Text Searching and Processing
+Automata and Formal Languages
+Distributed Systems
+Optimisation Methods
+
+Third-year students must have gained at least 330 credits over the first three years, excluding condoned fails, in order to progress to the fourth year.  
+  
+   
+   
+     
+      YEAR 4
+   Four core modules plus three optional modules.   
+      
+  YEAR 4 CORE
+   MSci Individual Project (year-long)
+Agents and Multi-Agent Systems
+Robotic Systems
+Computer Vision
+   
+     
+  YEAR 4 OPTIONS
+   Choose three of:
+Elements of Statistical Learning
+Intelligent Systems for legal and Administrative Applications
+Access Control and Privacy Policies
+Advanced Research Topics
+Optimisation Methods
+Computational Models
+Multimedia Compression Methods and Systems

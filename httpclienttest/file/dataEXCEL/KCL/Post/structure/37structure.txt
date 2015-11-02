@@ -1,0 +1,206 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Principles of Analytical Techniques, Numerical Methods   Regulatory Affairs
+Principles of Drug Delivery and Disposition.
+
+Please see the modules list for further information.
+
+     
+   Indicative non-core content
+   Biopharmaceuticals Development
+Biopharmaceuticals Discovery
+Research Project.
+
+Please see the modules list for information.
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures; small group tutorials; laboratory classes; laboratory-based research project (or in some instances a critical review of the scientific literature). Each taught module is assessed by a written examination (70 per cent) and coursework (30 per cent).
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Principles Of Chemical Analysis Techniques, Numerical Methods And Regulatory Affairs - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBPM011    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+      Assessment of the module is based upon performance in a written examination (70 per cent) and coursework (30 per cent).
+     
+  An introductory module concerned with the fundamental philosophy, principles and practice of chemical analysis and quality control, with particular reference to the pharmaceutical sciences. 
+ On completion of the module the student should have: An appreciation of the science and role of analytical chemistry; the ability to design and undertake measurement protocols to GLP standard; an understanding of basic numerical methods and statistics used in chemical analysis and quality control; an appreciation of the scope and limitations of various techniques for product identification and  the assignment of molecular structure and the analysis of complex mixtures.
+
+  
+    Principles Of Drug Delivery And Disposition - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBPM010    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+      Assessment of the module is based upon performance in a written examination (70 per cent) and coursework (30 per cent).
+     
+  This is an introductory module which provides an overview of drug delivery and drug disposition, ie drug absorption, distribution, metabolism, excretion and elementary pharmacokinetics, providing essential background knowledge for the pharmaceutical scientist. 
+On completion of the module the student should have: An understanding of the significance of physicochemical properties in drug delivery and drug disposition; an appreciation of the approaches for delivering drugs to the body and the associated dosage forms; an understanding of the methods for evaluation of drug release from tablets, capsules and inhalers; an understanding of the structure of biological membranes and the various mechanisms associated with drug transport across them; an appreciation of the potential sites, reactions and factors which influence drug metabolism; an appreciation of the significance of drug metabolism in relation to biological activity; an understanding of the principles of pharmacokinetics and  an ability  to define and calculate the commonly used pharmacokinetic parameters.
+  
+    Research Project/dissertation - Pharmaceutical Sciences - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBPM014    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Students on all three Masters Degree Programmes in the Pharmaceutical Sciences (Drug Metabolism   Toxicology, Pharmaceutical Analysis   Quality Control, Pharmaceutical Technology) are required to carry out a research project. The aim of the  research project  is  to provide students with the opportunity to study a particular topic in depth, give practical experience of research methodologies and in the presentation of scientific data, both orally and as a written report. 
+ The Department of Pharmacy at King's is research active and as a result, Masters candidates are offered a considerable choice of research topics from across the entire spectrum of the pharmaceutical sciences, including:
+Computational methods with applications in the pharmaceutical sciences
+Drug delivery   formulation science
+Drug metabolism
+Toxicology
+Pharmaceutical analysis
+Isolation, identification and biological evaluation of materials derived from natural sources
+
+The selection and allocation of research projects is carried out in November, and students are required to select three possible topics from a list of usually over sixty available, the final allocation being made by the Programme Directors. Obviously the projects selected must be appropriate for the degree programme being undertaken. 
+ Project work starts in the second semester and students are expected to spend the equivalent of two days a week working on their projects. Following the summer examinations (these are generally held in May/June), work on the projects is carried out full time, and the final report is submitted for assessment in mid-August. 
+ Students undertaking the degree programmes part-time are normally expected to carry out a practical-based project at their place of work, and they frequently have ideas for areas of investigation which would be of interest to their employers. However, depending on the nature of their employment it is appreciated that this may not be possible for everyone. In such instances these individuals are permitted to submit a critical survey of the literature (dissertation) rather than a practical-based research project. 
+ Research projects/dissertations are assessed on the basis of the final written report (90 per cent) and a short oral presentation (10 per cent) at the end of the second semester.
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Biopharmaceuticals: Development - Optional
+
+    
+  
+      
+     Module code:  
+7BBPM013    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This is a specialist module concerned with the basic concepts of toxicology, which examines the biochemical mechanisms of toxicity and the significance of molecular biology in relation to toxicology and modern drug development.
+ On completion of the module the student should have:
+An understanding of the basic principles of toxicology and their relationship to drug safety evaluation
+An appreciation of the significance of drug metabolism in relation to mechanisms of toxicity
+The ability to interpret toxicological data
+Gained problem-solving skills in toxicology, and be able to apply these in the assessment of actual and potential drug toxicity
+An understanding of the ways in which molecular biology has, and will, impact on drug discovery, development and use
+An appreciation of the fundamental techniques of molecular biology and bioinformatics, and their application
+An appreciation of the significance of inherited effects in determining inter-individual differences in response to drugs
+
+Assessment of the module is based upon performance in a written examination (70 per cent) and coursework (30 per cent).
+  
+    Biopharmaceuticals: Discovery - Optional
+
+    
+  
+      
+     Module code:  
+7BBPM012    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This is a  specialist module, which builds upon the fundamental principles provided in the module 'Principles of Drug Delivery and Disposition'.
+ The module aims to provide a detailed understanding of:
+The chemical and enzymatic basis of drug and foreign compound biotransformation
+The time course of drug absorption and disposition, and the relationship between these processes and the intensity and duration of drug action
+The factors which influence biotransformation
+The magnitude of the pharmacokinetic parameters
+
+On completion of the module the student should:
+Understand and interpret the complex pattern of biotransformations open to xenobiotics
+Have an appreciation of the factors which influence the extent and pathways of biotransformation
+Have an understanding of how in vitro
+ parameters may be utilised for prediction of in vivo 
+pharmacokinetic parameters
+Have practical and problem-solving abilities in the area of drug metabolism
+Be able to apply these skills to actual and potential situations of industrial, regulatory and academic significance
+Have an  understanding of the molecular genetics of the enzymes
+Have an understanding of the regulation of gene expression and enzyme function at the molecular and proteomic level
+Have an understanding of the protein structure of the enzymes with respect to the mechanism of the catalytic cycle and substrate/inhibitor specificity
+Have an understanding of the mechanisms of drug interactions
+
+Assessment of the Module is based upon performance in a written examination (70 per cent) and coursework (30 per cent).

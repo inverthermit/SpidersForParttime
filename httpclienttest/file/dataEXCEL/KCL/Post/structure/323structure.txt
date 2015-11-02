@@ -1,0 +1,187 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Developmental Psychology
+Molecular Genetics   Epigenetics
+Psychopathology
+Quantitative Genetics
+Social Development
+Statistical Genetics
+10,000 word dissertation
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Tutorials; essay writing; statistics assignment; research dissertation; oral presentation. Half of the time is spent on research in collaboration with supervisor.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Developmental Psychology (20 Credits) - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PADSDEV    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The lectures and discussions for this module cover issues in developmental psychology, including the importance of developmental approaches to psychopathology, methodological challenges, mapping different levels of explanation (brain, cognition, behaviour), and key debates in the study of typical and atypical development. These issues are illustrated with research in progress at SGDP Centre. The overarching goal is to raise awareness of the issues/concerns with developmental processes as they relate to the substantive areas of the students' interest. Individual assignments are set for each student. The module is usually covered in two or three group meetings and meetings with individuals will take place as they make progress on these assignments.
+
+  
+    Molecular Genetics   Epigenetics (20 Credits) - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PADSMOL    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module is designed to bring all students up to a basic level of understanding of the nature of genes and their mechanisms of action. The module will be split into two sections, the first covering molecular genetics, and the second introducing students to the role of epigenetic factors in complex disease.
+The Molecular Genetics section covers the structure of DNA, the organisation of the human genome and human (and other) genome projects. It explores the intron/exon mosaic structure of coding information and the mechanisms of transcription and gene control. From this basic level, the module examines the techniques involved in mapping and characterising loci implicated in multi-factorial disorders and behaviours.
+The Epigenetics section will introduce students to the role of epigenetic modifications in mediating gene expression and the role these processes may play in complex disease phenotypes. Students will be be given an introduction to DNA methylation and histone modifications, and learn about basic epigenetic processes including genomic imprinting and X-inactivation. The dynamic nature of the epigenome will be discussed, with a particular focus on the role that the environment can have in mediating epigenetic changes. The relevance of epigenetic dysfunction to the non-Mendelian aspects of complex psychiatric disorders will be discussed, and students will be given an introduction to the methods used to assess epigenetic modifications at a molecular level.
+
+  
+    Psychopathology (20 Credits) - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PADSPSY    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Each student is assigned a key paper or a pair of key papers from the reading list. Students prepare a talk in which they present and critically discuss the contents. Each presentation is followed by questions from the other students and the tutor followed by a general discussion. The last session is devoted to viewing video clips of patients with a variety of psychopathologies and focused on the rudiments of mental state examination. The module takes around four meetings, each lasting approximately an hour and a half.
+
+  
+    Quantitative Genetics (20 Credits) - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PADSQUG    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module covers the history and major methods of quantitative genetics and usually comprises four group meetings followed by individual meetings with each student in relation to their essays and other issues.
+
+  
+    Social Development (20 Credits) - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PADSSOC    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The overall purpose of this module is to familiarise students with key principles, findings and research strategies relevant for studying psychosocial influences on behavioural development and on psychopathology. In addition, students will be helped to learn how to evaluate and present scientific papers relevant to social development. The module consists of five sessions, each session scheduled for two hours.
+Meeting 1: Students summarise their experience in social development and the work in which they are currently engaged or hope to be engaged. One purpose of this is to give the tutor a sense of how best to structure the remaining sessions in terms of content coverage. This is then followed by the tutor presenting an overview of some of the key principles and findings in the field of social development as a whole.
+Meeting 2: A presentation by the tutor on what is meant by a natural experiment and how the broad range of natural experiments may be used in order to gain purchase on testing hypotheses about environmental mediation.
+Meeting 3: The third session will include a presentation on both the strategies for studying gene x environment interaction and in understanding their biological implications.
+Meeting 4: This session pairs of students present an allocated paper in order to bring out why it is interesting, what are its positive features and what are the limitations that need to be considered.
+Meeting 5: The final session involves a presentation on some of the key statistical issues that are relevant to the study of social development.
+As with other modules, the assessment of this module is in the form of a written essay. For this module however, each student is allowed to choose his/her own topic provided that this is first checked with the tutor to ensure that it is within the scope of social development. Guidance is provided on what is expected of the essay.
+
+  
+    Statistical Genetics (20 Credits) - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PADSSTA    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The module is divided into two parts: (I) Basic statistics and Behaviour Genetics; (II) Statistical Genetics. In Part I students are given the opportunity to refresh their knowledge of some basic statistical concepts and are introduced to the basic concepts of Behaviour Genetics (mainly the Classical Twin Methodology) and the assumptions. Other statistical topics that are addressed are the basic principles of Path Analysis, Structural Equation Modelling, Analysis of continuous Twin data and Analysis of ordinal Twin data. In Part II students are introduced to the basic concepts of Statistical Genetics . The course covers methods to identify the genetic contribution to psychiatric disorders and behavioural traits. Students will learn the basics of linkage, association and sequence data, focusing on the design and analysis of genome-wide association studies. Students will choose a single assessment project from either behaviour genetics or statistical genetics, which will involve applying the learned skills to perform simple analyses on example data or a literature review. The module comprises of four lectures, each lasting approximately two hours.

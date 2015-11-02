@@ -1,0 +1,104 @@
+Currently, students study the following core modules. If there are optional modules available the current choices are also shown. King's reviews its option modules on a regular basis, in order to continue to offer innovative and exciting programmes and this list is therefore subject to change. Please check here for updates, or contact the Faculty/Department for further advice.   
+  
+     
+    YEAR 1
+  Core modules as below.
+ 
+     
+   
+  YEAR 1 CORE
+   Mathematical Methods in Physics
+Computer Systems
+Foundations of Computing I
+Classical Mechanics
+Logic Design
+Programming practice
+Electronics Applications Project and Engineering Lab I
+  
+   
+    
+  
+    
+  
+   
+   
+   
+   
+  
+     
+  
+    
+    
+   
+  YEAR 2 CORE
+  
+   Engineering Mathematics
+Signals and Systems
+Circuit Theory
+Adaptive and Robotics Systems
+Electronics Applications Project and Engineering Lab II
+Principles of Electronics
+Electrical Engineering II
+Foundations of Computing II
+   
+      
+  
+  
+  
+ 
+ 
+  
+   
+   
+   
+   
+   
+   
+  
+   
+  YEAR 3 CORE
+   Communication Systems
+Electronic Circuits
+Optimization Methods
+Real Time Systems and Control
+Group Project
+
+   
+      
+  YEAR 3 OPTIONS
+   Students must take two modules from the following modules:
+Internet Systems
+Sensors and Actuators
+Distributed Systems
+Computer Vision
+Pattern Recognition
+Cryptography and Information Security
+Advanced Security Topics
+Hardware Design
+  
+  
+   
+   
+     
+      
+  YEAR 4 CORE
+   Individual Project
+Random Variables and Stochastic Processes
+Digital Communications
+Telecommunication Networks I
+   
+     
+  YEAR 4 OPTIONS
+   Students must take three modules from the following modules:
+Antennas and Propagation
+Digital Signal Processing
+Telecommunication Networks II
+Cryptography and Information Security
+Advanced Security Topics
+Algorithm Design and Analysis
+Mobile and Personal Communications
+Optical Communications
+Communications Theory
+Network Theory
+Web Infrastructure
+Robotic Systems

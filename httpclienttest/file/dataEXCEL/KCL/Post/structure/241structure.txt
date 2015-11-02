@@ -1,0 +1,460 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Cellular Immunology
+Molecular Immunology
+Autoimmunity and Disease
+Autoimmune Inflammatory Rheumatic Diseases
+Cancer and the Immune System
+Infection and Immunity
+Extrinsic Allergic Diseases
+Transplantation Immunology and Transfusion Medicine
+Immunodeficiency and Infection Control
+Immunodiagnosis Quality Control and Laboratory Management
+Immunology Research Project.
+Please see the modules list for further information.
+     
+   Indicative non-core content
+   There are no optional modules on the MSc Medical Immunology programme. In order to be eligible for the award of PG Diploma, you may select (and pass) eight of the ten taught modules. In order to be eligible for the award of PG Certificate, you may select (and pass) four of the ten taught modules.
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures one day per week; 10 taught modules (15 credits each) examined by written essays, written practical/data interpretation and learning logs. The 11th module (Research Project) has a value of 45 credits and is examined by a written project and oral component.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Autoimmune Inflammatory Rheumatic Diseases - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MCEMM08    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Theoretical basis of autoimmunity
+Organ-specific autoimmunity, its pathology, clinical presentation and management
+Diagnostic tests
+Endocrine autoimmunity
+Liver autoimmunity
+Animal models of autoimmunity
+Autoimmune disease and immune complexes
+Immunogenetics and autoimmune disease
+Myasthenia gravis and multiple sclerosis
+Psoriasis and other skin disorders
+Rheumatoid arthritis, other inflammatory and rheumatic disease
+Infection and autoimmune disease
+Glomerulonephritis
+Inflammatory bowel disease
+
+
+  
+    Autoimmunity And Disease - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MCEMM07    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Theoretical basis of autoimmunity
+Organ-specific autoimmunity, its pathology, clinical presentation and management
+Diagnostic tests
+Endocrine autoimmunity
+Liver autoimmunity
+Animal models of autoimmunity
+Autoimmune disease and immune complexes
+Immunogenetics and autoimmune disease
+Myasthenia gravis and multiple sclerosis
+Psoriasis and other skin disorders
+Rheumatoid arthritis, other inflammatory and rheumatic disease
+Infection and autoimmune disease
+Glomerulonephritis
+Inflammatory bowel disease
+
+  
+    Cancer And The Immune System - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MCEMM09    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module explains how current immunological knowledge is applied to diagnosis, disease assessment and therapeutic management of the cancer patient. We discuss how knowledge of the impact of cancers on the immune system is dependent upon an understanding of the neoplastic process as well as of the immune system itself, and we illustrate the field with reference to tumours of the immune system as well as other body tissues.
+Cancer cell biology
+Immunohistochemistry in the diagnosis and staging of tumours
+Immune response to tumour: cancer surveillance and immunodepression
+Cytokines: their role in the host-tumour relationship
+Monoclonal antibodies in diagnosis and treatment of cancer
+Cellular therapy for cancer: from peptides to dendritic cells
+Cancer vaccines  
+Cancer gene therapy
+Immunological readouts to measure effects of cancer immunotherapy
+
+Students are thereby expected to appreciate that the immunological response to tumour may be sensitisation or secondary immunodepression and to understand the rationale for research into cancer vaccines and gene therapy. This module deals with application of some of the leading-edge developments of molecular medicine to the problems of diagnosis and treatment of the tumour-bearing host.
+  
+    Cellular Immunology - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MCEMM05    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Quantification of immunoglobulins
+The major histocompatibility complex
+Lymphocyte populations and sub-populations
+Anatomy of the immune system
+Structure and function of bone marrow and thymus
+The function of the major histocompatibility complex
+The structure and function of T cell receptors
+T cell ontogeny and function
+Cytokines
+Phagocytes
+B cell ontogeny and function
+Inflammation
+Mast cells, basinophils, NK cells and eosinophils
+Tolerance and immunoregulation
+
+  
+    Extrinsic Allergic Diseases - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MCEMM11    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module concerns the spectrum of extrinsic allergic diseases attributable to local and systemic hypersensitivity reactions of the sensitised host to non-replicating antigens of plants, animals, insects, fungal spores, occupational chemicals, anaesthetic and diagnostic chemical agents. The immunopharmacology, immunopathogenesis and clinical features of allergic diseases of the respiratory tract, skin, eye and gastrointestinal tract are described and the systemic reactions of acute anaphylaxis are explained. Particular attention is directed towards understanding the cellular mechanisms and immunopharmacology involved, and how this knowledge contributes to the understanding and development of anti-allergic drug treatment as well as to patient management. The importance of this module lies in the increasing prevalence of allergic diseases in both children and adults; and evidence of genetic predisposition is brought up-to-date.
+Spectrum of allergic disease
+IgE structure, function and measurement
+Mediators of IgE dependent reactions
+Immune and inflammatory mechanisms and the T-cell allergic response
+Asthma/rhino-conjunctivitis
+Atopic dermatitis; genetic predisposition
+Occupational asthma  
+Treatment of allergic disease: allergen avoidance, hyposensitisation
+Anaphylactic and anaphylactoid reactions
+Diagnostic procedures
+
+Having completed this module, students will appreciate how increasing knowledge of pathogenetic mechanisms underlies improved treatment modalities and how laboratory and clinical test procedures are used to investigate the identity of allergens responsible for the local or systemic syndrome.
+  
+    Immunodeficiency And Infection Control - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MCEMM13    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module reviews current knowledge and growing points in the understanding of genetic (primary) and acquired (secondary) forms of immunodeficiency and the clinical disorders that can develop in association with them in infancy, childhood and adult life. Knowledge of pathways of haemopoiesis and immune/accessory-cell maturation reveal sites affected by genetic immunodeficiencies which might also be &lsquo;risk sites&rsquo; for forms of secondary immunodeficiency. The clinical features of immunodeficiency disorders are illustrated by case presentations and there are laboratory practical demonstrations which concern how the individual with a suspected immunodeficiency disorder is investigated.
+Haemopoietic cell and immune-cell maturation pathways
+Ontogenesis of the human immune system
+Genetics, molecular basis and clinical features of B-cell, T-cell, opsonin, complement, and the phagocyte deficiency syndromes
+The spectrum of HIV disease and AIDS: laboratory and clinical aspects
+Hypergammaglobulinaemia: diagnosis and treatment of antibody deficiencies
+Secondary immunodeficiency: arguably, the most important immunological disorder
+Laboratory tests for the investigation of suspected immunodeficiency
+Case scenarios and quiz
+
+Having attended this module students are expected to understand how knowledge of the genetics and cell maturation pathways now identified in forms of primary immunodeficiency leads to immunodiagnostic tests and therapeutic management. Students are also expected to understand how the many factors that cause secondary immunodeficiency, including virus infections such as HIV, disturb specific molecular and cellular pathways of the immune response; and to appreciate the implications for diagnosis and management of the associated disorders.
+  
+    Immunodiagnosis Quality Control And Laboratory Management - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MCEMM14    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The purpose of this module, which may be taught in two blocks, is to put into perspective the practical aspects of NHS clinical immunology laboratory services in the United Kingdom. In practical immunodiagnosis we review the scientific basis and clinical interpretation of the common categories of immunological laboratory tests and discuss the major criteria of diagnostic performance whereby the utility of these procedures is judged in clinical practice. Quality Control and Quality Assurance are the subject of lectures and class exercises aimed to clarify the definitions and usage of terms used to express variations in results; whilst laboratory and clinical audit, and accreditation procedures, are presented in the context of clinical governance of the NHS and the clinical and scientific need to continually improve the quality of laboratory and clinical services in Immunology.
+Concepts of normality and abnormality as applied to immunological status
+Laboratory performance criteria of within-test, and between-test variation of results
+Clinical performance criteria of immunochemical, autoimmune and cellular-based laboratory tests for diagnosis, monitoring and exclusion of immunological disease
+Internal quality control, external quality assurance and the use of biological standards of immunological reactants
+Laboratory and clinical audit
+Accreditation procedures and their relationships to continued audit in the maintenance of quality
+Clinical governance: principles and practice of the management of immunological services
+
+By means of this module the student will appreciate how abnormal immune status in disease is quantified within individual patients and how the diagnostic and prognostic utility of the various test procedures make up the field of medical Immunology. The student will thereby understand the conceptual and operational basis for maintaining the quality of service work in applying immunological science to the practice of clinical immunology in the NHS.
+  
+    Immunology Research Project - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MCEMM15    
+  
+    Credit level:  
+7  
+    Credit value:  
+45    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  To provide the fundamental principles and experience of postgraduate research in medical immunology through the undertaking of a research project and completion of a formal written thesis.
+ In relation to the areas listed below, a deep, experience-based knowledge accompanied by systematic understanding.
+Experiment design
+Performance of practical immunology techniques
+Awareness of the ethical dimension of clinical research, and applying for ethical approval
+Organization of time and effort
+Reading and critical interpretation of background literature
+Interpretation of results
+Statistical methods
+Writing and presentation skills
+Oral presentation skills
+
+  
+    Infection And Immunity - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MCEMM10    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module provides an overviews of mechanisms of host defence against infection by bacteria, viruses and protozoa, and brings the student up-to-date on the present status of new vaccine design and immunisation against communicable diseases. Illustrative clinical syndromes arising from these infections are discussed in depth and the relative role of microbial spread, local and systemic reactions of tissue damage, toxic shock, hypersensitivity mechanisms, immune evasion, and systemic and mucosal immunity are described and evaluated.
+Principles of infection and immunity; immune evasion
+Mechanisms of host defence against infective agents
+Pathogenesis of infectious disease
+Staphylococcus aureus, salmonella, shigella.
+Mycobacterial infections: immunopathogenesis, immunotherapy; and in HIV disease
+Influenza, viral hepatitis, EB virus, papillomaviruses.
+HIV and AIDS
+Role of cytokines and immunity, immunopathogenesis and infective shock
+Malaria and Leishmaniasis
+Current and novel vaccines; immunisation practice
+Immunological and molecular biological techniques in diagnosis and patient monitoring
+
+Having attended this module students should be able to appreciate the role of the immune system in recovery and resistance to infection, the role of immunopathological mechanisms in the major clinical illnesses of infectious disease, the immunological and molecular biological principle involved in vaccine design and application, the place of immunological techniques in diagnosis.
+  
+    Molecular Immunology - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MCEMM06    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The nature of antigens
+Immunoglobulins
+Antigen-antibody complexes
+Monoclonal antibodies
+Paraproteins
+Genetic basis of antibody diversity
+Complement
+Acute phase proteins
+Fc receptors
+Affinity/avidity
+Immunoglobulins
+Complement
+Acute phase proteins
+
+  
+    Transplantation Immunology And Transfusion Medicine - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MCEMM12    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module provides a comprehensive survey of the present state of knowledge in the field of immunology, solid organ and stem-cell transplantation, blood transfusion and pregnancy. Particular emphasis is placed upon explaining the structure and functions of the major histocompatibility gene locus and its protein products, in mechanisms of graft rejection and induction of transplantation immunity. Immunological and molecular biological techniques in tissue typing are explained and the latest results of allotransplantation and xenotransplantation procedures are compared.
+Genetics of MHC
+Molecular organisation of the MHC
+Structure of MHC molecules
+llorecognition
+Minor histocompatibility antigens
+Cytokines and adhesion molecules in allograft rejection
+Mechanisms and histopathology or organ graft rejection
+Clinical and immunological aspects of solid organ and stem cell transplantation, blood transfusion and pregnancy
+Graft-versus-host disease and bone marrow transplantation
+Immunomodulation
+erological, molecular and cellular techniques for tissue typing
+HLA and disease
+Reproductive immunology
+Xenotransplantation: prospects for the future?
+
+Students should thereby appreciate the role of MHC and its products in the genetic control ofimmune responsiveness, as targets for immunological mechanisms of graft rejection and as molecules associated with multifactorial disease processes. Having attended the module students should be able to discourse on prospects for the future in improving the results of transplantation practice and the extent to which transplantation tolerance may be achieved by immunological means in humans.

@@ -1,0 +1,220 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Core module (Research   Consultancy pathways: 60 credits):
+7SSG5181Dissertation in Environmental Monitoring, Modelling and Management (60 credits) (must Take and Pass)
+Compulsory module (Research   Consultancy pathways: 20 credits):
+7SSG5110 Methods for Environmental Research (20 credits, T1)
+Compulsory module (Research pathway: 20 credits):
+7SSG5111 Environmental Research Design and Application (20 credits, T1)
+Compulsory module (Consultancy pathway: 20 credits):
+EITHER 7SSG5117 River Processes and Management (20 credits, T2) OR 7SSG5165 Environmental Science and Policymaking (20 credits, T2)
+
+     
+   Indicative non-core content
+   Optional modules (80&minus;110 credits):
+Students must take 80 credits optional modules, with at least 60 credits from the &ldquo;list of prescribed optional modules&rdquo; given below, and the other credits may come from any Level 7 (Masters) modules offered in the Geography Department (including those on the list of prescribed optional modules). Students on either stream who wish to take greater than 180 credits overall (for a maximum total of 210 credits) will require approval from the Programme Director using the Module Amendment Form available from https://internal.kcl.ac.uk/sspp/stu/geog/student-forms.aspx
+. However, it is not necessary to take these additional credits and it is strongly advised that students generally restrict themselves to the minimum number of credits required.
+List of Prescribed Optional Modules:
+7SSG5029 Environmental Remote Sensing (20 credits, T1)
+7SSG5031 Modelling Environmental Change at the Land Surface (20 credits, T2)
+7SSG5035 Monitoring Environmental Change (20 credits, T1)
+7SSG5109 Environmental GIS (20 credits, T2)
+Other Optional Modules Available to Students on this Programme:
+Any Level 7 (Masters) modules offered in the Geography Department, including from the list of prescribed optional modules given above.
+Up to 20 credits of Level 7 modules from any KCL Departments or Institutes outside of Geography. &dagger;
+&dagger; Students may take up to 20 credits of their programme&rsquo;s optional modules, in departments or institutes outside of the Geography Department (i.e., non-7SSG modules). Approval will be subject to justification to and written approval of their Programme Director using the Permission to take modules in other KCL Departments/Institutes form (see https://internal.kcl.ac.uk/sspp/stu/geog/student-forms.aspx)
+ and subject to availability and signed permission from the appropriate department/institute administrator (in the exterior department/institute) to allow them on the module.
+     
+   
+   FORMAT AND ASSESSMENT
+  Specialist taught modules assessed by report, presentation, lab work and occasionally by examination. The three-month dissertation is compulsory and can be taken overseas or in the UK.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Environmental GIS - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7SSG5109    
+  
+    Credit level:  
+7  
+    Credit value:  
+20    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module enables students to capture spatial GIS data from a variety of sources, to assess and manage spatial data quality, to integrate and analyse these data within the latest business and research standard GIS environments. The module focuses particularly on the integrated use of spatial (GIS) data alongside remote sensing technologies and simulation models for better understanding and managing the natural environment. Various aspects of spatial and spatio-temporal analysis are covered and the role of GIS in supporting management decisions is emphasised. Course materials focus on the physical environment and ecological systems but include socio-economic information where necessary.
+Note that the list of Geography modules offered, as well as the term(s) in which they are offered, may still change from the above.
+  
+    Environmental Remote Sensing - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7SSG5029    
+  
+    Credit level:  
+7  
+    Credit value:  
+20    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The module enables students to understand the information content of optical, thermal and radar remotely sensed data and to be able to identify the appropriate type of data for use in different environmental investigations. Students will learn to understand and apply various data calibration, processing and analyses techniques to maximize the interpretation of remotely sensed imagery. They will search, order and import various types of remote sensing data into appropriate software packages, and will be able to identify, obtain, calibrate, process and interpret data from sensors such as the Advanced Very High Resolution Radiometer and/or Landsat Thematic Mapper to illustrate examples of environmental change phenomena.
+Note that the list of Geography modules offered, as well as the term(s) in which they are offered, may still change from the above.
+  
+    Methods For Environmental Research - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7SSG5110    
+  
+    Credit level:  
+7  
+    Credit value:  
+20    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module aims to provide a background in issues and methods involved in doing environmental research, including research methods and design. To achieve this, the module consists of a series of lectures, seminars, and practicals giving an overview of methods in designing, analyzing, presenting and evaluating environmental research. A subcomponent of this module will be an additional unassessed but required set of practicals and seminars giving a overview of laboratory and field equipment available in the KCL Department of Geography. On completion of this module, the student will be able to define the features of environmental problems and will be able to assess environmental investigations in terms of their design strategies for collection of data, data analysis, and results presentation. When taken with SG/5111 the students will be fully equipped to carry out their own independent research into environmental problems using these methodologies.
+Note that the list of Geography modules offered, as well as the term(s) in which they are offered, may still change from the above.
+  
+    Modelling Environmental Change At The Land Surface - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7SSG5031    
+  
+    Credit level:  
+7  
+    Credit value:  
+20    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  Through seminars and hands on experience, this module enables students to develop a research-level understanding of environmental modelling applications and limitations. Students will gain the ability to build, develop and apply a wide-range of modelling solutions to environmental problems. Students will also be able to critically assess research involving models and the application of models.
+Note that the list of Geography modules offered, as well as the term(s) in which they are offered, may still change from the above.
+  
+    Monitoring Environmental Change - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7SSG5035    
+  
+    Credit level:  
+7  
+    Credit value:  
+20    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module introduces students to the details and practicalities of environmental monitoring, using a variety of methodologies and measurement techniques, specifically using electronic-based sensors and instrumentation. Students acquire the skills to manipulate raw field, laboratory and logged data for analysis, to monitor, measure and analyse data on environmental stores and fluxes, and to interpret, analyse and present field and laboratory data clearly in written reports in order to explain processes operating in the environmental system under investigation. Students will also gain experience to design field or laboratory based research projects to monitor environmental systems, making use of appropriate field, laboratory and measurement equipment. Field monitoring methods are taught in the context of atmospheric environments, catchment monitoring, fluvial systems, hydrological processes, complemented with a practical fieldwork exercise.
+Note that the list of Geography modules offered, as well as the term(s) in which they are offered, may still change from the above.
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Environmental Research Design   Applications - Optional
+
+    
+  
+      
+     Module code:  
+7SSG5111    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    
+  
+       
+    
+     
+  This module aims to provide a thorough experience in designing environmental investigations to be carried out through a combination of simulation modelling, environmental monitoring, laboratory experiments and/or statistical analysis. It consists of a practical research project with individual/small group supervision to put the issues learnt in Methods for Environmental Research into practice. On completion of the module, students will be able to design strategies for collection of data, use advanced data analysis techniques, and present the results of investigations both orally and in written form, and thus be capable of carrying out independent research in related issues. In this way, the student will be prepared to carry out a detailed individual study in the dissertation component of the MSc programme. In combination with the dissertation, the module enables the student to go on to carry out further research, whether this be at PhD level, or within a research institute where applied research into environmental problems is carried out.
+Note that the list of Geography modules offered, as well as the term(s) in which they are offered, may still change from the above.

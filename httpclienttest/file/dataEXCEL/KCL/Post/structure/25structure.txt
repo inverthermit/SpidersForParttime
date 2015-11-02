@@ -1,0 +1,209 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Please see the modules list below for a basic description of each of the modules, which are studied in the following order:    
+Principles of Analytical Toxicology
+Biochemical Toxicology
+Clinical   Forensic Toxicology
+Advanced Analytical Toxicology
+Analytical Research Project.
+
+Follow this link for  a complete guide to module content
+, which can also be found under the Further Information tab, Further Literature section.
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Four taught modules, providing a firm theoretical and practical (laboratory) training in specialist skills. Also an in-depth laboratory-based research project. The assessment of the taught modules is by written examination paper and coursework (practical reports, case studies, poster and oral presentations, essays). The research project is judged on the basis of a written report, poster presentation and mini viva voce.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Advanced Analytical Toxicology - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBFA009    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This highly practical module will provide you with an in-depth understanding of sample handling, immunoassay, techniques, on-site and point of care testing for drugs and alcohol, as well as the latest mass spectrometry instrumentation.
+ Topics include: 
+ Advanced sample handling, including consideration of matrices, solid phase extraction and microextraction
+ On-site testing for drugs and alcohol, including near patient testing devices as used in roadside testing
+ Mass spectrometry techniques and instrumentation
+
+ Practicals and workshops give hands-on experience to learn the key  elements of sample extraction, immunoassay, on-site testing, and mass spectrometry.
+  
+    Analytical Toxicology Research Project - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBFA010    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  All students will carry out a relevant supervised project to develop research skills and detailed understanding of a specific technique. Wherever possible, this will be at an external clinical or external forensic laboratory. We realise that for some students, an external placement may be difficult and if this is the case, internal placements within King&rsquo;s College London may be found, for example, within the Drug Control Centre.
+  
+    Biochemical Toxicology - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBFA007    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module provides an understanding of the fundamental principles of drug absorption, distribution, metabolism and excretion. It also covers elementary pharmacokinetics, mechanisms and principles of toxicology and pharmacogenetics relating to drug development and safety evaluation. Students will learn how to interpret and integrate a broad range of toxicological information, and apply their skills in the assessment of actual and potential acute or chronic drug toxicity. In addition, this module also addresses the toxicological assessment of a number of important chemical poisons, including heavy metals and pesticides.
+ Topics include: 
+Chemistry for biologists and biology for chemists
+Anatomy and physiology, including an introduction to clinical biochemistry
+Pharmacological classification and drug action
+Drug absorption, distribution and elimination
+Xenobiotic biotransformation
+Functionalisation reactions
+Conjugation reactions
+Factors affecting drug metabolism
+Pharmacokinetics and pharmacokinetic parameters
+Intravenous and oral drug administration
+Multiple dosing
+Principles of toxicology and toxic response
+Toxicokinetics
+Specific examples of drug toxicity
+
+  
+    Clinical And Forensic Toxicology - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBFA008    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module provides an in-depth understanding of common drugs and chemical poisons relevant to both clinical and forensic toxicology.
+A strong emphasis is placed is on the application of modern analytical methods to the measurement of drugs, chemical poisons and their metabolites in biological fluids in both a clinical and medicolegal context. The emphasis of this module is to integrate aspects of clinical pharmacology, drug metabolism and pharmacokinetics, with extensive use of both clinical and forensic case reports concerning suspected poisoning and drug misuse. This module will include data evaluation, report preparation and presentation, tutorials and workshops.
+Topics include: 
+Drug misuse, poisoning and its epidemiology
+The clinical management of poisoning
+The clinical and forensic toxicology of alcohol, methanol, amphetamines, cannabis and cannabinoids, cocaine, opiates and opoids, including laboratory techniques used in  the investigation of abuse, overdose or intoxication
+Newer drugs such as GHB, ketamine and piperazines
+Benzodiazepines and related hypnotic drugs
+Psychotropic drugs
+Pesticides
+Non-opoid analgesics such as paracetamol and aspirin
+Cardiovascular agents, including beta blockers, antiarrhythmic agents and digoxin
+Metallic poisons, including arsenic, lead, mercury and thallium
+Therapeutic drug monitoring
+Drugs in sport
+Poisonous plants and herbal medicines
+Fire deaths related to suspected carbon monoxide and cyanide poisoning
+
+The module also covers the role of laboratory investigations in the diagnosis and management of suspected poisoning or sudden or unexpected deaths, best practice in techniques applied and their application to patient care and the medico-legal aspects of drug abuse and poisoning. 
+Workshop topics include: 
+Post-mortem toxicology
+Paediatric clinical and forensic toxicology
+Forensic issues relating to drugs and alcoholrelated criminal cases
+The practical forensic aspects of blood and urine alcohol measurement
+
+  
+    Principles Of Analytical Toxicology - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBFA006    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  An introduction to the major chromatographic, spectroscopic and spectrometric techniques applied to analytical toxicology, the instrumentation used and the scientific principles underlying the instrumentation. Students will be tutored on applying the appropriate analytical techniques for different sample types and cases, bearing in mind the advantages and disadvantages of each method, as well as specimen collection, preservation, storage and documentation.
+ Topics include: 
+Immunochemical techniques
+Chromatography; spectroscopy and spectrometry
+Mathematics for analysts
+Auality assurance
+Specimen  preparation and extraction
+
+ A series of practicals, workshops and tutorials include: 
+Chemometrics (calculations for analysts)
+Laboratory skills including health and safety, pipette skills and volumetric work
+Gas chromatography
+High performance liquid chromatography
+Specimen collection, preservation and storage, chain of custody and documentation of specimens

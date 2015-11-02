@@ -1,0 +1,199 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   MSc, PG Dip   PG Cert:
+7MIGMP01 - Clinical Practice in Nuclear Medicine [30 credits]
+7MIGMP02 - Radiopharmaceutical   Regulatory Issues in Nuclear Medicine [15 credits]
+
+MSc only:
+7MIGMP03 - Scientific Basis of Nuclear Medicine [15 credits]
+7MIGMP04 - Diagnostic Nuclear Oncology   Radionuclide Therapy [15 credits]
+7MIGMP05 - Practical Nuclear Medicine [60 credits]
+7MIGMP06 - Nuclear Medicine Research [60 credits]
+
+Please see the module list for more details.
+
+     
+   Indicative non-core content
+   PG Dip   PG Cert:
+7MIGMP03 - Scientific Basis of Nuclear Medicine [15 credits]
+7MIGMP04 - Diagnostic Nuclear Oncology   Radionuclide Therapy [15 credits]
+
+PG Dip:
+7MIGMP05 - Practical Nuclear Medicine [60 credits]
+7MIGMP06 - Nuclear Medicine Research [60 credits]
+
+Please see the module list for more details.
+     
+   
+   FORMAT AND ASSESSMENT
+  MSc, PG Dip   PG Cert: unseen written exams and essays for taught modules; 
+MSc   PGDip: portfolio of clinical studies, audit and experiments and an unseen clinical exam for Practical module; report on research project and short oral exam for Research module.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Clinical Practice of Nuclear Medicine - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MIGMP01    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This course provides a comprehensive systemic training in non-imaging and imaging diagnostic nuclear medicine. Students will develop an understanding of the theory of diagnostic studies through a programme of lectures and self-directed learning. 
+  
+    Diagnostic Nuclear Oncology And Radionuclide Therapy - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MIGMP04    
+  
+    Credit level:  
+7  
+    Credit value:  
+30    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This course provides students with an understanding of the basic principles of radionuclide therapy, radiation protection and radiation biology.
+ The course will include training in the protection requirements of clinical practice in thyroid cancer, neuro-endocrine tumours, bone metastases, benign joint disease, radio-immuno and radio-peptide therapy through a programme of lectures, tutorials and demonstrations. The students will acquire the knowledge necessary to undertake radionuclide therapy in a safe and appropriate manner.
+  
+    Nuclear Medicine Research - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MIGMP06    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This course provides students with a scientifically rigorous research experience through undertaking a piece of research work and writing a report of the findings including a relevant literature review and appropriate statistical analysis.
+  
+    Practical Nuclear Medicine - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MIGMP05    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This course provides practical training in nuclear medicine through attachments in approved (regulated and monitored) service departments. Students will develop an understanding of the practical aspects of clinical nuclear medicine and its scientific base. This will include patient preparation, study acquisition and processing and practical issues associated with therapy through a programme of supervised practice and exercises.
+
+  
+    Radiopharmaceutical   Regulatory Issues In Nuclear Medicine - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MIGMP02    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 1 (autumn);    Semester 2 (spring);      
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+   
+    
+    
+    
+     
+  This course will describe the scientific basis of radiopharmacy and its application to nuclear medicine functions in the UK. Health and safety legislation and the regulatory bodies concerned with radioactive materials will also be covered. On completion of the course, students will have an understanding of the principles of radiopharmaceutical design, an appreciation of the practical aspects of radiopharmacy operation and a knowledge of regulatory control in nuclear medicine. Assessment is by written examination and coursework.
+  
+    Scientific Basis Of Nuclear Medicine - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7MIGMP03    
+  
+    Credit level:  
+7  
+    Credit value:  
+30    
+    
+      Semester:  
+    Semester 1 (autumn);    Semester 2 (spring);      
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+   
+    
+    
+    
+     
+  This course will describe the scientific basis of nuclear medicine and its practical application to nuclear medicine. It will also cover the equipment used, statistical methods and the role of computing in the acquisition, processing, display and communication of nuclear medicine studies. On completion of the course, students will have a strong scientific base for the understanding of the practical aspects of nuclear medicine. Assessment is by written examination and coursework.

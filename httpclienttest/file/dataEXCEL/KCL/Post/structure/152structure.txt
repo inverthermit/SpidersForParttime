@@ -1,0 +1,36 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   7 core 15 credit modules
+30 or 60 credit research project
+3 optional 15 credit modules
+
+Introduction to human genetics and genomics (15 credits)
+This module provides an introduction to the key areas of genomics, human genetics and genetic variation, including an understanding of disease genetics and how genomic medicine can be utilised to elucidate disease mechanisms and biology. It also covers information governance issues in genomics.
+Omics techniques and their application to genomic medicine (15 credits)
+This module covers the range of multi-omics technologies, their interpretation and application in key areas of healthcare such as cancer, rare inherited diseases and infectious diseases, as well as research.
+Genomics of common and rare inherited diseases (15 credits)
+This module provides an introduction to the clinical presentation and manifestations of rare inherited and common diseases, and considers the patient and family perspective with respect to the role and impact of genomics. It reviews traditional and current strategies and techniques used to identify genes responsible for both common multifactorial and rare inherited diseases.
+Genomics in cancer pathology (15 credits)
+This module provides detailed knowledge and understanding of the molecular mechanisms involved in cancer development, including how interrogation of a person&rsquo;s own genome and the genome of tumour cells can facilitate the diagnosis and treatment of cancer.
+Pharmacogenomics and stratified healthcare (15 credits)
+This module provides a comprehensive overview of the analytical strategies and techniques used in pharmacogenomics and explores some of the challenges and limitations in this field. It also provides an overview of the different type of genomic biomarkers currently in use or emerging.
+Application of genomics in infectious disease (15 credits)
+This module shows how genomics can be used to provide more accurate diagnosis, predict which drugs are likely to be more effective, and monitor treatment and control of infectious disease in both individuals and populations.
+Bioinformatics, interpretation, statistics and data quality assurance (15 credits)
+This module provides the knowledge and understanding required to critically interpret existing genomic research, and develop the skills to formulate research questions. It also provides the skills to collect, analyse and interpret NHS data using a basic range of statistical and bioinformatics techniques.
+60 Credit Research project or 30 Credit library-based dissertation
+The research module can be approached by two different routes depending on student preference: a full research project of 60 credits or a literature review dissertation of 30 credits. If the latter is chosen, additional optional modules must be undertaken to fulfil the requirements of 180 credits for the MSc degree.
+     
+   Indicative non-core content
+   Students will also have the option to study:
+Ethical, legal and social issues in applied genomics (15 credits)
+This module aims to provide a framework for ethical understanding of medical genomics. Students will be provided with a platform of ethical understanding from which to consider issues of human confidentiality, autonomy, disclosure, informed consent and natural justice.
+Counselling skills in genomics (15 credits)
+The aim of this module is to equip students with the knowledge, communication and counselling skills and appropriate attitudes and behaviours towards the diagnosis and management of patients whose care will be influenced by genomic investigations.
+Cardiovascular genetics and genomics (15 credits)
+The aim of this module is to introduce students to the role of genomics in the pathogenesis of cardiovascular disease, both in terms of common and rare disease, and will discuss the impact our growing knowledge of the genomic aetiology of these conditions is having on management.
+     
+   
+   FORMAT AND ASSESSMENT
+  Modules taught in one week blocks including face to face and on line teaching. Learning material delivered as lectures, tutorials and workshops. Each taught module assessed by two pieces of assessment that varies between modules and include multiple choice questions, extended essays, case studies or role play.

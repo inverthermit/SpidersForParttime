@@ -1,0 +1,191 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Required modules:Principles of Psychiatric Research and Psychiatric Epidemiology
+Analytic Methods for Psychiatric Research
+Mental Health Services Research: Theory to Practice
+Systematic Reviews in Mental Health
+
+     
+   Indicative non-core content
+   Optional modules:Measurement in Mental Health
+Mental Health Economic Evaluation
+Qualitative Research Methods
+Social Psychiatry: Theory, Research and Methods
+Advanced Statistical Methods in Psychiatric Epidemiology
+Research on Stigma and Discrimination
+Women's Mental Health Research
+
+     
+   
+   FORMAT AND ASSESSMENT
+  A combination of lectures, group tutorials and discussions, classroom and computer-based practicals, student presentations and practical workshops. Assessment includes formative exercises, coursework assignments, unseen examinations and a dissertation project.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Mental Health Services Research: Theory To Practice (15 Credits) - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PALMHSR    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The educational aims of this module are to provide students with an in-depth knowledge and extended skills in mental health services research interventions, using the Medical Research Council Framework for Complex Health Interventions.
+By the end of the module the student will be able to:
+1. Understand the theoretical framework for undertaking mental health services research
+2. Formulate a research question
+3. Use electronic databases to identify relevant evidence
+4. Define a 'model'
+5. Develop testable models of complex interventions
+6. Identify methods of investigating health service interventions
+7. Develop a protocol for an exploratory trial
+8. Differentiate between an exploratory trial and a definitive randomised controlled trial (RCT)
+9. Develop a protocol for a definitive RCT
+10. Describe the key components of an evidence-based approach to dissemination
+11. Develop an evidence-based strategy for dissemination
+Assessment is by a 2500-word essay, which accounts for 100% of the final grade for this module.
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Advanced Statistical Methods In Psychiatric Epidemiology (15 Credits) - Optional
+
+    
+  
+      
+     Module code:  
+7PAYR105    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The educational aims of this module are to equip the student with an in depth understanding of, and ability to perform, complex statistical techniques (such as multivariate analyses, linear and logistic regression, Cox regression) and to develop an appreciation of the appropriate circumstances under which to apply these techniques.
+By the end of the module the student will understand: the conceptual basis for multivariate analysis in epidemiological research, in particular concepts relating to causal pathways, confounding, mediation and effect modification; and be able to apply the following procedures in the analysis of epidemiological date: linear regression, ANOVA and generalised linear modelling; logistic regression; Cox proportional hazards modelling; the uses and conceptual basis for multi-level modelling and the techniques and packages available.
+Assessment is by a 2500-word essay, which accounts for 50% of the final grade for this module.
+  
+    Measurement In Mental Health (15 Credits) - Optional
+
+    
+  
+      
+     Module code:  
+7PAGRMMH    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The educational aims of this module are to provide the student with an in-depth understanding of the history, principles and practice of measurement methodology in mental health research.
+By the end of the module the student will:
+1. understand in detail the historical development and current status of the concept of a case in mental health research,  and how  it is operationalised through internationally standardised diagnostic criteria and structured clinical assessments.
+2. have an advanced understanding of what is meant by validity and reliability, and be able to (a) assess the psychometric credentials of a measure for use in a particular context and (b) devise suitable methods for establishing validity and reliability of a measure
+3. be able to independently devise the structure a simple questionnaire
+4. develop a detailed understanding of classical and IRT scaling theory, and be familiar with the essentials of developing and validating a new scale.
+Assessment is by a 2500-word essay, which accounts for 100% of the final grade for this module.
+  
+    Qualitative Research Methods (15 credits) - Optional
+
+    
+  
+      
+     Module code:  
+7PALMQVA    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The educational aims of this module are to provide students with an in depth understanding of qualitative research and skills needed to design, conduct and analyse qualitative research in the mental health field. The approach will be pragmatic, drawing on research studies conducted by the course tutors. 
+
+By the end of the module the student will be able to understand and apply:
+1. the complementary roles of qualitative and quantitative methods of enquiry
+2. the strengths of the qualitative approach to understanding beliefs and behaviours from the subjects' perspective
+3. the main qualitative methods of data collection applicable to mental health services research
+4. how to apply these methods to developing and evaluating mental health services
+5. methods of qualitative data analysis, including practical use of computer software
+6. dissemination of findings
+7. critical appraisal of qualitative research
+
+Assessment is by a 2500-word essay, which account for 100% of the final grade for this module.
+  
+    Systematic Reviews in Mental Health (15 credits) - Optional
+
+    
+  
+      
+     Module code:  
+7PALMSYS    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  This module provides students with an advanced understanding and practical knowledge of systematic reviews, and the problems and limitations associated with this type of research method. The course will focus on systematic review procedures for intervention studies, particularly RCTs, although reviews of other types of study design will be discussed.
+
+By the end of the module the student will be able to: understand the reasons for doing a systematic review; formulate questions appropriate for systematic reviews; develop a protocol for a systematic review; design and undertake comprehensive searches for relevant studies; critically appraise studies for inclusion in a systematic review; understand the potential impact of strengths and weaknesses of studies in a systematic review; understand how data can be used in meta-analyses; understand the role and work of the Cochrane Collaboration; produce a publication standard protocol for a systematic review; prepare a full systematic review.
+
+Assessment is by a 2,500-word essay, which accounts for 100% of the final grade for this module.

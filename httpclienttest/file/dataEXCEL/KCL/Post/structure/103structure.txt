@@ -1,0 +1,37 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   n/a
+     
+   Indicative non-core content
+   Year 1 Compulsory Modules (Humboldt)
+Digital Preservation Technologies
+Information Ethics and Legal Aspects
+Research Methods
+Digital Preservation
+Digital Libraries
+Knowledge Representation.
+
+Year 2 Compulsory Modules (King's College London)
+Dissertation
+Indicative non-core content  
+Optional Modules (King's College London)
+Students will in addition select  three modules from a diverse list of optional modules, including the following:
+  
+7AAVDM07 From Information to Knowledge &ndash; Metadata and Systems for digital assets and media
+7AAVDM09 Management for Digital Content Industries
+7AAVDM06 Crowds and Clouds - Digital Ecosystems
+7AAVDM04 Curating and Preserving Digital Culture
+7AAVDM10 Digital Media, Digital Marketing
+7AAVDM03 Internship
+7AAVDH05 Digital Publishing
+7AAVMDAT Structured Data in the Digital Humanities: databases   semantic web
+7AAVDH06 Editorial models for Digital Texts: Theory and Practice
+7AAVMWEB Web Technologies
+7AAICC39 The Social Life of Big Data
+
+  
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures on theoretical topics; demonstrations; practical classes and exercises. Modules are assessed by coursework and/or examination.

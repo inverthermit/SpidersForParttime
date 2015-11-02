@@ -1,0 +1,38 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Individual project.  
+
+     
+   Indicative non-core content
+   Pure Mathematics:  
+Metric   Banach Spaces
+Complex Analysis
+Fourier Analysis
+Non-linear Analysis (new in 2013)
+Operator Theory
+Galois Theory
+Lie Groups   Lie Algebras
+Algebraic Number Theory
+Algebraic Geometry
+Algebraic Curves (tbc)
+Manifolds
+Real Analysis
+Topology
+Rings   Modules
+Representation Theory
+
+Theoretical Physics:  
+Quantum Mechanics II
+Quantum Field Theory
+String Theory   Branes
+Supersymmetry
+Advanced Quantum Field Theory
+Spacetime geometry and General Relativity
+Advanced General Relativity
+Low-dimensional Quantum Field Theory
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Eight  modules assessed by written examinations; one individual project.

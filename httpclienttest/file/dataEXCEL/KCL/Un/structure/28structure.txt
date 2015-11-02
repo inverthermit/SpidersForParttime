@@ -1,0 +1,95 @@
+Currently, our students study the modules shown below. However, we review our modules on a regular basis, in order to continue to offer innovative and exciting programmes and this list is therefore subject to change. Please check here for updates, or contact the School/Department direct for further advice.   
+  
+     
+    YEAR 1
+  Eight core modules (six in Computer Science and two in Management). 
+     
+   
+  YEAR 1 CORE
+   Computer Science:
+Data Structures (15 credits)
+Programming Practice (15 credits)
+Programming Applications (15 credits)
+Elementary Logic with Applications (15 credits)
+Foundations of Computing I (15 credits)
+Practical Experiences of Programming (15 credits)
+Management:
+Economics (15 credits)
+Organisational Behaviour (15 credits)   
+    
+  
+    
+  
+   
+   
+   
+   
+  
+     
+  
+    
+    YEAR 2
+   Six compulsory modules (four in Computer Science and two in Management), plus two optional modules in Computer Science. 
+   
+   
+  YEAR 2 CORE
+  
+   Computer Science:
+Database Systems (15 credits)
+Operating Systems   Concurrency (15 credits)
+Software Engineering Group Project (30 credits)
+Management:
+Accounting (15 credits)
+Marketing (15 credits)   
+      
+  
+  
+  
+ 
+ 
+   
+  YEAR 2 OPTIONS
+   Computer Science:
+Object-Oriented Specification   Design
+Programming Language Design Paradigms
+Computer Science Logic
+Foundations of Computing II 
+  
+   
+   
+   
+   
+   
+   
+   YEAR 3
+   Spent studying an approved course abroad (30 credits). 
+     
+     
+   
+   
+     
+      YEAR 4
+   Two core modules in Management and one core project in Computer Science, plus four optional modules in Computer Science.   
+      
+  YEAR 4 CORE
+   Computer Science:
+Individual Project (30 credits)
+Management:
+Human Resource Management (15 credits)
+Business Strategy  (15 credits)   
+     
+  YEAR 4 OPTIONS
+   Computer Science:
+Internet Systems
+Software Measurement   Testing
+Parallel Algorithms
+Distributed Systems
+Computational Models
+Software Architecture   Design
+Software Engineering of Internet Applications
+Cryptography   Information Security
+Computer Graphics Systems
+Artificial Intelligence
+Advanced Security Topics
+Optimisation Methods
+Text Searching   Processing

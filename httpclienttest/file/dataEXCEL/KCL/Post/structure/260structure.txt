@@ -1,0 +1,105 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Please see the module list for details.
+     
+   Indicative non-core content
+   Please see the module list for details.
+     
+   
+   FORMAT AND ASSESSMENT
+  Laboratory-based research, chosen from a range of research topics available within the research laboratories of the Randall Division of Cell and Molecular Biophysics, will be written up in the form of a dissertation, presented as a seminar and examined by viva (100 per cent).
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Advanced Biosciences Research Laboratory Techniques - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBBM106    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  By the end of this module students should be able to:
+Understand and follow written experimental instructions, identify key issues and prepare summaries for multi-step experimental procedures
+Carry out advanced biochemistry and molecular biology experiments, analyse, present, and interpret results
+Safely use instruments found in typical bioscience laboratories
+Apply confidence criteria to their results, including reproducibility and accuracy estimates
+Prepare experimental reports of laboratory experiments
+Prepare discussion material and be prepared to relate results to published material
+Describe the outcome of work done and identify the key elements in a typical procedure
+Collect data and apply statistical analysis methods
+Identify safety issues in a laboratory environment.
+
+  
+    Molecular Biophysics Research Project - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBBM111    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The student selects from one of around 15 different projects which are offered by faculty members of the Randall Division of Cell and Molecular Biophysics
+and the Biophysics group on the Waterloo campus. The topics are in laboratories using NMR in solution and solid state, X-ray crystallography of a wide range of proteins, protein-protein and protein-DNA complexes, fluorescence microscopy and spectroscopy, solution biophysical techniques applied to the study of molecules in the immune system. Excellent, recently newly equipped core facilities are available in all aspects of biophysics.
+
+The project is of  seven months' duration and is written up as a 15,000 word dissertation.
+  
+    Principles of Advanced Biophysical Techniques (MRes) - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBBM110    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  At the end of the module, the student studying the project will be well versed in structural biology, fluorescence microscopy, analytical ultracentrifugation, SPR, and circular dichroism techniques, and will be able to clone, express, purify and handle proteins of interest.

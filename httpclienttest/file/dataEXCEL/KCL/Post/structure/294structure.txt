@@ -1,0 +1,54 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Project in Physics.
+
+     
+   Indicative non-core content
+   General Research Techniques   Transferable Skills
+Advanced Topics in Nanoscale Physics
+Experimental Techniques in Condensed Matter Physics
+Bio- and Nanomaterials in the Virtual Lab
+Theoretical Treatments of Nano-systems
+Standard Model Physics and Beyond
+Mathematical Methods in Physics
+Lie Groups   Lie Algebras
+Electromagnetic Theory
+Advanced Quantum Theory
+String Theory    Branes
+Supersymmetry    Gauge Theory
+Relativistic Waves   Quantum Fields
+Advanced Quantum Field Theory
+Particle Physics
+Particle Accelerator Physics
+Relativity    Gravitation
+Stellar Structure    Evolution
+Advanced Cosmology
+Astrophysical Fluid Dynamics
+Solar System
+The Galaxy
+Astrophysical Plasmas
+Extrasolar Planets
+Galaxy   Cluster Dynamics
+Planetary Atmospheres
+Solar Physics
+Space Plasma   Magnetospheric
+Atom    Photon Physics
+Quantum Computation   Communication
+Molecular Physics
+Order   Excitations in Condensed Matter
+Physics at the Nanoscale
+Superfluids, Condensates    Superconductors
+Nuclear Magnetic Resonance
+Molecular Biophysics
+Statistical Mechanics
+Theory of Complex Networks
+Equilibrium Analysis of Complex Systems
+Dynamical Analysis of Complex Systems
+Mathematical Biology
+Elements of Statistical Learning.
+
+     
+   
+   FORMAT AND ASSESSMENT
+  From October to March you will study specialised taught material, attend lectures and seminars, carry out related assessed tasks, prepare an assessed research proposal, select your project topic and plan how your project will be performed. Lecture courses attended between October and March will be assessed by examination in May. Other assessments include a project plan and a patent draft. You will carry out your project full-time from April with a mid-project review and submission and oral presentation in September. Your project will contribute 50 per cent of the marks for your degree and you must also achieve at least 50 per cent in each module. The taught material is assessed by essays and exercises.

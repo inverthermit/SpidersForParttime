@@ -1,0 +1,173 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Please see the modules below for further information.
+     
+   
+   FORMAT AND ASSESSMENT
+  The assessment of each taught module (Modules I to IV) comprises a written examination paper and coursework (scientific presentations and laboratory based problem solving exercises). On completion of each module, the appropriate three hour examination is taken in either January or May. Module V (Research Project) is judged on the basis of a literature review presented in June and a journal article presented in mid-August. The final examination takes place in early September, and ALL students are required to be available at this time for a poster presentation of their work. The provisional results of the MSc examination are published later that week. The award of the degree requires a successful performance in all five modules.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Advanced Mass Spectrometry - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBFA003    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  In this module, you have the opportunity to gain hands-on experience operating mass spectrometers in practical classes and workshops. The workshops include: 
+Tuning the mass spectrometer
+Mass range, scan and selected ion monitoring
+MS/MS &ndash; selected reaction monitoring
+MS/MS &ndash; precursor ion scanning
+MS/MS &ndash; neutral loss scanning
+Identification of a substance in a matrix
+Quantification of a substance in a sample
+The use of MALDI and ESI for protein identification
+
+  
+    Advanced Separation Science - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBFA002    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  This module provides an in-depth understanding of separation techniques used in analytical chemistry and its role in analytical science. It focuses on the mechanisms of separation and microseparation techniques including: 
+SFC &ndash; a very important technique for chiral separations
+CZE &ndash; large molecule analysis and use in chiral
+separations
+Ultra High Pressure LC
+
+ The module also covers detection methods and the importance of chirality, particularly in the pharmaceutical industry.
+  
+    Novel And Emerging Technologies - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBFA004    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The aim of this module is to provide you with a good understanding of the applicability of novel and emerging technologies to sample analysis. It brings together these techniques, including: 
+Chromatographic techniques (SFC)
+Mass spectrometric techniques (SIFT-MS, DART and Accelerator Mass Spectrometry)
+Spectroscopic and related techniques (SPR, EPR, NQR, VCD)
+Novel detection systems
+New techniques under development
+
+ There is a large problem-solving element where you will be asked to propose the most suitable analytical technique(s) to validate methodology and apply them to samples. Typically, these involve half-day experiments, using instruments that have either been loaned by companies or made available to the programme through on-site visits.
+  
+    Principles Of Analytical Science - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBFA001    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The aim of this module is to introduce you to the major chromatographic
+ and spectroscopic techniques and instrumentation used in analytical
+ science, the scientific principles underlying the instrumentation, and
+ its use in sample analysis. 
+ Topics include: 
+Chromatography (GC,HPLC, CE, chirality, immunoaffinity)
+Spectroscopy (electromagnetic, electronic, vibrational, NMR, MS)
+Mathematics for analysts
+Specimen preparation and extraction
+Quality assurance
+
+  
+    Research Project Related to Analytical Science - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7BBFA005    
+  
+    Credit level:  
+7  
+      
+    
+      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  A three-month industrial placement in the UK, tailored to future employment and ensuring a head start into industry.

@@ -1,0 +1,195 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Healthcare Science   Research Methods
+Introduction to Medical Physics  
+or
+Introduction to Clinical Engineering
+Radiation Physics for Imaging   Radiotherapy
+or  
+Biomechanical   Clinical Measurements  
+
+Research Project.
+     
+   Indicative non-core content
+   
+Management of Medical Equipment (optional)
+Physics of Medical Imaging with Ionising Radiation (optional)
+Physics of Medical Imaging with Non-Ionising Radiation (optional)
+Radiation Safety (optional)
+Radiotherapy Physics (optional)
+Rehabilitation Engineering (optional).
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Day and block release attendance. Written examinations, assessment of coursework, project dissertation.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+    
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Management of Medical Equipment - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP07    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The module will introduce the students following the Engineering options of the course to the various approaches to managing equipment. The aim of the course is to provide students with an insight into the problems and challenges of managing medical equipment within a healthcare system; to develop an awareness of the business process; to increase awareness of how maintenance of equipment is influenced by its design.
+  
+    Medical Imaging With Ionising Radiation - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP10    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  The aims of the course are to educate students in the physics of medical imaging with ionising radiation and to equip them with knowledge of computed tomography, nuclear medicine and thematic topics relevant thereto (eg. the use computers/clinical applications).
+At the conclusion of the module the student will be able to:
+Discuss the physical processes behind image formation in nuclear medicine and diagnostic radiology
+Explain the normal and pathological appearances of images and identify common imaging artefacts
+Discuss the physical principles and operation of radiographic and nuclear medicine equipment
+Explain the factors that affect imaging system performance
+Understand the legislation and guidance that ensures safe working in the radiation environment
+
+  
+    Medical Imaging With Non-Ionising Radiation - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP09    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+       
+    
+     
+  The aims of the course are to educate students in the physics of medical imaging with non-ionizing radiation (MRI and Ultrasund) and to equip them with knowledge of magnetic resonance imaging, ultrasound imaging and thematic topics relevant thereto (e.g. the use of computers/clinical applications).
+At the conclusion of the module the student will be able to:
+Discuss the physical processes behind image formation using non-ionising radiation
+Explain the normal and pathological appearances of images and identify common imaging artefacts
+Discuss the physical principles and operation of ultrasound and MRI equipment
+Explain the factors that affect the imaging system performance
+Understand the legislation and guidance that ensures safe working
+
+  
+    Radiation Safety - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP11    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+   
+  
+    Radiotherapy Physics - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP08    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The course provides the necessary practical and theoretical background for the support of day-to-day Radiotherapy Physics activities. It is aimed primarily at recently qualified radiotherapy physicists, but should also be invaluable to post-graduate students, researchers, clinical oncologists, engineers, radiographers, representatives of allied commercial organisations and in fact, anyone wishing to deepen or update their understanding of both radiotherapy physics and radiotherapy in general. A brief overview is also provided of more research oriented techniques such as Monte-Carlo methods, multileaf collimators, stereotactic and conformal therapy.
+The faculty is composed of physicists, clinicians and radiobiologists, many of whom are internationally renowned for their expertise. Saturday workshops and demonstrations make full use of the facilities of the Radiotherapy and Physics Departments of the Royal Marsden NHS Trust. The course is reviewed annually in response to participants' suggestions and changing technology.
+  
+    Rehabilitation Engineering - Optional
+
+    
+  
+      
+     Module code:  
+7MIGEP05    
+  
+    Credit level:  
+7  
+    
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  The module aims to equip the student with a thorough theoretical understanding of issues addressed in the practice of rehabilitation engineering in a clinical environment.

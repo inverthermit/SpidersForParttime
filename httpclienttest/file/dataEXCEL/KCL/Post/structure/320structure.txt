@@ -1,0 +1,355 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   CORE MODULES:
+Research Methods, Ethics   Statistics in Mental Health [Core compulsory]
+Advanced Statistics [Introductory core]
+Designing, Funding   Publishing a Study [Introductory core]
+Research Dissertation [Core compulsory]
+
+     
+   Indicative non-core content
+   OPTIONAL MODULES
+The following modules are offered by this programme:
+Brain-Behaviour Interface
+Clinical Trials in Psychiatry
+Neuroimaging
+Psychiatric Genetics
+Psychopharmacology
+Translational Research in Psychiatry
+
+     
+   
+   FORMAT AND ASSESSMENT
+  - TERM 1 (September-December): Research Methods, Ethics  and Statistics in Mental Health
+- TERM 2 (January-March): Choice of 4 optional modules
+- TERM 3  (April-September): Introductory modules   Dissertation preparation
+ASSESSMENT: 
+-  January  examination on Term 1 teaching
+- Written assessment (coursework and exams) at the end of each Term 2 module
+- 10,000 word research dissertation
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Advanced Statistics - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Daniel Stahl  
+     Module code:  
+7PCSRADV    
+  
+    Credit level:  
+7  
+    Credit value:  
+0    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+      This is an Introductory but compulsory module
+     
+  The aim of this module is to introduce students to a range of advanced statistical techniques frequently used in psychological research and to prepare them for a career involving psychological and psychiatric research. Specific topics include:
+- Advanced multiple regression
+- Effect modification
+- Mediation, Reliability and Validity
+- Explorative Factor analysis
+- Survival analysis 
+- Meta-analysis
+The emphasis throughout the module is on combining a conceptual understanding of these forms of statistical analysis procedures with practical skill in using them to analyse data sets and presenting such analyses. Assessment of model assumptions and a critical assessment of the strengths and shortcomings of the various techniques will be an integral part of this module. The lectures will be written and presented by expert statisticians from the Department of Biostatistics of the Institute of Psychiatry, often using examples taken from their own experience.
+
+  
+    Designing, Funding   Publishing a Study - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Simone Reinders  
+     Module code:  
+7PCSRDES    
+  
+    Credit level:  
+7  
+    Credit value:  
+0    
+    
+      
+   
+    
+  
+       
+   
+    
+    
+      This is an Introductory but compulsory module.
+     
+  This module aims to prepare students for scientific research by providing the opportunity to learn how to transform their ideas for a scientific project into a published paper. The module will be a dynamic interplay between presentations, practical exercises and discussions to optimally prepare the student for scientific research. The module will include several lectures fitting in one of the following three categories:
+1) Study design
+2) Funding and 
+3) Writing a paper. 
+The first category will focus on how to structure an idea, recognise limitations (population, money, ethics) and the importance of this stage, design and conduct the actual study. The second topic will focus on acquiring funding: where does one find information on funding bodies, and how one writes a funding application. This will also include a session on how to best present yourself, including writing a CV. The third topic focuses on writing a paper: how to shape different sections, reference managers, how to sell your story, where to submit (open access or not), how to cope with rejection and how to resubmit. The lectures will be written and presented by expert scientists and clinicians from the Institute of Psychiatry, often using examples taken from their own experience.
+
+  
+    Research Methods, Ethics   Statistics In Mental Health (60 Credits) - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr James MacCabe   Dr Vishal Bhavsar  
+     Module code:  
+7PAYJRME    
+  
+    Credit level:  
+7  
+      
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+       
+   
+    
+    
+    
+     
+  The educational aims of this module, which takes place in the first semester, are to provide an advanced understanding of methods and ethics in mental health research, an in depth practical knowledge of their application and of univariate statistical procedures. In addition the student will be able to critically appraise, disseminate and apply research findings.
+ By the end of this module students will understand: concepts underlying research and its application in mental health; ethical principles to be considered in designing and conducting research; the theory and application in Psychiatry of the following research methods; cross-sectional surveys, Case control studies, Cohort studies, Ecological and time-series studies, Clinical trials; issues concerning sampling and measurement in mental health research and the logistics of carrying out a research study; the theoretical basis for statistical analysis and its application in research. Students will also be proficient in: univariate statistical analyses, and be able to interpret stratified analysis and linear regression; critical appraisal of research reports.
+ Assessment is by two three-hour unseen written examinations, which each account for 50% of the final grade for this module. There is also a written assessment and critical appraisal at the end of the first term, which is mandatory but does not contribute to the final mark.
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Brain-Behaviour Interface (15 Credits) - Optional
+
+    
+  
+      Teaching staff:  
+Prof  Carmine M. Pariante   Dr Valeria Mondelli  
+     Module code:  
+7PAGRBBI    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      
+   
+    
+  
+      Assessment:  
+      coursework     
+      Assessment is by:
+- 1 x 1,500-word essay (45%)
+- 1 x 1-hr written examination (45%)
+- 1 x poster presentation (10%)
+  
+     
+  Educational Aims
+-E xplore, in detail the biological substrates underlying the interaction between 'brain' and 'behaviour'
+- Offer models to understand the differences and the similarities in the definitions of 'mind' and 'brain'
+- Evaluate and find explanations for the bio-psycho-social aetiology of psychopathological symptoms
+- Suggest valid research methods to study the mechanisms of brain function and its relationship with behaviour.
+By the end of the module the student will have an advanced understanding of the principles underlying research methods in the following biological domains in Psychiatry: 
+1. Cellular models
+2. Animal models
+3. Neuropathological research
+4. Neuroendocrinology
+5. Neuroimaging
+6. Genetic Research
+7. Pharmacogenetics, psychopharmacology and pharmacoeconomics
+8. Somatic therapies in Psychiatry
+
+
+
+  
+    Clinical Trials In Psychiatry - Optional
+
+    
+  
+      Teaching staff:  
+Dr Alice Egerton and Dr Paul Morrison  
+     Module code:  
+7PCSRCTP    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     oral examination/s;     
+      One 1-hr written examination (45%)
+One 1,500-word essay (45%)
+One oral presentation making use of visual aids  (10%)
+
+     
+  This module will introduce the fundamental principles of clinical trials, using real-life examples from psychiatric research. The lectures will describe methodological approaches and challenges in the design and implementation of clinical trials within psychiatry, and the impact of these trials on improving mental health. Students will be encouraged to critically appraise published clinical trials, and training will be given in assessing bias and applying principles of good clinical practice. Specific topics include types of clinical trial, different methodological approaches, the placebo effect, ethics and consent, trial regulation, the experience of patients, carers and clinical teams, data management and statistical analysis. The module will describe the most influential clinical trials in psychiatry, together with the current challenges and future directions for this area. The lectures will be presented by expert scientists and clinicians from the Institute of Psychiatry, often using examples taken from their own experience.
+
+  
+    Neuroimaging (15 Credits) - Optional
+
+    
+  
+      Teaching staff:  
+Dr Gemma Modinos  
+     Module code:  
+7PAGRNEU    
+  
+    Credit level:  
+7  
+    
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     oral examination/s;     
+      Assessment is by:
+- 1 x 1,500-word essay (45%)
+- 1 x 1-hr written examination (45%) 
+- 1 x poster presentation (10%)
+     
+  The educational aims of this module are to provide students with a detailed understanding of the principles, practice and application of Neuroimaging techniques.
+
+By the end of the module the student will:
+1. Be able to understand the principles of physics and physiology underlying magnetic resonance imaging (MRI), functional MRI (fMRI), position emission tomography (PET), single photon emission tomography (SPET), and magnetic resonance spectroscopy (MRS).
+2. Be able to understand the components in the analysis of neuroimaging data.
+3. Have learned how to design a neuroimaging study.
+4. Have been introduced to the application of neuroimaging technigues to studying human behaviour, cognition and emotion in healthy and illness states.
+5. Be able to understand some of the ethical implications of neuroimaging research
+6. Have learned how to prepare a neuroimaging research proposal
+
+  
+    Psychiatric Genetics (15 Credits) - Optional
+
+    
+  
+      Teaching staff:  
+Dr Marta Di Forti  
+     Module code:  
+7PAGRPSG    
+  
+    Credit level:  
+7  
+    
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     oral examination/s;     
+      1500-word essay
+1 x hr written examination
+15-min poster preentation
+
+     
+  The educational aims of this module are to equip the student with an advanced understanding of the principles, types and application of genetic research methods in psychiatry. Students will gain a detailed understanding of the interaction between genetic and environmental factors and their application in research.
+
+By the end of the module the student will understand the principles and limitations of the major study designs in Behavioural Genetics: Family studies, Twin studies and Adoption studies.
+
+Students will understand the application of these research designs in investigating: the relative contributions of genetic and environmental factors; the interplay between genetic and environmental factors; the changing role of genetic factors in different stages of development from infancy to old age.
+
+Students will understand the different outcome measures in behavioural genetics (diagnostic measures and personality dimensions). During practical sessions, students will have performed genetic model fitting analyses of both continuous and categorical traits (liability to threshold models). Students will understand the theory and application of molecular genetics in mental health research and its contribution to the field.
+
+  
+    Psychopharmacology - Optional
+
+    
+  
+      Teaching staff:  
+Dr Tiago Reis Marques   Dr Sridhar Natesan  
+     Module code:  
+7PCSRPHA    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     oral examination/s;     
+      
+- 1 x 1,500-word essay (45%)
+- 1 x 1-hr written examination (45%)
+- 1 x poster presentation (10%)
+  
+     
+  This module will focus on the pharmacological impact of drugs on the brain in the context of psychiatric illness. Initial topics include an introduction to fundamental principles of pharmacology, an overview of synaptic transmission, receptor models and signal transduction cascades. This will be followed by lectures that will relate major psychiatric disorders to the corresponding malfunctioning brain circuits and discuss the rationale for the use of specific class of drugs in each psychiatric disorder. Detailed lectures on the classes of psychopharmacology drugs, their mechanism of action and side effects will follow. This module will also provide an overview of clinical scales used to measure psychopathology as a tool to measure treatment outcomes. Research methods employed in psychopharmacological research related to psychiatric illness will be highlighted during the talks. The lectures are designed to give students a fundamental understanding of how psychiatric drugs work in order to enable them to undertake psychiatric research.
+
+  
+    Translational Research In Psychiatry - Optional
+
+    
+  
+      Teaching staff:  
+Dr Sagnik Bhattacharyya  
+     Module code:  
+7PCSRTRP    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     oral examination/s;     
+      One 1-hr written examination (45%)
+One 1,500-word essay (45%)
+One  poster presentation (10%)
+
+     
+  This module will focus on what is meant by translational research in the context of psychiatric illness. The lectures will cover the different steps in the process of translation of findings from basic or epidemiological research to treatments/ interventions available to the patient as well as the process of reverse translation. Students will also learn about the different stages of translational research and the potential blocks to effective translation as well as why translational research has become the buzzword in psychiatric research circles now more than ever before. Exemplars of ongoing translational work from different areas of psychiatric research will be presented by internationally acclaimed researchers to give an understanding of how translation of research onto practice happens in real life by giving a glimpse of research at various stages of the translation pathway as well as within different domains of psychiatric research. While the majority of the lectures will be from academicians, the perspective of the pharmaceutical industry will also be provided through guest speaker/s from the industry. Finally, an attempt will also be made to give an understanding of the funding landscape for translational research within the UK in particular and the critical importance of taking into account the perspective of service users and carers for truly effective translational research.

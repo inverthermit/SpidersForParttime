@@ -1,0 +1,201 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Dissertation (on a topic in the philosophy of psychology).
+
+     
+   Indicative non-core content
+   Students are expected to take the following compulsory modules (all 20 credits):
+  
+First semester: Philosophy of Mind I
+Philosophy of Psychology I
+
+Second semester:Philosophy of Mind II: Special Topics
+Philosophy of Psychology II
+
+Students might also like to consider taking The Concept of Mental Disorder in addition to these, or even in place of one of them.
+For their remaining credits, candidates may choose from the following.
+  
+The following list gives an indication of the kinds of modules we offer, although the exact provision will vary slightly from year to year: please check the department&rsquo;s module webpages
+ for more information. Each of these modules is worth 20 credits except where specified.
+&bull; Aesthetics
+&bull; The Concept of Mental Disorder
+&bull; Early Modern Philosophy
+&bull; Epistemology
+&bull; Ethics
+&bull; Ethics II
+&bull; Ethics II
+&bull; First-Order Logic (note: presupposes some competence in basic symbolic logic)
+&bull; Foundations of Analytic Philosophy
+&bull; Foundations of Phenomenology
+&bull; General Philosophy (40 credits)
+&bull; Greek Philosophical Texts I: Plato (note: presupposes some competence in the ancient Greek language)
+&bull; Greek Philosophical Texts II: Aristotle (note: presupposes some competence in the ancient Greek language)
+&bull; Greek Philosophy I: Plato
+&bull; Greek Philosophy II: Aristotle
+&bull; Greek Philosophy III: Special Topics
+&bull; Indian Philosophy I: The Orthodox Schools
+&bull; Indian Philosophy II: The Heterodox Schools
+&bull; Kant I: Critique of Pure Reason
+&bull; Kant II: Moral Philosophy
+&bull; Mathematical Logic: Limitative Results (note: presupposes some competence in basic symbolic logic)
+&bull; Medieval Philosophy
+&bull; Metaphysics
+&bull; Nineteenth-Century Continental Philosophy
+&bull; Perspectives on Death   Killing
+&bull; Philosophy of Language
+&bull; Philosophy of Mathematics
+&bull; Philosophy of Medicine
+&bull; Philosophy of Physics
+&bull; Philosophy of Religion
+&bull; Philosophy of Science
+&bull; Political Philosophy
+&bull; Political Philosophy II: Special Topics
+&bull; Twentieth-Century Continental Philosophy
+     
+   
+   FORMAT AND ASSESSMENT
+  Mostly taught through of lectures and seminars; assessed through coursework and/or examination plus a dissertation.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+       Philosophy Of Mind II: Special Topics - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Maria Alvarez  
+     Module code:  
+7AAN2062    
+  
+    Credit level:  
+7  
+    Credit value:  
+20    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    Teaching pattern:  
+One weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      Formative assessment:one x 2,000&ndash;3,000-word essay, due by end of semester or as otherwise instructed
+Summative assessment: one x 4,000-word essay
+     
+  This module concerns the nature of mental representation. We will explore a few aspects of the problem in depth, in particular the merits and difficulties of adopting a naturalistic approach to providing a theory of representational content. Teleosemantics and its successes and limitations will be a recurring theme, as will be the role that is played by information, of the correlational variety studied by mathematical information theory. The role of information will be compared with that played by isomorphisms (between representations and what is represented). There will also be a critical examination of the type of functions relied on by teleosemantics as grounding content, asking whether this approach is unduly restrictive.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2062.aspx
+
+  
+     Philosophy Of Psychology I - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Nick Shea (for 2015-16 TBC)  
+     Module code:  
+7AAN2066    
+  
+    Credit level:  
+7  
+    Credit value:  
+20    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      Formative assessment:one x 2,000&ndash;3,000-word essay, due by end of semester or as otherwise instructed
+Summative assessment: one x 4,000-word essay
+     
+  Information-processing explanations are at the heart of experimental psychology, cognitive science and artificial intelligence. These sciences have been enormously successful in predicting behaviour; they also seem to offer explanations as to why people and artificial systems behave as they do. Yet one of the central explanatory resources of this &lsquo;cognitive revolution&rsquo; &ndash; the nature of the information being processed &ndash; is poorly understood. On the one hand information as characterised by the quantities of mathematical informational theory is found in all physical systems and seems to have little to do with the mind. On the other it is connected to the representations that figure in everyday explanations of behaviour, for example beliefs, which can be true or false. The sciences of the mind depend heavily on the existence of representations which play both of these roles; our everyday explanations of behaviour may do too.
+Philosophical issues about the nature of representational content have become pressing in recent years with the rise of cognitive neuroscience, which appears to go further and locates representations in concrete processes in the brain. This course will explain the foundational principles underlying these psychological sciences and examine the central philosophical questions they raise about what representations are and how information-processing explanations work.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2066.aspx
+
+  
+     Philosophy Of Psychology II - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Matthew Parrott  
+     Module code:  
+7AAN2067    
+  
+    Credit level:  
+7  
+    Credit value:  
+20    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      Formative assessment:1 x 3,000-word essay
+Summative assessment: 1 x 4,000-word essay
+     
+  In philosophy of psychology, theorists often attempt to explain the nature of human mental processes. These explanations have implications for how we understand various psychiatric conditions, conditions in which it looks like a person&rsquo;s mentality is not functioning in an ordinary way. In this module, we will explore a number of philosophical questions raised by psychiatric phenomena, such as the following: What is the difference between rational and irrational cognition? What makes a conscious experience psychotic or pathological? Are delusions irrational or dysfunctional beliefs, or are they a different kind of mental state altogether? What role do moral values have in our assessment of psychiatric conditions like personality disorders? Are mental illnesses natural phenomena? And is there even such a thing as mental illness? We will aim to better understand both the implications that psychiatric conditions have for theoretical accounts of the mind and the structure and etiology of some psychiatric conditions.
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2067.aspx
+
+  
+    Philosophy Of Mind - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Matthew Parrott  
+     Module code:  
+7AAN2061    
+  
+    Credit level:  
+7  
+    Credit value:  
+20    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    Teaching pattern:  
+one weekly one-hour lecture and one weekly one-hour seminar  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      Formative assessment: Two x 2,000-word essays, due by end of semester or as otherwise instructed
+Summative assessment: One x two-hour end of year examination
+     
+  The primary focus of this module will be issues in the metaphysics of mind: what is the relation between the bearers of mental and physical properties; what is the relation between mental and physical properties themselves; are various mental properties categorical or dispositional; do they supervene upon what is &lsquo;internal&rsquo; to the subject? There will also be discussion of the nature and explanation of consciousness, the normativity of the mental, and the rational explanation of behaviour.
+This module is normally compulsory for students in the MA Philosophy of Psychology programme, although that requirement might be waived in cases where a student has already taken a similar course in their previous studies
+Also available as an option for students in the MSc in Philosophy of Mental Disorder and for students in the other MA programmes, who might wish to take it in conjunction with 7AAN2062 Philosophy of Mind II: Special Topics in the second semester, but who need not do so.
+The initial lecture hour will be shared with students taking 5AANB012 Philosophy of Mind, but they will otherwise be subject to different requirements.
+
+http://www.kcl.ac.uk/artshums/depts/philosophy/modules/level7/7aan2061.aspx

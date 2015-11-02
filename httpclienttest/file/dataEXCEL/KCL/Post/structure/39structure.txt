@@ -1,0 +1,28 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Core modules:
+Individual Project (in Engineering or Informatics)
+
+     
+   Indicative non-core content
+   Compulsory modules:
+Principles of Management
+Operational Management
+Project Management
+Optional modules:
+Biologically Inspired Methods
+Real-Time Systems   Control
+Robotic Systems
+Sensors   Actuators
+Computer Vision
+Pattern Recognition
+Network Optimisation Methods
+Optimization Methods
+
+A maximum of three alternative level 7 modules in Informatics.
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures; tutorials; seminars; laboratory sessions; optional career planning workshops. 
+Assessed through: coursework; written examinations; final project report.

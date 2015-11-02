@@ -1,0 +1,182 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   You may choose to study one of our six specialist LLMs or create a unique programme tailored to your areas of interest. At the start of the semester you will have the opportunity to attend taster lectures and to speak to module leaders before you make a decision on whether to undertake a specialist or tailored LLM.
+For all options, you will need to study full or half-modules that add up to a total of 180 credits. A list of all modules is shown below. Each module is worth 40 credits (with half modules worth 20 credits). You will need to select modules of your choice that add up to 120 credits in total.
+To achieve the additional 60 credits you need to choose between guided LLM research options, which include a longer dissertation or shorter research essay requirement.
+The modules listed below are those related specifically to the LLM in International  Tax. The general Master of Laws entry lists all available LLM modules
+.
+  
+     
+   
+   FORMAT AND ASSESSMENT
+  In the first and second semester you study your selection of taught modules (half and full). These are in most cases assessed in the third semester (May/June) by written examination, or in some cases by the submission of an assessed essay. Please see further details for each individual module in the module list below.
+Dissertation or research essays must be submitted in September, after the May/June examinations.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+    
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      EU Tax Law - Optional
+
+    
+  
+      Teaching staff:  
+Professor Jonathan Schwarz
+  and Kelly Stricklin-Coutinho  
+     Module code:  
+7FFLA069    
+  
+    Credit level:  
+7  
+    Credit value:  
+40  
+  
+  
+      Semester:  
+    Full-year     
+   
+    
+  
+      Assessment:  
+      written examination/s     
+      Three-hour exam.
+     
+  Module description
+This module examines the impact of EU law on taxation in the Member States. It examines the sources of EU law and its conceptual framework; considers harmonisation measures that have impact on taxation, including the direct tax directives designed to eliminate cross-border distortions and the application of the State Aid rules to taxation; and concludes by examining the impact of the Treaty freedoms of movement on the Member States' direct taxation rules as revealed through the Courts' case law.
+  
+    International Tax Law - Optional
+
+    
+  
+      Teaching staff:  
+Professor Jonathan Schwarz
+  and Tom Wesel
+  
+     Module code:  
+7FFLA035    
+  
+    Credit level:  
+7  
+    Credit value:  
+40  
+  
+  
+      Semester:  
+    Full-year     
+   
+    Teaching pattern:  
+Weekly two-hour exam.
+Indicative/suggested reading: Schwarz on Tax Treaties
+, 2nd Edition (CCH) by Jonathan Schwarz; Principles of International Taxation
+ 3rd Edition (Bloomsbury Professional) by Angharad Miller and Lynne Oates.
+  
+  
+      Assessment:  
+      written examination/s     
+      Three-hour exam.
+     
+  Module description
+This module considers taxation in an international context. Domestic tax systems have increasingly had to respond to globalisation so that taxation can still be viable in an environment where activities which have traditionally attracted taxation can be carried out without domestic borders to define their scope. The module will consider taxation and international law in general and then move on to looking at the ways in which domestic systems have sought to deal with double taxation where activities attracting taxation are carried out over more than one country &ndash; namely through double taxation conventions. The focus will be on the OECD Model and double taxation conventions based on this and why international business gives tax systems a problem and how this can be addressed.
+  
+    Taxation Of Business Enterprises - Optional
+
+    
+  
+      Teaching staff:  
+Anne Fairpo and Tom Wesel
+  
+     Module code:  
+7FFLA056    
+  
+    Credit level:  
+7  
+    Credit value:  
+40  
+  
+  
+      Semester:  
+    Full-year     
+   
+    
+  
+       
+    
+     
+  Taxation is a key factor in business decisions, and how to raise tax from businesses without damaging the economy is a central element in all government&rsquo;s policy.
+In this module we will examine the taxation of businesses under UK income tax, corporation tax and capital gains tax. We will also consider, to a lesser extent, VAT, the UK interaction with foreign taxes, and stamp duty.
+Although it is based around the UK tax system, the module deals with questions about the taxation of businesses that face all tax systems. Its object is to provide a solid grounding in the principles of the taxation of businesses, and the main rules will be studied in depth in the context of those principles.
+  
+    Transfer Pricing - Optional
+
+    
+  
+      Teaching staff:  
+Professor Jonathan Schwarz
+  
+     Module code:  
+7FFLA583    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      Semester:  
+    Semester 1 (autumn)     
+   
+    Teaching pattern:  
+Weekly two-hour seminars.
+Indicative/suggested reading: OECD Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations, July 2010.
+  
+  
+      Assessment:  
+      written examination/s     
+      Two-hour exam.
+     
+  Module description
+Transfer pricing is the single biggest issue in international taxation for multinational business and tax administrations. The aim of this module is to critically and comprehensively analyse the legal issues pertaining to Transfer Pricing and is addressed to lawyers, accountants and tax policy-makers, whether in private practice, as in-house counsel, or government employees. The course takes a practical, transactional and multi-jurisdictional perspective and examines in depth the OECD Transfer Pricing Guidelines including the rules and Commentary of the OECD Model Tax Convention together with a detailed analysis of transfer pricing disputes and practice including the expanding body of case law.
+
+  
+    Value Added Tax - Optional
+
+    
+  
+      Teaching staff:  
+Robert Hartley
+  
+     Module code:  
+7FFLA537    
+  
+    Credit level:  
+7  
+    Credit value:  
+20  
+  
+  
+      
+   
+    
+  
+       
+    
+     
+  Value Added Tax is an increasingly important tax in the UK and throughout the EU. Not only does it generate a large amount of revenue for governments, its character as a European tax makes for interesting case law and controversy within domestic systems.
+This module considers the nature of VAT as a tax and considers the system of VAT as implemented in the UK. It considers the various elements of the tax and how the tax has developed in response to EU movement and pressure.
+As well as gaining a comprehensive understanding of VAT in the UK, the aim of the module is to provide you with the tools to be able to comprehend other systems of VAT in Europe and also to understand why what seems like a simple tax has proved so complicated in the EU.

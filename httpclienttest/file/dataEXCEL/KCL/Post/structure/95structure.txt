@@ -1,0 +1,43 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Compulsory and Core Modules:
+Data Mining   Machine Learning
+Simulation   Research Methodology
+Data Science Individual Project
+
+(For mathematical statistics students, without a computer science undergraduate degree)
+Computer Programming
+Databases, Data Warehousing   Information Retrieval
+
+(For computer science students, without a mathematical statistics undergraduate degree)
+Statistics for Data Analysis
+
+     
+   Indicative non-core content
+   Optional Modules:
+Elements of Statistical Learning
+Fundamentals of Digital Signal Processing
+Pattern Recognition
+Random Variables   Stochastic Processes
+Statistics in Finance
+Topics on Data   Signal Analysis
+Advanced Research Topics
+Advanced Software Engineering
+Agents   Multi-Agent Systems
+Algorithms for Computational Molecular Biology
+Artificial Intelligence
+Biologically Inspired Methods
+Communication Theory
+Network Theory
+Operations Management
+Optimization Methods
+Project Management
+Text Searching   Processing
+The Social Life of Big Data
+Armchair Intelligence: Open Sources   Online Investigation
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Lectures; tutorials; seminars; laboratory sessions; optional career planning workshops. Assessed through: coursework; written examinations; final project report.

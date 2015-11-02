@@ -1,0 +1,88 @@
+We review our modules on a regular basis, in order to continue to offer innovative and exciting programmes. Hence, the list of modules presented below is subject to change.   
+  
+     
+    YEAR 1
+  
+Eight modules. 
+     
+   
+  YEAR 1 CORE
+   Term 1
+Programming Practice
+Computer Systems I
+Foundations of Computing I
+Elementary Logic with Applications
+
+Term 2
+Programming Applications
+Introduction to Artificial Intelligence
+Data Structures
+Practical Experiences of Programming
+
+First-year students must have gained at least 90 credits, excluding condoned fails, in order to progress to the second year.   
+    
+  
+    
+  
+   
+   
+   
+   
+  
+     
+  
+    
+    YEAR 2
+   Seven Modules. 
+   
+   
+  YEAR 2 CORE
+  
+   Term 1
+Robotics Group Project (year-long)
+Adaptive and Robotics Systems
+Computer Science Logic
+Object-Oriented Specification and Design
+
+Term 2
+Foundations of Computing 2
+Operating Systems and Concurrency
+Programming Language Design Paradigms
+Robotics Group Project (continued)
+
+Second-year students must have gained at least 210 credits over the first two years, excluding condoned fails, in order to progress to the third year.   
+      
+  
+  
+  
+ 
+ 
+  
+   
+   
+   
+   
+   
+   
+   YEAR 3
+   Six core modules plus one optional module. 
+     
+   
+  YEAR 3 CORE
+   Computer Science Project (year-long)
+Articial Intelligence
+Computer Vision
+Agents and Multi-Agent Systems
+Pattern Recognition
+Biologically Inspired Methods
+   
+      
+  YEAR 3 OPTIONS
+   Choose one of:
+Real Time Systems   Control
+Text Search and Processing
+Computer Graphics Systems
+Parallel Algorithms
+Automata and Formal Languages
+Distributed Systems
+Optimisation Methods

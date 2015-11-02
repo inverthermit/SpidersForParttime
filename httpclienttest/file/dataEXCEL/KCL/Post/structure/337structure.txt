@@ -1,0 +1,294 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Core Modules (must be taken and passed):
+Epistemology, Methodology   Ethics in the Social Sciences
+
+Plus one of the following:
+Dissertation in Medicine, Health   Public Policy
+Dissertation in Bioethics   Society
+Dissertation in Global Health   Social Justice
+Ageing   Society Dissertation
+Gerontology Dissertation
+Public Policy   Ageing Dissertation
+
+Compulsory Modules (must be taken):
+Designing Qualitative Research for Social Science   Health
+Designing Quantitative Research for Social Science   Health
+
+Plus one of the following:
+Foundations of Social Science, Health   Medicine
+Social Science Approaches to Biomedicine
+Foundations of Bioethics   Society
+Critical Global Health
+Ageing, Health   Society
+Population, Ageing   Policy
+
+Part-time students take Epistemology, Methodology   Ethics in the Social Sciences; Designing Qualitative Research for Social Science   Health; and Designing Quantitative Research for Social Science   Health in their first year. They take the foundation module in their second year and the dissertation module over their first and second years.
+     
+   Indicative non-core content
+   Optional Modules:
+Advanced Qualitative Methods
+Critical Policy Research for Health   Medicine
+Data Manipulation   Management
+Ethics of Clinical Research
+Internship
+Multivariate Analysis
+Quantitative Data Analysis
+Researching Vulnerable Populations
+
+Part-time students take the optional modules in their second year.
+     
+   
+   FORMAT AND ASSESSMENT
+  Combination of lectures, tutorial classes, independent study, optional modules, attendance at regular seminars and colloquium, and an extended research project.
+Assessment encompasses a mix of both formal and informal assessment methods, including oral presentation, extended essays both formative and summative, unseen examination, and a dissertation.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      Designing Qualitative Research For Social Science   Health - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Karen Lowton  
+     Module code:  
+7SSAM125    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    Teaching pattern:  
+Lectures,
+Seminars
+Field/Lab/Supervised Learning
+Private study
+  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      1 x 3500 word project (100%)
+There are no exams
+     
+  This module aims to convey the fundamentals of qualitative research design in the social sciences including research methods, sampling, field work, analysis and ethics. It aims to equip students with the knowledge, skills and understanding required to conduct qualitative research in social science and health.
+On successful completion of this module, students will be able to:
+&bull; Formulate appropriate research questions.
+&bull; Select the most appropriate research design to address a specific research problem.
+&bull; Demonstrate knowledge of common research deigns and methods used in qualitative research (interviews, focus groups and observation).
+&bull; Design and administer a brief topic guide and critically discuss its strengths and weaknesses.
+&bull; Analyse qualitative data using simple coding
+&bull; Demonstrate the ability to design and conduct a small original qualitative research project.
+&bull; Demonstrate the ability to structure a written qualitative research report.
+Indicative Reading
+Grbich C (1999) Qualitative Research in Health. Sage, Australia
+Charmaz K (2006) Constructing Grounded Theory, Sage, London
+Gray D (2009) Doing Research in the Real World (2nd edition), Sage, London
+  
+    Designing Quantitative Research For Social Science   Health - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr. Karen Glaser  
+     Module code:  
+7SSAM123    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    Teaching pattern:  
+Lectures
+Field/Lab/Supervised Learning
+Private study  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      1 x 3000 word report (100%)
+There are no exams
+     
+  This module aims to enable students to develop an understanding of ethical research design in quantitative studies (survey and experiments) as well as wider research issues. To prepare students to apply this knowledge in a research context such as their masters&rsquo; dissertation or health services research.
+On completion of the module students will be able to:
+1. Formulate appropriate research questions.
+2. Select the most appropriate research design to address a specific research problem.
+3. Demonstrate knowledge of common research designs and methods used in quantitative research (survey and experiments).
+4. Design and administer a brief questionnaire and critically discuss its strengths and weaknesses.
+5. Critically review methods used in published studies in social sciences and in health services research.
+Indicative Reading
+1. Gray DE. (2009) Doing research in the real world 2nd edition. London, Sage
+2. de Vaus, DA 2002, Surveys in Social Research. 5th Edition, Routledge, London.
+3. Bowling, A 1997, Research methods in health: Investigating health and health services, Open University Press, Buckingham.
+
+
+  
+    Quantitative Data Analysis - Required
+
+   
+      
+  
+    
+      Teaching staff:  
+Dr Debora Price  
+     Module code:  
+7SSAM124    
+  
+    Credit level:  
+7  
+    Credit value:  
+15    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    Teaching pattern:  
+Lectures
+Seminar
+Project work
+Private study  
+  
+      Assessment:  
+      coursework     
+   
+    
+    
+      1 x 3000 word essay (100%)
+There are no exams
+     
+  This module aims to provide students with an understanding of statistics in the social sciences and the ability to interrogate a social science dataset statistically using SPSS.
+On completion of this module, students will:
+&bull; Understand the concepts behind basic descriptive and inferential statistics for social science research, and how to interpret these statistics
+&bull; Understand the principles of correlation, t-tests, chi-square and regression in social science research, and how to interpret these tests
+&bull; Demonstrate competence in a basic level of data manipulation using SPSS to prepare social science datasets for statistical analysis
+&bull; Demonstrate competence in the use of statistical software (SPSS) to interrogate social science datasets using descriptive statistics and commonly used statistical tests
+Indicative  Reading
+Fielding and Gilbert (2006) Understanding Social Statistics, 2nd Edition SAGE
+Agresti   Finlay (2008) Statistical Methods for the Social Sciences, Fourth Edition Prentice Hall
+Field (2009) Discovering statistics using SPSS , 3rd Edition SAGE
+  
+     
+  
+    
+    
+    
+    
+   
+    
+    
+    
+    
+  
+  
+  
+  
+    
+      Data Manipulation And Management - Optional
+
+    
+  
+      Teaching staff:  
+Dr. Debora Price  
+     Module code:  
+7SSAM126    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Lectures
+Field/Lab/Supervised Work
+Project work
+Private study
+This module is taught over one full week (Monday to Friday) in mid May
+
+  
+  
+      Assessment:  
+      coursework     
+      2 x Assessed coursework
+1) completed workbook (Variable length) 25%
+2) research assignment (2000 words)         75%
+There are no exams.
+     
+  This module aims to provide students with the data manipulation skills to work with complex hierarchical and panel data sets in the social sciences.
+Learning outcomes of the module:
+On completion of this module, students will:
+&bull; Be able to source large social science datasets and associated documentation
+&bull; Understand how complex social science large scale datasets are structured and the implications of this
+&bull; Be able to manipulate, recode and compute variables and understand how missing data can be dealt with
+&bull; Learn how to combine datasets, and aggregate and disaggregate data from different files in a relational database
+&bull; Learn how to transform the structure of datasets from long form to short form and vice versa
+&bull; Learn complex computation of derived variables including do loops and lag functions
+&bull; Have practical experience of the manipulation of complex datasets to answer questions of importance in the context of health and social research
+Indicative Reading
+Levesque, R and SPSS Inc. (2009) Programming and Data Management for SPSS Statistics 17.0. A Guide for SPSS Statistics and SAS Users . SPSS Inc: Chicago.
+Field, A. (2009) Discovering Statistics Using SPSS. Third Edition. SAGE:
+  
+
+  
+    Researching Vulnerable Populations - Optional
+
+    
+  
+      Teaching staff:  
+Dr Karen Lowton  
+     Module code:  
+7SSAM127    
+  
+    Credit level:  
+7  
+    Credit value:  
+15  
+  
+  
+      Semester:  
+    Semester 2 (spring)     
+   
+    Teaching pattern:  
+Lectures
+Seminars
+Private study
+This module is taught over one full week (Monday to Friday) in mid May  
+  
+      Assessment:  
+      coursework     
+      1 x 3000 word essay (100%)
+There are no exams.
+     
+  This module aims to provide students with a critical understanding of the ethical approaches and governance of health and social science research, as applied to sensitive issues and vulnerable populations.  The module will explore contrasting responses from different interest groups and theoretical standpoints, including the social and behavioural sciences, and public and social policy where appropriate.  NB: The module will not cover issues relating to basic clinical research.
+On successful completion of this module, students will be able to demonstrate a critical understanding of:
+1. The fundamental ethical considerations and legal frameworks underpinning health and social science research.
+2. The ethical considerations arising throughout the research process: from initial project concept to research governance and dissemination.
+3. Consent, capability and autonomy in research participation.
+4. The general principles and practices underpinning the interests and protection of vulnerable research participants, including confidentiality and anonymity.
+5. The dilemmas and required responses to &lsquo;wearing two hats&rsquo; of clinician and researcher.
+6. Ethical and practical issues relating to the safety of researchers
+Indicative Reading
+Beauchamp TL, Childress JF. (2001) Principles of Biomedical Ethics, 5th edition. Oxford University Press, Oxford.
+Iphofen R. (2009) Ethical decision making in social research: a practical guide. Palgrave Macmillan, Basingstoke.
+Mauthner M, Birch M, Jessop J, Miller T (eds) (2002) Ethics in Qualitative Research. London, Sage

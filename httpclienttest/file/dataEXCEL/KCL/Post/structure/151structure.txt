@@ -1,0 +1,139 @@
+STRUCTURE OVERVIEW
+     
+  Core programme content
+   Core programme content:
+Introduction to genes, environment and development
+Research methods (twin model fitting; molecular genetics; statistical genetics; bioinformatics)
+Psychology   Psychopathology (developmental psychology; social development; psychosis and bipolar disorder, emotional/behavioural disorders)
+Research project
+
+     
+   
+   FORMAT AND ASSESSMENT
+  Module A1 is assessed with a coursework essay and an oral presentation; module A2 is assessed with two coursework essays and wet and dry lab assignments; module A3 is assessed with a coursework essay and the writing of an abstract to an unseen published paper (presented without the abstract); the research project (module B1) is assessed by a research report, a laboratory notebook and a poster presentation; compulsory workshops in core transferable and technical skills.
+   
+   MODULES
+   More information on typical programme modules.
+   NB it cannot be guaranteed that all modules are offered in any particular academic year.
+      A1:  Introduction To Genes, Environment And Development - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PADGGA1    
+  
+    Credit level:  
+7  
+    Credit value:  
+30 credits    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+      Assessment:  
+      coursework;     oral examination/s;     
+   
+    
+    
+    
+     
+  This module introduces students to the subject areas that are considered fundamental to an MSc in behavioural genetics and social development, providing an in-depth knowledge of the advances that have been made in behavioural genetics during recent years with the growing evidence for the role of genes in shaping our behaviour. The module will cover a range of mental health disorders including cognitive disability, attention deficit hyperactivity disorder (ADHD), autism spectrum disorder (ASD), anxiety and depression and schizophrenia.
+
+  
+    A2: Research Methods - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PADGGA2    
+  
+    Credit level:  
+7  
+    Credit value:  
+60 credits    
+    
+      Semester:  
+    Semester 1 (autumn)      
+   
+    
+  
+      Assessment:  
+      coursework;     practical/s;     
+   
+    
+    
+    
+     
+  This module covers the molecular mechanisms and techniques, and the specialised analysis methods relevant to interdisciplinary research in this field. Supporting the taught lectures, the students will undertake several practical sessions, acquiring molecular techniques, twin model fitting, statistical genetics and bioinformatics analysis skills.
+
+  
+    A3: Psychology   Psychopathology - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PADGGA3    
+  
+    Credit level:  
+7  
+    Credit value:  
+30 credits    
+    
+      Semester:  
+    Semester 2 (spring)      
+   
+    
+  
+      Assessment:  
+      written examination/s;     coursework;     
+   
+    
+    
+    
+     
+  This module focuses on the specialist research into normal and abnormal behaviour, including detailed description of behavioural traits and mental health disorder classification and the role of genetic, environmental and developmental factors and the interaction between these factors in the processes underlying behaviour. The uses and pitfalls of modern classifications and systems of psychiatric diagnosis will be considered. The following subject areas will be covered:
+- Developmental psychology
+- Social development
+- Psychosis and bipolar disorder
+- Emotional/behavioural disorders
+
+  
+    B1: Research Project - Required
+
+   
+      
+  
+    
+      
+     Module code:  
+7PADGGB1    
+  
+    Credit level:  
+7  
+    Credit value:  
+60 credits    
+    
+      Semester:  
+    summer session 1      
+   
+    
+  
+      Assessment:  
+      coursework;     practical/s;     presentation/s;     
+   
+    
+    
+      The research project is assessed by a research report, a laboratory notebook and a poster presentation.
+     
+  This module provides students with the opportunity to work, uninterrupted, on a closely-supervised research project relevant to behavioural genetics for a minimum of 22 weeks' full-time study. This will enable them to use the specialist knowledge that they have acquired from the previous modules (A1-A3) to, first, generate testable hypotheses and then, using appropriate laboratory techniques, to obtain empirical data that they can record, analyse, present and critically evaluate in a discussion resulting in conclusions that either support or refute their hypotheses.
