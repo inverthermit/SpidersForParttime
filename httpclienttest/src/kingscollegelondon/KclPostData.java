@@ -63,7 +63,7 @@ public class KclPostData {
 	
 	Entry: div id=leftcolumn_col2
 	
-	IELTS:http://www.kcl.ac.uk/study/pg/admissions/requirements/language.aspx
+	IELTS:http://www.kcl.ac.uk/study/postgraduate/apply/entry-requirements/english-language.aspx
 	
 	Tuition fees 2016-17
 
