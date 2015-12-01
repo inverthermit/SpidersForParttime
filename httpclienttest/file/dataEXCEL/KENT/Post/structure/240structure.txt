@@ -1,0 +1,316 @@
+Course structure
+
+
+ The programme is delivered by internationally leading researchers in our Broadband and Wireless Communications group
+.   They provide first-hand experience of cutting-edge research into next-generation wireless communication systems, antenna technology, components and systems, and fibre optic and converged access networks.  
+
+The excellent research track record of the members of the Broadband and Wireless Communications research group enables us to provide true research-led teaching, and superior expertise and facilities for projects. Our research teams also have many contacts in industry
+ and research establishments and can provide project placement
+ opportunities and advice.
+
+In recent years, the MSc in Broadband and Mobile Communication Networks has forged particularly strong links with EE (Everything Everywhere), JDSU UK Ltd., Rohde   Schwarz and 3.
+
+Dr Nathan Gomes
+
+MSc Programme Chair
+Broadband   Mobile Communication Networks
+
+Student profiles
+
+We are sure you will find your time at Kent enjoyable and rewarding.
+
+See what our students have to say
+.
+
+Example projects
+
+View examples of student projects
+ for this course.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   EL822 - Communication Networks
+
+
+   
+    This module will take you through communication network protocols, as used in local-area networks and wide-area networks. It includes the protocols used in the wireless LAN (WiFi) standards, Ethernets, and IP networks. The analysis of network performance is also covered. A network simulator (OPNET) is used to reinforce the material, and to provide you with a means of visualising protocol operation and network performance.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL827 - Signal & Communication Theory II
+
+
+   
+    This module provides you with knowledge in communications theory. It covers optimal receiver design, advanced modulation such as QAM, transmission and performance analysis over wireless multipath fading channels, spread spectrum and multicarrier transmission, and advanced channel coding such as multiple input multiple output (MIMO). Simulink modelling of a digital communication system will enhance your understanding of how the concepts are applied.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL849 - Research Methods & Project Design
+
+
+   
+    The aim of this module is to prepare students for the Masters Project and for possible future research work. It begins with an introduction to MATLAB and SIMULINK tools which are used in most taught masters modules at Kent. The module also includes details about how to write a literature review and produce a viable project plan. Students learn how to use tools such as RefWorks and EndNote to produce and maintain reference databases. It also addresses important issues concerning the definition of a project and the consideration of ethical and Intellectual Property Issues. Techniques and guidelines for writing clear and concise English are discussed in detail.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL872 - Wireless/Mobile Communications
+
+
+   
+    Here you will concentrate on the latest mobile and wireless communication technologies, techniques and protocols, covering cellular networks from GSM to 3G and 4G mobile systems. The latest protocols for next generation wireless networks, and the techniques which will enable them, such as microcellular mobile concepts and interference, adaptive modulation and coding, soft handoff, wireless multiple access techniques, multiuser detection, multiuser diversity/scheduling, wireless resource allocation and MIMO systems, are covered.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL873 - Broadband Networks
+
+
+   
+    This module will provide you with knowledge of broadband network operation, from access networks (xDSL,UWB, WiMAX, DOCSIS) to multi-service provision in IP networks using differentiated services, MPLS, reservation protocols (such as RSVP) and protocols for real-time information transfer (RTP/RTCP), to optical networking and switching. Seminars from industrially linked speakers stimulate interest in particular areas.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL871 - Digital Signal Processing (DSP)
+
+
+   
+    In this module, you are taken through the fundamental of digital signal processing. The course includes a basic introduction to the representation and processing of signals in the digital domain and the design of digital filters. Application examples including JPEG and MPEG image and audio compression standards are used to illustrate the use of the theoretical material presented in the course.The course makes extensive use of MATLAB to enable students to grasp the subjects more readily.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL891 - System and Circuit Design
+
+
+   
+    Review of Transmission line theory and network analysis, Circuit transmission lines and waveguides, Passive components and matching, Couplers & power dividers, Filters, The PIN diode control, RF amplifiers, Dynamic Range, gain compression, 3rd order intercept and intermodulation, Noise sources and noise figure in cascaded systems, Antenna parameters, CAD modelling and design of small antennas, balanced/unbalanced transitions, patch and slot antennas, antenna matching and RFID antennas.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL892 - Satellite and Optical Communication Systems
+
+
+   
+    This module introduces and builds upon the physical aspects of communications and applies them to satellite and optical communication systems. Problem solving and computer simulation are used to create understanding.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL890 - MSc Project
+
+
+   
+    A major practical system will be developed either in an industrial context or within the department.  There are no formal lectures - students will undertake the work in their own time under the regular supervision of a member of the academic staff and, where appropriate, industrial collaborators.
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The project module is examined by a presentation and dissertation. The Research Methods and Project Design module is examined by several components of continuous assessment. The other modules are assessed by examinations and smaller components of continuous assessment. MSc students must gain credit from all the modules. For the PDip, you must gain at least 120 credits in total, and pass certain modules to meet the learning outcomes of the PDip programme.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ educate graduate engineers and equip them with advanced knowledge of telecommunications and communication networks (including mobile systems), informed by insights and problems at the forefront of these fields of study, for careers in research and development in industry or academia
+ produce high-calibre engineers with experience in specialist and complex problem-solving skills and techniques needed for the interpretation of knowledge and for systems level design in the telecommunications field
+ provide you with proper academic guidance and welfare support
+ create an atmosphere of co-operation and partnership between staff and students, and offer you an environment where you can develop your potential
+ strengthen and expand opportunities for industrial collaboration with the School of Engineering and Digital Arts.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ digital communication systems and networks (including mobile/wireless networks) and an awareness of developing technologies in this field
+ mathematical and computer models for analysis of digital communication systems (including wireless and optical communication systems) and networks
+ design processes relevant to communication systems (including optical, microwave and digital systems) and networks (including wireless/mobile networks)
+ characteristics of materials, equipment, processes and products, such as optical and microwave communications materials, equipment and products, and digital communication systems and networks processes, equipment and products
+ project management techniques relevant to the electronics and computer industries.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to use fundamental knowledge to explore new and emerging technologies
+ the ability to understand the limitations of mathematical and computer-based problem-solving and assess the impact in particular cases
+ the ability to extract data pertinent to an unfamiliar problem and apply it in the solution
+ the ability to analyse a problem and develop a system level specification, based on an understanding of the interaction between the component parts of the system
+ the ability to apply engineering techniques, taking account of commercial and industrial constraints.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the ability to apply knowledge of design processes in unfamiliar situations and to generate innovative designs to fulfil new needs, particularly in the fields of broadband networks and mobile/wireless communication systems
+ the ability to devise tests of a software and/or hardware system through experiment or simulation and to critically appraise the results
+ the use of CAD tools including high-level system and network simulators to analyse problems and develop solutions
+ the ability to search for technical information and apply it to a design
+ the ability to apply management techniques to the planning, resource allocation and execution of a project
+ the ability to prepare technical reports and presentations.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the ability to generate, analyse, present and interpret data
+ use of information and communications technology
+ personal and interpersonal skills, working as a member of a team
+ an ability to communicate effectively, in writing, verbally and through drawings
+ the ability for critical thinking, reasoning and reflection
+ the ability to manage time and resources within an individual and group project
+ the ability to learn independently for the purpose of continuing professional development. 

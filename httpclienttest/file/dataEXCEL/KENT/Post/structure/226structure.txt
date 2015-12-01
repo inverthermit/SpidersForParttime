@@ -1,0 +1,400 @@
+Course structure
+
+
+ The programme is studied over one year full-time or two years part-time and is divided into two stages:  eight taught modules (six of which are compulsory) and a dissertation.
+
+The compulsory modules provide a basis for you to acquire the basic skills for the programme, while  the optional modules enable you to choose from applied  subjects in the first and second terms. All MSc students take a module in Research Methods, which provides practical skills and knowledge for MSc-level research.
+
+All of our MSc programmes require some mathematical analysis, and we recognise that students have widely differing backgrounds in mathematics. The first week of all our MSc programmes includes compulsory intensive teaching in mathematics, refreshing and improving your skills in order to equip you with the techniques you will need for the rest of the programme.
+
+Students who successfully pass the taught element of the programme, proceed to the dissertation stage, where you undertake a supervised project of your choice on an issue in  international development. Advice on choice of dissertation topic and management is given during the taught stage of the programme. The dissertation stage develops students&rsquo; research skills and follows on from the Research Methods module. Student dissertations are supervised by academic  staff.
+  
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   EC817 - Research Methods
+
+
+   
+    The aim of this module is to introduce you to a range of research methods and sources available in modern economics, and enable you to gain an understanding of their application in the context of your own MSc dissertation topic. In more practical terms, this module deals with the practicalities of postgraduate level research: acquiring and reviewing basic analytical skills, choosing a dissertation topic, deriving interesting and well-focused research questions, addressing questions with data or theory,  and interpreting and writing up results. It aims to ease the transition of students who merely learn about existing research to being researchers working on their MSc dissertations. The module is taught by various members of the School and as such will expose you to some topics we work on and the methodologies we use. It has two components. The first focuses on specific skills: mathematical skills, use of library resources, writing skills, and data collection and management. The second aims to prepare you for the dissertation stage by giving you some concrete help and feedback in choosing a research topic and planning your work.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC815 - Growth and Development Theory
+
+
+   
+    Some of the greatest and most important books written in economics have been about the progress of nations. Some of the most distinguished economists in the world are development economists concerned with the economic progress of developing countries. Why are some countries rich and others poor? Why do some countries grow faster than others, and why have some countries got left behind? This graduate module, Growth and Development Theory,  introduces you to  theories  of growth and development  both old and new  looking at the various influential models that have been propounded over the years from Adam Smith and other classical economists in the 18th and 19th centuries to new endogenous growth theory in the modern era. As well as aggregate models associated with the names of Smith, Ricardo, Marx, Harrod, Solow, and the new growth theorists (Barro, Romer), there are also sectoral models emphasising the role of particular factors of production or sectors of the economy, such as Arthur Lewiss famous model of economic development with unlimited supplies of labour, and Nicholas Kaldors stress on the role of manufacturing industry based on increasing returns. We also look at centre-periphery models of growth and development associated with Gunnar Myrdal and Raul Prebisch, and constraints on growth imposed by the balance of payments and inflation.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC832 - Political Economy of Public Policy
+
+
+   
+    This module aims to provide an in introduction to the economics of public choice, the work of democratic institutions in the policy process and the overall policy process with reference to national and supra-national policies. In doing so it examines the behaviour of participants in policy design (governments, bureaucrats, interest groups and voters) in developed and developing countries, and the ways in which policy decisions are made in the area of agriculture, rural development and international trade negotiations, and provides an overview of the main types of political economy models.Topics Political economy and the origins of government Collective choice: normative analysisCollective choice: positive analysis The government and special interest groups The political economy of bureaucracy Empirical political economy modelsPolicy process in Europe: political economy of CAP and regional policy; main institutions involved in the policy process; voting procedures Policy process in other OECD countries: political economy of US agricultural policy and New Zealand policy reform Political economy approach to agricultural policy and market distortions in developing countries 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC833 - Economic Principles
+
+
+   
+    The aim of the module is to introduce and develop knowledge of widely applicable economic principles with a focus on their applications to development issues. The module is intended for students at the Masters level with an interest in the study of applied economics and international development, who have not had economics at the undergraduate level. The module introduces you to the core principles of microeconomics, with the aim of providing you with an understanding of the general analytical framework for the work by neoclassical economists on development issues (as well as deviations from this framework). Moreover, it provides an introduction to macroeconomic topics that are central to current debates about economic development, including Growth Theory and international trade. The module also introduces you to the research literature on development carried out by economists, which you will be required to understand, make use of, and critique in the other modules of the MSc programme. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC835 - Quantitative Methods for Economists
+
+
+   
+    The aim of the module is to train students who have not had enough quantitative training during their undergraduate degree in the techniques economists use to quantify economic relationships in order to test hypotheses or assess the impact of economic policy. This is approached in a practical way so that you gain experience in using suitable computer software to investigate empirical relationships, which you apply in the other modules of the MSc programme and in your research dissertation. In other words, the module aims to equip you with the knowledge and skills to engage with empirical economic research. Lecture topics The nature of economics data and how to find it. Descriptive analysis of economics data Essential elements of probability theory Probability distributions Statistical inference: confidence intervals and hypothesis tests I Statistical inference: confidence intervals and hypothesis tests II The nature of regression analysis The two-variables regression analysis: some basic ideas The two-variables regression analysis: estimation The two-variables regression analysis: inference The two-variables regression analysis: some extensions
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC834 - Environmental and Resource Economics and Policy
+
+
+   
+    This module introduces you to environmental and resource economics as a field of study and research, through analysing the economic and institutional causes of environmental problems and the economics of natural resource use, and applying concepts and theories from environmental economics to the formulation and evaluation of environmental policy. It will equip you with the knowledge and skills to design and critically evaluate public policies towards the environment, and to understand the ways in which political decisions about the environment are made and why they often conflict with policy recommendations made by economists.Lecture topics: Environmental economics as a discipline and rationale for studying natural resource economics Diagnosing environmental problems: a framework for the design and evaluation of environmental policies Environmental policy instruments: standards, taxes, subsidies and marketable permits Targeting and enforcement of environmental policy International issues in environmental policy Sustainability and optimal growth theory  Optimal depletion of non-renewable resources Renewable resources 1: models of fisheries Renewable resources 2: models of forestry Land as resource, property rights and institutions
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC821 - Econometric Methods
+
+
+   
+    This module aims to study basic single equation econometric techniques in an intuitive and practical way to develop your understanding and ability to apply econometric methods.You will develop an understanding of the conventional linear regression model and the problems associated with the application of regression methods to economic modelling. The module is concerned with the application of econometric methods, with little emphasis on the mathematical aspects of the subject (which may be studied in other modules). The microcomputer software package STATA is used for practical work throughout this module, both as a means of providing realistic applications of the theory developed in lectures and to give you experience in the use of such software as a preparation for your own empirical research.No previous knowledge of computing or econometrics is required.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC825 - Applied Microeconometrics
+
+
+   
+    Empirical evaluation of economic models is crucial to the study and application of economics. This module builds upon the material covered in the Econometric Methods module EC821 which introduced you to linear regression models and the problems associated with economic modelling involving single equation econometric techniques. The emphasis is on applied econometrics and so the module aims to develop further your understanding of applied econometrics and to introduce techniques used in applied microeconomic analyses. Hence, the module is concerned with the application and properties of econometric methods, with less emphasis on the mathematical aspects of the subject. Our main focus is on the techniques appropriate for the analysis of cross-section and panel (cross-section/time series) data, which are now used widely in many areas of economics. An understanding of these techniques is essential to anyone attempting to evaluate, and/or undertake, applied microeconomic analysis. Collectively, these latter techniques are referred to as microeconometrics. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC829 - Environmental Valuation
+
+
+   
+    This module assesses the monetary techniques commonly used for the economic valuation of environmental impacts, and looks at the importance of integrating environmental assessment and valuation into the policy development and project design. It illustrates the theory with applications of the valuation techniques in economic decision making at national and project level.Topics Introduction - why value the environment? Theory of environmental valuation Non demand curve approaches The Travel Cost Method Hedonic Pricing Methods The Contingent Valuation Method Policy applications of environmental valuation Critiques of environmental valuation and cost-benefit analysis New horizons in environmental valuation Conclusion - the role of economics in environmental valuation 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC831 - Rural and Peasant Economies
+
+
+   
+    This module demonstrates the unique role that agriculture plays in economic development, poverty alleviation and the development of rural non-farm sectors, looking at the relationship between urban and rural economies based on the way in which these economies trade with each other and are influenced by public policy. It discusses the importance of the rural non-farm sector in the reduction of poverty and demonstrates the importance of market and infrastructural development in this process. It then goes on to look at theoretical approaches and empirical models that characterise peasant and rural household behaviour and analyses opportunities and constraints on development of rural economies and commercialisation of peasant households. Finally it assesses different government reform programmes and their impact on rural areas and small scale farming.Topics Rural and peasant economies: importance, definitions and analytical approaches Development and rural development Agriculture, poverty and rural development Development of rural-urban terms of trade Rural non-farm sectors and pro-poor growth Economic objectives of rural inhabitants Rural households: profit maximisation and risk preferences Households as producers and consumersAnalysis of opportunities and constraints facing rural farm households Land, technology and institutions 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     EC816      - International Finance
+
+
+     
+      This module is designed to introduce you to the main theoretical and empirical models of international financial relations. Exchange rates, capital flows, financial crises, current account and debt dynamics, and uncertainty are the most widely debated economic topics in the media and political arena. This module provides the economic foundations for a full understanding of these debates from a rigorous point of view. Working on the areas of financial economics and development (whether in private or public institutions) requires a solid knowledge of the topics studied in this module.The module is organised in four blocks. Part 1 focuses basic concepts and core models of the open economy and exchange rate determination. Part 2 deals with modern models of the open economy by introducing time and uncertainty. Part 3 covers two important kinds of international crises: speculative attacks on fixed exchange rates, and the current global economic crisis. This also helps to understand the importance of choosing exchange rate regimes, and how this affects economic policy choices. The module is focused on both the theory and empirical evidence. That is, we focus not only on the analytical side of the stories but also on their empirical relevance. This helps your understanding of the role of data analysis and econometric work on a research project such as the one you have to write for your dissertation.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     EC803      - Trade and Development
+
+
+     
+      This module is designed for students with interests in both development and international economics. It aims to discuss some of the fundamental models (and their extensions) in international economics and link them to the growth and development process of regions and countries. Throughout this module we provide you with the analytical tools and theoretical knowledge necessary to understand these links. We also focus on both the theoretical foundations and extensions of trade theory and the empirical evidence available to the current theoretical debates. The module consists of two main sections. The first one is devoted to the foundations of trade theory and it is the basic building block around which the rest of the module pivots. The second section deals with the relation between trade liberalisation, exports and long run growth, covering both the theory and empirical evidence.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     EC998      - Dissertation:Economics
+
+
+     
+      
+
+
+      Credits: 60 credits
+       (30 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is through a wide variety of methods including seminar presentations, extended essays, short projects, in-class tests, examinations, and the dissertation.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ provide a stimulating education in the principles of economics and related subjects, and their application to problems of international development, in which high-quality teaching motivates you to achieve your full potential. The teaching is informed by the research and scholarship of our teaching staff
+ build on your existing knowledge, abilities and skills and develop a deeper understanding of the way in which economics and quantitative techniques can be applied to problem-solving and policy in international development
+ develop your ability to apply economic knowledge, analytical tools and skills in a range of theoretical, applied and policy problems
+ develop your independent research skills and prepare you for work as professionals in international development
+ provide you with information and advice on future employment and further postgraduate study.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ the concepts, principles, theories, models and methods of modern microeconomics, macroeconomics and quantitative methods
+ an introduction to the econometric, mathematical, statistical and computing methods used in economics
+ sources of economic data and methods used to analyse such data, and the ability to make use of sources and methods
+ model building in economics and the critical analysis of such models
+ the application of core economic theory and reasoning to topics in international development
+ research methods and management
+ specialist Economics-supervised dissertation topic and quantitative methods project
+ economic analysis of policy
+ critical evaluation of major debates and articles in economic literature.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to abstract the essential features of a complex system
+ the ability to think about what are the important variables and fixed parameters in analysing a problem
+ the ability to analyse complex issues using deductive and inductive reasoning
+ the ability to organise and use information to analyse complex issues and construct and test different hypotheses
+ the ability to review literature critically and appreciate alternative explanations and analyses of a problem
+ the ability to manage supervised dissertation and quantitative projects.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ analytical skills in economics
+ the ability to develop and understand models of economic behaviour
+ the ability to apply economic principles and analysis to a range of issues, problems and policies
+ the ability to abstract the essential features of an economic issue, problem or system
+ knowledge of the principal sources of economic data and information, and the ability to use and present this information
+ the ability to carry out economic and quantitative analysis of economic data
+ the ability to synthesise and compare critically different economic analyses of an environmental economic issue
+ the ability to research the literature on an environmental economic issue
+ research management skills
+ the ability to apply economic skills to investigate supervised dissertation and quantitative methods projects.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the effective communication of analysis and ideas, both orally and in written form
+ the ability to assemble, analyse, use and present data
+ the ability to use and understand economic, mathematical and quantitative methods to analyse issues and problems
+ development of information technology skills through using statistical and econometric packages, bibliographic searches and wordprocessing coursework
+ independence in initiating and executing work
+ the ability to analyse and solve problems
+ the ability to think critically about proposed analyses and solutions to a problem or issue
+ the ability to define and test hypotheses
+ responsibility for managing your own learning and academic performance
+ research management skills acquired through supervised dissertation and quantitative methods projects
+ an understanding of your career opportunities and the challenges ahead as you begin to plan your career path. 

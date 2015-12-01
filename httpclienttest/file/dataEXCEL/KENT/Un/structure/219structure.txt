@@ -1,0 +1,769 @@
+Course structure
+
+
+The course structure provides a sample of the modules available for this programme. This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University .
+
+Based on ongoing sector research, new or updated modules for 2016/17 will include, subject to final approval:
+
+CB756 - Digital Information Systems: A Management Perspective
+
+The following modules are offered to our current students. This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation:
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      CB343 - Global Business Environment
+
+      
+      
+       The module will cover various aspects of the changing global environment.  An indicative list of topics is given below, however the main aim of the module is to examine contemporary issues within the global business environment that are likely to impact upon business operations and strategy: Globalisation: Definition, Evolution, Implications for countries, firms and people,  The Triad: European Union, United States, Japan - Investment, Trade, Relations International Capital and Financial Markets: New York, London, Frankfurt, Tokyo World Institutions: World Trade Organisation, International Monetary Fund, United Nations International Economic Environment: Exchange Rates and patterns of trade Environment: Global Warming  Kyoto Agreement Business and Corporate Culture: Japan & Germany VS UK & US  Innovation & Technology Mergers and Acquisitions Firm and Stakeholders - Ethical Issues
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB364 - Introduction to Business Modelling
+
+      
+      
+       An indicative set of topics to be covered within the module are outlined below:Basic Spreadsheet Functionalities: Introduction to common spreadsheet features: workbooks, worsksheets, menus, cells, rows, columns, data types, relative and absolute cell sddressing, copying, basic formulae, naming cells, formatting, charts and graphs, printing.Data Management Facilities: sorting, filtering, data forms, pivot tables.What-if Analysis: scenario manager, goal seek, data tables.Basic Financial Analysis: Introduction to basic financial analysis and how to carry this out using spreadsheets: compound interest, discounting, NPV, IRR, loans and mortages.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB312 - Introduction to Management
+
+      
+      
+       The module introduces students to theories of management, beginning with classical management systems through to contemporary management concepts.  It will illustrate the continuities and transformations in management thinking throughout the 20th and 21st century.  The main topics of study include: Scientific Management The Human Relations School Bureaucracy Post Bureaucratic Organizations The Contingency Approach Culture Management Leadership Decision-Making Managing Ethically
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB675 - Financial Accounting, Reporting and Analysis
+
+      
+      
+        The relationship between business and accounting The principles underlying a double-entry accounting system The preparation of primary financial statements from trial balance The regulatory framework of financial reporting The annual report and accounts of plcs The analysis and interpretation of financial statements
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB680 - Introduction to Marketing
+
+      
+      
+       The module introduces to students the importance of marketing in competitive and dynamic environments:The key topics of the module are:The marketing conceptThe marketing environmentMarket segmentation & targetingBrand development and managementManagement of the marketing mixNew product developmentOverview of internationalisation
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC313 - Microeconomics for Business
+
+      
+      
+       This module is designed for students who have not studied Microeconomics for Business before or who have not previously completed a comprehensive introductory course in economics. However, the content is such that it is also appropriate for students with A-level Economics or equivalent, as it focuses on the analysis, tools and knowledge of microeconomics for business. The module applies economics to business issues and each topic is introduced assuming no previous knowledge of the subject. The lectures and related seminar programme explain the economic principles underlying the analysis of each topic and relate the theory to the real world and business examples. In particular, many examples show how economic analysis and models can be used to understand the different parts of business and how policy has been used to intervene in the working of the economy. Module workshops apply economic analysis and techniques to business situations. The module is carefully designed to tell you what topics are covered under each major subject area, to give readings for these subjects, and to provide a list of different types of questions to test and extend your understanding of the material.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      CB313 - Introduction to Statistics for Business
+
+      
+      
+        The nature and use of numerical information Summarising data Graphical representation of data: histograms, pie charts, cumulative frequency curves Measures of location and dispersion Probability, distributions and expected values Sampling and its uses The ?2 distribution, questionnaire analysis and contingency tables Correlation
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      IT301 - Learning Italian - Beginners
+
+      
+      
+        This is an intensive module in Italian for students who have no or very little knowledge of the language. This course will be of particular interest to anyone wishing to widen their knowledge of Romance languages and to those intending to spend time in Italy. Key basic grammatical structures will be taught through the means of purpose-designed Italian language course books. The students will use the exercise book to carry out grammar exercises at home, which will then be corrected in class. The students will practice their aural skills by listening to audiotapes and videos both in and outside the class. Each chapter of the coursework book is theme based (travelling, shopping, family, etc.). The students will learn how to write and speak in Italian by acquiring new vocabulary, key grammatical points and by carrying out role-plays / presentations. All these aspects relate to the themes in the coursework book. A range of materials will be provided to the student and will for the basis for discussions, translations and applied exercises. Some cultural background of Italy will be provided (e.g. geography, art, music, culinary etc.) The students will also be expected to carry out simple translations from Italian to English / English to Italian. The texts provided will be extracted from the web or the coursework book itself. These translations will also relate to the themes covered in each chapter of the coursework book. By the end of the course the student will have covered key grammatical areas including: the present tense, the future, the gerund, and basic pronouns.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      IT308 - Learning Italian 3 (Post A Level)
+
+      
+      
+       The module is intended for students with an A Level Italian (although Intermediate/GCSE/AS Level will be considered), and is aimed at consolidating students knowledge of written and spoken Italian, at strengthening their grammatical awareness of Italian and at practicing translation skills both from and into Italian. Students will develop skills to plan work, study independently and use relevant sources, as well as acquire a sophisticated knowledge of Italian through weekly exercises of translation, grammar and conversation. The module comprises three elements: one hour per week devoted to advanced Italian grammar, one devoted to translation from English into Italian and guided comprehension, and one hour of conversation practice with a native speaker Italian. This module is subject to change, pending faculty approval. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE301 - Learning German 3 (Post A Level)
+
+      
+      
+       This module comprises of: translation from German to English, grammar exercises, conversation classes, and the culture and politics of the German-speaking countries (Landeskunde).This module is subject to change, pending faculty approval. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      FR300 - Learning French 3 (Post A Level)
+
+      
+      
+       This year-long module reinforces and expands skills acquired at 'A' level by using a wide variety of materials. This module covers the level B1 of the CEFR in 24 weeks.By the end of this module students are able to: - understand the main points of clear, standard input on familiar matters regularly encountered in work, school, leisure, etc. - deal with situations most likely to arise whilst travelling in an area where French is spoken.- produce connected text on topics which are familiar or of personal interest.- describe experience and events, dreams, hopes and ambitions and give reasons and explanations for opinions and plans.- master basic and more complex grammar and written skills including simple translations.- appreciate aspects of contemporary French culture.Successful completion of this module allows students to progress to Learning French 4 (FR589), which cover the level B2 of the CEFR. This module is required for first-year students who pursue a degree in French. It is not intended for bilingual students and French native speakers with secondary education in a Francophone country. It may be taken as a wild module. The module focuses largely on French language, and there is also a Civilisation element of the course, in which you will learn about French culture, history and society. By taking this module, you will improve your grammatical skills, your written and oral skills, and your knowledge and awareness of French culture and history.This module is subject to change, pending faculty approval.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS300 - Learning Spanish 3 (Post A Level)
+
+      
+      
+       This module is intended for students who have attained the equivalent of an A-Level pass in Spanish. The main aims of the module are: to consolidate and expand knowledge of the grammar and structure of the language, and to promote a high level of skill in speaking, listening, reading and writing. The course also aims to increase your awareness of the history and culture of Spain through the study of appropriate texts. Regular written work will be required throughout the year.Native/near-native speakers taking a four-year degree which includes Spanish will normally be exempt from this module. If you think you belong to this category, please choose an alternative module and contact Hispanic Studies as soon as possible at the beginning of term.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS302 - Intensive Learning Spanish 1 (Beginners)
+
+      
+      
+       This is an intensive module in Spanish for students who have no or very little knowledge of the language. It is also suitable for those who have taken a GCSE in Spanish, as by the end of the module the level attained will be higher than this (students wishing to proceed with Spanish in their second year will join a Post A Level group). The emphasis in this module is on acquiring a sound knowledge of the structure of the language while developing the four main skills: speaking, listening, reading and writing.Please note that this is a very intensive module. If you have little language learning experience, you may find the pace too fast. The module is intended primarily as part of a two-year option for students needing to spend their third year in Spain. Regular written work will be required throughout the year.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      FR330 - Intensive French for Beginners
+
+      
+      
+       This module covers the levels A1, A2 and B1 of the CEFR in 24 weeks.Successful completion of this module allows students to progress to FR589.This module is subject to change, pending faculty approval. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB311 - Business Skills & Employability
+
+      
+      
+       Topics the module will cover include: Orientation to studying at university, time management and learning styles.  Research and cognitive development (writing essays and reports in higher education, research and referencing, plagiarism, how to make a reasoned argument, literature searches and introduction to critical and analytical thinking). The theories underlying personal skill development needed to achieve success at university and in the workplace (i.e. effective communication; working in groups, teamwork, problem solving, creative thinking, conflict management and negotiation). Personal Development Planning for Employability (including career search, CV writing, and making sense of employer skills requirements).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      CB749 - International Business II
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB739 - International Business I
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB744 - Creativity, Innovation and Organisation
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB733 - Business Ethics and Sustainable Management
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB676 - Strategy Analysis and Tools
+
+      
+      
+       The module provides a broad, basic understanding of strategy and strategic management, on which further strategic analysis and exploration of strategic issues can be built.  It introduces students to the key vocabulary, concepts and frameworks of strategic management and establishes criteria for assessing whether or not a strategy can be successful.   It introduces students to frameworks for analysing the external and internal environments and to different theories of how these relate and of their impact on strategy formulation and implementation.  Students will learn how to identify strategic issues, develop strategic options to address them and decide which option(s) to recommend.   Through theoretical readings and case studies, students will develop an appreciation of strategy in different contexts and from different perspectives and of the complexity of strategic decision-making.  Students will enhance their ability to read business articles from a strategic perspective and to present strategic arguments in a structured manner
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB673 - Business in Emerging Markets
+
+      
+      
+       The module will include:The consequence of the entry of formerly closed economies onto the world trading stage;The motives and impact of systemic changes (privatization, liberalization of trade policies, etc.) on the environment of business in emerging markets;Trends in emerging markets,  especially relating to internal country specific policy reforms;Distinguishing features of emerging market economies and associated risks in doing business;Comparative analysis of the similarities and differences between emerging and developing market economies;Strategic alliances and international business networks in emerging economies;The challenges of developing flexible and adaptable corporate strategies in emerging markets; Collaborative arrangements and control strategies in modes of entry and network creation;Country-specific challenges in enhancing the value proposition from entering and dealing with the select emerging market countries;Explore the shifting dynamic: Emerging challengers from emerging markets -a case of the new multinational. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB514 - Operations Management
+
+      
+      
+       A synopsis of the curriculum
+Students will be expected to develop the ability to use appropriate techniques of analysis and enquiry within Operations Management and to learn how to evaluate alternatives and make recommendations. Topics include:
+Strategic role of operations and operations strategy
+Design of processes and the implications for layout and flow
+Design and management of supply networks
+Resource planning and management
+Lean systems
+Quality planning and managing improvement
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      CB658 - Diversity in Organisations
+
+      
+      
+       This module presents an overview of what workforce diversity is and its relevance and usefulness in improving our understanding and management of people (including ourselves) at work. The demographics of the population and the workplace are changing drastically because of a number of factors, such as an increasing number of ethnic minorities and women in the workforce and in management. Accordingly, there is a need to effectively understand and manage workforce diversity not only to increase organisational business outcomes but also to create an inclusive workplace in a socially responsible manner. The module will examine issues confronting managers of a diverse workforce. In particular issues such as ethnicity, race, language, ageing, disability, gender, and intersectional identities will be discussed. Two key approaches towards managing diversity will be explained, i.e. the social equity case of managing diversity, and the business benefits case of managing diversity. The module will explore a range of diversity related concepts and topics, such as social identity, stereotyping, discrimination, intergroup conflict, structural integration, and organisational change. Main themes covered by this module will include:Origins of diversity and equal opportunity in the workplace context;Social and psychological perspectives on workplace diversity;The UK and European diversity contexts;Business benefits case and social equity case of managing diversity; The legal framework for diversity;Organisational approaches to diversity;Contemporary issues central to the experiences of diverse individuals in the UK and in organisations across a range of diversity dimensions;Diversity management in an international context
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB520 - Service Management
+
+      
+      
+       This module follows CB514 Operations Management but its focus is on services.  It deals with the management of service operations: that part of any organisation that produces and delivers services required by customers of the organisation.  The module aims to provide a clearly structured qualitative treatment of service management that explores the design of service delivery systems and how customer service quality can be managed.Students will be expected to develop the ability to use appropriate techniques of analysis and enquiry within Operations and Service Management and to learn how to evaluate the alternatives and make recommendations. Topics include:
+The nature of services and service strategy
+Service development and technology
+Service quality and the service encounter
+Project/Event management and control
+Managing capacity and demand in services
+Managing inventories
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB613 - Enterprise
+
+      
+      
+       A synopsis of the curriculum
+The curriculum will include the following areas of study:
+Factors that have influenced the growth of the enterprise culture in the UK
+The role and relevance of SMEs in the UK economy, varying definitions of SMEs, statistical information. Government policies, initiatives, & support agencies.
+Are entrepreneurs made or born? Can enterprise skills be taught or learned? Are entrepreneurs different from other managers? Characteristics of an entrepreneur - case study examples.
+Enterprise and innovation development in organisations, and the role of graduates in innovation. Protecting ideas & intellectual capital.
+The planning process for starting a new venture  risks & liabilities, problems & pitfalls, potential profit & success. Business plan format and content, information required by potential lenders
+Funding the new enterprise, venture capital, exit strategies..
+Surviving the early stages of business development. Failure rates in new and small enterprises. Barriers to growth & development. 
+Differences in attitudes, objectives, skill requirements and business strategies between small and large firms. Does the management process impede entrepreneurial flair?
+Growth strategy options. The culture shift from operational to strategic thinking.
+Political & ethical dilemmas  the conflict between government aspirations for employment growth and the burden of red tape and legislation.
+Corporate enterprise  creating enterprise cultures in larger organisations and the public sector
+NB:
+ This module is closely linked with Network612, a small business, graduate entrepreneurship and business support services forum, which meets monthly.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB736 - New Product Marketing
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB747 - International Entrepreneurship
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB746 - Cross-Cultural Management
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC566 - Macroeconomics for Business
+
+      
+      
+       The aim of the module is to develop your understanding of the principles of macroeconomics as they relate to business. We examine how these principles can help you to understand the current macroeconomic policy debate and how they are applied to common macroeconomic situations you will meet in business.Module topics include: the circular flow of the macroeconomy; inflation and unemployment definitions and causes; aggregate supply, aggregate demand and fiscal policy; money, the financial system, interest rates and monetary policy; international trade, the balance of payments and exchange rates.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+
+
+
+
+
+
+ 
+  Year abroad
+
+  
+   You can optionally spend a year at a partner University in France, Germany, Italy, Spain,  China or  Hong Kong,  between years 2 and 3. This  will equip you with an integrated knowledge of the economic, social and cultural environment acquired through language and business study.
+
+The Year in Hong Kong (or China) is taught in English. The Year abroad in Europe entails studying in the language of the host country.
+
+Please note: Students wishing to study abroad for a year need a minimum average of 60% for Stage 1 and Stage 2, with good attendance and academic standing. Students must complete the Overseas Travel Health Questionnaire, and attend a pre-departure briefing by the 
+Go Abroad team
+. See the  options available 
+by programme
+. Study abroad places are always subject to availability.
+
+  
+
+
+     
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      CB674 - International Business: A Strategic Perspective
+
+      
+      
+       The module will include:Essential tools for strategic analysis.Differences between international strategy and global strategy.National, sectoral and organizational drivers for global strategy.Influence of the political, economic, social and technological business environment on global and international business strategy.Importance of industry evolution in the context of the global business environment.Stakeholder analysis.Views on corporate social responsibility and their business implications.Significance of the internal environment and core competencies for the strategies of multinational firms.Value-chain and value-system analysis.Theories underpinning the internationalization process.Importance of international strategic alliances.Difference between the different types of international strategic alliances.Motives for international strategic alliances.Global sourcing strategies.Advantages and disadvantages fo diversification strategies.Contingency factors that determine the structure of multinational organizations.Various stances multinationals adopt to balance the need for global integration against the pressure for local responsiveness.Issues relating to the global management of change.Strategic control systems global organizations use.Role of culture in deciding on the relevant control structure and difficulties in designing management systems used in a global context.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB679 - Corporate and Business Strategy
+
+      
+      
+       Synopsis of the curriculum
+This module will extend students' knowledge and understanding of strategic management and strategic issues.  It will introduce a range of contemporary issues associated with the formulation and implementation of corporate and business strategies with an emphasis on identifying and implementing strategic change within the organisation, building dynamic capabilities and developing coherent strategies.  Issues might include strategies for a recession, global strategies, knowledge-based strategies, firms and industries, strategies where profit is of secondary (or no) importance.  The module will also extend students' theoretical knowledge by presenting contemporary debates and issues in strategic thinking.  The module will use a project in which students identify and suggest possible strategic solutions to a strategic issue in a real organisation to develop students' ability to link theory and practice in real-life situations.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB688 - Decision Analysis
+
+      
+      
+       Making decisions is one of the most important things any manager or business must do. Making smart decisions, however, can be extremely difficult due the complexity and uncertainty involved. Decision Analysis (DA) provides a structured and coherent approach to decision making. It involves a wide range of quantitative and graphical methods for identifying, representing, and assessing alternatives in order to determine a best course of action. DA is regularly employed by many leading companies in the pharmaceutical, oil and gas, utilities, automotive, and financial services sectors. In this module, you learn about the basic concepts of DA and how to apply it in a variety of practical business planning situations. An indicative list of topics is provided below. Introduction to decision making: understanding why decisions are hard, the art of making good decisions, the main building blocks of structured decision making. Decision trees: a walk through of the construction and use of decision trees for graphically representing and analysing risky decision problems. Expected value decision criterion: a short introduction to probability theory, how to compute expected values, and the use of an expected value decision criteria for solving decision trees. Alternative decision criteria: different types of risk attitude and a brief overview of alternative decision criteria for incorporating risk attitude. Overview of utility theory: a critical look at expected value and potential problems with using it, the concept of utility and the elicitation of a utility function, the exponential utility function for modelling risk neutral, risk-averse and risk-seeking decision makers. Dominance and sensitivity analysis: deterministic and stochastic dominance, tornado diagrams, one-way and two-way sensitivity analysis of probability estimates. Value of information: information and decision making, value of perfect information, value of sample information. Multi-criteria decision making: the analytical hierarchy process, comparing attributes, scoring alternatives, ranking alternatives, checking for consistency.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      EC566 - Macroeconomics for Business
+
+      
+      
+       The aim of the module is to develop your understanding of the principles of macroeconomics as they relate to business. We examine how these principles can help you to understand the current macroeconomic policy debate and how they are applied to common macroeconomic situations you will meet in business.Module topics include: the circular flow of the macroeconomy; inflation and unemployment definitions and causes; aggregate supply, aggregate demand and fiscal policy; money, the financial system, interest rates and monetary policy; international trade, the balance of payments and exchange rates.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB746 - Cross-Cultural Management
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB747 - International Entrepreneurship
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB748 - International Business Management Project
+
+      
+      
+       
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB736 - New Product Marketing
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB613 - Enterprise
+
+      
+      
+       A synopsis of the curriculum
+The curriculum will include the following areas of study:
+Factors that have influenced the growth of the enterprise culture in the UK
+The role and relevance of SMEs in the UK economy, varying definitions of SMEs, statistical information. Government policies, initiatives, & support agencies.
+Are entrepreneurs made or born? Can enterprise skills be taught or learned? Are entrepreneurs different from other managers? Characteristics of an entrepreneur - case study examples.
+Enterprise and innovation development in organisations, and the role of graduates in innovation. Protecting ideas & intellectual capital.
+The planning process for starting a new venture  risks & liabilities, problems & pitfalls, potential profit & success. Business plan format and content, information required by potential lenders
+Funding the new enterprise, venture capital, exit strategies..
+Surviving the early stages of business development. Failure rates in new and small enterprises. Barriers to growth & development. 
+Differences in attitudes, objectives, skill requirements and business strategies between small and large firms. Does the management process impede entrepreneurial flair?
+Growth strategy options. The culture shift from operational to strategic thinking.
+Political & ethical dilemmas  the conflict between government aspirations for employment growth and the burden of red tape and legislation.
+Corporate enterprise  creating enterprise cultures in larger organisations and the public sector
+NB:
+ This module is closely linked with Network612, a small business, graduate entrepreneurship and business support services forum, which meets monthly.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB520 - Service Management
+
+      
+      
+       This module follows CB514 Operations Management but its focus is on services.  It deals with the management of service operations: that part of any organisation that produces and delivers services required by customers of the organisation.  The module aims to provide a clearly structured qualitative treatment of service management that explores the design of service delivery systems and how customer service quality can be managed.Students will be expected to develop the ability to use appropriate techniques of analysis and enquiry within Operations and Service Management and to learn how to evaluate the alternatives and make recommendations. Topics include:
+The nature of services and service strategy
+Service development and technology
+Service quality and the service encounter
+Project/Event management and control
+Managing capacity and demand in services
+Managing inventories
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB605 - European Business
+
+      
+      
+       The curriculum is organised into two parts.
+Part I: Understanding the European Business Environment (Autumn)
+The European Business Environment (PESTEL), History and Development of the EU, Political and Institutional Framework of the EU.  Impact of EU policies on business operations: from Single Market to Single Currency, EU Competition and Social Policies, Regional Policy and Industrial Policy, EU Trade Policy.Part II: Doing Business in the New Europe (Spring)
+Formulating a European Business Strategy, Identifying Market Opportunities and Evaluating Modes of Entry. Understanding the impact on business of cultural diversity. Management within a European environment. Finance, Marketing and HRM issues for European Business.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB658 - Diversity in Organisations
+
+      
+      
+       This module presents an overview of what workforce diversity is and its relevance and usefulness in improving our understanding and management of people (including ourselves) at work. The demographics of the population and the workplace are changing drastically because of a number of factors, such as an increasing number of ethnic minorities and women in the workforce and in management. Accordingly, there is a need to effectively understand and manage workforce diversity not only to increase organisational business outcomes but also to create an inclusive workplace in a socially responsible manner. The module will examine issues confronting managers of a diverse workforce. In particular issues such as ethnicity, race, language, ageing, disability, gender, and intersectional identities will be discussed. Two key approaches towards managing diversity will be explained, i.e. the social equity case of managing diversity, and the business benefits case of managing diversity. The module will explore a range of diversity related concepts and topics, such as social identity, stereotyping, discrimination, intergroup conflict, structural integration, and organisational change. Main themes covered by this module will include:Origins of diversity and equal opportunity in the workplace context;Social and psychological perspectives on workplace diversity;The UK and European diversity contexts;Business benefits case and social equity case of managing diversity; The legal framework for diversity;Organisational approaches to diversity;Contemporary issues central to the experiences of diverse individuals in the UK and in organisations across a range of diversity dimensions;Diversity management in an international context
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

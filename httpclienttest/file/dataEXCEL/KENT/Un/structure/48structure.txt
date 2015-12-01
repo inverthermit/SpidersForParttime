@@ -1,0 +1,1131 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      GE301 - Learning German 3 (Post A Level)
+
+      
+      
+       This module comprises of: translation from German to English, grammar exercises, conversation classes, and the culture and politics of the German-speaking countries (Landeskunde).This module is subject to change, pending faculty approval. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE329 - Intensive Beginners German
+
+      
+      
+       This is a core module for students who study German to degree level but did not study it in secondary school. This module is very intensive as it brings students to the same level as those who have studied to A-Level. It may be taken as a wild module, with the understanding of the time commitment required. Students who cannot commit to the intensive nature of the module should take GE304 instead. Students are taught all skills from levels A1, A2 and B1 of the CEFR.  The students are taught basic and complex grammatical principles, use spoken German in everyday situations, do short compositions, and are introduced to German culture. Students are highly motivated and expected to progress rapidly from beginners' level to core competence in the areas outlined above, so that they may progress to the next level GE516 Learning German 3 (for stage 2 students) with confidence.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE331 - Learning German 2 (Post-GCSE German)
+
+      
+      
+       This module is a practical one, concentrating on listening, reading, speaking and writing in German, but also introducing students to the richness and diversity of German-language culture. It is intended as the first-year core language module for German degree students who have a GCSE qualification or equivalent in the language.  Students are taught all skills from levels A2 and B1 of the CEFR, including all basic and some complex grammatical principles. They learn to use spoken German in everyday situations, to conduct discussions on topics of contemporary relevance and to write short compositions in German. Students are expected to progress rapidly from GCSE level to core competence in the areas outlined above, so that they may progress to the next level GE516 Learning German 3 (for stage 2 students) with confidence.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE332 - German Applied Linguistics and Second Language Acquisition
+
+      
+      
+       This module is intended for students who start(ed) to learn German at University. It supports the acquisition of German as a foreign language as an adult; the module should be taken together with a language module (e.g. GE329). In the form of a learner diary the students document and critically reflect their progress in learning German. The level of knowledge of German required increases during the duration of the module, in line with the proficiency increase to be expected from a beginner's language module. The module notably has a highly applied focus. For example, students will be familiarized with grammatical terms (types of words, parts of speech) and structures (morphology, sentence structure), learn how to effectively acquire vocabulary, improve their pronunciation etc. The modules topics (directly or indirectly) address all four language skills as well as grammar and vocabulary.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                                 
+      GE311 - Varieties of German Writing
+
+      
+      
+       This introduction to the modern period in German literature covers a variety of representative authors and works including lyric poetry, drama, the novella and short story. Texts are selected for their relevance, not only to the development of varieties of German writing, but also to the social and political development of the German-speaking territories during these seminal years. Literary movements discussed include the Sturm und Drang, Romanticism, Naturalism, Expressionism and political engagement in the interwar period. Political and social currents include the repression of free speech during the Vorm&auml;rz, German Nationalism in the late nineteenth century, the Unification of Germany, the First World War and the rise of National Socialism. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE312 - Images of Germany, 1945-1990
+
+      
+      
+       German cultural production since 1945 had been largely dominated by ideologies and politics, by the forced forty-year division into two republics in opposite camps in the Cold War, and by the legacy of National Socialism, which factors all contributed to the eruption of student unrest in the 1960s. The material studied on the module covers the problems of returning soldiers in 1945 and the hardships endured by the civilian population; the trauma of the Holocaust; the pioneering idealism in the foundational phase in the German Democratic Republic and a satirical take on that; the pain caused to ordinary individuals by the erection of the Berlin Wall; the significance of the Vietnam War to the Left in the 1960s and the turn to violence in the pursuit of political goals in the following decade; and concludes with a collection of post-unification short stories with little political import.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE326 - Introduction to German Literature (in translation)
+
+      
+      
+       This module is designed to introduce students with little or no knowledge of the German language to German-language literature and its development from the 1760s to 1933). All texts will be taught in English translation, and throughout the module students will be encouraged to consider the implications of literary translation and of studying translated texts. A variety of genres will be covered, including poetry, drama and narrative prose. Works will be analysed not only within their literary-historical but also their social and political context.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE328 - Post-1989 German Cinema
+
+      
+      
+       The fall of the Iron Curtain in 1989 led to fundamental cultural and political re-alignments in German-speaking countries, unleashing a wave of cultural comment and creative activity. The 1990s and early twenty-first century saw a revitalisation of the film scene in both Germany and Austria, evident not only in highly acclaimed niche productions but also in a series of international box-office hits. This module will explore the themes and styles of post-Wende German-language cinema, focusing on representations of the GDR past and the phenomenon of Ostalgie; multiculturalism and migration; the transformation of Berlin and Vienna post-1989; and the documentary turn in German and Austrian film since 2000.The films selected for study can also be made available with English subtitles.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+ You have the opportunity to select wild modules in this stage
+
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      CO510 - Software Engineering
+
+      
+      
+       
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      GE507 - Learning German 4
+
+      
+      
+       The module develops proficiency in writing, speaking and comprehending German. It concentrates on translation into German and English and the development of analytical skills in the production of written and spoken German. Translation exercises confront students with a variety of texts in different styles and registers, and encourage accuracy and critical reflection as well as acquisition and consolidation of grammatical structures. The language skills component combines vocabulary development with discursive writing on topics of relevance to the contemporary German-speaking world. Oral classes with a native speaker develop oral competence through discussion, enabling students to speak confidently and effectively at the intermediate level. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE516 - Advanced Intermediate German
+
+      
+      
+       This module comprises: translation from German to English, grammar exercises, conversation classes, and the culture and politics of the German-speaking countries ('Landeskunde').
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      GE573 - The German Novelle
+
+      
+      
+       The module will trace the emergence of the short prose narrative around 1800 and examine its adaptation during the nineteenth century, when realism asserted itself and became the subject of critical controversy. The module will look at the major writers of the period to see what scope the development of realism offered them for artistic variation and psychological depth. Their works will be studied as reflections of the societies and regions to which they belonged and as indications of the profound political and economic changes occurring during the period. This module is subject to change, pending faculty approval. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE594 - Applied Language Skills-Writing in German in the Public & Professional
+
+      
+      
+       This module introduces students to the forms and varieties of modern written German through engagement with a wide variety of print and digital media. It explores the similarities and differences between different dimensions of German as it is used today, for example in the media, in teaching and in business. Students taking this module will examine the rhetorical patterns underlying all of these forms of communication, and will thereby improve their own language skills. Emphasis is placed on using a variety of resources (news media, websites, blogs) to build up a thorough awareness of the modern German language in context, and on encouraging students to work together in using up-to-date resources in producing German texts. In particular, the module aims to prepare students for their graduate life and for the uses of written German that will be expected of them on work placements, in their graduate jobs and in the German public sphere.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE597 - Learning Danish 2A
+
+      
+      
+       This module is a follow-up module, which builds on the knowledge of Danish language and culture acquired in Learning Danish 1A. It consolidates students existing competences in the four main language-learning areas: reading, writing, speaking and listening. The language teaching will be delivered communicatively and will introduce increasingly complex Danish grammar, syntactical structures, semantic specificities and pronunciation subtleties. Topics will relate closely to students everyday life as university students and purpose-made material will enable students to participate in conversations about their study area, working methods, life on campus, sport and leisure activities. This module will further develop students knowledge of university life in Denmark, aiming to provide a grounding in Danish academic culture (whether they eventually go on a year abroad in Denmark or not). Topics will also include topics on the Danish political system, the welfare state, the Danish national church etc.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE598 - Learning Danish 2B
+
+      
+      
+       This module is a follow-up module, which builds on the knowledge of Danish language and culture acquired in Learning Danish 1A/1B. It consolidates students existing competences in the four main language-learning areas: reading, writing, speaking and listening. The language teaching will be delivered communicatively and will introduce increasingly complex Danish grammar, syntactical structures, semantic specificities and pronunciation subtleties. Topics will relate closely to students everyday life as university students and purpose-made material will enable students to participate in conversations about their study area, working methods, life on campus, sport and leisure activities. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE578 - Women's Writing in German
+
+      
+      
+       This module studies texts written by women in the late 18th and long 19th century up to 1918, the period during which female literacy gradually spread to all levels of the German-speaking population. It begins with an overview of the critical theory on gender and womens writing, and also covers the rise of the womens movement in German-speaking countries. Individual authors will be studied from the Age of Goethe onward, although particular attention is paid to the period 1860-1918, during which state structures in Germany, Austria and Switzerland gradually took over education provision for girls. Topics covered include: womens struggle for political and social emancipation; women in the world of work; issues of female solidarity versus class distinction; changing attitudes and representations of the family and womens role in the family; aesthetic strategies of political and social protest literature.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE580 - German Extended Essay
+
+      
+      
+       Each extended essay will require a different programme of study, depending on the topic (chosen by the student in close consultation with the supervisor). Typically, the work will be divided into three periods:  (1) gathering information and identifying the essays exact focus, (2) writing up individual chapters and discussing these with a supervisor, and (3) putting the extended essay into its final form and observing the conventions necessary for this type of work.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                            
+      SCL501 - Languages in the Classroom
+
+      
+      
+       The student will spend one half-day per week for ten weeks in a school. They will observe sessions taught by their designated teacher and possibly other teachers. Later they will act to some extent in the role of a teaching assistant, by helping individual pupils who are having difficulties or by working with small groups. They may take hotspots: brief sessions with the whole class where they explain a language topic or talk about aspects of University life. They must keep a weekly online journal. Some travel may be required by students taking this module.  In this instance, it should be noted that the University is unable to cover the cost of any such journey.This module is subject to change, pending faculty approval. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE586 - Medien und &Ouml;ffentlichkeit
+
+      
+      
+       This module will examine the media systems of the contemporary German-speaking world, including both public and private structures and spanning print, broadcasting and digital media. In particular, it will trace the medias contribution to the creation and development of the public sphere in German-speaking countries, and the relationship between the media and its producers. Attention will also be paid throughout to the European and global dimension of todays media politics and culture. In the first half of the module, students will be given a systematic overview of the German-language media and media concentration (interdependence between media and market, public and private). Theories of journalism and public communication will be introduced and critically evaluated within the context of the rapid changes and shifts in structure which currently characterise the media landscape in German-speaking countries. In the second half of the module, students will be instructed in media analysis and the practical skills of drafting press releases, reviews and news articles in German. Topics that are currently in the news in German-speaking countries will be chosen in consultation with the seminar leader and followed across the various media in which they are reported (Pressespiegel). Students will apply the theoretical knowledge gained from the initial phase of the module to assess these samples in a critical essay. They will also produce a portfolio of shorter texts and/or recordings on current affairs and cultural topics. They will be encouraged as part of this portfolio to become active in on-line news forums in German. Depending on availability and resources, the second half of the module will include a workshop session with German-language media professionals. Contacts will be forged that will lead to the possibility of work experience in the media in German-speaking countries for students who have completed the module.The module will be taught and assessed entirely in German.This module is subject to change, pending faculty approval. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE589 - Wien-Berlin: Tales of Two Cities
+
+      
+      
+       This module focuses on the recent history of Vienna and Berlin, the cultural capitals of the German-speaking world. Many of the key events and movements that influenced Europe over the past century are intimately linked to these two cities, from the collapse of the Habsburg Empire, the development of extremist left- and right-wing parties in the interwar period to the division and re-uniting of Europe as embodied by the Berlin Wall.   Changes and continuities in the political, social and physical topography of Vienna and Berlin will be traced by studying representations of both cities in a range of texts and films from the early twentieth to the early twenty-first century. Alongside feature films and prose genres such as short stories and reportage, the module will also consider theoretical texts on the city and the contribution of urban life to modern German-language culture. Central themes are the interplay of individual and collective, urban anonymity and liberation versus alienation and uniformity, multiculturalism and migration.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE591 - German Expressionism 1910-1925
+
+      
+      
+       This module explores one of the major contributions of Germanic culture to modernism. Straddling the period immediately before, during, and after the First World War, Expressionism emerged as a reaction against the mechanizing forces of modern industrial society, seeking nothing less than a renewal of mankind. With compelling intensity, the Expressionists developed an immediately recognizable style that found an audience across Europe. This module looks at works from a range of genres: from poetry to drama, from prose (both fiction and manifestos) to painting, Expressionism was a key strand of international modernism across the Arts, embracing figures as diverse as Georg Kaiser, Kurt Pinthus, Else Lasker-Sch&uuml;ler, Franz Kafka, and Oskar Kokoschka. A century later, it remains one of the most important  and most idiosyncratically Germanic  of all modern artistic movements.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      CO539 - Web Development
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO532 - Database Systems
+
+      
+      
+       This module provides an introduction to the theory and practice of database systems. It extends the study of information systems in Stage 1 by focusing on the design, implementation and use of database systems. Topics include database management systems architecture, data modelling and database design, query languages, recent developments and future prospects.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO637 - Natural Computation
+
+      
+      
+       This module enables students to take ideas from the natural sciences and use them as inspiration for new computational techniques.  You examine developments in biological-inspired computation and other areas such as bioinformatics.  There is also a practical element to the module; you gain knowledge of a widely-used computing paradigm  genetic algorithms (GA).  Topic covered include evolutionary computation, swarm intelligence and artificial immune system
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO636 - Cognitive Neural Networks
+
+      
+      
+       In this module you learn what is meant by neural networks and how to explain the mathematical equations that underlie them. You also build neural networks using state of the art simulation technology and apply these networks to the solution of problems. In addition, the module discusses examples of computation applied to neurobiology and cognitive psychology.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO518 - Algorithms, Correctness and Efficiency
+
+      
+      
+       Testing, specification, verification Specifying test properties, and more general logical properties Scaling testing Pre- and post-conditions, Hoare Logic, loop invariantsData and Algorithm Design Dynamic data structures: trees, queues, heaps and priority queues; Sorting and searching algorithms, both in their own right and as components of more complex algorithms; Graph algorithms: depth and breadth-first search, union-find, minimal-cost spanning trees;Estimation and efficiency Informal estimation and approximate calculations; Detailed analysis of the time complexity of some simple algorithms including best, worst and average behaviour; Techniques for analysing and comparing the asymptotic behaviour of algorithms.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO527 - Operating Systems and Architecture
+
+      
+      
+       This module aims to provide students with a more in-depth understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. It will consider systems other than the standard PC running Windows, in order to broaden students outlook. The module has two strands: Operating Systems and Architecture, which each form around 50% of the material.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO528 - Introduction to Intelligent Systems
+
+      
+      
+       This module covers the basic principles of machine learning and the kinds of problems that can be solved by such techniques. You learn about the philosophy of AI, how knowledge is represented and algorithms to search state spaces. The module also provides an introduction to both machine learning and biologically inspired computation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO328 - Human Computer Interaction
+
+      
+      
+       This module provides an introduction to human-computer interaction. Fundamental aspects of human physiology and psychology are introduced and key features of interaction and common interaction styles delineated. A variety of analysis and design methods are introduced (e.g. GOMS. heuristic evaluation, user-centred and contextual design techniques). Throughout the course, the quality of design and the need for a professional, integrated and user-centred approach to interface development is emphasised. Rapid and low-fidelity prototyping feature as one aspect of this.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO646 - Computing in the Classroom
+
+      
+      
+       Students will spend one half-day per week for ten weeks in a school with a nominated teacher. They will observe sessions taught by their designated teacher and possibly other teachers. Later they will act somewhat in the role of a teaching assistant, by helping individual pupils who are having difficulties or by working with small groups. They may take hotspots: brief sessions with the whole class where they explain a technical topic or talk about aspects of university life. They must keep a weekly log of their activities. Each student must also devise a special project in consultation with the teacher and with the module convener. They must then implement and evaluate the project.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO641 - Computer Graphics and Animation
+
+      
+      
+       Computer graphics and animation are important for a variety of technical and artistic applications including web design, HCI and GUI development, games and simulations, digital photography and cinema, medical and scientific visualization, etc.This module introduces the subject from the perspective of computing. You will learn about technologies and techniques for modelling, manipulating, capturing, displaying and storing 2D and 3D scenes, digital images, animations and video. You will also gain practical experience of 3D modelling and animation tools and of implementing digital imaging techniques in Java.Digital Imaging and Video:Human visionColour modelsImages, video and 3DCapture and displayEnhancement and conversionFormats and compression (e.g. GIF, JPEG, MPEG)Computer Graphics:Graphics pipeline3D object and scene modelling with polygon meshesTransformationsProjection, clipping and visible surface determinationIllumination and shadingRay tracing and photorealismComputer Animation:Key-frame animationWarping and morphingArticulated figuresKinematics, dynamics and collision detectionParticle systems and flockingComputer-generated human characters and video-realism
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO643 - Computing Law and Professional Responsibility
+
+      
+      
+       The scope of the module is outlined below. Note that topics will not necessarily be delivered in this orderProfessional issues and professional organisations. Data privacy legislation, and other UK laws relating to the professional use of computer systemsCriminal law relating to networked computer use, including new Anti-Terrorism legislation; and their applicationIntellectual Property Rights, including Copyright, Patent and Contract LawsHealth & Safety issues. Computer-based Projects, including the vendor-client relationship and professional responsibilities
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+ You have the opportunity to select wild modules in this stage
+
+
+
+
+
+
+
+ 
+  Year abroad
+
+  
+   Spend one year in a German-speaking country or, usually, six months if you combine German with another language. In most cases you will go abroad to participate in an exchange at one of our partner German universities or to work as a language assistant in a German or Austrian school or in one of several commercial companies with whom we have links (for example, Bosch near Stuttgart). If you do combine German with another language, it may be that you decide to spend your year abroad in a country where that other language is spoken. In such cases we will encourage to spend some vacation time in a Germans peaking country.
+
+The University of Kent has Erasmus agreements with several universities in Germany and Austria. See  here
+  for the up to date list.
+  
+
+
+     
+Possible modules may include: 
+
+
+                    
+      LA514 - Year Abroad Module
+
+      
+      
+       Students either study at a relevant foreign university or work (either as teaching assistants or in some other approved capacity).
+
+       Credits: 120 credits (60 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+   
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      GE503 - Learning German 5
+
+      
+      
+       The module develops advanced proficiency in writing, speaking and comprehending German. It concentrates on translation into German and English and the development of analytical skills in the production of written and spoken German. Translation exercises confront students with a variety of advanced texts in different styles and registers, and encourage accuracy and critical reflection as well as acquisition and consolidation of grammatical structures. The language skills component combines discursive writing on advanced topics with the development of proper oral competence through discussion. Conversation classes with a native speaker develop presentational ability, and enable students to speak fluently and idiomatically at the advanced level. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      CO620 - Research Project
+
+      
+      
+       The project gives you the opportunity to follow and develop your particular technical interests, undertake a larger and less tightly specified piece of work than you have before (at university), and develop the project organisation, implementation and documentation techniques which you have learnt in other modules. The technical and professional aspects of project courses are seen as particularly important by both employers (who will often bring them up in interviews) and by professional bodies.The project may be self-proposed or may be selected from a list of project proposals. Typically, a project will involve the specification, design, implementation, documentation and demonstration of a technical artefact. The project is supervised by a member of the academic staff, who holds weekly meetings with the group, during which s/he will give general advice and will assess the progress of the group and the contributions by individual students. Project deliverables are:- a technical report, in the style of an academic paper, describing the scientific/technical outcome of the project; - a well-indexed corpus of material that supports the achievements claimed. In addition, each individual prepares a report outlining his/her contributions to each of the various aspects of the project. This report should not be a repeat of other material delivered as part of the project, but an assessment of the progress of the project and reflections on what the individual has learnt from undertaking it. In particular, it should include a description of the particular activities and outcomes that individual has contributed to the project, and of how the group worked together. This report will be discussed at a viva voce examination which should include a short presentation/demonstration of the project. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO600 - Project
+
+      
+      
+       The project gives you the opportunity to follow and develop your particular technical interests, undertake a larger and less tightly specified piece of work than you have before (at university), and develop the project organisation, implementation and documentation techniques which you have learnt in other modules. The technical and professional aspects of project courses are seen as particularly important by both employers (who will often bring them up in interviews) and by professional bodies.The project may be self-proposed or may be selected from a list of project proposals. Typically, a project will involve the specification, design, implementation, documentation and demonstration of a technical artefact. The project is supervised by a member of the academic staff, who holds weekly meetings with the group, during which s/he will give general advice and will assess the progress of the group and the contributions by individual students. Project deliverables are:- a technical report, in the style of an academic paper, describing the scientific/technical outcome of the project; - a well-indexed corpus of material that supports the achievements claimed. In addition, each individual prepares a report outlining his/her contributions to each of the various aspects of the project. This report should not be a repeat of other material delivered as part of the project, but an assessment of the progress of the project and reflections on what the individual has learnt from undertaking it. In particular, it should include a description of the particular activities and outcomes that individual has contributed to the project, and of how the group worked together. This report will be discussed at a viva voce examination which should include a short presentation/demonstration of the project. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      GE592 - German Expressionism 1910 - 1925
+
+      
+      
+       This module explores one of the major contributions of Germanic culture to modernism. Straddling the period immediately before, during, and after the First World War, Expressionism emerged as a reaction against the mechanizing forces of modern industrial society, seeking nothing less than a renewal of mankind. With compelling intensity, the Expressionists developed an immediately recognizable style that found an audience across Europe. This module looks at works from a range of genres: from poetry to drama, from prose (both fiction and manifestos) to painting, Expressionism was a key strand of international modernism across the Arts, embracing figures as diverse as Georg Kaiser, Kurt Pinthus, Else Lasker-Sch&uuml;ler, Franz Kafka, and Oskar Kokoschka. A century later, it remains one of the most important  and most idiosyncratically Germanic  of all modern artistic movements.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE590 - Wien-Berlin. Tales of Two Cities
+
+      
+      
+       This module focuses on the recent history of Vienna and Berlin, the cultural capitals of the German-speaking world. Many of the key events and movements that influenced Europe over the past century are intimately linked to these two cities, from the collapse of the Habsburg Empire, the development of extremist left- and right-wing parties in the interwar period to the division and re-uniting of Europe as embodied by the Berlin Wall. Changes and continuities in the political, social and physical topography of Vienna and Berlin will be traced by studying representations of both cities in a range of texts and films from the early twentieth to the early twenty-first century. Alongside feature films and prose genres such as short stories and reportage, the module will also consider theoretical texts on the city and the contribution of urban life to modern German-language culture. Central themes are the interplay of individual and collective, urban anonymity and liberation versus alienation and uniformity, multiculturalism and migration.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE586 - Medien und &Ouml;ffentlichkeit
+
+      
+      
+       This module will examine the media systems of the contemporary German-speaking world, including both public and private structures and spanning print, broadcasting and digital media. In particular, it will trace the medias contribution to the creation and development of the public sphere in German-speaking countries, and the relationship between the media and its producers. Attention will also be paid throughout to the European and global dimension of todays media politics and culture. In the first half of the module, students will be given a systematic overview of the German-language media and media concentration (interdependence between media and market, public and private). Theories of journalism and public communication will be introduced and critically evaluated within the context of the rapid changes and shifts in structure which currently characterise the media landscape in German-speaking countries. In the second half of the module, students will be instructed in media analysis and the practical skills of drafting press releases, reviews and news articles in German. Topics that are currently in the news in German-speaking countries will be chosen in consultation with the seminar leader and followed across the various media in which they are reported (Pressespiegel). Students will apply the theoretical knowledge gained from the initial phase of the module to assess these samples in a critical essay. They will also produce a portfolio of shorter texts and/or recordings on current affairs and cultural topics. They will be encouraged as part of this portfolio to become active in on-line news forums in German. Depending on availability and resources, the second half of the module will include a workshop session with German-language media professionals. Contacts will be forged that will lead to the possibility of work experience in the media in German-speaking countries for students who have completed the module.The module will be taught and assessed entirely in German.This module is subject to change, pending faculty approval. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE580 - German Extended Essay
+
+      
+      
+       Each extended essay will require a different programme of study, depending on the topic (chosen by the student in close consultation with the supervisor). Typically, the work will be divided into three periods:  (1) gathering information and identifying the essays exact focus, (2) writing up individual chapters and discussing these with a supervisor, and (3) putting the extended essay into its final form and observing the conventions necessary for this type of work.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                            
+      GE579 - Women's Writing in German
+
+      
+      
+       This module studies texts written by women in the late 18th and long 19th century up to 1918, the period during which female literacy gradually spread to all levels of the German-speaking population. It begins with an overview of the critical theory on gender and womens writing, and also covers the rise of the womens movement in German-speaking countries. Individual authors will be studied from the Age of Goethe onward, although particular attention is paid to the period 1860-1918, during which state structures in Germany, Austria and Switzerland gradually took over education provision for girls. Topics covered include: womens struggle for political and social emancipation; women in the world of work; issues of female solidarity versus class distinction; changing attitudes and representations of the family and womens role in the family; aesthetic strategies of political and social protest literature.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE594 - Applied Language Skills-Writing in German in the Public & Professional
+
+      
+      
+       This module introduces students to the forms and varieties of modern written German through engagement with a wide variety of print and digital media. It explores the similarities and differences between different dimensions of German as it is used today, for example in the media, in teaching and in business. Students taking this module will examine the rhetorical patterns underlying all of these forms of communication, and will thereby improve their own language skills. Emphasis is placed on using a variety of resources (news media, websites, blogs) to build up a thorough awareness of the modern German language in context, and on encouraging students to work together in using up-to-date resources in producing German texts. In particular, the module aims to prepare students for their graduate life and for the uses of written German that will be expected of them on work placements, in their graduate jobs and in the German public sphere.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE574 - The German Novelle
+
+      
+      
+       The module will trace the emergence of the short prose narrative around 1800 and examine its adaptation during the nineteenth century, when realism asserted itself and became the subject of critical controversy. The module will look at the major writers of the period to see what scope the development of realism offered them for artistic variation and psychological depth. Their works will be studied as reflections of the societies and regions to which they belonged and as indications of the profound political and economic changes occurring during the period. This module is subject to change, pending faculty approval. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      GE506 - German Dissertation
+
+      
+      
+       Each dissertation will require a different programme of study. Typically, the year will be divided into three periods:  (1) gathering information,(2)  writing up individual chapters and discussing these with a supervisor, and (3) putting the dissertation into its final form and observing the conventions necessary for this type of work.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      CO643 - Computing Law and Professional Responsibility
+
+      
+      
+       The scope of the module is outlined below. Note that topics will not necessarily be delivered in this orderProfessional issues and professional organisations. Data privacy legislation, and other UK laws relating to the professional use of computer systemsCriminal law relating to networked computer use, including new Anti-Terrorism legislation; and their applicationIntellectual Property Rights, including Copyright, Patent and Contract LawsHealth & Safety issues. Computer-based Projects, including the vendor-client relationship and professional responsibilities
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO641 - Computer Graphics and Animation
+
+      
+      
+       Computer graphics and animation are important for a variety of technical and artistic applications including web design, HCI and GUI development, games and simulations, digital photography and cinema, medical and scientific visualization, etc.This module introduces the subject from the perspective of computing. You will learn about technologies and techniques for modelling, manipulating, capturing, displaying and storing 2D and 3D scenes, digital images, animations and video. You will also gain practical experience of 3D modelling and animation tools and of implementing digital imaging techniques in Java.Digital Imaging and Video:Human visionColour modelsImages, video and 3DCapture and displayEnhancement and conversionFormats and compression (e.g. GIF, JPEG, MPEG)Computer Graphics:Graphics pipeline3D object and scene modelling with polygon meshesTransformationsProjection, clipping and visible surface determinationIllumination and shadingRay tracing and photorealismComputer Animation:Key-frame animationWarping and morphingArticulated figuresKinematics, dynamics and collision detectionParticle systems and flockingComputer-generated human characters and video-realism
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO646 - Computing in the Classroom
+
+      
+      
+       Students will spend one half-day per week for ten weeks in a school with a nominated teacher. They will observe sessions taught by their designated teacher and possibly other teachers. Later they will act somewhat in the role of a teaching assistant, by helping individual pupils who are having difficulties or by working with small groups. They may take hotspots: brief sessions with the whole class where they explain a technical topic or talk about aspects of university life. They must keep a weekly log of their activities. Each student must also devise a special project in consultation with the teacher and with the module convener. They must then implement and evaluate the project.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO328 - Human Computer Interaction
+
+      
+      
+       This module provides an introduction to human-computer interaction. Fundamental aspects of human physiology and psychology are introduced and key features of interaction and common interaction styles delineated. A variety of analysis and design methods are introduced (e.g. GOMS. heuristic evaluation, user-centred and contextual design techniques). Throughout the course, the quality of design and the need for a professional, integrated and user-centred approach to interface development is emphasised. Rapid and low-fidelity prototyping feature as one aspect of this.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO528 - Introduction to Intelligent Systems
+
+      
+      
+       This module covers the basic principles of machine learning and the kinds of problems that can be solved by such techniques. You learn about the philosophy of AI, how knowledge is represented and algorithms to search state spaces. The module also provides an introduction to both machine learning and biologically inspired computation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO527 - Operating Systems and Architecture
+
+      
+      
+       This module aims to provide students with a more in-depth understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. It will consider systems other than the standard PC running Windows, in order to broaden students outlook. The module has two strands: Operating Systems and Architecture, which each form around 50% of the material.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO518 - Algorithms, Correctness and Efficiency
+
+      
+      
+       Testing, specification, verification Specifying test properties, and more general logical properties Scaling testing Pre- and post-conditions, Hoare Logic, loop invariantsData and Algorithm Design Dynamic data structures: trees, queues, heaps and priority queues; Sorting and searching algorithms, both in their own right and as components of more complex algorithms; Graph algorithms: depth and breadth-first search, union-find, minimal-cost spanning trees;Estimation and efficiency Informal estimation and approximate calculations; Detailed analysis of the time complexity of some simple algorithms including best, worst and average behaviour; Techniques for analysing and comparing the asymptotic behaviour of algorithms.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO636 - Cognitive Neural Networks
+
+      
+      
+       In this module you learn what is meant by neural networks and how to explain the mathematical equations that underlie them. You also build neural networks using state of the art simulation technology and apply these networks to the solution of problems. In addition, the module discusses examples of computation applied to neurobiology and cognitive psychology.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO637 - Natural Computation
+
+      
+      
+       This module enables students to take ideas from the natural sciences and use them as inspiration for new computational techniques.  You examine developments in biological-inspired computation and other areas such as bioinformatics.  There is also a practical element to the module; you gain knowledge of a widely-used computing paradigm  genetic algorithms (GA).  Topic covered include evolutionary computation, swarm intelligence and artificial immune system
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO532 - Database Systems
+
+      
+      
+       This module provides an introduction to the theory and practice of database systems. It extends the study of information systems in Stage 1 by focusing on the design, implementation and use of database systems. Topics include database management systems architecture, data modelling and database design, query languages, recent developments and future prospects.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO539 - Web Development
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

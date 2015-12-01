@@ -1,0 +1,563 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      PS370 - Skills for Physicists
+
+      
+      
+       Standard LecturesHow Physical Sciences are taught at Kent. Library use. Bibliographic database searches.Error analysis and data presentation.  Types of errors; combining errors; Normal distribution; Poisson distribution; graphs  linear and logarithmic.Probability and Statistics.  Probability distributions, laws of probability, permutations and combinations, mean and variance. Academic integrity and report writing skills.Laboratory experiments A choice of experiments in weekly sessions. Some of the experiments require two consecutive sessions to complete.  Choice of (among others): Deduction of a law, Wind tunnel, Probability distributions, Geometrical optics on the magnetic board, Computeraided study of electrical and electronic circuits, Heat engines, Waves, Firing projectiles with the model catapult, mechanical simulation of stabbing action, etc.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH300 - Mathematics
+
+      
+      
+       Derivatives and Integrals: Derivatives of elementary functions, chain rule, product rule, Integrals of elementary functions, Evaluation by substitution, Integration by parts, Area under the graph of a function.Elementary Functions: Binomial coefficients, expansions and series, Maclaurin series, Taylor series, Exponential functions, Hyperbolic functions, Inverse functions.Functions of a single variable: Linear and quadratic functions, polynomials, rational functions, limits, infinite series, approximation of functions.Complex numbers: Quadratic equations, Argand diagram, modulus, Argument, complex exponential, de Moivres theorem, roots of polynomials.Vectors: Basic properties, linear dependence, scalar and vector products, triple products, vector identities.Matrices: Matrix representation, systems of equations, products, inverses, determinants, solution of linear systems, eigenvalues and eigenvectors, transformations.Differential Equations: Solving differential equations, separable equations, linearity, homogeneity, first and second order equations, particular integrals. Boundary and initial values, auxiliary equations with complex roots, coefficients and terms, examples from physics.Partial Derivatives: functions of two variables , directional derivatives, function of a function, Taylor expansions, stationary points.Differentials and Integrals: perfect differential, chain rule, multiple integrals, integrals over areas, change of order of integration.Introduction to Vector Calculus : Gradients, Divergence, Gausss theorem, Curl, Stokes theorem.Polar Coordinates : Cylindrical polar coordinates in two and three dimensions, integrals, spherical coordinates, solid angle.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH302 - Computing Skills
+
+      
+      
+       Introduction to the concept of programming languages, and to Fortran 90 in particular.Introduction to the UNIX operating system: including text editors, the directory system, basic utilities, the edit-compile-run cycle.Introduction to Fortran 90, including the use of variables, constants, arrays and the different Fortran data types; iteration (do-loops) and conditional branching (if statements).Modular design : subroutines and functions, the intrinsic functions.Simple input/output, such as the use of format statements for reading and writing, File handling, including the Fortran open and close statements, practical read/write of data files. The handling of character variables.Programming to solve physical/chemistry problems. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH304 - Astrophysics, Space Science and Cosmology
+
+      
+      
+       Introduction to Special Relativity and CosmologyThe distance scale; Redshif;, Hubble constant; Feynmann light clock and time dilation; Lorentz constraction and simultaneity derived with light ray signals;  Lerentz transformation and  invariant interval; Light cones;  Special relativistic paradoxes; Cosmological principle;  Space expansion and concept of critical density, closed, open and flat universe;  The problem of missing matter. Introduction to, Planetary and Space ScienceSolar system;  Theory of orbital dynamics;  Keplers Laws;  Earth-moon system; Tidal force and the consequent phenomena; Rocket equation; Basic components of spacecraft. Introduction to AstronomyAstronomical coordinate systems; Positions and motions of stars; Stellar luminosity and magnitudes; Magnitude systems and the color of stars;  Lluminosity;  Stellar temperatures;  luminosity and radi;. Stellar spectral classification;  Line strength and formation. Hertzsprung-Russell diagram, mass-Luminosity relation.  Introduction to Particle PhysicsDiscovery of elementary particles. The concept of four different forces and fields in classical and quantum physics; Introduction to virtual particles and discovery of different particles for different type of interaction forces; Standard model of particles.   Introduction to Space ScienceRocket equation. Basic components of spacecraft.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH321 - Mechanics
+
+      
+      
+       Measurement and motion; Dimensional analysis, Motion in one dimension: velocity, acceleration, motion with constant acceleration, Motion in a plane with constant acceleration, projectile motion, uniform circular motion, and Newtons laws of motion. Work, Energy and Momentum; Work, kinetic energy, power, potential energy, relation between force and potential energy, conservation of energy, application to gravitation and simple pendulum, momentum, conservation of linear momentum, elastic and inelastic collisions. Rotational Motion; Rotational motion: angular velocity, angular acceleration, rotation with constant angular acceleration, rotational kinetic energy, moment of inertia, calculation of moment of inertia of a rod, disc or plate, torque, angular momentum, relation between torque and angular momentum, conservation of angular momentum.Concept of field; 1/r2 fields; Gravitational Field; Keplers Laws, Newtons law of gravitation, Gravitational potential, the gravitational field of a spherical shell by integration. Oscillations and Mechanical Waves; Vibrations of an elastic spring, simple harmonic motion, energy in SHM, simple pendulum, physical pendulum, damped and driven oscillations, resonance, mechanical waves, periodic waves, their mathematical representation using wave vectors and wave functions, derivation of a wave equation, transverse and longitudinal waves, elastic waves on a string, principle of superposition, interference and formation of standing waves, normal modes and harmonics, sound waves with examples of interference to form beats, and the Doppler Effect.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH322 - Electricity and Light
+
+      
+      
+       Properties of Light and Optical Images; Wave nature of light. Reflection, refraction, Snells law, total internal reflection, refractive index and dispersion, polarisation. Huygens' principle, geometrical optics including reflection at plane and spherical surfaces, refraction at thin lenses, image formation, ray diagrams, calculation of linear and angular magnification, magnifying glass, telescopes and the microscope. Electric Field; Discrete charge distributions, charge, conductors, insulators, Coulombs law, electric field, electric fields lines, action of electric field on charges, electric field due to a continuous charge distribution, electric potential, computing the electric field from the potential, calculation of potential for continuous charge distribution. Magnetic Field; Force on a point charge in a magnetic field, motion of a point charge in a magnetic field, mass spectrometer and cyclotron. Electric current and Direct current circuits, electric current, resistivity, resistance and Ohms Law, electromotive force, ideal voltage and current sources, energy and power in electric circuits, theory of metallic conduction, resistors in series and in parallel, Kirchhoffs rules and their application to mesh analysis, electrical measuring instruments for potential difference and current, potential divider and Wheatstones bridge circuits, power transfer theorem, transient current analysis in RC, RL, LC and LRC circuits using differential equations. Alternating Current Circuits; Phasor and complex number notation introduced for alternating current circuit analysis, reactance and complex impedance for Capacitance and Inductance, application to LRC series and parallel circuits. Series and parallel resonance, AC potential dividers and filter circuits, Thevenin's theorem, AC bridge circuits to measure inductance and capacitance, mutual inductance, the transformer and its simple applications. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH323 - Thermodynamics and Matter
+
+      
+      
+       Static Equilibrium, Elasticity and fluids; Elasticity: stress, strain, Hookes law, Youngs modulus, shear modulus, forces between atoms or molecules, intermolecular potential energy curve, equilibrium separation, Morse and 6-12 potentials, microscopic interpretation of elasticity, relation between Youngs modulus and parameters of the interatomic potential energy curve, the nature of interatomic forces, the ionic bond, calculation of the energy to separate the ions in an ionic crystal, viscosity of fluids, Poiseuilles law, Stokes law. Thermodynamics; Thermal equilibrium, temperature scales, thermal expansion of solids, relation between thermal expansion and the interatomic potential energy curve, the transfer of thermal energy: conduction, convection, radiation, the ideal-gas law, Boltzmanns constant, Avogadros number, the universal gas constant. The kinetic theory of gases, pressure of a gas, molecular interpretation of temperature, molecular speeds, mean free path, specific heat, molar specific heat. The equipartition theorem, degrees of freedom. Heat capacities of monatomic and diatomic gases and of solids. Internal energy of a thermodynamic system, the first law of thermodynamics, work and the PV diagram of a gas., work done in an isothermal expansion of an ideal gas. Molar heat capacities of gases at constant pressure and at constant volume and the relation between them. Adiabatic processes for an ideal gas. Heat engines and the Kelvin statement of the second law of thermodynamics, efficiency of a heat engine. Refrigerators and the Clausius statement of the second law of thermodynamics. Equivalence of the Kelvin and Clausius statements. The Carnot cycle, the Kelvin temperature scale. Atoms; The nuclear atom, Rutherford scattering and the nucleus, Bohr model of the atom, energy level calculation and atom spectra, spectral series for H atom. Limitation of Bohr theory. Molecules. Solids and Liquids. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      PH500 - Physics Laboratory
+
+      
+      
+       SYLLABUSMost practicing physicists at some point will be required to perform experiments and take measurements. This module, through a series of experiments, seeks to allow students to become familiar with some more complex apparatus and give them the opportunity to learn the art of accurate recording and analysis of data. This data has to be put in the context of the theoretical background and an estimate of the accuracy made. Keeping of an accurate, intelligible laboratory notebook is most important. Each term 3 three week experiments are performed. The additional period is allocated to some further activities to develop experimental and communications skills.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH502 - Quantum Physics
+
+      
+      
+       Revision of classical descriptions of matter as particles, and electromagnetic radiation as waves. Some key experiments in the history of quantum mechanics. The concept of wave-particle duality.  The wavefunction. Probability density. The Schrodinger equation. Stationary states. Solutions of the Schrodinger equation for simple physical systems with constant potentials: Free particles. Particles in a box. Classically allowed and forbidden regions. Reflection and transmission of particles incident onto a potential barrier. Probability flux. Tunnelling of particles.The simple harmonic oscillator as a model for atomic vibrations.  Revision of classical descriptions of rotation. Rotation in three dimensions as a model for molecular rotation.  The Coulomb potential as a model for the hydrogen atom. The quantum numbers l, m and n. The wavefunctions of the hydrogen atom.Physical observables represented by operators. Eigenfunctions and eigenvalues. Expectation values. Time independent perturbation theory.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH503 - Atomic and Nuclear Physics
+
+      
+      
+       Atomic Physics  Review of previous stages in the development of quantum theory with application to atomic physics; Atomic processes and the excitation of atoms; Electric dipole selection rules; atom in magnetic field; normal Zeeman effect; Stern Gerlach experiment; Spin hypothesis; Addition of orbital and spin angular moments; Lande factor; Anomalous Zeeman effect; Complex atoms; Periodic table; General Pauli principle and electron antisymmetry; Alkali atoms; ls and jj coupling; X-rays. Lamb-shift and hyperfinestructure (if time).  Nuclear Physics  Properties of nuclei: Rutherford scattering. Size, mass and binding energy, stability, spin and parity. Nuclear Forces: properties of the deuteron, magnetic dipole moment, spin-dependent forces.  Nuclear Models: Semi-empirical mass formula M(A, Z), stability, binding energy B(A, Z)/A. Shell model, magic numbers, spin-orbit interaction, shell closure effects. Alpha and Beta decay: Energetics and stability, the positron, neutrino and anti-neutrino. Nuclear Reactions: Q-value. Fission and fusion reactions, chain reactions and nuclear reactors, nuclear weapons, solar energy and the helium cycle.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH504 - Electromagnetism and Optics
+
+      
+      
+       SYLLABUSElectromagnetism Vectors: Review of Grad, Div & Curl; and other operationsElectrostatics: Coulomb's Law, electric field and potential, Gauss's Law in integral and differential form; the electric dipole, forces and torques.Isotropic dielectrics: Polarization; Gauss's Law in dielectrics; electric displacement and susceptibility; capacitors; energy of systems of charges; energy density of an electrostatic field; stresses; boundary conditions on field vectors.Poisson and Laplace equations.Electrostatic images: Point charge and plane; point and sphere, line charges.Magnetic field: Field of current element or moving charge; Div B; magnetic dipole moment, forces and torques; Ampere's circuital law.Magnetization: Susceptibility and permeability; boundary conditions on field vectors; fields of simple circuits.Electromagnetic induction: Lenzs law, inductance, magnetic energy and energy density; Optics Field equations: Maxwell's equations; the E.M. wave equation in free space.Irradiance: E.M. waves in complex notation.Polarisation: mathematical description of linear, circular and elliptical states; unpolarised and partially polarised light; production of polarised light; the Jones vector. Interference: Classes of interferometers  wavefront splitting, amplitude splitting. Basic concepts including coherence.Diffraction: Introduction to scalar diffraction theory: diffraction at a single slit, diffraction grating.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH513 - Medical Physics
+
+      
+      
+       The aim of the module in Medical Physics is to provide a primer into this important physics specialisation. The range of subjects covered is intended to give a balanced introduction to Medical Physics, with emphasis on the core principles of medical imaging, radiation therapy and radiation safety. A small number of lectures is also allocated to the growing field of optical techniques. The module involves several contributions from the Department of Medical Physics at the Kent and Canterbury Hospital.SYLLABUS:Radiation protection (radiology, generic); Radiation hazards and dosimetry, radiation protection science and standards, doses and risks in radiology; Radiology; (Fundamental radiological science, general radiology, fluoroscopy and special procedures); Mammography (Imaging techniques and applications to health screening); Computed Tomography (Principles, system design and physical assessment); Diagnostic ultrasound (Pulse echo principles, ultrasound imaging, Doppler techniques); Tissue optics (Absorption, scattering of light in the tissue); The eye (The eye as an optical instrument); Confocal Microscopy (Principles and resolutions); Optical Coherence Tomography (OCT) and applications; Nuclear Medicine (Radionuclide production, radiochemistry, imaging techniques, radiation detectors); In vitro techniques (Radiation counting techniques and applications); Positron Emission Tomography (Principles, imaging and clinical applications); Radiation therapies (Fundamentals of beam therapy, brachytherapy, and 131I thyroid therapy); Radiation Protection (unsealed sources); Dose from in-vivo radionuclides, contamination, safety considerations. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH588 - Mathematical Techniques for Physical Sciences
+
+      
+      
+       Most physically interesting problems are governed by ordinary, or partial differential equations. It is examples of such equations that provide the motivation for the material covered in this module, and there is a strong emphasis on physical applications throughout. The aim of the module is to provide a firm grounding in mathematical methods: both for solving differential equations and, through the study of special functions and asymptotic analysis, to determine the properties of solutions. The following topics will be covered: Ordinary differential equations: method of Frobenius, general linear second order differential equation. Special functions: Bessel, Legendre, Hermite, Laguerre and Chebyshev functions, orthogonal functions, gamma function, applications of special functions. Partial differential equations; linear second order partial differential equations; Laplace equation, diffusion equation, wave equation, Schr&ouml;dingers equation; Method of separation of variables. Fourier series: application to the solution of partial differential equations. Fourier Transforms: Basic properties and Parsevals theorem.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      PH507 - The Multiwavelength Universe Exoplanets
+
+      
+      
+       Aims: To provide a basic but rigorous grounding in observational, computational and theoretical aspects of astrophysics to build on the descriptive course in Part I, and to consider evidence for the existence of exoplanets in other Solar Systems.SYLLABUS:Observing the Universe Telescopes and detectors, and their use to make observations across the electromagnetic spectrum. Basic Definitions: Magnitudes, solid angle, intensity, flux density, absolute magnitude, parsec, distance modulus, bolometric magnitude, spectroscopic parallax, Hertzsprung-Russel diagram, Stellar Photometry: Factors affecting signal from a star. Detectors: Examples, Responsive Quantum Efficiency, CCD cameras. Filters, UBV system, Colour Index as temperature diagnostic.Extra Solar Planets The evidence for extrasolar planets will be presented and reviewed. The implications for the development and evolution of Solar Systems will be discussed.Astrophysics Basic stellar properties, stellar spectra. Formation and Evolution of stars. Stellar structure: description of stellar structure and evolution models, including star and planet formation. Stellar motions: Space velocity, proper motion, radial velocity, Local Standard of Rest, parallax. Degenerate matter: concept of degenerate pressure, properties of white dwarfs, Chandrasekhar limit, neutron stars, pulsars, Synchrotron radiation, Schwarzschild radius, black holes, stellar remnants in binary systems.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH508 - Spacecraft Design and Operations
+
+      
+      
+       Aims: (1) To provide a basic understanding of the major subsystems of a spacecraft system.(2) To provide basic frameworks for understanding of spacecraft trajectory and orbits, including interplanetary orbits, launch phase and attitude control.(3) To provide an awareness of the basic ideas of how space is a business/commercial opportunity and some of the management tools required in business.SYLLABUS:Low Earth Orbit Environment The vacuum, radiation etc environment that a spacecraft encounters in Low Earth Orbit is introduced and its effect on spacecraft materials discussed.Spacecraft systems A basic introduction to spacecraft and their environment. Covers Spacecraft structures and materials, thermal control, power systems, attitude control systems, the rocket equation and propulsion. Project management This discusses: the evolving framework in which world-wide public and private sector space activities are conceived, funded and implemented. The basics of business planning and management.Orbital mechanics for spacecraft Students will find out how basic Celestial Mechanics relates to the real world of satellite/spacecraft missions. Following an overview of the effects of the Earths environment on a satellite, the basic equations-of-motion are outlined in order to pursue an understanding of the causes and effects of orbit perturbations. A description is given of different types of orbit and methods are outlined for the determination and prediction of satellite and planetary orbits. Launch phase is also considered, and the module concludes with an assessment of Mission Analysis problems such as choice of orbit, use of ground stations, satellite station-keeping and orbit lifetimes.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+
+
+
+
+
+
+ 
+  Year abroad
+
+  
+   Our international exchange programme also offers the opportunity for you to spend the third year of your degree studying in the USA at one of our partner universities.
+  
+
+
+     
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      PH600 - Physics Project
+
+      
+      
+       Aims:
+To provide eitheri) experimental or theoretical projects to give an introduction to scientific research procedures, or ii) experience of the process of critical scientific review, oriii) experience of the development of teaching or Public Understanding of Science material.
+To deepen knowledge in a specialised field and be able to communicate that knowledge orally and in writing.A choice of projects will be made available at the start of the Autumn term, to include such activities as experimental measurement and observation, the analysis of scientific information, the design and construction of electronic devices, the implementation and development of computational methods, the review of topics of current scientific interest, and the development and evaluation of new teaching aids.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH602 - Physics Problem Solving
+
+      
+      
+       Aims: After taking the classes students should be more fluent and adept at solving and discussing general problems in Physics (and its related disciplines of mathematics and engineering)There is no formal curriculum for this course which uses and demands only physical and mathematical concepts with which the students at this level are already familiar. Instruction is given in:
+Systematic and effective problem formulation
+Approximation and simplification methods as they pertain to allowing viable solution methods.Problems are presented and solutions discussed in topics spanning the entire undergraduate physics curriculum (Mechanics and statics, thermodynamics, electricity and magnetism, optics, wave mechanics, relativity etc)Problems are also discussed that primarily involve the application of formal logic and reasoning, simple probability, statistics, estimation and linear mathematics.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH604 - Relativity Optics and Maxwell's Equation
+
+      
+      
+       Special Relativity: Limits of Newtonian Mechanics, Inertial frames of reference, the Galilean and Lorentz transformations, time dilation and length contraction, invariant quantities under Lorentz transformation, energy momentum 4-vectorMaxwell's equations: operators of vector calculus, Gauss law of electrostatics and magnetostatics, Faraday's law and Ampere's law, physical meanings and integral and differential forms, dielectrics, the wave equation and solutions, Poynting vector, the Fresnel relations, transmission and reflection at dielectric boundaries.Modern Optics: Resonant cavities and the laser, optical modes, Polarisation and Jones vector formulation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH605 - Thermal and Statistical Physics
+
+      
+      
+       1. Thermodynamics Review of zeroth, first, second laws. Quasistatic processes. Functions of state. Extensive and intensive properties. Exact and inexact differentials. Concept of entropy. Heat capacities. Thermodynamic potentials: internal energy, enthalpy, Helmholtz and Gibbs functions. The Maxwell relations. Concept of chemical potential. Applications to simple systems. Joule free expansion. Joule-Kelvin effect. Equilibrium conditions. Phase equilibria, Clausius-Clapeyron equation. The third law of thermodynamics and its consequences  inaccessibility of the absolute zero.2. Statistical Concepts and Statistical Basis of Thermodynamics Basic statistical concepts. Microscopic and macroscopic descriptions of thermodynamic systems. Statistical basis of Thermodynamics. Boltzmann entropy formula. Temperature and pressure. Statistical properties of molecules in a gas. Basic concepts of probability and probability distributions. Counting the number of ways to place objects in boxes. Distinguishable and indistinguishable objects. Stirling approximation(s). Schottkly defect, Spin 1/2 systems. System of harmonic oscillators. Gibbsian Ensembles. Canonical Ensemble. Gibbs entropy formula. Boltzmann distribution. Partition function. Semi-classical approach. Partition function of a single particle. Partition function of N non-interacting particles. Helmholtz free energy. Pauli paramagnetism. Semi Classical Perfect Gas. Equation of state. Entropy of a monatomic gas, Sackur-Tetrode equation. Density of states. Maxwell velocity distribution. Equipartition of Energy. Heat capacities. Grand Canonical Ensemble.3. Quantum StatisticsClassical and Quantum Counting of Microstates. Average occupation numbers: Fermi Dirac and Bose Einstein statistics. The Classical Limit. Black Body radiation and perfect photon gas. Plancks law. Einstein theory of solids. Debye theory of solids.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH606 - Solid State Physics
+
+      
+      
+       To provide an introduction to solid state physics. To provide foundations for the further study of materials and condensed matter, and details of solid state electronic and opto-electronic devices.Structure
+Interaction potential for atoms and ions. Definitions, crystal types. Miller indices. reciprocal lattice. Diffraction methods. Dynamics of Vibrations 
+Lattice dynamics, phonon dispersion curves, experimental techniques. 
+Electrons in k-space: metals 
+Free electron theory of metals. Density of states. Fermi-Dirac distribution. Band theory of solids - Bloch's theorem. Distinction between metals and insulators. electrical conductivity according to classical and quantum theory. Hall effect.
+Semiconductors 
+Band structure of ideal semiconductor. Density of states and electronic/hole densities in conduction/valence band. Intrinsic carrier density. Doped semiconductors..  Magnetism  
+Definitions of dia, para, ferromagnetism. magnetic moments. General treatment of paramagnetism, Curie's law. Introduction to ferromagnetism.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH611 - Numerical and Computational Methods
+
+      
+      
+       In Stage 1 and Stage 2, students frequently apply analytical methods to physical problem solving. This module provides a foundation in numerical approximations to analytical methods  these techniques are essential for solving problems by computer. The following topics are covered: Linear equations, zeros and roots, least squares & linear regression, eigenvalues and eigenvectors, errors and finite differences, linear programming, interpolation and plotting functions, numerical integration, , numerical differentiation, solutions to ordinary differential equations using numerical methods.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH618 - Image Processing
+
+      
+      
+       Introduction to Matlab Image representation,  Image formation,  Grey-scale transformation,  Enhancement and extraction of image content,  Fourier transforms and the frequency domain, Image restoration, geometrical transformations,  Morphology and morphological transformations,  Feature extraction,  Segmentation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS700 - Physical Science Research Planning
+
+      
+      
+       Aims: 
+Students will develop a number of skills related to the planning and preparation of a research proposal. Students will learn how to search and retrieve information from a variety of locations (databases, websites, journals, proceedings etc). They will learn how to compile a professionally-produced document such as a grant proposal for funding a research activity in a direction of their own. They will exercise presentation skills of their grant proposal and present critical reviews and referee's reports of the research of others.SYLLABUS:
+Research skills
+Colloquium attendance
+Revision of methods of searching the scientific literature (e.g, Web of Science)
+Introduction to sources of information concerning research funding 
+How the Research Councils work
+How specific funding bodies (e.g. STFC, FP7) operate
+Peer review of research proposals
+Identifying research areas and collaborators
+Writing an entire case for support
+Scheduling research programmes
+Costing research
+Completing a research proposal form
+Poster presentation of the research proposal Details of the work to be done will be announced by the convenor during the first two weeks of the academic year.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+ 
+
+ 
+  
+  Stage 4
+
+   
+Possible modules may include: 
+
+
+                    
+      PH700 - Physics Research Project
+
+      
+      
+       Aims: 
+To provide an experience of open-ended research work.
+To begin to prepare students for postgraduate work towards degrees by research or for careers in R&D in industrial or government/national laboratories.
+To deepen knowledge in a specialised field and be able to communicate that knowledge orally and in writing.SyllabusAll MPhys students undertake a laboratory, theoretical or computationally-based project related to their degree specialism. These projects may also be undertaken by Diploma students. A list of available project areas is made available during Stage 3, but may be augmented/revised at any time up to and including Week 1 of Stage 4. As far as possible, projects will be assigned on the basis of students' preferences  but this is not always possible: however, the project abstracts are regarded as 'flexible' in the sense that significant modification is possible (subject only to mutual consent between student and supervisor). The projects involve a combination of some or all of: literature search and critique, laboratory work, theoretical work, computational physics and data reduction/analysis. The majority of the projects are directly related to the research conducted in the department and are undertaken within the various SPS research teams.
+
+       Credits: 60 credits (30 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH722 - Particle and Quantum Physics
+
+      
+      
+        Approximation Methods, perturbation theory, variational methods.  Classical/Quantum Mechanics, measurement and the correspondence principle. Uncertainty Principle and Spin precession . Key Experiments in Modern Quantum Mechanics (Aharonov-Bohm, neutron diffractyion in a gravitational field, EPR paradox). Experimental methods in Particle Physics (Accelerators, targets and colliders, particle interactions with matter, detectors, the LHC).  Feynman Diagrams, particle exchange, leptons, hadrons and quarks. Symmetries and Conservation Laws. Hadron flavours, isospin, strangeness and the quark model. Weak Interactions, W and Z bosons.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH752 - Magnetism and Superconductivity
+
+      
+      
+       
+Introduction, electrons in solids 
+Superconductivity: Introduction to properties of superconductors, Thermodynamics and electrodynamics of superconductors, Type I and Type II superconductors, the flux lattice 
+Superconducting phase transitions 
+Microscopic superconductivity, correlations lengths, isotope effect, Cooper pairs, Froehlich Interaction, BCS theory. 
+High Tc superconductors, superfluids, liquid helium. 
+Magnetism, magnetometry and measuring techniques 
+Localised and itinerant magnetic moments, spin and orbital moments, magnetic moments in solids 
+Paramagnetism 
+Exchange interactions, direct, indirect and superexchange, Magnetic structures, ferro, ferri, antiferromagnetism 
+Neutron and x-ray scattering 
+Spin waves, magnons 
+Magnetic phase transitions 
+See also http://blogs.kent.ac.uk/strongcorrelations/teaching/superconductivity-and-magnetism
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      PH709 - Space Astronomy and Solar System Science
+
+      
+      
+       SYLLABUS:Space Astronomy Why use space telescopes; other platforms for non-ground-based astronomical observatories (sounding rockets, balloons, satellites); mission case study; what wavelengths benefit by being in space; measurements astronomers make in space using uv, x-ray and infra-red, and examples of some recent scientific missions.Exploration of the Solar System Mission types from flybys to sample returns: scientific aims and instrumentation: design requirements for a spacecraft-exploration mission; how to study planetary atmospheres and surfaces: properties of and how to explore minor bodies (e.g. asteroids and comets): current and future missions: mission case study; how space agencies liaise with the scientific community; how to perform calculations related to the orbital transfer of spacecraft.Solar System Formation and Evolution The composition of the Sun and planets will be placed in the context of the current understanding of the evolution of the Solar System. Topics include: Solar system formation and evolution; structure of the solar system; physical and orbital evolution of asteroids.Extra Solar Planets The evidence for extra Solar planets will be presented and reviewed. The implications for the development and evolution of Solar Systems will be discussed.Life in Space Introduction to the issue of what life is, where it may exist in the Solar System and how to look for it.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH711 - Rocketry and Human Spaceflight
+
+      
+      
+       Flight Operations: Control of spacecraft from the ground, including aspects of telecommunications theory.Propulsion and attitude control: Physics of combustion in rockets, review of classical mechanics of rotation and its application to spacecraft attitude determination and control.Impact Damage: The mechanisms by which space vehicles are damaged by high speed impact will be discussed along with protection strategies.Human spaceflight: A review of human spaceflight programs (past and present). Life-support systems. An introduction to some major topics in space medicine; acceleration, pressurisation, radiation, etc.International Space Station:  Status of this project/mission will be covered.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS701 - Topics in Functional Materials
+
+      
+      
+       Chemists and physicists are now playing an important role in the growing field of materials research. More recently there has been a growing interest, driven by technological needs, in materials with specific functions and this requires a combination of physics and chemistry. For example, new materials are needed for the energy industry (batteries and fuel cells), for the optics and electronics industry (semiconductors, lasers and wave-guides), and for the environment (sensors, actuators and smart materials). The aim of this module is to introduce students to this area of modern materials and techniques.Examples of the topics that might typically be covered are:1. Crystal growth and defects.2. Liquid crystals.3. Magnetism and Magnetic Materials.4. X-ray absorption spectroscopy (XAS).5. Nanomaterials.6. Multiferroics.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

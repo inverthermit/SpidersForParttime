@@ -398,7 +398,7 @@ public class SwanseaPostData {
 		          result.put("Length (months)",Duration);
 		        
 		        
-		        result.put("Level", "Undergraduate");
+		        result.put("Level", "Postgraduate");
 				result.put("Scholarship", "");
 				result.put("Title",url[2]);
 			    result.put("Type",url[3]);

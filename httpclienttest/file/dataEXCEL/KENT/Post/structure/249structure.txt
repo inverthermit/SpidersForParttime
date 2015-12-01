@@ -1,0 +1,111 @@
+Course structure
+
+
+ The GDip in Computing is suitable for graduates of other disciplines seeking to progress to one of our Conversion or IT and Business Master&rsquo;s programmes, or to the MSc in Molecular Computing.
+
+Taught Pre-Master's programmes
+
+These Pre-Master's courses top up the equivalent of a UK ordinary degree to UK honours level. They are aimed at international students with undergraduate degrees from institutions that do not award the equivalent of UK honours degrees. A Graduate Diploma (GDip) can be used to gain admission to a relevant MSc programme at Kent or elsewhere in the UK (subject to satisfactory performance). Performance on the GDip equivalent to a good 2.2 honours level or better guarantees entry to appropriate MSc programmes at Kent.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+
+ 
+
+    
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is through a mixture of written examinations and coursework, the relative weights of which vary according to the nature of the module.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ be of special interest to students, especially overseas students, whose undergraduate degree is equivalent to a non-honours degree in a subject other than computing and who wish to proceed onto a conversion or generalist taught MSc programme in the School of Computing at Kent or elsewhere
+ provide advanced study skills, as well as introductory programming and supporting mathematics
+
+
+ provide a programme that will attract and meet the needs of both those contemplating a career in computing and those motivated primarily by an intellectual interest in computer science
+ provide computing skills that will be of lasting value in a field that is constantly changing
+ offer a range of options to enable you to match your interests and study some selected areas of computing in more depth
+ provide teaching that is informed by current research and scholarship and which requires you to engage with aspects of work at the frontiers of knowledge.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+(Depending on the options you choose)
+
+ software: programming languages and practice, tools and packages, computer applications, structuring of data and information.
+ communication and interaction: the basic computer communication network
+ concepts: communication between computers and people, the control and operation of computers.
+ practice: problem identification and analysis, design development, testing and evaluation.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ modelling: knowledge and understanding in the modelling and design of computer-based systems in a way that demonstrates comprehension of the trade-off involved in design choices
+ reflection and communication: present succinctly to a range of audiences, using rational and reasoned arguments
+ requirements: identify and analyse criteria and specifications appropriate to specific problems and plan strategies for their solution
+ criteria evaluation and testing: analyse the extent to which a computer-based system meets the criteria defined for its current use and future development
+ methods and tools: deploy appropriate theory, practices, and tools for the specification, design, implementation, and evaluation of computer-based systems.
+ professional responsibility: recognise and be guided by the professional, economic, social, environmental, moral and ethical issues involved in the sustainable exploitation of computer technology
+ computational thinking: demonstrate a basic analytical ability and its relevance to everyday life.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ how to specify, design, and implement computer-based systems
+ how to evaluate systems in terms of general quality attributes and possible tradeoffs presented within the given problem
+ how to deploy effectively the tools used for the construction and documentation of software, with particular emphasis on understanding the whole process involved in using computers to solve practical problems
+ how to operate computing equipment and software systems effectively.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ the ability to work effectively as a member of a development team
+ communication: make succinct presentations to a range of audiences about technical problems and their solutions
+ information technology: effective use of general IT facilities, information retrieval skills
+ numeracy: understand and explain the quantitative dimensions of a problem
+ self management: managing your own learning and development, including time management and organisational skills
+ professional development: appreciating the need for continuing professional development in recognition of the need for lifelong learning. 

@@ -1,0 +1,326 @@
+Course structure
+
+
+ The MSc in Biotechnology and Bioengineering involves studying for 120 credits of taught modules, as indicated below. The taught component takes place during the autumn and spring terms, while a 60-credit research project take place over the summer months.
+
+The programme is taught by staff from the Centre for Molecular Processing, an interdisciplinary research centre whose aim is to solve complex biological problems using an integrated approach to biotechnology and bioengineering. It is administered by the School of Biosciences who also contribute to the programme.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   BI845 - Research Project
+
+
+   
+    
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI850 - Practical and Applied Research Skills for Advanced Biotechnologists and
+
+
+   
+    The module aims to develop understanding and practical skills in biotechnology and bioengineering, based around interactive workshops, practical sessions, group work and a mini-project. The initial stages of the module will involve an intensive rotation of practical sessions covering key practical and transferable skills in molecular biology and biotechnology. These will be accompanied by interactive workshops and classes that review the theory of these techniques, and will use case studies to illustrate their impact and importance in both academic and industrial settings. These skills will be applied in a mini-project that aims to produce a biotherapeutic protein, from design stage through production, purification, characterization and functional analysis, using our state-of-the-art research facilities. Students will learn skills in experimental design using appropriate case studies that will embed them within the relevant research literature. They will also gain experience of analysis and statistical interpretation of complex experimental data. The module will also include visits to industries involved in biopharmaceutical production to experience these skills in manufacturing and practice. Key industrialists will also give invited workshops and seminars.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI851 - Advanced Molecular Processing for Biotechnologists and Bioengineers
+
+
+   
+    This module will consider key areas of biotechnology and bioengineering including an introduction to drug discovery and design, systems biology and synthetic biology, gene expression and the engineering of cells to modulate cellular processes, the mechanics of cells from an engineering perspective, industrial biotechnology (specifically biofuels and small molecule systems biology), protein and vaccine based drugs, regenerative medicine and bionanomaterials. This will be delivered through workshops and seminars by specialists within the CMP and involve a number of course work assignments that will consider the most current research and thinking in these areas. This will be complemented by two three day practicals, one on mammalian cell engineering and the other on synthetic biology.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI830 - Science at Work
+
+
+   
+    SummaryScience has a profound influence on professional practice in the private and public sector. This module considers the ways in which different professions interact with science and scientists, and how this influences the work they do. Their interaction with the public will also be discussed. A series of  speakers with diverse professional backgrounds (education, industry, government, policy making, the law, the media) will describe their work, the role of science in the profession, and the way in which science influences their actions and interactions with the public and other professions. This will relate to scientific content in a range of scientific contents, including cancer, reproductive medicine, biotechnology and healthcare.  This will be illustrated by case studies presenting challenges and dilemmas concerning the communication of science in the context of different professions and their target audiences.Themes and Topics The nature of public understanding and public engagement The current science communication landscape: existing schemes, government priorities, charitable organisations Review of recent surveys on public attitudes to science, scientists attitudes to communication, and related studies in the public domain Analysis of published science communication activities targeting different audiences  Analysis of evaluation strategies from surveys of the published literature Case studies of science communication from practitioners in different professions: TV, science writing, media relations, politics, lobbying
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI839 - Targeted Cancer Therapies
+
+
+   
+    This module introduces and develops theoretical and practical knowledge of targeted therapies for the treatment of cancer, focussing on two different technologies: antibody-mediated targeting and gene therapy. In each category, the student will develop an in-depth knowledge of the current technology, and of the challenges that have been encountered  and in only some cases, overcome  in the transition from bench to bedside.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI840 - Translational Medicine: from the laboratory to the clinic
+
+
+   
+    The harnessing of scientific knowledge in the treatment of disease requires a complex series of highly regulated studies that must be performed under highly-regulated legal and ethical frameworks. This module reviews the transition from promising cancer therapy to fully realised therapeutic agent, using specific therapies as examples. It will also discuss the emerging potential for personalised medicine based on patient-specific molecular biomarkers.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI852 - Advanced Analytical and Emerging Technologies for Biotechnology and Bio
+
+
+   
+    This module will consider key areas of analytical technologies used for the analysis of proteins, small molecules and cells. This will include mass spectrometry techniques (GC-MS, ESI-MS, MALDI-ToF MS), crystallography and NMR, spectroscopy (UV-vis, IR, Raman, fluorescence, ESR), chromatography, DNA and RNA sequencing, bioinformatics, microscopy (AFM, EM), electrophoresis, (qRT)-PCR, omics approachs, glycosylation profiling, cell based assays, simple fermentation control and measurements. Industrial case studies will be covered to demonstrate how different techniques and approaches are integrated in a commercial environment. Students will also be expected to design and implement a protocol aim at recovering and characterising a protein molecule from mammalian cell culture within set constraints and parameters. There will also be a visit to an industrial analytical laboratory to demonstrate such technologies in the work place. This will be delivered through workshops and seminars by specialists within the CMP and involve a number of course work assignments that will consider the most current research and thinking in these areas. This will be complemented by a one week practical where the students are asked to design a process to purify and characterise a molecule and then use this to setup a crystallisation screen.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB612 - New Enterprise Startup
+
+
+   
+    A synopsis of the curriculum
+The curriculum is based on the Small Firms Enterprise Development Initiative (National Standards-setting body for small business) Standards for Business Start-up, but has been expanded to include contemporary issues such as Intellectual Property and recent legislation. It will include the following areas of study:
+Why firms become insolvent  economic financial and operational reasons for business failure, risks & liabilities, skills requirements for business ownership, self-development planning, sources of advice and support for businesses
+The new business planning process and format, developing & evaluating the business idea, producing a business plan for potential lenders.
+Financial aspects  budgetary planning & control, cash-flow and working capital, understanding financial accounting and key financial documents, break-even analysis, credit control and debt recovery, understanding PAYE & VAT.
+Market research, competition and barriers to market entry, identifying customers, market segmentation, planning the sales & marketing processes, customer perceptions & customer care, developing quality standards for the business
+Legal issues: reporting requirements, UK & EU law relevant to small businesses, business formats & trading status and their respective risks and liabilities, insurance, insolvency; patents, copyrights and IPR.
+Planning & employing staff, planning and obtaining premises, physical & financial resources; phased implementation of the business plan.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL875 - Advanced Sensors & Instrumentation Systems
+
+
+   
+    This module covers modern sensors and advanced measurement systems for a diverse range of industrial applications. General measurement principles and concepts are introduced. The module focuses on digital imaging based and intelligent measurement and monitoring techniques. Real life industrial case studies are included to enhance students learning experience in the design and applications of cutting edge instrumentation technologies.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL876 - Advanced Control Systems
+
+
+   
+    This module is concerned with the design of practical feedback controllers.  Feedback is used in a control system to enhance the performance of the plant or process, and to reduce the sensitivity of the system to uncertainty from external effects (for example, disturbance signals and noise on measurements) and model uncertainty (i.e. the difference between the assumed model of the process to be controlled and the actual industrial plant which is likely to be time varying and uncertain).  If the performance specifications are achieved in the presence of the expected uncertainties, then the control is said to be robust. This course will provide an overview of a number of techniques for robust control, with an emphasis on design and simulation to enhance learning.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is by coursework and the research project.
+  
+
+ 
+   Programme aims
+
+  
+   You will gain the following transferable skills:
+
+ the ability to plan and manage workloads
+ self-discipline and initiative
+ the development of reflective learning practices to make constructive use of your own assessment of performance and use that of colleagues, staff and others to enhance performance and progress
+ communication: the ability to organise information clearly, create and respond to textual and visual sources (eg images, graphs, tables), present information orally, adapt your style for different audiences.
+ enhanced understanding of group work dynamics and how to work as part of a group or independently.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ the fundamental principles of modern molecular techniques and technologies used in biotechnology and bioengineering and the ability to utilise and interpret the data from such approaches
+ at the molecular and cellular level, the processes that underpin the utilisation of biological systems for the production of biodrugs (proteins, small molecules, vaccines)
+ drug discovery and design, cell engineering to modulate cellular processes, bioenergy, protein- and vaccine-based drugs, regenerative medicine and bionanomaterials
+ the use of systems levels approaches in biotechnology and bioengineering such that a problem can be analysed and a solution derived based upon a conceptual understanding of multiple parts of the system.
+ current state-of-the-art strategies and technologies to improve biotechnological and bioengineering systems
+ the process by which basic scientific knowledge is translated into the industrial workplace
+ the regulatory issues involved in manufacturing of biodrugs
+ the way in which scientific knowledge is disseminated to various stakeholders (eg other academics, industry, public, policymakers, media).
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ how to formulate hypotheses and design appropriate experiments to address these. how to undertake such experiments
+ critical interpretation of your, and others&rsquo;, data. Approaches to assimilate multiple data streams to reach appropriate conclusions and derive new hypotheses
+ how to analyse a problem or question both independently and as part of a group
+ how to use information technology to retrieve, analyse and present scientific data to required standards
+ the ability to rationally argue a case and use the available evidence to support your claims
+ the ability to select and use appropriate statistical methodology to analyse and present scientific data.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ how to design of experiments in a statistically valid way to address specific hypotheses and research questions
+ key techniques and approaches in modern molecular biotechnology and bioengineering and their application to the field
+ appropriate data handing, recording, analysis and how to assess this in line with the current literature
+ how to write scientific research for various audiences (eg primary journal-based literature, non-science audiences, policymakers)
+ how to present scientific research via oral presentation and poster formats
+ an ability to work independently in a scientific environment and to reach an independent conclusion
+ the application of specific experiment- and knowledge-based approaches into industrialisation of biotechnology and bioengineering
+ recognition of career opportunities both within academia, industry and outside the scientific laboratory.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ the ability to critically evaluate and present scientific data
+ how to organise information appropriate to the audience
+ the development of reflective learning practices to make constructive use of your own assessment of performance and use that of colleagues, staff and others to enhance performance and progress
+ an ability to manage time and workload to meet deadlines and targets
+ enhanced understanding of group work dynamics and how to work as part of a group or independently. 

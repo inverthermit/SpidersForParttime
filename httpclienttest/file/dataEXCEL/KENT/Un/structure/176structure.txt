@@ -1,0 +1,193 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+ Foundation year
+
+ 
+  If your qualifications are not sufficient, for whatever reason, for direct entry onto a degree programme, you can apply for this programme.
+  Find out more about the benefits of a Foundation Year
+.
+ 
+
+
+
+
+   
+Possible modules may include: 
+
+
+                    
+      MA022 - Graphs, Geometry and Trigonometry
+
+      
+      
+       Lecture SyllabusGraphs and Geometry Graphs and the information to be read from them; The straight line, application to plots of experimental data; Coordinate geometry of straight lines: parallel and perpendicular lines; The graphical solution of equations; Graphs of the trigonometric functions; symmetry and translation properties; Equation of the circle.Trigonometry; Measures of angle; Triangles Trigonometric functions; Pythagoras theorem and the fundamental identity of trigonometry; Sine and cosine rules; The addition formulae, the double angle formulae; Trigonometric equations; Applications.Vectors; Notion of a vector quantity; Representation of a vector using components; Unit vectors; Addition and subtraction of vectors; Magnitude and orientation; Vectors in 3 dimensions; Scalar products; Introduction to vector fields. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA024 - Additional Mathematics
+
+      
+      
+       Maps and functions: The general notion of a function, inverse functions, roots, limits, poles, graph sketchingSeries and limits: sequences and series, arithmetic series, geometric series (applications to compound interest and financial mathematics), basic recurrence relations, proof by induction, Taylor series, differentiation from first principlesMatrices: operations, properties, determinants, Gauss-Jordan elimination, solving small linear equation systems.Complex numbers: operations, properties, polar form, Argand diagrams, roots of unity, Eulers theorem, De Moivres theorem.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA025 - Foundation Statistics
+
+      
+      
+       Graphical representation of data, including bar diagrams, histograms and stem-and-leaf diagrams.  Statistical methods for summarising and analysing data; numerical data summary measures, mean, median, mean deviation and standard deviation. The combinatorics of sample space and measure of probability.  Discrete and continuous distributions.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA026 - Mathematical Workshops
+
+      
+      
+       Activity is centred on worksheet sessions designed to reinforce understanding of topics introduced in the co-requisite modules, and to promote facility with problem solving techniques and tools introduced there.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL021 - Calculus
+
+      
+      
+       This module introduces students to the mathematics of calculus and its applications in electronics.  Examples classes support the student learning.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      EL033 - Introduction to programming using MATLAB
+
+      
+      
+       This module introduces MATLAB as a technical programming language. As programming skills are essential for modern scientific and engineering work, and MATLAB is becoming an important tool for technical computations, this module enables students to cover both these requirements simultaneously. It provides students with an effective understanding of programming concepts and techniques as well as the basic software engineering process required to develop solutions to given problems using the MATLAB environment. Reflecting the need to appreciate both the functionality of programming structures and the issues involved in programming implementations the course is organised in a series of alternating theoretical lectures and practical, problem driven, terminal sessions.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI434 - Introduction to the History of Science
+
+      
+      
+       Science has arguably been the greatest force for cultural change in the last 500 years.  Scientists have changed the way we see the world, the way we see ourselves, and have equipped us with technologies that enable us to fly in the sky and shoot neutrinos under the ground.  They have taught us that our observations can shift the nature of physics, yet that we are nothing more than jumped-up apes.  This module visits some of the most important events and developments since the so-called scientific revolution (c. 1700) in order to give a representative view of the history of science.  It also introduces key themes that have been pursued by historians science that collectively call into question some key assumptions about what science is really like.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LZ037 - English for Academic Study
+
+      
+      
+       Through this module, students will develop the transferable linguistic and academic skills necessary to successfully complete all the other modules on the IFP.  The programme of study focuses on grammar, vocabulary and academic writing skills. The module begins with an intensive revision of language structures and goes on to embed these structures into academic writing. Students will learn key steps in the writing process and be introduced to a range of written academic genres. Throughout the module, students will also develop their academic vocabulary through reading and writing tasks specially designed for this.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH020 - Algebra and Arithmetic
+
+      
+      
+       
+Arithmetic Calculations. Significant figures. Standard form. Fractions Simplification of fractions. Percentages and fractional changes. Errors. Indices. Logarithms and exponential functions.
+Algebra  Basic rules (operations and indices). Solving equations (substitution and order of operation). Changing subject of a formula Inverse operations Rules of indices Long division Expansion Factorisation Quadratics equation Solving linear equations. Solving simultaneous linear equations Partial fractions. Binomial Theorem.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PL310 - Introduction to Philosopy: Logic and Reasoning
+
+      
+      
+       Since Platos Dialogues, it has been part of philosophical enquiry to consider philosophical questions using logic and common sense alone.  This module aims to train students to continue in that tradition.  In the first part students will be introduced to basic themes in introductory logic and critical thinking.  In the second part students will be presented with a problem each week in the form of a short argument, question, or philosophical puzzle and will be asked to think about it without consulting the literature.  The problem, and students responses to it, will then form the basis of a structured discussion.  By the end of the module, students (a) will have acquired a basic logical vocabulary and techniques for the evaluation of arguments; (b) will have practised applying these techniques to selected philosophical topics; and (c) will have acquired the ability to look at new claims or problems and to apply their newly acquired argumentative and critical skills in order to generate philosophical discussions of them.It will be taught through a combination of lectures and seminars in the first half of the term, and seminars only in the second half of the term.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LZ036 - Academic Skills Development
+
+      
+      
+       Through this module, students will develop the transferable linguistic and academic skills necessary to successfully complete all the other modules on the IFP.  The programme of study will cover academic writing, reading, speaking and listening skills. Students entry language level (e.g. IELTS score) will determine whether they take LZ037 English for Academic Study in the first term and LZ026 in the second (IELTS 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

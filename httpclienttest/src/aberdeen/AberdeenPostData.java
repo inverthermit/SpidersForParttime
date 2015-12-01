@@ -43,7 +43,7 @@ public class AberdeenPostData {
 	
 	
 	public static int MAX_THREAD=60;
-	public static String[][] Data=aberdeen.getURL.PostData;
+	public static String[][] Data=aberdeen.getURL.PostData1;
 	public static String FILE_PATH="d:\\ABERDEEN";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -109,7 +109,7 @@ public class AberdeenPostData {
 						{
 							HashMap<String,String> DataMap=KentGetDetails(data);
 							putIntoWorkbook(DataMap,Integer.parseInt(data[0]));
-							System.out.println(data[0]+" done.");
+							//System.out.println(data[0]+" done.");
 						}
 						else{
 							//System.out.println("No Unhandled");
@@ -199,10 +199,17 @@ public class AberdeenPostData {
 				if (entity != null) { 
 				    htmls=EntityUtils.toString(entity).replace("\t", " ");
 				    //System.out.println(htmls);
-				    
+				    if(htmls.trim().equals(""))
+				    {
+				    	throw new Exception("no reply");
+				    }
 				     
 				}
-				System.out.println("Got reply!");
+				else
+				{
+					 throw new Exception("no reply");
+				}
+				//System.out.println("Got reply!");
 				//htmls=HTMLFilter(htmls);
 				Parser parser=null;
 			    HtmlPage page=new HtmlPage(parser); 
@@ -272,7 +279,7 @@ public class AberdeenPostData {
 		    	    }
 		    	 if(max!=0)
 		    	 {
-		    	 	System.out.println(max); 
+		    	 	//System.out.println(max); 
 		    	 	result.put("Tuition Fee", ""+max);
 		    	 }
 		        
@@ -301,6 +308,12 @@ public class AberdeenPostData {
 		    	    }
 		        }
 
+		        if(result.get("Structure")==null)
+		        {
+		        	  System.out.println("Structrue Log:\n"+nodes5.size());
+		        	  System.out.println(htmls);
+		        	  //System.exit(0);
+		        }
 		        
 		        //************************get length***********************
 		        if(!getLastYear(structure).equals(""))
@@ -365,8 +378,8 @@ public class AberdeenPostData {
 			}
 			catch(Exception ee)
 			{
-				System.out.println("Retrying...");
-				ee.printStackTrace();
+				System.out.println("Retrying"+" "+url[0]);
+				//ee.printStackTrace();
 			}
 		}
 		

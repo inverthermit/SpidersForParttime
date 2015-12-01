@@ -1,0 +1,420 @@
+Course structure
+
+
+ The syllabus of the programme is in line with the Chartered Financial Analyst&reg; (CFA&reg;) professional qualifications. 
+
+For those students planning to take the CFA examinations, revision sessions for Level I and Level II examinations are provided. These sessions are taught by professional tutors with industry experience and are provided free of charge. The programme is currently seeking accreditation from relevant professional bodies such as the Chartered Institute for Securities   Investment (CISI). Exemption from the Institute and Faculty of Actuaries Core Technical subjects CT2, CT7 and CT8 are in place.
+
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   MA930 - Investment Analysis and Portfolio Management
+
+
+   
+    This is a core module for the MSc in Finance, Investment and Risk. It introduces the fundamental principles of investment analysis and the theory and techniques of portfolio management, and covers the major issues currently of interest to investors.The syllabus includes the following: Global investment environment, portfolio theory and practice, fixed income securities, security analysis, derivative securities analysis and derivative securities market, evaluation of asset management, applied portfolio management.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA931 - Financial Risk Management
+
+
+   
+    This is a core module for the MSc in Finance, Investment and Risk. The modules focus is on managing financial risk. It initially introduces the concepts of Enterprise Risk Management as well as risk assessment and strategies in an organisation. The modules will concentrate on the fundamental concepts and issues in identifying, measuring and controlling risk in a financial setting and the tools and techniques to measure and manage financial risk.Syllabus: ERM concept and risk frameworks in regulatory environments, role of credit agencies; ERM process; financial services industry and risk of financial intermediation; risk categories and classification; risk management tools and techniques; measuring risk; managing risk.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA932 - Financial Statements Analysis
+
+
+   
+    This module reviews the accounting principles governing financial statements and provides a sound knowledge of the main components of the company accounts as well as the skills to gain information about a company's operation from company accounts.The syllabus includes:presentation of financial statements, property, plant and equipment, intangible assets, leases, inventories and construction contacts, financial instruments, revenue,  taxation in financial statements, statement of cash flows, groups of companies and ratio analysis.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA935 - Mathematics of Finance
+
+
+   
+    The module covers mathematical techniques used in general areas of finance as well as in investment. Its focus is on the application of such techniques and mathematical models to quantitative finance.The syllabus includes interest rates, time value of money, annuities, investment valuation, fixed income instruments, stochastic models for investment returns, modern portfolio theory and asset pricing, optimal consumption/portfolio strategies, and bond analysis.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA826 - Finance & Financial Reporting
+
+
+   
+    This module provides an introduction to the principles of corporate finance and financial reporting.  It is intended for students of Finance and Actuarial Science and is available to students in other programmes where a basic knowledge of financial markets, financial accounting and reporting is needed.  The syllabus introduces and develops the concepts and elements of corporate finance including a knowledge of the instruments used by companies to raise finance and manage financial risk, introduces the concepts and techniques of financial accounting and enables students to understand and interpret critically financial reports of companies and financial institutions including financial statements used by pension funds and insurance companies.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA934 - Probability and Statistics for Finance
+
+
+   
+    The aim of this module is to introduce students to the theory of probability and statistical techniques used in finance. The module provides an understanding of the main areas of the subject that are used in financial applications.The syllabus includes multivariate variables and distributions, marginal and conditional distributions, independance, covariance, correlation, probability theory, discrete and continuous probability distributions, joint probability distributions, conditional probability and Bayes' Rule, point estimation, hypothesis tsting, interval estimation, simple and multiple regression, applications of statistical theory and methods to Finance.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA980 - Applied Financial Econometrics
+
+
+   
+    In this module, econometric techniques and models relevant to finance are introduced with particular emphasis on the analysis of time series. The modules focus is on application of econometric techniques to key models in finance in order to enhance understanding and the use of such models. Throughout the delivery, learning of the theory is reinforced by students learning to use specialist software and application to financial data. The syllabus includes:Review of Linear Regression Model, properties, interpretation and application; comparison of regression models; Heteroscedasticity and Autocorrelation, Endogenous Regressors, Instrumental Variables and GMM; MLE; Univariate time series models, AR, MA, ARMA, ARCH and GARCH models.  Multivariate time series models; Models with Nonstationary Variables, Vector autoregressive models, cointegration.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA835 - Portfolio Theory and Asset Pricing Models
+
+
+   
+    This module will examine current theories on portfolio management and developing asset models to assist risk management of financial services firms. Syllabus Topics: Efficient market hypothesis, measures of investment risk, portfolio theory, models of asset returns, asset pricing models, Brownian motion, martingales, stochastic calculus, Ito processes and stochastic models of security prices.Marks on this module can count towards examption from the professional examination CT8 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA837 - Mathematics of Financial Derivatives
+
+
+   
+    This module will examine the understanding and pricing of options and derivatives, along with models for interest rates and credit risk. Syllabus Topics: An introduction to derivatives, Greeks, binomial model, Black-Scholes option pricing formula, martingale representation theorem, arbitrage-free pricing, interest rate models, credit risk models.Marks on this module can count towards examption from the professional examination CT8 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA819 - Business Economics
+
+
+   
+    The aim of this module is to introduce students to the core economic principles and how these could be used in a business environment to help decision making and behaviour. The coverage is aimed at being sufficient to enable students to gain exemptions, whilst also giving a coherent coverage of the material suitable for students of other degree programmes, where understanding economic concepts and principles are beneficial. The syllabus coverage includes: the working of competitive markets, consumer demand and behaviour, product selection, marketing and advertising strategies, costs of production, production function, revenue and profit, profit maximisation under perfect competition and monopoly, imperfect competition, business strategy, the objectives of strategic management, firms growth strategy, pricing strategies, government intervention, international trade, balance of payment and exchange rates, the role of money and interest rates in the economy, the level of business activity, unemployment, inflation and macroeconomic policy.Marks on this module can count towards examption from the professional examination CT7 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     MA936      - Financial Modelling and Analysis
+
+
+     
+      This modules has been designed in response to the industry's need for practitioners to be able to provide appropriate documentation including an audit trail and a summary of the modelling work undertaken.The modules provides practice on a range of spreadsheet models used in finance, analysis of the results and scenario testing as well as documentation of the modelling work as practiced in industry.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA937      - Communications in Finance and Investment Writing
+
+
+     
+      Effective communication in writing or in a presentation is as important in industry as are technical skills, whether in corporate and individual client facing roles, trading, publishing investment reports and providing summary report for the board. The module provides guidelines for good communication and practice in a variety of situations and to a variety of audiences. Students will learn to analyse, summarise, or present published reports or short and long reports that they themselves generate based on their knowledge in other finance subjects taught in the programme. The module will thus complete the students' skill set in the area of finance.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA938      - Fixed Income Analysis
+
+
+     
+       In this module, valuation of fixed income or debt securities, and the risk involved in investing in these securities is presented and analysed. The course starts with simple bond and builds up to more complicated fixed income securities such as mortgage-backed and asset-backed securities often traded in the market. Throughout the module the theoretical concepts are combined with the application of the theory using extensive examples. Students will apply their knowledge of the theory using relevant software. The syllabus includes the following:   Different types of bonds and features of debt securities, Risk associated with investing in bonds, Overview of bond sectors and instruments, valuation of Bonds,   Yield measures, Spot rates and Forward rates, Interest Rate Risk  The duration model  Convexity, Term structures and volatility of interest rates, Valuing bonds with embedded optionsMortgage-backed sector of the bond market, Asset-backed sector of the bond market, Valuing mortgage-backed and asset-backed securities.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA939      - Case Studies in Finance
+
+
+     
+      There is no specific syllabus for this course. Students select from a range of case studies covering a variety of financial topics. The theoretical background for the case studies is covered in the MSc finance specialist subjects in the first two terms. Students use their knowledge of the theory and techniques of finance, to analyse and report on the selected cases. The emphasis is on application of the financial techniques using real life data, producing results and analysis and interpretation of the results for particular cases. Students are introduced to the methodology to carry out case studies and learn how to write case study reports in the lectures.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA933      - Contemporary Fund Management
+
+
+     
+      This module introduces and further elaborates on the key steps in the investment management process from the client take-on through to performance evaluation, and considers complex current issues in Fund Management in the context of current professional practice.The syllabus includes:The security markets, risk, investment management processes, asset allocation, Multi-factor models, Behavioural finance, Hedge funds, Performance measurement, analysis of fund reports.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is by a combination of coursework and written examinations.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ provide you with the in-depth skills necessary to analyse and find solutions to problems arising in areas of finance, investment and risk
+ enable students who successfully complete the programme to follow careers in various areas of finance and investment
+ provide you with a fully grounded and integrated knowledge base in areas of corporate finance, investment analysis and risk management
+ develop your understanding, knowledge and awareness of the current problems that preoccupy academic researchers, financial institutions, regulatory bodies and governments
+ ensure you gain the necessary computing skills essential to the current professional practice.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ specific financial, mathematical, statistical or economic techniques at an advanced level, required to solve problems arising in all major areas of investment analysis, corporate finance, economics, financial statements analysis, portfolio management, financial instruments and risk management (including where appropriate international issues)
+ the theories of finance and risk and the complex techniques applicable to the solution of problems in some of the major areas of current practice in finance
+ complex current issues in financial markets.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to demonstrate a high level of understanding of the main body of knowledge for the programme
+ the ability to demonstrate skill in calculation and manipulation of the material written within the programme
+ the ability to apply a range of concepts and principles in various contexts
+ the ability for logical argument
+ the ability to demonstrate skill in solving problems by various appropriate methods
+ the ability to work with relatively little guidance
+ the ability to analyse complex financial problems using structured approaches drawn from a range of quantitative   techniques, models and methods.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the specific mathematical and statistical techniques used in finance, and in their application to solving problems in finance, investment and related areas.
+ understanding the practical applications of the programme material in finance, investment and related areas.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ communication: the ability to organise information clearly, respond to written sources, present information orally, adapt style for different audiences and use images as a communication tool
+ numeracy: make sense of statistical materials, integrate numerical and non-numerical information, understand the limits and potentialities of arguments based on quantitative information
+ information technology: produce written documents, undertake online research
+ improve your own learning: explore your personal strengths and weaknesses, time management, review your working environment (especially the student-staff relationship), develop specialist learning skills, develop autonomy in learning.
+ problem-solving: identify and define problems, explore alternative solutions and discriminate between them
+ working with others: define and review the work of others, work co-operatively on group tasks, understand how groups function
+ make sound judgements
+ make decisions in complex situations. 

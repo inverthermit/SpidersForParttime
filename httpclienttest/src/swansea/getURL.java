@@ -16,12 +16,12 @@ public class getURL {
 
 	public static void main(String[] args) throws Exception{
 		// TODO Auto-generated method stub
-		FileInputStream fis=new FileInputStream(new File("./swanPost.html"));//新建一个FileInputStream对象
+		/*FileInputStream fis=new FileInputStream(new File("./swanPost.html"));//鏂板缓涓�涓狥ileInputStream瀵硅薄
         
-        byte[] b=new byte[fis.available()];//新建一个字节数组
-        fis.read(b);//将文件中的内容读取到字节数组中
+        byte[] b=new byte[fis.available()];//鏂板缓涓�涓瓧鑺傛暟缁�
+        fis.read(b);//灏嗘枃浠朵腑鐨勫唴瀹硅鍙栧埌瀛楄妭鏁扮粍涓�
        fis.close();
-        String htmls=new String(b);//再将字节数组中的内容转化成字符串形式输出
+        String htmls=new String(b);//鍐嶅皢瀛楄妭鏁扮粍涓殑鍐呭杞寲鎴愬瓧绗︿覆褰㈠紡杈撳嚭
        //System.out.println(htmls);
        int count=1;
 	    Parser	parser=Parser.createParser(htmls, "utf-8");
@@ -39,8 +39,14 @@ public class getURL {
    	    	
    	    }
    	    	
-   	    
-	    
+   	    */
+	    for(int i=0;i<UnData.length;i++)
+	    {
+	    	if(UnData[i][1].equals(""))
+	    	{
+	    		System.out.println(UnData[i][2]);
+	    	}
+	    }
 	}
 	
 	public static String[][] UnData={

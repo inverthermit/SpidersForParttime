@@ -1,0 +1,646 @@
+Course structure
+
+
+ This unique course prepares graduates for a career in IT consultancy, particularly in relation to small and medium enterprise (SME) clients. It includes practical work experience in a real consultancy business, the Kent IT Clinic (KITC). The course may appeal to graduates seeking a career in consultancy, or to practising consultants wishing to round out their skills and achieve formal academic recognition.
+
+All taught Master's programmes at Canterbury are available with an optional industrial placement or may be combined with a Pre-Master's course to form an International Master's programme.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   CB932 - Management of Operations
+
+
+   
+    The aims of the module are to: Review how operations can deliver real competitive advantage. Review the overall operations management task, market issues and the development of business and operations strategies, and the management of people. Develop a capacity for analysing operating problems, using the appropriate techniques to improve the operations functions. Allow students to develop their personal learning skills, group working skills, and their ability to critically analyse the techniques used within operations management taking account of the organisational context.Topics to be covered will include: Managing operations in the manufacturing and service sector; the operations managers task and role. Operations strategy, levels of strategy; linking the different levels of strategies through markets. Designing and developing services, products and delivery systems to achieve strategic objectives. Managing and controlling the operations system: MRP, JIT, TQM, Six-Sigma, inventory, and supply chain. Improving operations: measuring productivity and performance, tools and techniques for improvement.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO843 - Extended IT Consultancy Project
+
+
+   
+    A synopsis of the curriculum: Students taking this module will undertake three or (typically) more assignments for the Kent IT Clinic (KITC). Each assignment will be of one of four types:Work on one of KITC's contracts with an external client. Every student will participate in at least one assignment of this type, normally more. Every student will normally, and to the extent that client-funded work allows, take the lead in at least one project of this type through a substantial portion of its lifecycle. For each assignment, the student may work on the assignment individually or as part of a group, as directed by KITC. A contribution to the infrastructure of KITC itself. These assignments work in a similar way to external assignments, but with KITC as the client. Formulating a costed proposal for the future development of KITC, and presenting reasoned argument in support of the proposal to KITC management. Every student will have at least one assignment of this type. Formulation and development within KITC of a product or service to be offered for future sale. Students will be expected to participate in a 'buddying' (mutual mentoring) relationship with another KITC student. In certain cases, a student may also be asked to undertake supervisory duties; training will be provided for this.Each assignment will be carried out under the ultimate supervision of KITC management and in accordance with client requirements, with deliverables defined by negotiation with the client. Alongside the client deliverables, each student will also be required to produce a report on each assignment undertaken; these reports are described below under Assessment Methods. KITC management will also produce a brief evaluation report on the student's contribution following each assignment: these evaluation reports will be made available to the student concerned and his/her academic supervisor.The assignments to be undertaken by a student will be chosen by KITC. This choice will be driven primarily by commercial considerations, taking into account the individual student's aptitudes and experience. However, so far as possible, students of this module will be given assignments which are challenging technically and/or as regards project management. Students will be expected to complete every assignment--no matter how undemanding it may be technically--with a high degree of professionalism and craftsmanship.So far as commercial considerations allow, each student will be given a portfolio of assignments that exposes the student to a wide variety of stages in the software lifecycle. Also, KITC will aim to provide each student with a mix of short-timescale and longer-timescale assignments to allow students to smooth their workload over time.
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO845 - New Enterprise Development
+
+
+   
+    The curriculum will include the following areas of study:  The business plan structure and content and the importance of the business planning process. Initial development and evaluation of the business idea and identification of potential markets and customers.  Identifying the appropriate management structure and potential team members, the skills and knowledge required for success, and any appropriate development needs, or professional business intervention.  Identification of relevant Intellectual Property protection requirements and opportunities for the commercialisation of IP assets. Understanding of the processes and procedures for ensuring IP protection, and options and limitations of enforcing that protection. Choosing the appropriate trading status for the new business, requirements to ensure and maintain legal compliance, and policies to ensure best practice in the governance of the business.  Market research and segmentation, competitor analysis, development of appropriate marketing strategies and distribution networks. Integration of customer care and quality monitoring systems.  Identifying and quantifying resource requirements of the business and the implications for capital investment  physical resources (land, premises, plant & equipment, transport, materials, etc) and present and future staff requirements. Negotiation skills to ensure best value from suppliers, for sales and customer contracts, and for obtaining funding for the business. Financial planning processes: budgetary planning, cash flow and profit forecasts, break-even analysis. Formulation of financial requirements to establish the business. Credit control and financial monitoring. Funding requirements and capital investment - relevance of personal investment, loan capital, bank security requirements, ensuring investment readiness, accessing and bidding for business angel capital and venture capital, and managing the due diligence process.  Obtaining share and loan capital for conventional business start-up situations, boot-strapping where funding is limited. Escalator growth funding for high-growth / high-tech companies each stage: research & development, seed-funding, development and longer-term growth.  Implementation of the business: project planning the implementation, risk analysis of potential delays and problems, contingency plans to mitigate risks, longer-term development plans including growth and exit strategies. 
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO871 - Advanced Java for Programmers
+
+
+   
+    This module provides for well-qualified computer science students entering the MSc programme from a range of backgrounds. These students will have good programming skills but will not necessarily have used Java or another object-oriented language extensively. This module seeks to ensure that students have the Java and object-oriented design skills necessary for the rest of their programme.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO881 - Object-Oriented Programming
+
+
+   
+    This module provides an introduction to object-oriented programming using the popular Java language. It is designed for beginners who have not studied computer programming before. By the end students will be able to develop simple programmes using Java. (Note that students with substantial prior experience of programming take module CO871 Advanced Java for Programmers[1] instead.) Software development tools (editors, compilers, etc)The wider software development processProgramming paradigms and languagesThe concept of algorithmsSequences of statements and order of executionClasses, objects and packages (what they are and how to use them)Primitive data types, variables and expressionsMethods and parametersControl structures (selection, repetition)Input and outputCoding style and inline documentationOnline documentation
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO882 - Advanced Object-Oriented Programming
+
+
+   
+    Building upon CO881 Introduction to Object-Oriented Programming, this module covers the design and implementation of high-quality software using OO techniques. Systems are modelled as configurations of objects communicating with one another. Techniques (e.g. inheritance) are introduced which allow objects to play different roles within a system. These two concepts are key to the support for adaptation and reuse that OOP provides. Much emphasis will be placed on gaining a deep understanding of these concepts and applying them in practice by developing programs in Java. The remainder of the module will explore software component frameworks, specifically those that come packaged with Java, placing most emphasis on the frameworks to support the structuring and manipulation of data (data structures and algorithms).
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO887 - Web-Based Information Systems Development
+
+
+   
+    Web-based information systems form the heart of e-commerce. They are also increasingly the way businesses handle all their information needs. Building such systems requires an understanding of up-to-date tools and technologies such as XML, UML, Java and databases; it also calls for an understanding of how to design systems that genuinely meet user and business needs.This module starts by examining the business context of web-based information systems. It introduces design methodologies and techniques, using UML in recording requirements. Systems implementation involves database management systems and these are studied in some depth. By the end of the module, each student will have developed a complete information system which uses XML and Java to link dynamic web pages to a database back-end.Information Systems:   Role of information systems in e-business.   IS development methodologies   Systems thinking and its relationship to IS development   Information analysis using UML   Systems design  Database Systems:   Relational and Object-Relational Database Management Systems   Database design and implementation   Database query languages   Transactions   Security and reliability  Web-related technologies:   Mark-up languages (XML, HTML, etc)   Web interfaces to databases (JDBC, servlets, etc) 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO889 - C++ Programming
+
+
+   
+    This module builds on CO871 Advanced Java for Programmers and extends your knowledge to cover the language C++ which is widely used by professional programmers.SyllabusIntroduction to the C and C++ languages, relating to their previous knowledge of Java, including interfaces, classes, abstract classes, inheritance, interfaces, overloading and templates; Review of command-line based development, including compiling, debugging and makefiles; C++ specific items, including multiple inheritance, namespaces, friend classes, virtual methods, pointers, casting operators and explicit memory management; Low-level programming in C++, covering considerations for inline assembly, linkage with other languages and mobile platform development; High-level programming in C++, covering large scale applications, efficient programming (e.g. games) and design patterns; Coverage of standard libraries, where to look for these, and how to use them; 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO874 - Networks and Network Security
+
+
+   
+    A synopsis of the curriculumIntroduction, including a review of network techniques, switching and multiple access.High speed local area networks.Network protocols, including data link, network, transport and application layers.Real time data transmission and quality of service.Naming and addressing, including material on the domain name system, dynamic IP address allocation and address translation systems.Routing in data networksNetwork services.Firewalls and layer 3 network security.Recent developments.  Topic will change from year to year and will be addressed prinicipally by research seminars and student centred research.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO876 - Computer Security
+
+
+   
+     A study of cryptographic algorithms including symmetric and asymmetric techniques and the distinction between encryption and signatures. Security mechanisms used with operating systems, including: access control lists and capabilities.  Trusted operating systems and common criteria for evaluation. Problems of network security including wiretap, replay, masquerade and denial of service.  Mechanisms to provide security such as firewalls and VPNs. Viruses and worms. Distributed Mechanisms, including client authentication (Needham-Schroeder, Kerberos and others); public key infrastructures and certification, with treatment of chains and authority, and the problem of revocation. Digital rights management systems: CSS, OMA DRM.  Using digital watermarking techniques for digital rights management. Security of IEEE 802.11 networks (aka Wi-Fi), presentation and discussion of their security protocols: WEP, WPA, WPA2, IEEE 802.11i and RSN.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     CO846      - Cloud Computing
+
+
+     
+      From Wikipedia"Cloud computing is Internet-based computing, whereby shared servers provide resources, software, and data to computers and other devices on demand, as with the electricity grid. Cloud computing is a natural evolution of the widespread adoption of virtualization, service-oriented architecture and utility computing. Details are abstracted from consumers, who no longer have need for expertise in, or control over, the technology infrastructure "in the cloud" that supports them.Cloud computing describes a new supplement, consumption, and delivery model for IT services based on the Internet, and it typically involves over-the-Internet provision of dynamically scalable and often virtualized resources. It is a byproduct and consequence of the ease-of-access to remote computing sites provided by the Internet. This frequently takes the form of web-based tools or applications that users can access and use through a web browser as if it were a program installed locally on their own computer."The curriculum will include: Overview of web services and their use in grid/cloud computing; Review grid computing technologies and the relations and differences between grid computing and cloud computing; Virtualisation technologies, tools for cloud computing (Xen or KVM); Open source cloud infrastructures and applications, including Hadoop,Eucalyptus etc; Cutting edge commercial cloud infrastructure and applications.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB937      - Financial and Management Accounting
+
+
+     
+      The module content will include: The nature and purpose of accounting and its management interface Concepts underpinning accounting systems and financial statements The construction of the primary financial statements and their interpretation and evaluation The regulatory framework of financial reporting Corporate governance The cash cycle and its management. Classification and behaviour of costs Short-term decision techniques Costing systems and costing for overhead expenditure Budgeting and the budgetary process Accounting control information Investment appraisal Responsibility accounting systems and performance appraisal measures, including the Balanced score card.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO894      - Development Frameworks
+
+
+     
+       Introduction to software development environments and the facilities they provide.  Development of simple applications in these environments, using a broad range of the facilities provided.  Software libraries and frameworks, and their use in developing and testing software systems.  Use of development frameworks' facilities for project and source-code management, automated testing, refactoring and profiling.  Deploying applications across multiple platforms using installers and build-systems; continuous integration and deployment
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO899      - System Security
+
+
+     
+      SyllabusFederated identity management: OpenID, SAML, Liberty Alliance, ... Privacy protection Viruses and worms Hacking Secure architectures Formal verification methods E-mail security: SMTP-MIME, S/MIME Secure software development methods and tools, common criteria, code inspections, code coverage tools, code evaluation tools etc. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO834      - Trust, Security and Privacy Management
+
+
+     
+      This module investigates the whole process of security management. A holistic view of security management is taken, starting with risk management and the formulation of security policies. Technical subjects include a description of the various security models, and showing how authorisation policies can be automatically enforced. The legal and privacy issues associated with information management are also addressed, as are the usability issues of security technologies. Finally, the module concludes by investigating how security has already been inbuilt into some existing applications, and how security issues will effect the uptake of ubiquitous computing systems
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO838      - Internet of Things and Mobile Devices
+
+
+     
+      The module will cover a mixture of theoretical and practical topics in the area of mobile devices and the Internet of Things (IoT), that is, the use of Internet technologies to access and interact with objects in the physical world. This will include coverage of the range of sensor and actuator devices available, ways in which they communicate and compute, methods for getting information to and from IoT-enabled devices, ways of visualising and processing data gained from the IoT, and associated privacy and security issues. A practical component will consist of building the hardware and software for a sensor network and a system to visualise data from that network.  Application development for mobile devices such as smartphones will also be introduced using a popular mobile platform.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO841      - Computing Law, Contracts and Professional Responsibility
+
+
+     
+      Synopsis of curriculum. Professional issues and professional organisations. Data privacy legislation, and other UK laws relating to the professional use of computer systems.Criminal law relating to networked computer use, including new Anti-Terrorism legislation;and their application. Intellectual Property Rights, including Copyright, Patent and explicit IPR Legislation. Contract Law, with a specific focus on vendor-client contracts, and related issues. Health & Safety issues. Computer-based Projects, including the vendor-client relationship and professional responsibilities, and examples of real-life contracts that have exposed vendor or supplier to unacceptable commercial risks.However, as this is a rapidly evolving field, specific topics will change from year to year, as both computer law and professional responsibilities continue to evolve.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO847      - Green Computing
+
+
+     
+      Review of basic concepts related to power consumption (frequency and voltage scaling, electronics, power measurement, etc.). Overview of current low power consumption technologies for computer components, such as low power CPU design, the memristor and its applications. Technologies for building a green system (especially data centres), including low-power networks, power management in VMs (virtual machines) and power-efficient large storage systems (MAID, Massive Array of Idle Disks). Case studies of industry solutions (e.g. IBM Bluegene) and cloud data centres in low-cost locations. Practise with design methods and tools (PowerTop) for students to monitor and design an energy efficient system. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB934      - Strategy
+
+
+     
+      The strategy module has two main learning components: Acquiring theory and concepts in strategy and strategic management. Application of theory and concepts to the analysis of organisations.The aim is to critically examine and provide insights into the practice and process of strategic management within a variety of private and public sector organisations.What actions can employees pursue in order to attain superior performance for their organisation relative to their competitors? This course is designed to allow students to develop their skills of strategic analysis and their ability to think about the selection and implementation of appropriate strategies in different industry contexts and in different types and styles of organisations, including non-profit and public sector organisations. Topics include: What is Strategy, and Why is it Important? The Context of Strategy Competitive Strategy and Strategic Choices Resource Based Strategy Managing Strategic Change Corporate Social Responsibility Strategy in the Food sector
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB904      - Structure and Organisation of the E-Commerce Enterprise
+
+
+     
+      The module aims to give students the opportunity to become familiar with: Internet technology and infrastructure. Technology planning and management. Acquisition and development of organisational capabilities. Extension of organisational capabilities through technology and networks.Topics to be covered will include: To introduce E-Commerce business models and competitive advantage. To explain Internet technologies and infrastructure. To understand Organisational IT (and IT infrastructure) management especially in relation to information, networks and the Internet. To realise the social, legal and ethical issues arising from the wide use of the Internet (e.g. security, privacy, identity, intellectual property). To introduce the notion of firm capabilities. To show how firms can obtain, develop and retain capabilities. To show the importance of organisational structure and management. To explain generic activity and process models. To show how capabilities can be extended through virtual organisation.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB9067      - Digital Marketing
+
+
+     
+       The digital marketing environment; Enabling technologies for digital marketing;  Website design, implementation and analysis;  Social media;  Customers in the Internet age: knowing, reaching & retaining the customer;  Network effects and versioning; Internet marketing strategy; Loyalty, Customer Relationship Management and Data Mining;  Brands in the Internet age; Data protection, privacy and legal issues;  Digital marketing and globalisationIn a rapidly changing area it is important not to be too specific, or the course module might risk failing to reflect current trends in the area.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO892      - Advanced Network Security
+
+
+     
+      Email security.  Spam: why? ; spam 'click through' rates; targeted spam; spam filtering systems. Phishing attacks; blocking fake sites; browser based defences. Email based malware and defences against this. Intrusion detection and prevention systems; honey pots. Denial of  service; distributed denial of service; bot-nets; methods to detect complex denial of service attacks and defences against them. Problems of eavesdropping; security in wireless networks. Use of router based firewalls as a method to protect intranets: de-militarized zones, bastion hosts; internal intranet firewalls; personal firewalls. Proxy based firewall systems: control over which parts of the Internet are accessible; black-lists and white-lists; key-word based filtering; time based controls. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO886      - Software Engineering
+
+
+     
+      Creating a quality software product requires much more than skilful programming. First of all, the requirements for the product must be determined. Unfortunately, customers' perceptions of their requirements are usually vague and incomplete, and often inconsistent too, so these perceived requirements must be carefully analysed and amplified. Before software is shipped, it is important that cost-effective measures are applied to ensure, as far as possible, that it is free from errors, especially major errors: this involves procedures such as source code analysis and inspection as well as thorough testing. But some bugs will inevitably get through to the delivered product, and it is important that users can easily submit informative bug reports that allow the problem to be quickly localised and rectified.All of the issues just described have an impact on the design of the software: it must be designed, for example, to ensure that it is amenable to thorough and systematic testing, and that if internal errors do occur, they are detected quickly before the program's data files have been irrecoverably damaged. Also, design must ensure that the software can easily be adapted and extended as the customer's requirements evolve over time.This module takes a wider view of the software development process, with an emphasis on techniques and procedures for ensuring high product quality. A key topic is the use of the Unified Modelling Language (UML) for problem analysis and software design. Towards the end of the module students have an opportunity to put theory into practice by undertaking a group project, with another group as their customer. Syllabus-  Quality standards, including ISO9001 and CMM. -  Alternative models of a software project's lifecycle, and the role of the object-oriented development paradigm in modern lifecycle concepts. -  Object-oriented modelling notations, in particular UML, and the use of these notations throughout the project lifecycle. -  Mapping of designs expressed in UML into Java code. -  Techniques for verifying models, and the conformance of one model to another. -  Approaches to software testing and inspection. -  Approaches to software configuration management
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO912      - Industrial Placement (12 months)
+
+
+     
+      
+
+
+      Credits: 120 credits
+       (60 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO651      - Research and Study Skills
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO699      - Computing Project
+
+
+     
+      This module is to provide the opportunity for students to undertake a substantial individual computing project on a topic of their choice. Frequently the project is chosen from the discipline of the student's previous degree programme, thus enabling students to appreciate the role of computing in diverse application domains. The project may be self-proposed or may be selected from a list of project proposals. Typically, a project will involve the specification, design, implementation, documentation and demonstration of a technical artefact. The project is supervised by a member of the academic staff, who holds weekly meetings with the student, during which s/he will give general advice and will assess the progress of the student. Attendance at these meetings is compulsory and is monitored. The supervisors will direct students towards background and research-related literature relevant to the project. The meetings also enable students to respond to suggestions from supervisors for innovative and challenging extensions to their chosen project. Towards the end of the project, the student prepares a report describing the outcome of the project, which may be supplemented by appendices that support the achievements claimed.
+
+
+      Credits: 30 credits
+       (15 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is through a mixture of written examinations and coursework, the relative weights of which vary according to the nature of the module. The final project is assessed by a dissertation, except for the MSc in IT Consultancy for which the practical consultancy work is assessed through a series of reports covering each of the projects undertaken.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ enhance the career prospects of graduates seeking employment in the computing/IT sector
+ prepare you for research and/or professional practice at the forefront of the discipline
+ develop an integrated and critically aware understanding of one or more areas of computing/IT and their applications (according to your degree title)
+ develop a variety of advanced intellectual and transferable skills
+ equip you with the lifelong learning skills necessary to keep abreast of future developments in the field.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ how to engineer software systems that satisfy the needs of customers, using a state-of-the art methodology and an industrially-relevant programming language
+ a broad variety of advanced topics relating to computing/IT (the specific topics will depend on the optional modules you chose and may vary from year to year in response to developments in the field, staff changes etc)
+ the way in which SMEs operate and the constraints they are subject to, including aspects such as management, finance, and the organisation of business processes
+ the most common roles of IT within SMEs, and of current technologies applicable to those roles, including issues of security, confidentiality and data integrity
+ professional, legal, social, cultural and ethical issues related to the chosen field of computing.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to identify, analyse and formulate criteria and specifications appropriate to a given problem
+ the ability to model problems and their solutions with an awareness of any tradeoffs involved
+ the ability to evaluate systems, processes or methodologies in terms of general quality attributes and possible tradeoffs
+ the ability to deal with complex issues both systematically and creatively
+ the ability to work with self-direction and originality in tackling and solving problems
+
+
+the ability to make sound judgements in the absence of complete data.
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the ability to specify, design, implement and test computer-based systems
+ the ability to deploy effectively the tools used for the construction and documentation of software
+ the ability to undertake practical work that explores techniques covered in the programme and to analyse and comment on the findings
+ the ability to follow up an initial contact with a client, leading to a mutually comprehensible statement of requirements and a well-formulated contract, taking due account of the interests of all stakeholders
+ the ability to carry out a substantial piece of IT consultancy work, with particular emphasis on understanding the whole procedure of deploying a new IT solution within an SME environment, including the concomitant evolution of business processes
+ the ability to deploy project management and team communication tools effectively.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the ability to plan, work and study independently and to use relevant resources in a manner that reflects good practice
+ the ability to make effective use of general IT facilities, including information retrieval skills
+ time management and organisational skills, including the ability to manage your own learning and development
+ an appreciation of the importance of continued professional development as part of lifelong learning
+ the ability to work effectively as a member of a team
+ the ability to communicate technical issues clearly to specialist and nonspecialist
+ the ability to present ideas, arguments and results in the form of a well-structured written report
+ the ability to act autonomously in planning and implementing tasks at professional or equivalent level
+ ability to empathise with clients in understanding their problems and requirements. 

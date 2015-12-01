@@ -1,0 +1,533 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      MU313 - Audio Technologies 1
+
+      
+      
+       This module will include the following subject areas:An overview of standard digital audio workstation architecture.  File management.  Good practice in the handling of digital audio and MIDI data including manipulation, editing, mixing and export.  Audio and MIDI processes including use of plug in effects and quantising.  Recording principles, the recording chain, microphones, line instruments, and signal paths.  Effective microphone placement, the use of DI boxes and establishing correct audio levels.  Mixer gain structure, inserts and auxiliary sends in relation to signal processing.  Current recording hardware and associated techniques. Effective monitoring and mixing.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU315 - Music and Composition
+
+      
+      
+       Students will learn to deploy basic music notation and conventions such as time signatures and rhythms pitches, chords and scales. Common harmonic patterns in classical and popular traditions will also be covered. There will be some basic development of aural skills.  Examples to illustrate standard Western harmonic practice will be drawn from a wide range of musical eras and styles.  Twentieth-century developments in composition/song writing techniques will also be explored.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU316 - Sound Design 1
+
+      
+      
+       This module will include the following subject areas:An introduction to audio programming environments.  Within these environments, an introduction to programming concepts such as mathematical operations, data and audio connections, patches and filing systems, editing procedures, sub-patches and macros. Integrating different audio environments and plug-ins.  The software design process, including commenting, bug-fixing and testing. Comparison and exploration of various sound-design structures and how the elements of a piece contribute to the overall message conveyed.  Examples will be drawn from a number of media forms, both conventional and experimental, in order to assist students in beginning to understand the common elements of a broad range of sound and audio media.  It will also include lectures on the use of software programmes, the various concepts and facilities for creating coherent structures, and the ability to restructure content for various applications
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU326 - Acoustic Communication and Sound-Making
+
+      
+      
+       This module will explore listening and sound within the wider framework of the environment as a whole, viewing the process of communicating through sounds as fundamental to individuals, communities and cultures and to all living beings. Students will be guided through various approaches to sound and listening and explore representations of sound and sound-making. The module will culminate in the production of a substantial piece of creative work and a detailed evaluation that links theory and contextual issues with practice.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU328 - Music and Culture
+
+      
+      
+       This module will provide a broad introduction to important aspects of music history and culture from the early twentieth century to the present day.  Different approaches to musical language will be considered (tonality/modality, rhythm and timbre in a range of mainstream and experimental styles).  The advent of sound recording and the increasing importance of technology in music will also be examined.  These key ideas will be connected to research specialisms within the School of Music and Fine Art, encouraging students to appreciate the potential for further study in each of these areas.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      MU613 - Audio Technologies 2
+
+      
+      
+       Students will develop their understanding of a broad range of topics concerning recording and post-production process in the studio environment.  Topics covered may include, but will not be limited to, digital conversion, sampling and aliasing, reconstruction and filter design, pulse code modulation, twos complement, timebase compression and correction, error correction and concealment.  Basic concepts of data manipulation will also be studied in order to perform audio signal processing i.e. delay, chorus, reverberation, and equalisation.   Data compression principles and formats will be studied in some detail, as will stereo and spaced microphone techniques. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU614 - Music and Sound for Film and Television
+
+      
+      
+       The module introduces students to the field of media sound and music in both theory and practice.  There are two broad strands.  The first concerns sound production techniques, including postproduction crafts such as foley, ADR and sound design. The second concerns film music, including an introduction to musical languages and compositional techniques commonly deployed in relation to moving images.  Students also study film-sound theory, gaining insight into critical approaches to the analysis of film texts.  
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      MU616 - Sound Design 2
+
+      
+      
+       Audio programming and development environments, such as puredata (PD), SonicBirth, CSound, CocoaCollider, XCode and others.  Within these environments, further investigation of  programming fundamentals and application building. The software design process, including iterative development / implementation / testing cycles.  Computer-based sound design techniques and processes. Examples will be drawn from a number of media forms including interactive and/or non-linear examples and more experimental styles in order to assist students in developing a greater understanding of the common elements of a broad range of sound and audio media.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU524 - Found Image, Found Sound
+
+      
+      
+       This module gives students the opportunity to produce a collaborative audio-visual work. Exploring notions of the 'found' (sound concr&egrave;te, found footage, and found environments), Fine Art and Music students will work together to create a video/audio composition.  This approach is contextualized by reference to key artists and their work.  Workshops provide students with the opportunity to develop their technical skills using current audio-visual equipment.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU528 - Cinema for the Ears: Composing with Sound and Space
+
+      
+      
+       This module will explore spatial sound, multi-loudspeaker and surround sound formats, including an outline of the developments in early electronic music and the work of significant electro-acoustic composers. Students will study both the aesthetics and technology of multi-loudspeaker music, including stereo diffusion techniques and 5.1.  Students will be led to produce creative pieces of work that explore the rich potential offered by sound spatialisation techniques.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU529 - Interdisciplinary Project
+
+      
+      
+       The purpose of this module is to provide opportunity for self-directed group exploration in the creation of a collaboratively developed interdisciplinary practical research project. Although each student will have to negotiate an individual and personal Learning Contract with a supervising tutor, the focus of this module remains interdisciplinary and collaborative. This will be achieved through a system of lectures, workshops, mentoring, negotiation and tutor supervision. Group projects between 3 and 5 students will be considered. Projects are undertaken and evaluated with tutor guidance. Examples of studies include: performance projects, audio-visual work and multi-media projects.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU515 - Advanced Acoustics and Psychoacoustics
+
+      
+      
+       Human perception and classification of pitch, loudness and timbre. Temporal and spatial auditory analysis. Diffraction, reflection, reverberation, modal resonances and absorption, speech, music and noise, and related architectural acoustics issues.  Designing a physical space for desired acoustic properties.  Soundscapes  designed, undesigned and natural.  Haptics and the relationship between physical means of sound production and the brains perception of the resulting sound. Current and recent acoustical and psychoacoustical research, and means of accessing it (published papers, online and paper journals, conference proceedings).  Experimental procedure and design, for reasons of ethics, repeatability and control.  Basic principles of statistical data analysis methods such as correlation, principal components analysis (PCA), and multi-dimensional scaling (MDS).  Audio analysis in time and frequency domains, including Fourier synthesis.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU520 - Popular and World Music
+
+      
+      
+       This module examines the important contribution that music from other cultures has had on the development of popular music.  The central concepts of ownership and authenticity are discussed in a range of historical and cultural contexts.  Cross-cultural collaborations will be analysed and students are encouraged to develop a greater awareness of the key issues surrounding the combinations of sounds and styles from different cultures.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU521 - Composition, Orchestration and Arrangement
+
+      
+      
+       Professional score presentation, instrumentation and orchestration, harmonising and reharmonising melodies, creating introductions, basslines or countermelodies, exploring timbre in original arrangements and compositions, layering and textures.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU522 - Songwriting 2
+
+      
+      
+       Students will develop an understanding of advanced harmonic systems found in popular music, including non-standard chords; tonal/modal melodies and basslines; the relationship between words and music; rhythm, metre and stylistic conventions.  Students will analyse key repertoires and styles. Examples will be taken from within and outside the mainstream of popular music, in order to help students develop a greater flexibility in their approach to the discipline.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU619 - Music In Education
+
+      
+      
+       This module examines the way music and related subjects are taught in formal environments such as schools, colleges and elsewhere.  It gives an overview of general educational theories covering learning, teaching and assessment and considers how these might apply to musical topics.  It considers the range of methodologies that may be employed to teach diverse musical topics including factual subjects, musical performance and composition, and the development of critical listening, software and hardware skills.  An overview is given of practical considerations such as lesson planning and contextually-informed reflective practice.  
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU532 - Ensemble Performance
+
+      
+      
+       The module will focus upon ensemble performance skills and will allow students to develop their understanding of their principal instrument of study in the context of small ensemble or band performances.  Students will be expected to develop a far more thorough understanding of the details of and interaction between the parts of a song or work.  They will also develop far greater skill in responding sensitively to other musicians with an ear for details and articulation and pitch nuance, details that will differ from one performance to the next.  Regular workshops will be the primary mode of delivery and students will be challenged throughout the course to prepare more effectively for workshop rehearsals and to make use of rehearsal time that is evermore effective.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+
+
+
+
+
+ 
+  Year in industry
+
+  
+   The  Year in Industry gives you an opportunity to gain relevant workplace experience as part of your programme of study. We have long recognised the benefits of taking a year abroad and the increased awareness and confidence the experience brings, and now want to offer these benefits to students within the workplace.
+
+The year in industry will also give you an opportunity to increase your contacts and network so that you can hit the ground running when you graduate.
+
+The year in industry is in addition to your standard undergraduate programme and normally falls between your second and final year. The year itself is assessed on a pass/fail basis through employer feedback and a written report that you submit.
+  
+
+
+   
+
+ 
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                     
+      MU600 - Dissertation
+
+      
+      
+       This module takes the form of an individual research study.  Students will choose an area of study in conjunction with a tutor, who will oversee the development of the dissertation over two terms.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU602 - Individual Project
+
+      
+      
+       This module takes the form of an individual study in one practical area relating to music or music technology.  This could be, but is not restricted to: composition (electroacoustic and instrumental); sound design; sound and media; musical analysis, forms of interactivity; synthesis; sound spatialisation.  Students will choose an area of study in conjunction with a tutor, who will oversee the development of the project over two terms.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU518 - Critical Study and Presentation
+
+      
+      
+       The module will provide an integrated approach to critical studies developing ideas through discussion related to music and audio practice. Throughout this module students are asked to present and lead seminars on issues, problems and ideas that motivate their practice employing relevant cultural and contextual material to support this discussion. Students are asked to asked to write up a critical report that details the key elements delivered and discussed in the seminar. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      MU620 - Cinema for the Ears: Composing with Sound and Space
+
+      
+      
+       This module will explore spatial sound, multi-loudspeaker and surround sound formats, including an outline of the developments in early electronic music and the work of significant electro-acoustic composers. Students will study both the aesthetics and technology of multi-loudspeaker music, including stereo diffusion techniques and 5.1.  Students will be led to produce creative pieces of work that explore the rich potential offered by sound spatialisation techniques.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU621 - Technology in Performance
+
+      
+      
+       The module concentrates on the development of students skills in performing with music technology, exploring live electronic music with a particular focus on recent developments in laptop music performance. The students will take part in music activities, including group performance. Topics include current use of various interfaces, combination of live instruments with electronic devices, and live processing. Students will develop their understanding of the role of technology in performance, their sensitivity to material introduced during performance by the group, and the interaction of live and processed musical elements.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU622 - Ensemble Performance
+
+      
+      
+       The module will focus upon ensemble performance skills and will allow students to develop their understanding of their principal instrument of study in the context of small ensemble or band performances.  Students will be expected to develop a far more thorough understanding of the details of and interaction between the parts of a song or work.  They will also develop far greater skill in responding sensitively to other musicians with an ear for details and articulation and pitch nuance, details that will differ from one performance to the next.  Regular workshops will be the primary mode of delivery and students will be challenged throughout the course to prepare more effectively for workshop rehearsals and to make use of rehearsal time that is evermore effective.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU623 - Songwriting 3
+
+      
+      
+       This module develops further the skills and understanding fostered in MU522 Songwriting 2. Students develop further their understanding of the advanced harmonic and melodic processes found in popular music, such as: modal and chromatic chord substitutions, chromatic contrapuntal devices, and approaches to key centre ambiguity.  Students will analyse some of the most sophisticated songs and styles in the repertoire. Examples will be taken from within and outside the mainstream of popular music, in order to help students develop a greater flexibility in their approach to the discipline.  Students will also develop a systematic approach to arrangement taking careful account of conventions pertaining to genre distinctions in the music industry.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU523 - Found Image, Found Sound
+
+      
+      
+       This module gives students the opportunity to produce a collaborative audio-visual work. Exploring notions of the 'found' (sound concr&egrave;te, found footage, and found environments), Fine Art and Music students will work together to create a video/audio composition.  This approach is contextualized by reference to key artists and their work.  Workshops provide students with the opportunity to develop their technical skills using current audio-visual equipment.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU516 - Advanced Acoustics and Psychoacoustics
+
+      
+      
+       Human perception and classification of pitch, loudness and timbre. Temporal and spatial auditory analysis. Diffraction, reflection, reverberation, modal resonances and absorption, speech, music and noise, and related architectural acoustics issues.  Designing a physical space for desired acoustic properties. Soundscapes  designed, undesigned and natural.  Haptics and the relationship between physical means of sound production and the brains perception of the resulting sound. Current and recent acoustical and psychoacoustical research, and means of accessing it (published papers, online and paper journals, conference proceedings) and publishing your own findings.  Experimental procedure and design, for reasons of ethics, repeatability and control.  Formal statistical data analysis methods including correlation, principal components analysis (PCA), and multi-dimensional scaling (MDS).  Audio analysis in time and frequency domains, including Fourier synthesis.  In addition, H level students will gain experience of measuring acoustic properties of spaces, be expected to understand how to alter a physical space to achieve certain acoustic results, along with software implementations of data analysis including correlation, PCA and MDS.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU530 - Interdisciplinary Project
+
+      
+      
+       The purpose of this module is to provide opportunity for self-directed group exploration in the creation of a collaboratively developed interdisciplinary practical research project. Although each student will have to negotiate an individual and personal Learning Contract with a supervising tutor, the focus of this module remains interdisciplinary and collaborative. This will be achieved through a system of lectures, workshops, mentoring, negotiation and tutor supervision. Group projects between 3 and 5 students will be considered. Projects are undertaken and evaluated with tutor guidance. Examples of studies include: performance projects, audio-visual work and multi-media projects.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU526 - Popular and World Music
+
+      
+      
+       This module examines the important contribution that music from other cultures has had on the development of popular music.  The central concepts of ownership and authenticity are discussed in a range of historical and cultural contexts.  Cross-cultural collaborations will be analysed and students are encouraged to develop a greater awareness of the key issues surrounding the combinations of sounds and styles from different cultures.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU617 - Professional Practice
+
+      
+      
+       This module offers an overview of current and future trends in professional practice, including performance practice, programming and curating, event management and listenership/spectatorship. The wide and varied nature of current music and art practices will be explored, such as the changing nature of music distribution, including internet and interactive technologies; trends in music industry and arts organisations, including funding, marketing, branding and intellectual property issues. By devising a major collaborative project for public performance you will put theoretical ideas and concepts into practice.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MU618 - Music in Education
+
+      
+      
+       This module examines the way music and related subjects are taught in formal environments such as schools, colleges and elsewhere.  It gives an overview of general educational theories covering learning, teaching and assessment and considers how these might apply to musical topics.  It considers the range of methodologies that may be employed to teach diverse musical topics including factual subjects, musical performance and composition, and the development of critical listening, software and hardware skills.  An overview is given of practical considerations such as lesson planning and contextually-informed reflective practice.  
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 

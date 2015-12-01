@@ -1,0 +1,306 @@
+Course structure
+
+
+ The MA in Architectural Visualisation is jointly taught by Kent School of Architecture and the School of Engineering and Digital Arts. Building on the successful Master's programmes in Computer Animation and Digital Visual Effects, this MA  enables students to develop at an advanced level the skills, knowledge and understanding of digital simulation and 3D modelling which will equip them to become highly skilled professionals in architectural visualisation.
+
+Drawing influence from both architecture and film, this programme offers a progression route into both industries, highlighting the different requirements needed for each profession while exploring the similarities of these markets. In this programme, the professions of architecture, film and animation fuse together, providing students with the ability and understanding to work in each or all of them.
+
+Student profiles
+
+See what our students have to say
+.
+
+Showreels
+
+View examples of our students' work and showreels
+.
+
+
+
+
+ Modules
+
+
+ 
+
+
+ 
+
+      
+   EL837 - Professional Group Work
+
+
+   
+    This module is a group project which allows the student to work on a model of an actual animation job provided by our industrial partner. Each group produces an animation from established plates and models to a 4 week deadline. The student works with a model of a production pipeline, becoming familiar with the production process, chains of approval and departmental divisions.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL838 - High Definition Video
+
+
+   
+    This module introduces students to the key elements of film form and film-making technique. It provides them with the opportunity to look at their MSc work within the broader context of film art, and to learn basic film-making skills including screenwriting, camerawork, sound recording, and editing. Classes will comprise a mixture of practical workshops and seminars focused on how film-makers uses specific cinematic techniques including narrative construction, visual composition, camera motion, colour, sound, and editing.   Students will have a chance to experiment with these techniques by working in small groups to produce a short dramatic film work.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   AR846 - Architectural Photography
+
+
+   
+    
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL868 - High Definition Compositing
+
+
+   
+    This 15 credit module specifically addresses the technical and artistic requirements for compositing video and 3D elements at a high resolution. Compositing is the artistic blending of several disparate elements from a variety of sources into a single image while making all the component elements appear to be in the same light space and shot with the same camera. On successful completion of the module, working at a high definition resolution, you will be able to composite a moving digital video element from one or more clips seamlessly into another; change seamlessly lightings, camera moves and framings, colour balances and film textures on existing digital video clips; build and match camera movements of 3D environments from and to the 2D evidence in digital video clips; model, texture, animate and light a 3D computer graphics object for seamless compositing into a live action digital video clip.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   AR821 - Film and Architecture
+
+
+   
+    This module reviews the representation of architecture in film through history, by looking at influential cinematic depictions of the built form.  With light being such an important factor in both disciplines, the links between the two industries are explored, analysing films from early German expressionist cinema through to present-day utopian/dystopian films.  Students will investigate how the cinematic depiction of architecture can alter the character of the built environment and the way in which it is portrayed.  This module aims to explore  the relationship of architecture to lens, and screen to audience.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   AR822 - Virtual Cities
+
+
+   
+    This module will develop skills in visual communication and representation using 3D digital modelling.  Students will develop modelling skills, learning materiality, lighting and high quality rendering skills.  This module will draw from professional practice of a number of industries, such as architecture, film and games, highlighting the priorities that each profession places on the modelling and rendering process.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   AR823 - Digital Architecture
+
+
+   
+    This module will intensively guide students through the procedures of modelling and animation needed for architectural visualisation.  The programme of study will compare the available software packages used in industry and will provide students with hands-on ability to model, animate and render architectural visualisations.  Through a series of exercises advancing in complexity, by the end of this module students will be able to create realistic digital architectural models appropriate for the target industry and application.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL870 - Visual Effects Project
+
+
+   
+    Each student uses all the experience gained on the course to produce a video short in high definition which showcases his or her professional visual effects skills and forms a suitable entree to a professional career.The subject, script, models and soundtrack of the piece are agreed with the academic staff, or is a project from an Industrial collaborator.
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   AR845 - Independent Research Project
+
+
+   
+    
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Modules are taught over three terms, concluding with a Major Project Visualisation, which accounts for one third of the programme. The content of the visualisation is agreed with programme staff and you build a showreel to a professional standard. Each module is assessed by practical assignments. The project work is assessed on the outcome of the project itself.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ enable you to develop advanced level skills, knowledge and understanding of digital simulation and 3D modelling, which will equip you to become a highly skilled professional in architectural visualisation
+ train you in the requirements and skills needed for work in high definition
+ produce professionally-trained architectural visualisers who are highly skilled in using state-of-the-art 3D modelling and visual effects software
+ provide proper academic guidance and welfare support for all students
+ create an atmosphere of co-operation and partnership between staff and students, and offer you an environment where you can develop your potential.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ the computer animation production process and pipeline roles
+ the principles of architectural modelling for visualisation and games
+ the technical terms and methods used in film editing
+ the fundamental concepts of digital video technology
+ current developments in the architectural visualisation industry and related market sectors
+ the relevance of architectural visualisation within the contemporary television and film industries
+ the cultural context of architecture in film.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the analysis and interpretation of 3D modelling issues.
+ the ability to relate technological options to practical implementation.
+ the ability to identify and solve complex problems and issues in the generation of an architectural visualisation
+ the ability to identify ideas for enhancing a production&rsquo;s aesthetic quality by the use of complex video effects
+ the ability to demonstrate independence and creative and critical thinking
+ the ability to evaluate creatively evidence to support conclusions.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ use of appropriate software tools, techniques and packages to produce and develop complex architectural visualisations
+ the ability to use drawing as a way of planning, visualising and explaining work in a time-based medium
+ the ability to read and make storyboards and animatics at a professional level
+ the ability to apply management techniques to the planning, resource allocation and execution of an architectural visualisation project
+ the ability to prepare reports and presentations relevant to architectural representation and visualisation.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the ability to generate, analyse, present and interpret data
+ use of information and communications technology
+ personal and interpersonal skills, working as a member of a team
+ an ability to communicate effectively, in writing, verbally and through drawings
+ the ability for critical thinking, reasoning and reflection
+ the ability to manage time and resources within an individual and group project
+ the ability to learn independently for the purpose of continuing professional development. 

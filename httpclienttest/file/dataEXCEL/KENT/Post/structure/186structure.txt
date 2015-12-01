@@ -1,0 +1,530 @@
+Course structure
+
+
+ Linear algebra, analysis, regression and probability and inference are core topics for the first year of this two-year programme, which also includes a dissertation module. In the second year, stochastic models and processes, Bayesian statistics and the analysis of large data sets are among the range of topics explored.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   MA552 - Analysis
+
+
+   
+    The concept of a limit is basic to Calculus and, unless this concept is defined precisely, uncertainties and paradoxes will creep into the subject. Based on the foundation of the real number system, this module develops the theory of convergence of sequences and series and the study of continuity and differentiability of functions. The notion of Riemann integration is also explored. The syllabus includes the following: Sequences and their convergence. The convergence of bounded increasing sequences. Series and their convergence: the comparison test, the ratio test, absolute and conditional convergence, the alternating series test. Continuous functions: the boundedness theorem, the Intermediate Value Theorem. Differentiable functions: The Mean Value Theorem with applications, power series, Taylor expansions. Construction and properties of the Riemann integral.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA553 - Linear Algebra
+
+
+   
+    This module is a sequel to First Year Algebra. It considers the abstract theory of Linear spaces together with applications to matrix algebra and other areas of Mathematics (and its applications).  Since linear spaces are of fundamental importance in almost every area of mathematics the ideas and techniques discussed in this module lie at the heart of mathematics. Topics include: Elementary operations on matrices; Vector (alias Linear) spaces; linearly independent and spanning sets, bases, dimension, subspaces;  Linear Transformations; Matrix of a Linear transformation; Change of Basis, Similar Matrices and Applications; Determinant of an LT; Diagonalisation; Invariant subspaces and upper triangular forms; Bilinear forms, norms, Cauchy-Schwarz inequality;  Orthonormal systems; the Gram-Schmidt process;  Diagonalisation of real symmetric matrices by orthogonal matrices; Applications e.g. to Projection mappings and Least Squares Approximation.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA602 - Project in Statistics or Probability
+
+
+   
+    A list of projects will be offered and each student will be allocated to a project supervised by a member of staff as determined by the convener. The allocation to a topic will be made by the end of Week 12 to allow students time for preliminary reading over the vacation.  Students will then work on the project during the Spring term, including meetings with the project supervisor to assess progress. Students will also take Key Skills workshops on scientific writing and typesetting using LaTeX in the Autumn term.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA612 - Regression Models
+
+
+   
+    
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA619 - Probability and Inference
+
+
+   
+    
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA636 - Stochastic Processes
+
+
+   
+    A stochastic process is a process developing in time according to probability rules; for example, models for reserves in insurance companies, queue formation, the behaviour of a population of bacteria, and the persistence (or otherwise) of an unusual surname through successive generations.The syllabus will include coverage of a wide variety of stochastic processes and their applications; Markov chains; processes in continuous-time such as the Poisson process, the birth and death process and queues.Marks on this module can count towards examption from the professional examination CT4 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA639 - Time Series Modelling and Simulation
+
+
+   
+    Note: Stage 2 module for Actuarial Science students onlyA time series is a collection of observations made sequentially in time.  Examples occur in a variety of fields, ranging from economics to engineering, and methods of analysing time series constitute an important area of statistics.  The module focuses on various time series models, including some recent developments, and provides modern statistical tools for their analysis.  The other part of the module covers extensively simulation methods.  These methods are becoming increasingly important tools as simulation models can be easily designed and run on modern PCs.  Various practical examples are considered so as to help the students tackle the analysis of real data.The syllabus includes:  Difference equations, Stationary Time Series: ARMA process.  Nonstationary Processes: ARIMA Model Building and Testing: Estimation, Box Jenkins, Criteria for choosing between models, Diagnostic tests.Forecasting: Box-Jenkins, Prediction bounds. Testing for Trends and Unit Roots: Dickey-Fuller, ADF, Structural change, Trend-stationarity vs difference stationarity. Seasonality and Volatility: ARCH, GARCH, ML estimation. Multiequation Time Series Models: Spectral Analysis.  Generation of pseudo  random numbers, simulation methods: inverse transform and acceptance-rejection, design issues and sensitivity analysis.Marks on this module can count towards examption from the professional examination CT6 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA772 - Analysis of Variance
+
+
+   
+    This module will build on the material on linear-models covered in the module, MA632 Regression.   Analysis of variance is a fundamentally important method for the statistical analysis of data.  It is used widely in biological, medical, psychological, sociological and industrial research.  In analysing experimental data, the appropriate form of analysis of variance is determined by the design of the experiment, and we shall therefore discuss some aspects of experimental design in this module.  Lectures are supplemented by computing classes which explore the analysis of variance facilities of the statistical package R. Syllabus: One-way ANOVA (fixed effects model); alternative models; least squares estimation; expectations of mean squares; distributional results; ANOVA table; follow-up analysis; multiple comparisons; least significant difference; confidence intervals; contrasts; orthogonal polynomials; checking assumptions; residual plots; Bartletts test; transformations; one-way ANOVA (random effects model); types of experiment; experimental and observational units; treatment structure; randomisation; replication; blocking; the size of an experiment; two-way ANOVA; the randomised complete block design; two-way layout with interaction; the general linear model; matrix formulation; models of full rank; constraints; motivations for using least squares; properties of estimators; model partitions; extra sum of squares principle; orthogonality; multiple regression; polynomial regression; comparison of regression lines; analysis of covariance; balanced incomplete block designs; Latin square designs; Youden rectangles; factorial experiments; main effects and interactions
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA781 - Practical Multivariate Analysis
+
+
+   
+    Many statistical problems (in biology and psychology, for example) are multivariate, in that more than one measurement is made on each individual under study.  For example, we may be given scores on several different tests, or the levels of several chemicals in the blood.Some statistical techniques for analysing multivariate data are extensions of standard univariate techniques. Other techniques are concerned with the relationships between variables; they lead, in conjunction with modern computing techniques, to a wide variety of descriptive and exploratory tools.In this module, students will attend about 20 lectures and classes designed to introduce all the major concepts and techniques of multivariate analysis, and will do some reading and undertake a small project designed to deepen their appreciation of some of the methodology.Syllabus: Random variables and their properties; The Multivariate Normal (MN) distribution; Partial and multiple correlation; Sampling distributions based on MN; Inference for  the  MN  distribution; including  Hotelling's  T2 and multivariate analysis of variance; Likelihood ratio and Union-intersection methods; Discriminant analysis; Principal component analysis and Factor Analysis; Scaling and rotation of factors; Canonical analysis; Metric and non-metric scaling.  Methods of cluster analysis.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LZ600 - Advanced English for Academic Study in the Applied Sciences
+
+
+   
+    In this module you will develop the advanced English language skills needed for post graduate studies in Science. This includes the ability to interpret and evaluate authentic scientific texts; analyse, discuss, summarise and synthesise written and visual information both in writing and orally; organise written texts effectively and submit them in grammatically accurate English, and present the results of research orally in a coherent and stimulating way.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     MA885      - Stochastic Processes and Time Series
+
+
+     
+      Markov chains on discrete state spaces, communication classes, transience and recurrence, positive recurrence, stationary distributions. Markov processes on discrete state spaces, exponential distribution, embedded Markov chain, transition graphs, infinitesimal generator, transition probabilities, stationary distributions, skip-free Markov processes. Stationary Time Series: Stationarity, Autocovariance and autocorrelation functions, Partial autocorrelation functions, ARMA processes. ARIMA Model Building and Testing: Estimation, Box Jenkins, Criteria for choosing between models, Diagnostic tests for the residuals of a time series after estimation. Forecasting: Holt-Winters, Box-Jenkins, Prediction bounds. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA888      - Stochastic Models in Ecology and Medicine
+
+
+     
+      Ecology: This part of the module deals with the analysis of data collected on wild animals. Particular attention will be given to estimating how long wild animals live, and also to estimating the sizes of mobile animal populations. Fitted probability models will allow the assessment of environmental changes, such as global warming. Complex models may contain too many parameters to be estimated, and procedures will be described for testing for this using symbolic computer packages. State-space models provide a unifying framework for many of the models considered. Both classical and Bayesian methods of inference will be used.Medicine: This part of the module also considers the estimation of surival, but in this case for human beings, with less data loss due to individuals leaving the study than in the ecological case. However, human data can be censored, and methods will be presented for graphically representing such data and fitting standard probability models. As is also true in ecology, covariates can play an important role, as will be discussed, in particular using the Cox proportional hazards model. Collected serially in time on the same individuals, covariates result in longitudinal data, such as blood pressure reading on individuals, and methods will be presented for analysing such data.The syllabus will be:Estimating abundance. Estimating survival. Using covariates; multi-state models; complex models; parameter redundancy; state-space modelling; Bayesian analysis.Human survival data with censoring; longitudinal data; The hazard and related functions; simple parametric models; repeated observations.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA889      - Analysis of Large Data Sets
+
+
+     
+      Introduction. Examples of multivariate procedures. The covariance matrix and correlation matrix. The Multivariate normal; motivation, joint probability density function (pdf). Partial and multiple correlation. Sampling distributions. Inference from MN samples. Tests with correlation matrix known and unknown. Unionintersection (UI) tests. Likelihood ratio (LR) methods. Hotellings T-squared. Two-sample tests.Multivariate Analysis of Variance. Discriminant analysis. Linear discriminant function (LDF): derivation with parameters known. Use when parameters are estimated. Distribution-free approach. Principal component analysis. Aims. Derivation of principal components (PCs) of a multivariate random variable. Use of sample data. Calculation of PC scores. Sampling distributions. Factor analysis. The factor model. Factor loadings. Scaling and rotation of factors. Determinacy.Methods for estimation of factor loadings and factor scores. Canonical analysis. Definition. Applications. Scaling. Measures of dissimilarity. Metric scaling. Non-metric scaling. Horseshoe diagrams. Cluster analysis. Hierarchical methods. Single and complete link analyses. Calculation of distances. Presentation methods. Probabilistic approaches. Variable Selection in Linear Regression Models: Examples of high-dimensional problems; Collinearity; All subset selection; Information theoretic approaches to variable selection; Penalized maximum likelihood; Ridge regression; non-negative garrote; Lasso and adaptive Lasso estimation; LARS algorithm; Oracle property; Elastic Net. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA890      - Practical Statistics and Computing
+
+
+     
+      Nonparametric Methods: This part of the  module comprises approximately 10 lectures on nonparametric methods, showing how they are applied in practice for testing goodness of fit to a distribution, including tests of normality, for testing randomness of a sequence, and for comparing two samples. Practical Statistics: There is no fixed syllabus for this component of the course. Students gain experience of practical data analysis through a series of assessments that confront them with unfamiliar data, which may require the use of techniques introduced in any of the other core modules of the Programme.Statistical Computing: At the start of the module, students are introduced to, and gain experience of, the document preparation system LaTeX, which enables the production of high-quality mathematical documents. Then there are sessions in which students learn the statistical package R, using a mixture of lectures and hands-on computing workshops. The initial aim is for students to gain familiarity with importing and manipulating data, producing graphs and tables, and running standard statistical analyses. The later parts of the module focus on the use of R as a programming language, introducing basic programming mechanisms such as loops, conditional statements and functions. This provides students with the means to develop their own code to undertake non-routine types of analysis if these are not already available in R.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA858      - Computational Statistics
+
+
+     
+      The module starts with an introduction to a range of atypical data sets, drawn from areas such as ecology, biology, genetics and psychology.  Each of the examples can be described by a suitable stochastic model, making use of the known background to the data, and built on the axioms of probability theory. Fitting models to data is traditionally accomplished by the method of maximum likelihood, and typically this involves numerical optimisation. The labour involved here is only feasible using a computer, and integral to the module is the use of the MATLAB integrated computer package. The module also describes modern Bayesian methods for data analysis, and MATLAB is again very useful for illustrating these methods in operation. In supervised computer practical classes you will gain experience with running a range of computer programs for modern methods of statistical analysis.  Students completing this module will possess an enviable grasp of the utility and power of modern statistics for describing real-life situations.  During the module you will cover most of the following topics: Introduction and examples. Model fitting by maximum likelihood. Function optimisation. Basic likelihood tools. Simulation techniques. Fundamental features of modelling. The EM algorithm. Generalised linear models, generalised linear mixed models. Bayesian methods. Note that this module makes excellent use of a wide range of statistical, mathematical and computational techniques, and revises and integrates material from a number of other lecture courses.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA867      - Project
+
+
+     
+      The module, which is compulsory for students of MSc in Statistics and MSc in Statistics with Finance, enables students to undertake an independent piece of work in a particular area of statistics, or statistical finance/financial econometrics and to write a coherent account of the material. A list of possible topics, together with names of Staff willing to supervise these projects, will be circulated to students in the autumn term. Projects suitable for MSc Statistics and MSc Statistics with Finance will be indicated. Students are given a briefing document containing regulations and advice on the preparation of projects. Students then choose a topic after consultation and agreement with the relevant member of staff. This is done early in the second term. The range of projects available is wide, encompassing both practical data analysis and more methodological work, although projects that are primarily theoretical will typically have obvious practical applications. In addition, students can propose their own topics, provided a suitable supervisor can be found.The dissertation is expected to be about 10,000 words excluding any appendices containing computer code and so forth. The dissertation is submitted in early September, before the start of the next academic year.
+
+
+      Credits: 60 credits
+       (30 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA881      - Probability and Classical Inference
+
+
+     
+      This course introduces (and revises for some students) the essentials of probability and inference which provide the backbone for later modules.Syllabus: Probability: axioms, marginal, joint and conditional distributions, Bayes theorem, important distributions, generating functions and various models of convergence. Classical Inference: Sampling distributions. Point estimation: consistency, Cramer-Rao inequality, efficiency, sufficiency, minimum variance unbiased estimators. Likelihood. Methods of estimation. Hypothesis tests: maximum likelihood-ratio test, Wald and score tests, profile and test-based confidence intervals. Modified likelihood and estimating equations: marginal, conditional, pseudo- and quasi-likelihood, estimating equations.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA882      - Advanced Regression Modelling
+
+
+     
+      This module covers regression techniques used to understand the effect of explanatory variables on a response, which may be continuous, ordinal or categorical. Issues including general inference, goodness-of-fit, variable selection and diagnostics will be discussed and the material presented in a data-centred way.The syllabus isLinear Model: Simple and multiple linear regression including inference (estimation, hypothesis testing and confidence intervals) and diagnostics (detection of outliers, multicollinearity and influential observations). The General linear model, polynomial regression and analysis of variance.Discrete data analysis: Review of Binomial, Poisson, negative binomial and multinomial distributions. Properties, estimation, hypothesis tests.Generalized Linear Model: Estimation, hypothesis testing and model comparison of these models. Diagnostics and goodness-of-fit.Contigency tables: Tests for independence, Measures of association, logistic models, multidimensional tables, log linear models, fitting and model selection.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA883      - Bayesian Statistics
+
+
+     
+      The origins of Bayesian inference lie in Bayes' Theorem for density functions; the likelihood function and the prior distribution combine to provide a posterior distribution which reflects beliefs about an unknown parameter based on the data and prior beliefs. Statistical inference is determined solely by the posterior distribution. So, for example, an estimate of the parameter could be the mean value of the posterior distribution.This module will provide a full description of Bayesian analysis and cover popular models, such as the normal distribution. Initially, the flavour will be one of describing the Bayesian counterparts to well known classical procedures such as hypothesis testing and confidence intervals.Current methods for inference involving posterior distributions typically involve sampling strategies. That is, due to the complicated nature of some posterior distributions, analytic methods fail to provide meaningful summaries. Hence, sampling from the posterior has become popular. A full description of  sampling techniques, starting from rejection sampling, will be given. The syllabus will be:Conjugate models (prior and posterior belong to the same family of parametric models). Predictive distributions; Bayes estimates; Sampling density functions; Gibbs and Metropolis-Hastings samplers; Winbugs; Bayesian regression and hierarchical models; Bayesian model choice; Decision theory; Objective priors; Exchangeability.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA884      - Principles of Data Collection
+
+
+     
+      This module explores the important roles that Statisticians play in planning how data are collected. Well-planned studies can help to ensure that key questions of interest can be addressed unambiguously and can improve the precision of the conclusions of the study.  The two main types of study considered are sample surveys and designed experiments. For sample surveys, we study different variations of random sampling, the use of auxiliary information and practical issues such as the importance of questionnaire design and the problem of non-response. For experimental design, we start with the general principles of randomization, replication and blocking and study a variety of common designs and their analysis. Next we introduce hierarchical designs and components of variance. The module concludes by considering some of the specific issues that arise in the design of clinical trials, which are of great importance in medical and pharmaceutical applications.The Syllabus will be Sampling: Simple random sampling. Sampling for proportions and percentages. Estimation of sample size. Stratified sampling. Systematic sampling. Ratio and regression estimates. Cluster sampling. Multi-stage sampling and design effect. Questionnaire design. Response bias and non-response.  General principles of experimental design: blocking, randomization, replication. Orthogonal designs. Factorial designs: confounding, fractional replication. Analysis of covariance. Non-orthogonal designs. Hierarchical designs: Fixed and random effects models. Split-plot designs. Variance components.  Design of clinical trials: blinding, placebos, eligibility, ethics, data monitoring and interim analysis. Good clinical practice, the statistical analysis plan, the protocol. Equivalence and noninferiority. Sample size. Phase I, II, III and IV trials. Parallel group trials. Crossover trials. Multicentre trials.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The programme is assessed by coursework and written examinations. In the second year, there is also a substantial dissertation.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ give you the depth of technical appreciation and skills appropriate to Masters&rsquo; level students in statistics
+ equip you with a comprehensive and systematic understanding of theoretical and practical statistics, and their uses in finance
+ develop your capacity for rigorous reasoning and precise expression
+ develop your capability to formulate and solve problems relevant to statistics
+ develop your appreciation of recent developments in statistics and the links between the theory of statistics and financial modelling (and other areas of application)
+ develop your logical, mathematical approach to solving problems
+ develop your enhanced capacity for independent thought and work
+ ensure you are competent in the use of information technology and are familiar
+ with computers and relevant software
+ provide you with opportunities to study advanced topics in statistics, engage in research at some level, and develop communication and personal skills
+ provide you with the depth of knowledge of the subject sufficient to enter a career as a professional statistician or appropriate career in quantitative finance
+ provide a deep understanding of the use of statistics in finance and financial   econometrics.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ probability and statistics and the range of principles involved
+ the links between different statistical concepts and methods
+ advanced information technology skills relevant to statisticians
+ a comprehensive range of methods and techniques appropriate to statistics at postgraduate level
+ the role of logical mathematical argument and deductive reasoning
+ an appreciation of particular subject areas to which statistics is applied, particularly finance and the important role of statistics in those areas
+ an appreciation of the use of statistics in finance and the probabilistic concepts involved.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to demonstrate a comprehensive understanding of the main body of statistical knowledge
+ the ability to demonstrate skill in the calculation and manipulation of data
+ the ability to apply a range of statistical concepts and principles in various challenging contexts
+ the ability for logical argument
+ the ability to demonstrate skill in solving complex statistical problems using appropriate and advanced methods
+ the ability in relevant computer skills and usage
+ the ability to work with relatively little guidance
+ the ability to evaluate research work critically.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the ability to demonstrate knowledge of advanced statistical concepts and topics, both explicitly and by applying them to the solution of problems
+ the ability to demonstrate knowledge of statistical modelling techniques commonly applied to finance
+ the ability to abstract the essentials of problems to facilitate statistical analysis and interpretation
+ the ability to present statistical analyses and draw conclusions with clarity and accuracy.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ problem-solving skills: the ability to work independently to solve problems involving qualitative or quantitative information
+ communication skills, including the capacity to report to others on analyses undertaken
+ computational skills
+ information-retrieval skills involving a range of resources
+ information technology skills including scientific word-processing
+ time-management and organisational skills, as evidenced by the ability to plan and implement efficient and effective modes of working
+ skills needed for continuing professional development. 

@@ -1,0 +1,230 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+ Foundation year
+
+ 
+  This programme is for students who lack the qualifications needed for direct entry into Stage 1 of the BSc. It includes lectures in chemistry and mathematics, together with practical classes, and is taught entirely on the Canterbury campus.
+  Find out more about the benefits of a Foundation Year
+.
+ 
+
+
+
+
+   
+Possible modules may include: 
+
+
+                    
+      MA022 - Graphs, Geometry and Trigonometry
+
+      
+      
+       Lecture SyllabusGraphs and Geometry Graphs and the information to be read from them; The straight line, application to plots of experimental data; Coordinate geometry of straight lines: parallel and perpendicular lines; The graphical solution of equations; Graphs of the trigonometric functions; symmetry and translation properties; Equation of the circle.Trigonometry; Measures of angle; Triangles Trigonometric functions; Pythagoras theorem and the fundamental identity of trigonometry; Sine and cosine rules; The addition formulae, the double angle formulae; Trigonometric equations; Applications.Vectors; Notion of a vector quantity; Representation of a vector using components; Unit vectors; Addition and subtraction of vectors; Magnitude and orientation; Vectors in 3 dimensions; Scalar products; Introduction to vector fields. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH020 - Algebra and Arithmetic
+
+      
+      
+       
+Arithmetic Calculations. Significant figures. Standard form. Fractions Simplification of fractions. Percentages and fractional changes. Errors. Indices. Logarithms and exponential functions.
+Algebra  Basic rules (operations and indices). Solving equations (substitution and order of operation). Changing subject of a formula Inverse operations Rules of indices Long division Expansion Factorisation Quadratics equation Solving linear equations. Solving simultaneous linear equations Partial fractions. Binomial Theorem.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS021 - Molecules and Analysis
+
+      
+      
+       Atoms and molecules; chemical equations; titrations; energy levels; acids and bases; orbitals; bonds; molecular shapes; spectra; bond energies, hydrogen bonding.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS022 - Chemical Reactivity
+
+      
+      
+       Lattice energy; polymorphism; chemical equilibrium; the Periodic Table; solubilities; transition metals; isomerism; organic chemicals; shapes of organic molecules; organic analysis; optical activity; basic reactions of organic compounds; organic problem-solving; reaction kinetics.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS023 - Properties of Matter
+
+      
+      
+       States of matter; radioactivity; real and ideal gases; water. main group inorganic chemistry; phase diagrams, ideal solutions; miscibility, electrochemistry, forensic science techniques.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      PS301 - Introduction to Forensic Science
+
+      
+      
+       Forensic Science; Evidence and the Scene of the Crime What is forensic science? Historical and legal background of forensic science  exchange principles and linkage theory. Forensic science in the U.K  inductive and deductive reasoning. Identification, characterisation, recovery and weighting of trace evidence types. Crime scene searching methodologies; the integrity and continuity of evidence. Introduction to laboratory testing dealing with glass, tool-mark, shoe-mark and tyre impressions. The management of scientific support at crime scenes. Procedures at crime scenes illustrated by reference to crimes of burglary, murder and sexual offences. Fingerprint history, classification, recovery and chemical enhancement of fingerprints. Blood pattern analysis supporting the advances in DNA techniques. Firearms classification, internal & external ballistics, trajectory, mass and velocity. Firearms injuries at crime scenes. Introduction to DNA analysis and the functioning of the National DNA Database. Sexual offence investigation and body fluid identification. Clinical indicators of death and murder scene investigation.Drug Abuse, Alcohol and Forensic ToxicologyDrugs of abuse and their identification. Drugs, alcohol poisons and their metabolism. Toxicology and the role of the forensic toxicologist. Qualitative and quantitative laboratory analysis. Document Examination: Signature and handwriting identification. Paper, inks and printed documents. Damage characterisation.Fires and Explosions: Arson. Fire and combustion. Types of explosives and the nature of explosions. The crime scene investigation: sampling and laboratory analysis.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS318 - Skills for Forensic Scientists
+
+      
+      
+       Quantitative skills beginning with GCSE mathematics through to algebra, data analysis, graphical treatment of errors, logarithms, basic probability, trigonometry and applications in forensic science.Incident scene assessment, management and mapping.Induction to the English legal system and laws of evidence.The structure and composition of DNA, genetic analysis and applications relevant to forensic science.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS324 - Introduction to Ballistics
+
+      
+      
+       Mathematical Concepts for Impact Studies     Newtons laws of motionVectorsImpacts and momentumEnergy considerations         Introduction to ballistics       Categories of weaponsWeapon mechanismsAmmunition constructionInternal ballisticsIntermediate ballisticsExternal ballisticsTerminal ballistics         Overview of Forensic Ballistics           The 1968 Firearms Act (as amended)Categorisation of firearms and ammunitionShooting case studies
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS381 - Chemical Skills For Forensic Scientists
+
+      
+      
+       Laboratory safety: lectures on laboratory safety including safe handling of chemicals, electrical supplies, solvents and gases both within and outside fume cupboards, safe disposal of chemicals, CoSHH and risk assessment, accident prevention.Laboratory skills: the completion of a set of experiments in a lab environment within the safety structure as laid out by lab risk assessments. To include: fundamental organic chemistry methodology, chemical handling, use of equipment (including calibration and accuracy), infra-red spectroscopy, analytical chemistry and titrations, colorimetry, gravimetric analysis, solvent extraction.Data presentation methods: the correct and succinct planning and preparation of scientific reports, correct referencing, data manipulation and presentation, literature searches and library catalogues, academic integrity and referencing styles.Periodic table and inorganic chemistry: Periodic trends in the periodic table: chemical properties, reactivity and compounds across periods 1 and 2, introduction to diagonal relationships; hydrogen and its compounds; Group 1  the alkali metals, their compounds and reactivity; Group 2  the alkaline earth metals, their compounds and reactivity; introduction to redox chemistry; the p-block: Group 13 elements, their properties and reactivity, the inert pair effect, the chemistry of boron; Group 14 elements, properties, compounds and reactivities, carbon and its allotropes; Group 15: the chemistry of the pnictogens, nitrogen, phosphorus and its allotropes; Group 16: the chemistry of the chalcogens; Group 17: the chemistry of the halogens; extension to MO and VSEPR theory; introduction to groups 12 and 18.Molecular graphics: use of MarvinSketch to represent and draw chemical structures and calculate molecular properties, using J-mol and J-ice to present molecular and crystal structures graphically, use of HULIS software to calculate energy levels from H&uuml;ckel theory.Maths for physical scientists: basic mathematics and functions used in physical sciences, curve sketching and plotting simple functions, differentiation and integration, examples of physical science applications including chemical reaction rates.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH308 - Molecules Matter & Energy
+
+      
+      
+       Atomic and Molecular Structure Energetics and quantisation; structure of the atom, energy levels in atoms and electronic configuration of atoms: Pauli exclusion principle, Hunds rule, effective nuclear charge; Periodicity, ionisation energy and electron affinity. Nature of molecules. Electronic structure in molecules; molecular orbitals; using atomic orbitals to make molecular orbitals (linear combination of atomic orbitals); bonding and antibonding, sigma and pi orbitals; hybridisation; delocalisation and resonance.Gases, Liquids, Solutions and Solids Gases laws, intermolecular forces: types of interaction; liquids: classification of liquid types .Molecular and ionic solids, lattice energies, diffusion in liquids and solids, viscosity, surface tension. Ions in solution, Coulombic interactions, ionic atmosphere, Debye-H&uuml;ckel theory. Electrolyte solutions, strong and weak electrolytes, ionic strength, pH, ionic conduction: conductance measurements, transport numbers and ionic mobility; electrophoresis.Thermodynamics The rational foundations of thermodynamics, the first law. Thermochemistry: enthalpies of formation and reaction, thermochemical calculations. Molecular interpretation of internal energy: heat capacities, equipartition of energy, population of rotational and vibrational states, Boltzmann distribution. The concept of entropy and the second law, reaction feasibility, Gibb's free energy, chemical potential. Equilibrium and thermodynamics, Van't Hoff equation, equilibrium calculations. Third law of thermodynamics and molar entropies, entropy and disorder. Thermodynamics of protein folding.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH309 - Fundamental Organic Chemistry for Physical Scientists
+
+      
+      
+       
+Carbon: the carbon atom, atomic and molecular orbitals, sp3 hybridisation, bonding, drawing/representation of organic compounds.
+Functional Groups: overview of functional groups and names.
+Alkanes; structure, nomenclature, physical properties, conformations, isomers, cyclic alkanes.
+Alkenes: structure, nomenclature, physical properties, sp2 hybridisation, p-bonding, E/Z-isomers, electrophilic addition reactions of alkenes.
+Alkynes: structure, sp hybridisation, nomenclature, representative reactions.
+Organic reactions: homolytic and heterolytic bond scission and bond formation, curly arrows, polar reactions, electrophilic addition to alkenes.
+Alkyl halides: structure, nomenclature, physical properties, synthesis of alkyl halides, reactions of alkyl halides.
+Nucleophilic substitution reactions: introduction to bimolecular nucleophilic substitution (SN2), unimolecular nucleophilic substitution (SN1) and elimination reactions (E1 and E2).
+Chirality: stereoisomers, enantiomers, diastereoisomers, (R) and (S) notation and definition, properties of enantiomers.
+Aromatic compounds: definition of aromatic, Huckel rule, delocalisation, aromatic vs non-aromatic rings, nomenclature, simple reactions.
+Aldehydes and ketones: structure, nomenclature, representative reactions (oxidation, reduction reactions).
+Carboxylic Acids and Derivatives: structure, nomenclature, representative reactions (oxidation, reduction reactions).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH314 - Introduction to Biochemistry and Drug Chemistry
+
+      
+      
+       Lectures:  Physical Principles: bonding, acids, bases.  Biochemistry & Biological Chemistry: amino acids, peptides, protein structure (e.g. alpha helices and beta sheets). Nucleic acids, RNA, DNA. Carbohydrates, nomenclature, structural representation, biologically relevant carbohydrate derivatives. Lipids,  terpene derivatives. Enzymes (optimal conditions, activation energy). Membrane structure and membrane proteins eg transporters and ion channels, receptors. Nervous System.  Drug Chemistry: Drugs targets and bonding. Introduction to anti-infectives. Absorption, distribution, metabolism and excretion (ADME). Drug action. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

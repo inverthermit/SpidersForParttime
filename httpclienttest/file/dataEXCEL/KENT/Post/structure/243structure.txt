@@ -1,0 +1,290 @@
+Course structure
+
+
+ An understanding of Embedded System Engineering is vital to the design of most modern electronic devices and systems. Embedded Systems has a central role in computer systems, mobile and wireless communications, consumer electronics and automotive engineering and is important in the design of modern instrumentation and measurement systems used for industrial automation and manufacturing processes.
+
+The MSc in Embedded Systems and Instrumentation at the University of Kent is designed to produce well qualified, competent engineers able to develop embedded systems using a variety of technology platforms in a wide range of applications including communications, consumer electronics, automotive electronics, industrial control, instrumentation and measurement.
+
+The School has a world class reputation for research in embedded systems and instrumentation and has strong links with other research institutions and industrial organisations in the UK, Europe and the Far East which have helped the department apply its research to a range of   industrial projects including using microcontroller, FPGA, DSP and Custom Chip technologies.
+
+It has developed novel solutions to a range of challenging engineering problems in image acquisition and processing, signal analysis, measurement and condition monitoring at high speeds and in harsh environments.
+
+Activities have recently been broadened with the establishment of a control strand which is involved with the development of practically realisable control strategies that yield high levels of performance even in harsh and uncertain industrial settings. Such control strategies are often implemented in embedded systems.
+
+Peter Lee
+
+MSc Programme Chair
+Embedded Systems   Instrumentation
+
+Student profiles
+
+See what our students have to say
+.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   EL822 - Communication Networks
+
+
+   
+    This module will take you through communication network protocols, as used in local-area networks and wide-area networks. It includes the protocols used in the wireless LAN (WiFi) standards, Ethernets, and IP networks. The analysis of network performance is also covered. A network simulator (OPNET) is used to reinforce the material, and to provide you with a means of visualising protocol operation and network performance.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL829 - Embedded Real-Time Operating Systems
+
+
+   
+    This module introduces Real Time Operating Systems (RTOS) and their implementation and use in Embedded Systems. The concepts of scheduling algorithms, threads, multitasking and inter-process communication are discussed in detail using practical examples and case studies. It includes advanced topics in Hardware/Software Co-design. Extended mini-projects are used to reinforce the material presented in the lectures.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL849 - Research Methods & Project Design
+
+
+   
+    The aim of this module is to prepare students for the Masters Project and for possible future research work. It begins with an introduction to MATLAB and SIMULINK tools which are used in most taught masters modules at Kent. The module also includes details about how to write a literature review and produce a viable project plan. Students learn how to use tools such as RefWorks and EndNote to produce and maintain reference databases. It also addresses important issues concerning the definition of a project and the consideration of ethical and Intellectual Property Issues. Techniques and guidelines for writing clear and concise English are discussed in detail.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL871 - Digital Signal Processing (DSP)
+
+
+   
+    In this module, you are taken through the fundamental of digital signal processing. The course includes a basic introduction to the representation and processing of signals in the digital domain and the design of digital filters. Application examples including JPEG and MPEG image and audio compression standards are used to illustrate the use of the theoretical material presented in the course.The course makes extensive use of MATLAB to enable students to grasp the subjects more readily.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL874 - Computer & Reconfigurable Architectures
+
+
+   
+    This module introduces some fundamental and advanced computer and reconfigurable computing architectures including CISC, RISC and VLIW. FPGA technology is used as the basis for describing different forms of reconfigurable computing architectures that are becoming increasingly important in many consumer and industrial applications. Specific emphasis will be given to the understanding of computer arithmetic architectures and methods which are used in the design of embedded systems. The module uses practical design examples using both C and VHDL to illustrate the material.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL875 - Advanced Sensors & Instrumentation Systems
+
+
+   
+    This module covers modern sensors and advanced measurement systems for a diverse range of industrial applications. General measurement principles and concepts are introduced. The module focuses on digital imaging based and intelligent measurement and monitoring techniques. Real life industrial case studies are included to enhance students learning experience in the design and applications of cutting edge instrumentation technologies.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL876 - Advanced Control Systems
+
+
+   
+    This module is concerned with the design of practical feedback controllers.  Feedback is used in a control system to enhance the performance of the plant or process, and to reduce the sensitivity of the system to uncertainty from external effects (for example, disturbance signals and noise on measurements) and model uncertainty (i.e. the difference between the assumed model of the process to be controlled and the actual industrial plant which is likely to be time varying and uncertain).  If the performance specifications are achieved in the presence of the expected uncertainties, then the control is said to be robust. This course will provide an overview of a number of techniques for robust control, with an emphasis on design and simulation to enhance learning.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL890 - MSc Project
+
+
+   
+    A major practical system will be developed either in an industrial context or within the department.  There are no formal lectures - students will undertake the work in their own time under the regular supervision of a member of the academic staff and, where appropriate, industrial collaborators.
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The project module is examined by a presentation and dissertation. The Research Methods and Project Design module is examined by several components of continuous assessment. The other modules are assessed by examinations and smaller components of continuous assessment. MSc students must gain credit from all the modules. For the PDip, you must gain at least 120 credits in total, and pass certain modules to meet the learning outcomes of the PDip programme.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ educate graduate engineers and equip them with advanced knowledge of embedded systems and electronic instrumentation for careers in research and development in industry or academia
+ produce high-calibre engineers with experience in specialist and complex problem-solving skills and techniques needed for embedded and advanced instrumentation systems in a number of application areas including (but not exclusive to) communications, real-time embedded computer systems, image processing, instrumentation and control
+ provide you with proper academic guidance and welfare support
+ create an atmosphere of co-operation and partnership between staff and students, and offer you an environment where you can develop your potential
+ strengthen and expand opportunities for industrial collaboration with the School of Engineering and Digital Arts.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ methodologies of research which are essential to engineers involved in research and development projects. Such methods also form an essential part of the individual project undertaken on the MSc programmes, which is itself research-based
+ embedded electronic and instrumentation systems and an awareness of developing technologies in this field
+ mathematical and computer models for analysis of embedded systems and instrumentation
+ design processes relevant to embedded electronic and instrumentation systems
+ extensive knowledge of characteristics of materials, equipment, processes and products such as microcontrollers, FPGAs, real-time operating systems, image processing architectures and device, and digital communication systems and networks processes.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to use fundamental knowledge to explore new and emerging technologies
+ the ability to understand the limitations of mathematical and computer-based problem-solving and assess the impact in particular cases
+ the ability to extract data pertinent to an unfamiliar problem and apply it in the solution
+ the ability to analyse a problem and to independently develop a system-level specification of a solution, based on a sound conceptual understanding of the component parts of the system and how they may best be implemented
+ the ability to apply engineering techniques, taking account of commercial and industrial constraints.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the ability to apply knowledge of design processes in unfamiliar situations and to generate innovative designs to fulfil new needs, particularly in the fields of embedded systems and instrumentation
+ the ability to design, debug and test hardware/software systems through experiment and simulation. To be able to critically evaluate the results
+ to be able to use a range of CAD tools to analyse problems and develop original/innovative solutions
+ an ability to search and obtain technical information, critically evaluate it and apply it to a design
+ an ability to act independently in the planning, resource allocation and execution of a project
+ an ability to prepare and present technical and non-technical reports and presentations.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the ability to generate, analyse, present and interpret data
+ use of information and communications technology, project management and presentation tools
+ personal and interpersonal skills, the exercise of initiative and personal responsibility as an individual and work as a member of a team
+ an ability to communicate effectively, in writing, verbally and through drawings
+ the ability to make decisions in complex situations using critical thinking, reasoning and reflection
+ an ability to communicate effectively to different audiences using a range of digital media techniques and to present complex data clearly, using good written English
+ the ability to learn independently for the purpose of continuing professional development
+ the ability to manage time and resources within an individual and group project. 

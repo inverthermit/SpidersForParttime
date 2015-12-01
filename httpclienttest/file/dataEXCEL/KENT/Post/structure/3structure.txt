@@ -1,0 +1,405 @@
+Course structure
+
+
+ The PDip is a nine-month, full-time intensive programme that is suited to students who have a degree in mathematics, statistics or economics.
+
+Leading to the award of Diploma, it covers the syllabus of the Core Technical Stage of the professional examinations of the Institute and Faculty of Actuaries, and offers the opportunity to gain exemption from eight subjects (subjects CT1 to CT8 inclusive). Find out more about accreditation for this programme
+ and the Institute and Faculty of Actuaries examinations
+.
+
+Although you only need to take 120 credits (equivalent to a minimum of four subjects leading to the professional examinations) for the Diploma, you can take further subjects for exemption purposes. If you take fewer than 120 credits, you may be eligible for a Postgraduate Certificate in Actuarial Science.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   MA319 - Probability and Statistics for Actuarial Science
+
+
+   
+    The module will introduce the student to the basic concepts of probability and statistics, with applications to a variety of topics illustrated with real data. The techniques that are discussed can be used in their own right to solve simple problems, but also serve as an important foundation for later, more advanced, modules. After dealing with key ideas in probability theory, the module will cover descriptive statistics, before moving on to statistical inference - the science of drawing conclusions from data. A brief introduction to statistical computing will be included. Outline syllabus includes: Concepts and axioms of probability; marginal, conditional and joint probabilities; Bayes' theorem; discrete and continuous random variables; expectation; common distributions; numerical summaries of data; sampling distributions; point estimation; interval estimation and hypothesis tests; association between variables; goodness of fit.Marks on this module can count towards exemption from the professional examination CT3 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA501 - Statistics for Insurance
+
+
+   
+    This module covers aspects of Statistics which are particularly relevant to insurance. Some topics (such as risk theory and credibility theory) have been developed specifically for actuarial use. Other areas (such as Bayesian Statistics) have been developed in other contexts but now find applications in actuarial fields. Stochastic processes of events such as accidents, together with the financial flow of their payouts underpin much of the work.  Since the earliest games of chance, the probability of ruin has been a topic of interest.  Outline Syllabus includes: Decision Theory; Bayesian Statistics; Loss Distributions; Reinsurance; Credibility Theory; Empirical Bayes Credibility theory; Risk Models; Ruin Theory; Generalised Linear Models; Run-off Triangles.Marks on this module can count towards examption from the professional examination CT6 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA529 - Probability and Statistics for Actuarial Science 2
+
+
+   
+    This module develops the techniques introduced in MA319. The probability component of the module is mainly concerned with how to find probability distributions of functions of random variables, an essential skill in proving standard statistical results and in applying probability and statistics in novel situations. The study of sampling distributions, which underpin much of statistical inference, provides a bridge to the statistical part of the module. Statistical inference may be divided into point estimation, interval estimation and hypothesis testing. All of these have been introduced in MA319. The present module extends the range of examples, and provides some theoretical justification for the choice of particular techniques in particular cases.Syllabus: Probability; joint distributions of two or more discrete or continuous random variables, marginal and conditional distributions, properties of expectations, variance, covariance and correlation. Generating functions: moment generating functions, probability generating functions, cumulant generating functions etc. The Poisson process. Methods for obtaining distributions of functions of one or more random variables. Approximate methods for transformations of random variables. Random number simulation. Sampling distributions related to the Normal distribution. Principles of statistical inference. Point estimation; properties of point estimators (unbiasedness, consistency, efficiency). Methods of estimation; maximum likelihood estimators, methods of moments. Hypothesis testing; Neyman-Pearson lemma, power function, uniformly most powerful tests, relative efficiency, likelihood ratio test. Interval estimation; construction of confidence intervals, pivotal functions.  Statistical inference for the slope and intercept parameters in simple linear regression.  One-way ANOVA.Marks on this module can count towards examption from the professional examination CT3 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA639 - Time Series Modelling and Simulation
+
+
+   
+    Note: Stage 2 module for Actuarial Science students onlyA time series is a collection of observations made sequentially in time.  Examples occur in a variety of fields, ranging from economics to engineering, and methods of analysing time series constitute an important area of statistics.  The module focuses on various time series models, including some recent developments, and provides modern statistical tools for their analysis.  The other part of the module covers extensively simulation methods.  These methods are becoming increasingly important tools as simulation models can be easily designed and run on modern PCs.  Various practical examples are considered so as to help the students tackle the analysis of real data.The syllabus includes:  Difference equations, Stationary Time Series: ARMA process.  Nonstationary Processes: ARIMA Model Building and Testing: Estimation, Box Jenkins, Criteria for choosing between models, Diagnostic tests.Forecasting: Box-Jenkins, Prediction bounds. Testing for Trends and Unit Roots: Dickey-Fuller, ADF, Structural change, Trend-stationarity vs difference stationarity. Seasonality and Volatility: ARCH, GARCH, ML estimation. Multiequation Time Series Models: Spectral Analysis.  Generation of pseudo  random numbers, simulation methods: inverse transform and acceptance-rejection, design issues and sensitivity analysis.Marks on this module can count towards examption from the professional examination CT6 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA819 - Business Economics
+
+
+   
+    The aim of this module is to introduce students to the core economic principles and how these could be used in a business environment to help decision making and behaviour. The coverage is aimed at being sufficient to enable students to gain exemptions, whilst also giving a coherent coverage of the material suitable for students of other degree programmes, where understanding economic concepts and principles are beneficial. The syllabus coverage includes: the working of competitive markets, consumer demand and behaviour, product selection, marketing and advertising strategies, costs of production, production function, revenue and profit, profit maximisation under perfect competition and monopoly, imperfect competition, business strategy, the objectives of strategic management, firms growth strategy, pricing strategies, government intervention, international trade, balance of payment and exchange rates, the role of money and interest rates in the economy, the level of business activity, unemployment, inflation and macroeconomic policy.Marks on this module can count towards examption from the professional examination CT7 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA820 - Financial Mathematics
+
+
+   
+    The aim of this module is to provide a grounding in financial mathematics and its simple applications. The idea of interest, which may be regarded as a price for the use of money, is fundamental to all long-term financial contracts. The module deals with accumulation of past payments and the discounting of future payments at fixed and varying rates of interest; it is fundamental to the financial aspects of Actuarial Science.The syllabus will cover: Generalised cashflow models, the time value of money, real and money interest rates, discounting and accumulating, compound interest functions, equations of value, loan schedules, project appraisal, investments, elementary compound interest problems, arbitrage free pricing and the pricing and valuation of forward contracts, the term structure of interest rates, stochastic interest rate modelsMarks on this module can count towards examption from the professional examination CT1 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA825 - Survival Models
+
+
+   
+    Calculations in clinical trials, pensions and life and health insurance require reliable estimates of transition intensities/survival rates. This module covers the estimation of these intensities and the graduation of these estimates so they can be used reliably by insurance companies and pension schemes. The syllabus includes the following: Concepts underlying actuarial modelling; Distribution and density functions of the random future lifetime, the survival function and the force of hazard.  Estimation procedures for lifetime distributions including censoring, Kaplan-Meier estimate, Nelson-Aalen estimate and Cox model. Statistical models of transfers between multiple states. Maximum likelihood estimators for the transition intensities.  Binomial and Poisson models of mortality.   Estimation of age-dependent transition intensities. The graduation process. Testing of graduations. Measuring the exposed-to-risk.Marks on this module can count towards examption from the professional examination CT4 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA826 - Finance & Financial Reporting
+
+
+   
+    This module provides an introduction to the principles of corporate finance and financial reporting.  It is intended for students of Finance and Actuarial Science and is available to students in other programmes where a basic knowledge of financial markets, financial accounting and reporting is needed.  The syllabus introduces and develops the concepts and elements of corporate finance including a knowledge of the instruments used by companies to raise finance and manage financial risk, introduces the concepts and techniques of financial accounting and enables students to understand and interpret critically financial reports of companies and financial institutions including financial statements used by pension funds and insurance companies.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA835 - Portfolio Theory and Asset Pricing Models
+
+
+   
+    This module will examine current theories on portfolio management and developing asset models to assist risk management of financial services firms. Syllabus Topics: Efficient market hypothesis, measures of investment risk, portfolio theory, models of asset returns, asset pricing models, Brownian motion, martingales, stochastic calculus, Ito processes and stochastic models of security prices.Marks on this module can count towards examption from the professional examination CT8 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA836 - Stochastic Processes
+
+
+   
+    A stochastic process is a process developing in time according to probability rules; for example, models for reserves in insurance companies, queue formation, the behaviour of a population of bacteria, and the persistence (or otherwise) of an unusual surname through successive generations.The syllabus will include coverage of a wide variety of stochastic processes and their applications; random walk; Markov chains; processes in continuous-time such as the Poisson process, the birth and death process and Brownian motion; renewal processes; queues; branching processes; epidemic models.Marks on this module can count towards examption from the professional examination CT4 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     MA837      - Mathematics of Financial Derivatives
+
+
+     
+      This module will examine the understanding and pricing of options and derivatives, along with models for interest rates and credit risk. Syllabus Topics: An introduction to derivatives, Greeks, binomial model, Black-Scholes option pricing formula, martingale representation theorem, arbitrage-free pricing, interest rate models, credit risk models.Marks on this module can count towards examption from the professional examination CT8 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA816      - Contingencies 1
+
+
+     
+      This module introduces the concept of survival models, which model future survival time as a random variable. The concept is combined with the financial mathematics learned in module MA820, making it possible to analyse simple contracts which depend on survival time, such as life insurance and annuities.The syllabus will cover: introduction to survival models including actuarial notation, allowance for temporary initial selection and an overview of the typical pattern of human mortality; formulae for the means and variances of the present values of payments under life insurance and annuity contacts assuming constant deterministic interest; practical methods for evaluating the formulae; description and calculation of net premiums, net premium provisions and mortality profit or loss under simple life insurance and annuity contracts; and extension of the basic concepts to straightforward contracts involving two lives.Marks on this module can count towards exemption from the professional examination CT5 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA817      - Contingencies 2
+
+
+     
+      Life Contingencies is concerned with the probabilities of life and death. Its practical application requires a considerable sophistication in mathematical techniques to ensure the soundness of many of the biggest financial institutions - life assurance companies and pension funds. This module introduces the actuarial mathematics which is needed for this. The aim of this module (together with MA516 - Contingencies 1) is to provide a grounding in the mathematical techniques which can be used to model and value cash flows dependent on death, survival, or other uncertain risks and cover the application of these techniques to calculate premium rates for annuities and assurances on one or more lives and the reserves that should be held for these contracts. Outline syllabus includes variable benefits and with profits contracts; gross premiums and reserves for fixed and variable benefit contracts; competing risks; pension funds; profit testing and reserves; mortality, selection and standardisation. This module together with module MA516 cover the entire syllabus of the UK Actuarial Profession's subject CT5 - Contingencies. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA840      - Financial Modelling
+
+
+     
+      This module will introduce financial models and shows how to analyse and summarise data, develop a model with an audit trail and develop the ability to apply the results.This module also gives students practical experience of working with the financial model, PROPHET, which is used by commercial companies worldwide for profit testing, valuation and model office work.A synopsis of the syllabus:Overview of the uses and applications of PROPHET; Introduction on how to use the software package (including security implications); Using Example Model Office, perform and check the results (for reasonableness) on new business profit tests on a various products using the edit facility on the model point file; Creation of a new product on PROPHET using an empty workspace and selecting the appropriate indicators and variables for that product, setting up a model point file, parameter file and global file for the product. Setting up a run setting and run structure for the product. Performing a profit test for the product on one in force model point and one new business model point and check the cash flow results obtained. Performing a number of sensitivity tests on a series of new business model points to achieve a given profit criteria. Reporting on dependencies in Diagram view, Updating the library and product. Using the re-scan and regeneration of products facilities; Using Example Model Office, perform and check the results (for reasonableness) on Model Office runs when changes have been made to the assumptions to the global file and using the Model Office run view to analyse the effect that changes to the input data has had on the model.This module will also introduce financial modelling techniques on spreadsheets and will focus on documenting the process of model design and communicating the models results. The module enables the students to prepare, analyse and summarise data, develop simple financial and actuarial spreadsheet models to solve financial and actuarial problems, and apply, interpret and communicate the results of such models. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is usually by a mixture of coursework and examination; exact weightings vary from module to module.
+
+Accreditation
+
+Students who are considered to have performed sufficiently well in the programme (both in examinations and coursework), as determined by an examiner appointed by the UK Actuarial Profession, will be exempt from all the CT subjects studied within the programme. If a student fails to achieve a suitable overall standard, they might still be awarded individual module exemptions as recommended by the Profession&rsquo;s examiner. Please note that individual exemptions are granted based on the final written examinations only.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ give you the depth of technical appreciation and skills appropriate to a Master&rsquo;s level programme in actuarial science
+ provide successful students with eligibility for subject exemptions from the Core Technical series of examinations of the actuarial profession. This means obtaining a thorough knowledge and understanding of various core actuarial techniques and gaining current knowledge and understanding of the practice of some of the major areas in which actuaries are involved
+ ensure you are competent in the use of information technology, and are familiar with computers, together with the relevant software
+ introduce you to an appreciation of recent actuarial developments, and of the links between subject theories and their practical application in industry
+ prepare you for employment within the actuarial profession and other financial fields
+ provide suitable preparation for students who wish to proceed to the MSc in Applied Actuarial Science.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ statistical, economic or specific actuarial mathematical techniques at an advanced level and their applications to insurance, covering areas such as financial mathematics, financial accounting, survival models, economics, financial economics, time series and stochastic processes
+ the actuarial and financial theory and the complex techniques applicable to solve problems in some of the major areas of current professional actuarial practice.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to demonstrate a systematic understanding of the main body of knowledge for the programme
+ the ability to demonstrate advanced skills in calculation and manipulation of the material written within the programme
+ the ability to apply a range of concepts and principles in various contexts
+ the ability for logical argument using specialised knowledge
+ the ability to demonstrate advanced skills in solving problems in complex situations by various appropriate methods.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the specific mathematical and statistical techniques used in actuarial science, and in their application to solving actuarial and other financial problems
+ the specific information technology and software used in actuarial science (optional learning outcome: this will only apply if you take the Financial Modelling module)
+ understanding the practical applications of programme material in insurance and finance
+ the ability to develop simple actuarial computer models to solve actuarial problems and to interpret and communicate the results (optional learning outcome: this will only apply if you take the Financial Modelling module).
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ problem-solving skills, relating to qualitative and quantitative information (including cases where information/data is not complete)
+ communications skills, covering both written and oral communication to both technical and non-technical audiences
+ numeracy and computational skills
+ information technology skills such as word-processing and spreadsheet use, internet communication etc
+ time-management and organisational skills, as evidenced by the ability to plan and implement efficient and effect modes of working
+ study skills needed for advancing knowledge and understanding, for developing new skills and for continuing professional development. 

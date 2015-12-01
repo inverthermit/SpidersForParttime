@@ -1,0 +1,519 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      PS301 - Introduction to Forensic Science
+
+      
+      
+       Forensic Science; Evidence and the Scene of the Crime What is forensic science? Historical and legal background of forensic science  exchange principles and linkage theory. Forensic science in the U.K  inductive and deductive reasoning. Identification, characterisation, recovery and weighting of trace evidence types. Crime scene searching methodologies; the integrity and continuity of evidence. Introduction to laboratory testing dealing with glass, tool-mark, shoe-mark and tyre impressions. The management of scientific support at crime scenes. Procedures at crime scenes illustrated by reference to crimes of burglary, murder and sexual offences. Fingerprint history, classification, recovery and chemical enhancement of fingerprints. Blood pattern analysis supporting the advances in DNA techniques. Firearms classification, internal & external ballistics, trajectory, mass and velocity. Firearms injuries at crime scenes. Introduction to DNA analysis and the functioning of the National DNA Database. Sexual offence investigation and body fluid identification. Clinical indicators of death and murder scene investigation.Drug Abuse, Alcohol and Forensic ToxicologyDrugs of abuse and their identification. Drugs, alcohol poisons and their metabolism. Toxicology and the role of the forensic toxicologist. Qualitative and quantitative laboratory analysis. Document Examination: Signature and handwriting identification. Paper, inks and printed documents. Damage characterisation.Fires and Explosions: Arson. Fire and combustion. Types of explosives and the nature of explosions. The crime scene investigation: sampling and laboratory analysis.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS318 - Skills for Forensic Scientists
+
+      
+      
+       Quantitative skills beginning with GCSE mathematics through to algebra, data analysis, graphical treatment of errors, logarithms, basic probability, trigonometry and applications in forensic science.Incident scene assessment, management and mapping.Induction to the English legal system and laws of evidence.The structure and composition of DNA, genetic analysis and applications relevant to forensic science.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS324 - Introduction to Ballistics
+
+      
+      
+       Mathematical Concepts for Impact Studies     Newtons laws of motionVectorsImpacts and momentumEnergy considerations         Introduction to ballistics       Categories of weaponsWeapon mechanismsAmmunition constructionInternal ballisticsIntermediate ballisticsExternal ballisticsTerminal ballistics         Overview of Forensic Ballistics           The 1968 Firearms Act (as amended)Categorisation of firearms and ammunitionShooting case studies
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS381 - Chemical Skills For Forensic Scientists
+
+      
+      
+       Laboratory safety: lectures on laboratory safety including safe handling of chemicals, electrical supplies, solvents and gases both within and outside fume cupboards, safe disposal of chemicals, CoSHH and risk assessment, accident prevention.Laboratory skills: the completion of a set of experiments in a lab environment within the safety structure as laid out by lab risk assessments. To include: fundamental organic chemistry methodology, chemical handling, use of equipment (including calibration and accuracy), infra-red spectroscopy, analytical chemistry and titrations, colorimetry, gravimetric analysis, solvent extraction.Data presentation methods: the correct and succinct planning and preparation of scientific reports, correct referencing, data manipulation and presentation, literature searches and library catalogues, academic integrity and referencing styles.Periodic table and inorganic chemistry: Periodic trends in the periodic table: chemical properties, reactivity and compounds across periods 1 and 2, introduction to diagonal relationships; hydrogen and its compounds; Group 1  the alkali metals, their compounds and reactivity; Group 2  the alkaline earth metals, their compounds and reactivity; introduction to redox chemistry; the p-block: Group 13 elements, their properties and reactivity, the inert pair effect, the chemistry of boron; Group 14 elements, properties, compounds and reactivities, carbon and its allotropes; Group 15: the chemistry of the pnictogens, nitrogen, phosphorus and its allotropes; Group 16: the chemistry of the chalcogens; Group 17: the chemistry of the halogens; extension to MO and VSEPR theory; introduction to groups 12 and 18.Molecular graphics: use of MarvinSketch to represent and draw chemical structures and calculate molecular properties, using J-mol and J-ice to present molecular and crystal structures graphically, use of HULIS software to calculate energy levels from H&uuml;ckel theory.Maths for physical scientists: basic mathematics and functions used in physical sciences, curve sketching and plotting simple functions, differentiation and integration, examples of physical science applications including chemical reaction rates.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH308 - Molecules Matter & Energy
+
+      
+      
+       Atomic and Molecular Structure Energetics and quantisation; structure of the atom, energy levels in atoms and electronic configuration of atoms: Pauli exclusion principle, Hunds rule, effective nuclear charge; Periodicity, ionisation energy and electron affinity. Nature of molecules. Electronic structure in molecules; molecular orbitals; using atomic orbitals to make molecular orbitals (linear combination of atomic orbitals); bonding and antibonding, sigma and pi orbitals; hybridisation; delocalisation and resonance.Gases, Liquids, Solutions and Solids Gases laws, intermolecular forces: types of interaction; liquids: classification of liquid types .Molecular and ionic solids, lattice energies, diffusion in liquids and solids, viscosity, surface tension. Ions in solution, Coulombic interactions, ionic atmosphere, Debye-H&uuml;ckel theory. Electrolyte solutions, strong and weak electrolytes, ionic strength, pH, ionic conduction: conductance measurements, transport numbers and ionic mobility; electrophoresis.Thermodynamics The rational foundations of thermodynamics, the first law. Thermochemistry: enthalpies of formation and reaction, thermochemical calculations. Molecular interpretation of internal energy: heat capacities, equipartition of energy, population of rotational and vibrational states, Boltzmann distribution. The concept of entropy and the second law, reaction feasibility, Gibb's free energy, chemical potential. Equilibrium and thermodynamics, Van't Hoff equation, equilibrium calculations. Third law of thermodynamics and molar entropies, entropy and disorder. Thermodynamics of protein folding.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH309 - Fundamental Organic Chemistry for Physical Scientists
+
+      
+      
+       
+Carbon: the carbon atom, atomic and molecular orbitals, sp3 hybridisation, bonding, drawing/representation of organic compounds.
+Functional Groups: overview of functional groups and names.
+Alkanes; structure, nomenclature, physical properties, conformations, isomers, cyclic alkanes.
+Alkenes: structure, nomenclature, physical properties, sp2 hybridisation, p-bonding, E/Z-isomers, electrophilic addition reactions of alkenes.
+Alkynes: structure, sp hybridisation, nomenclature, representative reactions.
+Organic reactions: homolytic and heterolytic bond scission and bond formation, curly arrows, polar reactions, electrophilic addition to alkenes.
+Alkyl halides: structure, nomenclature, physical properties, synthesis of alkyl halides, reactions of alkyl halides.
+Nucleophilic substitution reactions: introduction to bimolecular nucleophilic substitution (SN2), unimolecular nucleophilic substitution (SN1) and elimination reactions (E1 and E2).
+Chirality: stereoisomers, enantiomers, diastereoisomers, (R) and (S) notation and definition, properties of enantiomers.
+Aromatic compounds: definition of aromatic, Huckel rule, delocalisation, aromatic vs non-aromatic rings, nomenclature, simple reactions.
+Aldehydes and ketones: structure, nomenclature, representative reactions (oxidation, reduction reactions).
+Carboxylic Acids and Derivatives: structure, nomenclature, representative reactions (oxidation, reduction reactions).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH314 - Introduction to Biochemistry and Drug Chemistry
+
+      
+      
+       Lectures:  Physical Principles: bonding, acids, bases.  Biochemistry & Biological Chemistry: amino acids, peptides, protein structure (e.g. alpha helices and beta sheets). Nucleic acids, RNA, DNA. Carbohydrates, nomenclature, structural representation, biologically relevant carbohydrate derivatives. Lipids,  terpene derivatives. Enzymes (optimal conditions, activation energy). Membrane structure and membrane proteins eg transporters and ion channels, receptors. Nervous System.  Drug Chemistry: Drugs targets and bonding. Introduction to anti-infectives. Absorption, distribution, metabolism and excretion (ADME). Drug action. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      CH506 - Chemical Identification Techniques
+
+      
+      
+       SYLLABUS:Nuclear Magnetic Resonance: Simple theory of nuclear magnetic resonance, NMR. The NMR experiment and the spectrometer. The chemical shift and factors which affect it. Spin-spin coupling. Nomenclature of spin systems. Coupling constants. Simple 2nd order effects. Labile protons and NMR (alcohols, acids and amines). Magnetic and chemical inequivalence. Introduction to 13C NMR spectroscopy.Mass Spectrometry: Basic theory and operation of the magnetic sector mass spectrometer. Interpretation of mass spectral data and fragmentation mechanisms. Gas chromatography/mass spectrometry.Infrared and Raman Spectroscopy: Experimental details. Applications of characteristic group frequencies. Determination of symmetry of simple molecules.Basic Diffraction Methods: Diffraction. Generation of x-rays. Synchrotron sources. Neutron sources. Basic crystallography. Bravais lattices. Unit cells. Symmetry. Space groups. Braggs Law. Powder patterns. Systematic absences. Indexing powder patterns. Single crystal x-ray diffraction. Structure identification.Some of the uses of diffraction. Diffraction in Forensic ScienceUV-vis and Fluorescence Spectroscopy: Description of the theory of UV-vis electronic absorption. Colours of compounds and materials. HOMO-LUMO transitions and conjugation in &#960-systems. Typical organic chromophores and their absorption frequencies. Molar absorptivities and the Beer-Lambert Law. UV-vis spectra of inorganic compounds. Instrumentation and equipment for UV-vis spectrophotometry. Uv-vis and RI detectors in HPLC. Basic theory of fluorescence spectroscopy. Excitation and relaxation. Stokes shift. Excitation and emission spectra.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS501 - Forensic Physical Methods
+
+      
+      
+       Evidential practice and law in relation to location, recovery, preservation, and interpretation of a wide range of forensic samples.Statement and report writing, and witness interview to evidential standard.Incident assessment and management in a wide variety of forensic environments.Location, recovery and preservation of a range of forensic samples including: Fingerprints, DNA, fibres, trace samples, blood distribution patterns, gunshot residues, tool marks and impressions, foot shoe and tyre prints, sexual offence samples.Incident mapping and photography.Document and forgery analysis. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS502 - Forensic Archaeology
+
+      
+      
+       Dating : Radioactive decay and detection of radiation, radiocarbon dating and related methods, accelerator mass spectrometry, uranium series dating, potassium-argon dating, radioactive tracers, isotope dilution, neutron activation, stable isotope techniques with forensic applications, electron spin resonance spectroscopy, thermoluminescence dating and thermal history, Lindow Man, detection of irradiated food.Detection : Magnetometry, metal detectors, resistivity surveys, ground penetrating radar, aerial photography, and remote sensing.Osteology : The study of human osteology is fundamental to the discipline of forensic anthropology.  This series of lectures begins by examining the structure, growth, and function of bones and teeth.  Methods of skeletal analysis in forensic anthropology are then examined, including age, sex, stature, trauma, disease, and race. Applications in biological anthropology will also be reviewed.  This section of the course will include a laboratory practical.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS511 - Digital Forensics
+
+      
+      
+       Facial IdentificationFacial reconstruction, facial composites, description by witness  cognitive interview - Turnbulls rules (R v Turnbull, 1976), identity parades  psychology of facial identification  video identity parades, facial mapping, automated recognition technologies, age progression.Digital Image AnalysisImage formation, image storage, image distortion, image restoration methods, the digital image in crime detection, steganography (implementation and detection).Digital Forensics Encryption, fallacies about hiding and destroying data, where to find data and methods for retrieving it, disk imaging, file integrity, cryptographic hashing, privacy vs need for investigation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS512 - Numerical, Statistical and Analytical Skills
+
+      
+      
+       Trace Analysis:Trace analysis: definitions, methods and problems. Sampling, storage and contamination. Quality control. Random and systematic errors; statistical treatment of data. Accuracy and precision. Signal/noise ratio. Sensitivity and detection limits. Choice of methods for trace analysis. Units, dimensions, exponentials and logarithms:  Decimal places and significant figures. Units and dimensions: SI units, dimensional analysis. Manipulation of exponentials and logarithms. Power laws. Exponential decay and half-life. Beer-Lambert law, Arrhenius equation, Boltzmann distribution, Gaussian functions.Chemical Arithmetic: Balancing chemical equations. Amount of substance, molar quantities, concentration and volumetric calculations, gravimetric analysis, gas pressures and volumes.Equilibrium calculations, strong and weak electrolytes. pH, acid-base equilibria, buffer solutions. Solubility. Chemical kinetics: reaction rates, rate constants and orders of reaction.Probability and Statistics:Elementary probability, probability spaces, Venn diagrams, independence, mutual exclusion, expectation. Quantitative treatment of the effect of evidence: Bayes Theorem and conditional probability Samples and populations, mean, standard deviation, moments, standard error. Probability distributions: binomial, normal, poisson. Limiting cases. Use of normal tables. Significance testing and confidence limits. Hypothesis testing. The chi-squared test. A brief look at probability-based arguments used by expert witnesses, recent controversies and challenged convictions. Regression and correlationLaboratory work: Analysis of alkaloids by HPLCAccelerant analysis by gas chromatography Analysis of metal cartridge cases and counterfeit coins using X-ray fluorescence spectroscopyDetermination of copper by atomic absorption spectroscopy Quantifying substances in a mixture using UV-visible spectroscopyIsolation & purification of caffeine from tea leaves
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS534 - Inorganic Chemistry, Fibres and Microscopy
+
+      
+      
+       Inorganic Chemistry:Stereochemistry of metal complexes: geometrical, optical, structural, ionisation/hydration, linkage, coordination isomerism.Bonding in transition metal complexes.  Crystal field theory: crystal field splitting, factors effecting crystal field splitting, the spectrochemical series, low spin and high spin complexes, crystal field stabilisation energy (CFSE), hydration energy of M2+ ions, site selection in spinels and the Jahn Teller effect. Thermodynamic and kinetic stability of metal complexes.  Stability constants. The chelate effect. Lability of ligands. Preparation and reactivity of transition metal complexes. Colours of complexes: d?d spectra, spin and Laporte selection rules, intensities of absorptions.  Measurement of ligand field splitting energy. Charge transfer absorptions. Diamagnetism, paramagnetism, magnetic moment.  Comparison with the d-block elements. Position of lanthanides and actinides in the periodic table.  Electronic configuration, oxidation states and chemistry.  The lanthanide contraction. Separation of lanthanide elements. f?f spectra. Chemistry of actinides: uranium.Fibres and Microscopy:What is a fibre and associated polymers and how are they made? Cellulose and other natural polymers. Synthetic polymers and fibres such as nylon. Overview of methods of identification and analysis. A particular emphasis will be on polarized light microscopy for comparative analysis various materials including fibres, paper and soils.Laboratory:  Experiments in preparative and analytical inorganic chemistry, to include: the separation of nickel and cobalt by ion-exchange chromatography; measurement of the ligand field splitting energy in a titanium (III) complex; preparation and properties of complex ions; isomerism in coordination complexes.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS556 - Firearms & Ballistics
+
+      
+      
+       
+Internal ballistics 
+Introductory thermodynamics
+Weapon failure
+Suppressors
+Cartridge case and bullet analyses
+Gunshot residue analyses
+Serial number restoration
+Trajectory analyses
+Wound ballistics
+Sharp-force trauma
+Shooting scene reconstruction
+The effect of Improvised Explosive Devices (IEDs)
+A multidisciplinary approach to ballistics
+Modern Ballistics research.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LW562 - Criminal Law for Forensic Scientists
+
+      
+      
+       This module seeks to provide a sound knowledge and understanding of the concepts and principles underlying the criminal law, including a grounding in its historical development and underlying philosophy; to provide a detailed grasp of key concepts and general principles; and to promote a critical discussion about the nature, function and effects of the use of criminal law in given contextual situations. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      LW573 - Law of Evidence for Forensic Scientists
+
+      
+      
+       Module Details:The role of evidence in a courtroom is technical but its rules reflect core principles of the due process of law.  These are becoming more significant with the implementation of the Human Rights Act 1998 and it is important for forensic scientists, who may act as expert witnesses, to have an understanding of these rules and their operation in the trial process.  This module considers the position of forensic evidence within the trial process, rules governing the recognition of such evidence and the perception of its value in the trial.  In addition matters such as the function of the judge and jury, burden and standard of proof, and hearsay are considered from a central focus of how they relate to forensic evidence.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS601 - Fires and Explosions
+
+      
+      
+       Physics and chemistry of fires and explosions:Fire and arson  occurrence and importance.  Combustion  definitions.  Thermodynamics and enthalpy.  Flammability limits, flash point, fire point, ignition temperature.  Pyrolysis of wood and plastics.  Fuels and accelerants.  Propagation and spread of fires.  Sampling and laboratory analysis of fire scene residues.Explosions  definitions.  Vapour phase and condensed phase explosions.  Detonation and deflagration. High and low explosives.  Primary and secondary high explosives.  Molecular design of explosives.  Survey of important explosives.  Stoichiometry, oxygen balance, gas volumes, thermodynamics and enthalpy.  Sampling and laboratory analysis of explosives residues.  Preventative detection of explosives in contexts such as airports.Fires:Fire dynamics. Propagation and spread of fires  flames, fire types, flashover.  Fire investigation.  Forensic Science Service procedures at the scene.  Damage observation and assessment.  Fire and smoke patterns.  Sources of ignition. Injuries and fatalities.  Evidence recovery: sampling and laboratory analysis.  Establishing the origin : the seat of the fire.  Finding the cause: natural, accidental, negligent or deliberate?  Indicators of arson.  Evidence procedures.  Case studies.Explosions:Control of the explosion scene and procedures for recovery of evidence.  Damage observation and assessment.  The work of the Forensic Explosives Laboratory.  Identification of explosives: organics and inorganics. Bulk analysis.  Trace analysis of explosives: recovery, extraction and analysis of samples.  Physical evidence: detonators.  Preventative detection. Precursor identification.  Explosives evidence in court: legal definitions and procedures.  Terrorism.  Case studies.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS602 - Forensic Expert Witness Skills
+
+      
+      
+       
+Investigating how science is reported in the media. Writing a press release.
+Designing and producing a poster.
+Acting as an expert forensic science witness. Writing and defending an expert witness report.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS637 - DNA Analysis & Interpretation
+
+      
+      
+       The module lectures will cover the following topics:  Historical methods  DNA sample collection, processing and storage DNA theory DNA databases and statistical interpretation Quality Assurance, management and control Legal aspects Forensic case studies Future trends 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS712 - Advanced Topics in Forensic Science
+
+      
+      
+       This module will include the principles of application, quality and legal aspects of analysis and identification using several evidence types  entwined with case examples of major crimes. The module is intended to cover the most up to date topics within forensic science and will be supported with a wide range of contemporary case studies.  The module will include the following subject areas:  Case Assessment & Interpretation A selection of contemporary case studies demonstrating the application of forensic science Quality standards in forensic science Ethics in forensic science
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH604 - Analytical Chemistry
+
+      
+      
+       To increase the fundamental understanding of a range of physical techniques currently used in analytical chemistry, and to explore the potential applications of these techniques.SYLLABUS:Atomic emission/absorption spectrometry High-performance liquid chromatography (HPLC) Capillary zone electrophoresis (CZE) Ion chromatography Mass spectrometry and associated chromatographic techniques:Electro-analytical chemistry Optical microscopy Electron microscopy 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS720 - Advanced Forensic Project Laboratory
+
+      
+      
+       The module is designed to give students experience of a range of advanced laboratory methods with wide application in modern Forensic Science.  These methods will underpin their Stage 4 Forensic Analysis and Incident Management Presentation (PS717) and research project (PS740) modules.The module will be in two sections.  In the first section, taught in the Autumn Term, students will receive training in a range of advanced chemical and physical laboratory methods.  This section of the module will be assessed by a report written on each experiment.   In the second section, beginning towards the end of the Autumn term and continuing throughout the Spring Term, students will select one of the methods for an extended self-directed project.  This will evaluate the application of the method in Forensic Science, and will include experimental measurements to establish the detection limit of the method in trace analysis.  This section of the module will be assessed by oral presentation and written dissertation.Experiments will include such as (NB this is an illustrative list):
+Gas chromatography  mass spectrometryImportant example of modern hyphenated analysis techniques.  Used in analysis of accelerant and explosive traces at scenes of fires and explosions, also in analysis of drugs of abuse.  
+Atomic absorption spectroscopyUsed in the analysis of trace metal content.  Experiment to compare flame and graphite furnace methods.
+NMR spectroscopyUniversally used in analysis of organic substances.  Experiment to manipulate FID curves, to explore peak resolution and detect contaminants in samples such as counterfeit medicines.
+X-ray fluorescenceUsed in analysis of metal artefacts, including bullet casings and forged coins.
+X-ray diffractionUsed in analysis of materials with crystalline lattices, including metals and inorganic explosives residues.
+Electron microscopySEM, TEM and Electron Probe Microanalysis (EPMA) in the analysis of gunshot and explosives residues.
+Raman spectroscopyUsed in forensic analysis of ink pigments, street drugs and counterfeit pharmaceuticals.
+HPLCWidely used method of separating and identifying substances in forensic science.
+UV-visible/fluorescence spectroscopyUsed in comparison of pigments and paper in questioned documents; also chemical tests for explosives and drugs of abuse.
+Image processingFacial recognition software, signature comparison, and the reconstruction of CCTV images.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+ 
+
+ 
+  
+  Stage 4
+
+   
+Possible modules may include: 
+
+
+                    
+      PS740 - Forensic Science Research Project MSCI
+
+      
+      
+       Students will undertake a project from an available project listing and will work under the guidance of a supervisor. The student will be encouraged to develop some level of research independence within the project remit appropriate of an M-level masters' student. The project will be assessed on a number of criteria which will include the project work (the amount, quality etc appropriate for the level), effort put in by the student, the preparation of a written report and an oral presentation session. The students progress will be assessed at the end of the first term through some form of progress report. This will also involve some degree of forward planning such that the students assess their own project requirements for the following term allowing the student to learn time management and forward planning skills. Aims:  To conduct individual masters level research. To develop research independence such that the student can take responsibility for the research direction of the project within the confines of the project remit. To further deepen the students knowledge within a specific research area. To prepare students for independent research careers in industry or at PhD level. To further enhance students abilities for scientific communication through oral presentations and report writing. Time management and forward planning skills
+
+       Credits: 60 credits (30 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS700 - Physical Science Research Planning
+
+      
+      
+       Aims: 
+Students will develop a number of skills related to the planning and preparation of a research proposal. Students will learn how to search and retrieve information from a variety of locations (databases, websites, journals, proceedings etc). They will learn how to compile a professionally-produced document such as a grant proposal for funding a research activity in a direction of their own. They will exercise presentation skills of their grant proposal and present critical reviews and referee's reports of the research of others.SYLLABUS:
+Research skills
+Colloquium attendance
+Revision of methods of searching the scientific literature (e.g, Web of Science)
+Introduction to sources of information concerning research funding 
+How the Research Councils work
+How specific funding bodies (e.g. STFC, FP7) operate
+Peer review of research proposals
+Identifying research areas and collaborators
+Writing an entire case for support
+Scheduling research programmes
+Costing research
+Completing a research proposal form
+Poster presentation of the research proposal Details of the work to be done will be announced by the convenor during the first two weeks of the academic year.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS717 - Incident Management
+
+      
+      
+       The module will cover incident management from a tactical/regional and national/strategic perspective using the four stage model: Identification, preparation, mitigation, and recovery. A range of actual and potential incidents will be covered including air accidents, marine accidents, rail accidents, terrorist attacks, and industrial, nuclear and chemical incidents.This will be achieved using lectures, critical evaluation of case studies, real time and simulated incident exercises, and the preparation and presentation at court of incident command reports. Students will be required to examine all aspects of scene and major incident management, disaster planning and related legislation. This will encompass emergency management and planning legislation, damage limitation, evacuation plans, logistical support, inter-agency operation and cooperation, personnel management, evidence prioritisation, preparing incident reports, and presenting such reports at court.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS713 - Substances of Abuse
+
+      
+      
+       
+Elements of synthetic organic chemistry and medicinal chemistry which are relevant to substances of abuse.
+The theoretical chemistry and principles of analysis and identification of several substances that are substances of abuse.  The following are indicative:o amphetamines and related compounds o LSD and related compounds o Cannabis and Cannabis products o opiate compounds o cocaine and related compoundso certain controlled pharmaceutical drugs.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

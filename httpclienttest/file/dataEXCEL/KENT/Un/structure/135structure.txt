@@ -1,0 +1,277 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+ Foundation year
+
+ 
+  This course is for students who lack the qualifications needed for direct entry onto Stage 1 of the degree programmes. The foundation year is taught entirely on the Canterbury campus and caters for students with a wide range of backgrounds and experience. Successful completion of the foundation year guarantees entry onto any of the School&rsquo;s physics or astronomy degree courses.
+  Find out more about the benefits of a Foundation Year
+.
+ 
+
+
+
+
+   
+Possible modules may include: 
+
+
+                    
+      PH025 - Waves and Vibrations
+
+      
+      
+       Lectures(i) Types of waves.  Characteristics of a wave:- frequency, period, amplitude, wavelength and velocity. Introduction to transverse and longitudinal waves and polarisation. c = f?(ii) Properties of Waves.  Qualitative description of the properties of waves; motion, reflection, refraction (Snell's law), dispersion, diffraction, interference, standing waves.(iii) Sound Waves.  Description of sound - loudness, noise, note, pitch, intensity, intensity level. properties of sound - reflection, refraction, interference (interference pattern produced by two speakers), beats, resonance in a vibrating wire, including overtones/harmonics.  Qualitative treatment of Doppler effect.(iv) Electromagnetic (em) Waves.  Electromagnetic spectrum.  Generation and detection of em waves from different parts of the spectrum.  Refraction of light - critical angle and optical fibres.  Polarisation of light, microwaves and radio waves.  Interference.  Young's double slit experiment. The Michelson interferometer.  Transmission diffraction grating - orders of diffraction, application in spectroscopy.(v) Simple Harmonic Motion (SHM).  Displacement, velocity and acceleration of a body undergoing S.H.M.  Link between SHM. and circular motion.  Force acting on a body undergoing SHM.  Qualitative description of systems displaying SHM.  Detailed description of pendulum and mass on a spring.  Energy in SHM.  General expression for SHM.(vi) Damping and Forced Oscillations.  Qualitative treatment of light, heavy and critical damping.  Qualitative discussion of the concepts of natural frequency, resonance and the behaviour of vibratory systems driven by a periodic force.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL021 - Calculus
+
+      
+      
+       This module introduces students to the mathematics of calculus and its applications in electronics.  Examples classes support the student learning.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL024 - Electromagnetics for Engineers
+
+      
+      
+       This module introduces students to the basic principles of electro-magnetism that are necessary in order to understand modern electronic and communications systems.Practical work and examples classes are included to assist the student learning.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA022 - Graphs, Geometry and Trigonometry
+
+      
+      
+       Lecture SyllabusGraphs and Geometry Graphs and the information to be read from them; The straight line, application to plots of experimental data; Coordinate geometry of straight lines: parallel and perpendicular lines; The graphical solution of equations; Graphs of the trigonometric functions; symmetry and translation properties; Equation of the circle.Trigonometry; Measures of angle; Triangles Trigonometric functions; Pythagoras theorem and the fundamental identity of trigonometry; Sine and cosine rules; The addition formulae, the double angle formulae; Trigonometric equations; Applications.Vectors; Notion of a vector quantity; Representation of a vector using components; Unit vectors; Addition and subtraction of vectors; Magnitude and orientation; Vectors in 3 dimensions; Scalar products; Introduction to vector fields. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH020 - Algebra and Arithmetic
+
+      
+      
+       
+Arithmetic Calculations. Significant figures. Standard form. Fractions Simplification of fractions. Percentages and fractional changes. Errors. Indices. Logarithms and exponential functions.
+Algebra  Basic rules (operations and indices). Solving equations (substitution and order of operation). Changing subject of a formula Inverse operations Rules of indices Long division Expansion Factorisation Quadratics equation Solving linear equations. Solving simultaneous linear equations Partial fractions. Binomial Theorem.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH023 - Motion & Mechanics
+
+      
+      
+       Lectures: 
+Introduction; units and dimensions. Dimensional analysis. Dynamics; distance, velocity and acceleration time graphs. 
+Newton's Laws of Motion applied to single objects. Newton's Laws applied to coupled objects.Friction.
+Work; scalar product.Work against gravity. Power. Energy; potential energy and kinetic energy. Conservation of energy. 
+Linear momentum. Conservation of linear momentum Circular motion. Rotational systems. Moment of inertia. 
+Rotational forces. Resolution of forces. Triangle of forces; moments. Force fields; gravitational, etc. Potential energy in fields
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH026 - Properties of Matter
+
+      
+      
+       Lectures(i) Simple model of nuclear atom.  Atomic number and mass.  The periodic table.  The mole and Avogadros number.  Solids, liquids and gases.  Interatomic forces.  Excitation and ionization.  The electron volt.(ii) Spectra and energy levels.  E = hf.  Relation of spectra to transitions between energy levels.  Bohr atom quantitatively.  Photoelectric effect.  Crystalline lattices.  Amorphous materials.  X-ray diffraction.  Polymers and plastics.(iii) Gases, liquids and solids.  Pressure.  Archimedes principle.  Hydrostatics.  Heat and temperature scales.  Thermometers.  Latent heat.  Thermal expansion.  Perfect gas laws.(iv) Thermal equilibrium and temperature.  Thermal conduction.  Radiation laws.  Kinetic theory of gases.(v) Introduction to radioactivity.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH027 - Introductory Physics Laboratory and Communication Skills
+
+      
+      
+       There will be laboratory sessions with eight experiments relating to both general skills and to the syllabus of the Physics lecture modules PH023, PH025 and PH026.There will be lecture tutorials on communication skills:
+ Introduction to module
+Analysing experimental uncertainties and writing reports on laboratory work
+ICT skills including Microsoft Word
+Essay writing
+Discussions of Physics in the media (films, newspapers, computer games, etc.)
+Feedback on weekly problem sheets.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      PH300 - Mathematics
+
+      
+      
+       Derivatives and Integrals: Derivatives of elementary functions, chain rule, product rule, Integrals of elementary functions, Evaluation by substitution, Integration by parts, Area under the graph of a function.Elementary Functions: Binomial coefficients, expansions and series, Maclaurin series, Taylor series, Exponential functions, Hyperbolic functions, Inverse functions.Functions of a single variable: Linear and quadratic functions, polynomials, rational functions, limits, infinite series, approximation of functions.Complex numbers: Quadratic equations, Argand diagram, modulus, Argument, complex exponential, de Moivres theorem, roots of polynomials.Vectors: Basic properties, linear dependence, scalar and vector products, triple products, vector identities.Matrices: Matrix representation, systems of equations, products, inverses, determinants, solution of linear systems, eigenvalues and eigenvectors, transformations.Differential Equations: Solving differential equations, separable equations, linearity, homogeneity, first and second order equations, particular integrals. Boundary and initial values, auxiliary equations with complex roots, coefficients and terms, examples from physics.Partial Derivatives: functions of two variables , directional derivatives, function of a function, Taylor expansions, stationary points.Differentials and Integrals: perfect differential, chain rule, multiple integrals, integrals over areas, change of order of integration.Introduction to Vector Calculus : Gradients, Divergence, Gausss theorem, Curl, Stokes theorem.Polar Coordinates : Cylindrical polar coordinates in two and three dimensions, integrals, spherical coordinates, solid angle.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH302 - Computing Skills
+
+      
+      
+       Introduction to the concept of programming languages, and to Fortran 90 in particular.Introduction to the UNIX operating system: including text editors, the directory system, basic utilities, the edit-compile-run cycle.Introduction to Fortran 90, including the use of variables, constants, arrays and the different Fortran data types; iteration (do-loops) and conditional branching (if statements).Modular design : subroutines and functions, the intrinsic functions.Simple input/output, such as the use of format statements for reading and writing, File handling, including the Fortran open and close statements, practical read/write of data files. The handling of character variables.Programming to solve physical/chemistry problems. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH304 - Astrophysics, Space Science and Cosmology
+
+      
+      
+       Introduction to Special Relativity and CosmologyThe distance scale; Redshif;, Hubble constant; Feynmann light clock and time dilation; Lorentz constraction and simultaneity derived with light ray signals;  Lerentz transformation and  invariant interval; Light cones;  Special relativistic paradoxes; Cosmological principle;  Space expansion and concept of critical density, closed, open and flat universe;  The problem of missing matter. Introduction to, Planetary and Space ScienceSolar system;  Theory of orbital dynamics;  Keplers Laws;  Earth-moon system; Tidal force and the consequent phenomena; Rocket equation; Basic components of spacecraft. Introduction to AstronomyAstronomical coordinate systems; Positions and motions of stars; Stellar luminosity and magnitudes; Magnitude systems and the color of stars;  Lluminosity;  Stellar temperatures;  luminosity and radi;. Stellar spectral classification;  Line strength and formation. Hertzsprung-Russell diagram, mass-Luminosity relation.  Introduction to Particle PhysicsDiscovery of elementary particles. The concept of four different forces and fields in classical and quantum physics; Introduction to virtual particles and discovery of different particles for different type of interaction forces; Standard model of particles.   Introduction to Space ScienceRocket equation. Basic components of spacecraft.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH321 - Mechanics
+
+      
+      
+       Measurement and motion; Dimensional analysis, Motion in one dimension: velocity, acceleration, motion with constant acceleration, Motion in a plane with constant acceleration, projectile motion, uniform circular motion, and Newtons laws of motion. Work, Energy and Momentum; Work, kinetic energy, power, potential energy, relation between force and potential energy, conservation of energy, application to gravitation and simple pendulum, momentum, conservation of linear momentum, elastic and inelastic collisions. Rotational Motion; Rotational motion: angular velocity, angular acceleration, rotation with constant angular acceleration, rotational kinetic energy, moment of inertia, calculation of moment of inertia of a rod, disc or plate, torque, angular momentum, relation between torque and angular momentum, conservation of angular momentum.Concept of field; 1/r2 fields; Gravitational Field; Keplers Laws, Newtons law of gravitation, Gravitational potential, the gravitational field of a spherical shell by integration. Oscillations and Mechanical Waves; Vibrations of an elastic spring, simple harmonic motion, energy in SHM, simple pendulum, physical pendulum, damped and driven oscillations, resonance, mechanical waves, periodic waves, their mathematical representation using wave vectors and wave functions, derivation of a wave equation, transverse and longitudinal waves, elastic waves on a string, principle of superposition, interference and formation of standing waves, normal modes and harmonics, sound waves with examples of interference to form beats, and the Doppler Effect.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH322 - Electricity and Light
+
+      
+      
+       Properties of Light and Optical Images; Wave nature of light. Reflection, refraction, Snells law, total internal reflection, refractive index and dispersion, polarisation. Huygens' principle, geometrical optics including reflection at plane and spherical surfaces, refraction at thin lenses, image formation, ray diagrams, calculation of linear and angular magnification, magnifying glass, telescopes and the microscope. Electric Field; Discrete charge distributions, charge, conductors, insulators, Coulombs law, electric field, electric fields lines, action of electric field on charges, electric field due to a continuous charge distribution, electric potential, computing the electric field from the potential, calculation of potential for continuous charge distribution. Magnetic Field; Force on a point charge in a magnetic field, motion of a point charge in a magnetic field, mass spectrometer and cyclotron. Electric current and Direct current circuits, electric current, resistivity, resistance and Ohms Law, electromotive force, ideal voltage and current sources, energy and power in electric circuits, theory of metallic conduction, resistors in series and in parallel, Kirchhoffs rules and their application to mesh analysis, electrical measuring instruments for potential difference and current, potential divider and Wheatstones bridge circuits, power transfer theorem, transient current analysis in RC, RL, LC and LRC circuits using differential equations. Alternating Current Circuits; Phasor and complex number notation introduced for alternating current circuit analysis, reactance and complex impedance for Capacitance and Inductance, application to LRC series and parallel circuits. Series and parallel resonance, AC potential dividers and filter circuits, Thevenin's theorem, AC bridge circuits to measure inductance and capacitance, mutual inductance, the transformer and its simple applications. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH323 - Thermodynamics and Matter
+
+      
+      
+       Static Equilibrium, Elasticity and fluids; Elasticity: stress, strain, Hookes law, Youngs modulus, shear modulus, forces between atoms or molecules, intermolecular potential energy curve, equilibrium separation, Morse and 6-12 potentials, microscopic interpretation of elasticity, relation between Youngs modulus and parameters of the interatomic potential energy curve, the nature of interatomic forces, the ionic bond, calculation of the energy to separate the ions in an ionic crystal, viscosity of fluids, Poiseuilles law, Stokes law. Thermodynamics; Thermal equilibrium, temperature scales, thermal expansion of solids, relation between thermal expansion and the interatomic potential energy curve, the transfer of thermal energy: conduction, convection, radiation, the ideal-gas law, Boltzmanns constant, Avogadros number, the universal gas constant. The kinetic theory of gases, pressure of a gas, molecular interpretation of temperature, molecular speeds, mean free path, specific heat, molar specific heat. The equipartition theorem, degrees of freedom. Heat capacities of monatomic and diatomic gases and of solids. Internal energy of a thermodynamic system, the first law of thermodynamics, work and the PV diagram of a gas., work done in an isothermal expansion of an ideal gas. Molar heat capacities of gases at constant pressure and at constant volume and the relation between them. Adiabatic processes for an ideal gas. Heat engines and the Kelvin statement of the second law of thermodynamics, efficiency of a heat engine. Refrigerators and the Clausius statement of the second law of thermodynamics. Equivalence of the Kelvin and Clausius statements. The Carnot cycle, the Kelvin temperature scale. Atoms; The nuclear atom, Rutherford scattering and the nucleus, Bohr model of the atom, energy level calculation and atom spectra, spectral series for H atom. Limitation of Bohr theory. Molecules. Solids and Liquids. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS370 - Skills for Physicists
+
+      
+      
+       Standard LecturesHow Physical Sciences are taught at Kent. Library use. Bibliographic database searches.Error analysis and data presentation.  Types of errors; combining errors; Normal distribution; Poisson distribution; graphs  linear and logarithmic.Probability and Statistics.  Probability distributions, laws of probability, permutations and combinations, mean and variance. Academic integrity and report writing skills.Laboratory experiments A choice of experiments in weekly sessions. Some of the experiments require two consecutive sessions to complete.  Choice of (among others): Deduction of a law, Wind tunnel, Probability distributions, Geometrical optics on the magnetic board, Computeraided study of electrical and electronic circuits, Heat engines, Waves, Firing projectiles with the model catapult, mechanical simulation of stabbing action, etc.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

@@ -1,0 +1,635 @@
+Course structure
+
+
+The first year of this programme introduces you to the way in which economists think about different issues and develops the kinds of tools that economists use for analysing real economic problems.
+
+In your second and final years, you take compulsory modules in macroeconomics, microeconomics, quantitatitve economics, the economics of finance, and econometrics together with a number of specialised modules from the wide variety offered by the School.
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      EC309 - Statistics for Economics and Business
+
+      
+      
+       The main aim of this module is to provide you with a basic understanding of statistics suitable for the Stages 2 and 3 degree programmes in Economics, Business and Accounting although it is also suitable for students taking other Social Science degrees. This module introduces you to statistical concepts and methods in preparation for Stages 2 and 3 modules in economics; it is a prerequisite for Stages 2 and 3 Economics modules and is a core input to the second year quantitative module, EC511. So as well as learning basic statistics, the module emphasises the interpretation of statistical results; and provides you with the opportunity to apply statistical concepts to economic and business data using calculators and computer software. Work with Excel is an independent study element of the module, and using calculators to undertake basic descriptive statistics is an important focus of the practical problem solving.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC314 - Data Analysis for Economists
+
+      
+      
+       The aim of the module is to introduce you to fundamental key skills used by economists in applying economics to real world issues. The module develops your use of information technology and your ability to access electronic and other secondary sources of data, particularly the range of skills necessary for evaluation of economic data. Finally, the module will improve your computing and quantitative skills within a structured environment.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC304 - Principles of Economics
+
+      
+      
+       Economics looks at the material aspects of peoples lives. It is about how people make choices about what and how to produce and consume. It is about how the difference in economic outcomes between firms, people and countries can be related to the effects of choices they and others have made. It builds on the very simple and plausible assumption that people want to get the most they can, given the constraints they face. Studying economics entails both gaining an understanding of the economies in which we all live, and developing skills to think logically about economic situations. The emphasis in this module is on how economics can help us to understand the society we live in.  The module aims to provide a thorough understanding of economics at an introductory level and provides the basis for all subsequent study you may undertake in economics. The first term covers the principles of microeconomics and the second term develops a framework for understanding macroeconomic events and macroeconomic policy. Throughout the module and in the seminars in particular, we demonstrate the usefulness of economics as an analytical tool for thinking about real world problems. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      EC305 - Mathematics for Economics and Business Mode A
+
+      
+      
+       This Stage 1 module is designed for students who have an A -Level in mathematics, AS mathematics or equivalent qualification. A first-year mathematics module (either Mode A or B) is a compulsory part of all economics degree programmes and these modules take place in the Autumn term with a statistics module following on in the Spring term. If you are unsure whether your mathematical background is equivalent to an A level pass, please consult the Module Convenors when you arrive at the University. The aim of the module is to provide you with a good understanding of the mathematics necessary for your Stages 2 and 3 Economics modules.The teaching of each topic starts from first principles, but the speed of the module assumes that you have studied mathematics before (but not economics). By the end of the module, you will have covered the important uses of mathematics in economics (and business) and be able to use many mathematical techniques commonly used to analyse economic (and business) problems. In the long term, the analytical and quantitative skills you acquire from this module are relevant to many different occupations.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC306 - Mathematics for Economics and Business Mode B
+
+      
+      
+       The main aim of this module is to provide you with a basic understanding of mathematics suitable for the Stages 2 and 3 degree programmes in Economics, Business, and Accounting. The mathematics material is developed in a clear, contextual framework, and is linked  to a Stage 1 module in Economics. You develop your understanding with suitable problem sets combining mathematical concepts and economic methods.  
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      EC500 - Microeconomics
+
+      
+      
+       This is the core microeconomics module taken by all students following Economics degrees. It builds on the material covered in the Stage 1 Economics modules. The titles of many of the topics covered will be familiar, but the topics are dealt with in greater depth than in first year.Microeconomics is concerned with the behaviour of individual economic agents such as consumers, firms and governments. It provides the foundations for understanding all types of economics, including macroeconomics, so is relevant for all other Economics modules you take.The module is carefully designed to give (alternative and/or complementary) readings, and provide a set of different types of questions and problems for seminars to test and extend your understanding of the material as well as to improve your key skills such as communication, problem solving, team work, and learning how to study efficiently.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC502 - Macroeconomics
+
+      
+      
+       Macroeconomics today is a different subject than it was just a few decades ago. Old controversies have been resolved and new ones have arisen. This module builds on the first year teaching of macroeconomics to provide an intermediate course, which takes full account of the policy issues and controversies in the world macroeconomy.Autumn Term begins by looking at the basic methodology of macroeconomic models. We then examine, in greater detail than at Stage 1, how the macroeconomic theories of aggregate demand and aggregate supply are derived. This involves studying the markets on which these theories are based. It is important to be aware that there are many theories of aggregate demand and supply. This term we use the IS-LM model, with which you should be familiar from Stage 1, to derive a theory of aggregate demand in both open and closed economies. We also examine the labour market to derive a theory of aggregate supply and study the relationship between inflation and unemployment.Spring Term starts with studying the long-run, that is, what determines the standard of living of countries in the long term, as opposed to short-run economic fluctuations. We then study microeconomic fundamentals of macroeconomics to understand in-depth the determinants of consumption, investment, and labour supply decisions. We then use these and the ideas developed last term to extensively examine macroeconomic demand management policies (fiscal and monetary) and their shortcomings. We finally study the role of the financial system in the macroeconomy and the causes behind the recent crisis starting in 2008.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC511 - Quantitative Economics
+
+      
+      
+       The quantitative estimation and evaluation of economic models is an essential feature of the study and application of economics. An alternative title for this module is (applied) econometrics where metric in econometric denotes measurement. Most textbooks provide a useful definition of what is meant by econometrics. Andrew Oswald has described economics as the art of looking for patterns in data. Joshua Angrist and J&ouml;rn-Steffen Pischke have described econometrics as the art of investigating causal relationships of interest. We provide an intuitive treatment of some elements of basic econometric theory in conjunction with the practical application of the methods to economic issues, in particular we emphasise the measurement and interpretation of empirical results. Hence we choose the title Quantitative Economics, even though other techniques are often taught under such a heading; for instance, linear programming and input-output analysis. This also differentiates this module from the final year modules, EC542 and EC543 Econometrics I and II, which explore econometric techniques in greater theoretical and empirical depth. The aim of the module is to familiarise you with the techniques economists use to measure economic relationships in order to test hypotheses, forecast, or assess the impact of economic policy. This is a very challenging field of applied economics. We do this in a practical way so that you gain experience in using suitable computer software to investigate empirical relationships studied throughout the module. Learning to use computer software provides a basic training in information technology (IT) skills which are becoming increasingly important to employers seeking suitable, skilled employees.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      EC531 - Policy Analysis
+
+      
+      
+       This module applies economic theory and statistical methods to the understanding and critical assessment of economic policy. It is designed for students who have completed Stage 1 Economics. For students studying for an economics degree, the module complements the core second year modules by focusing on the policy application of economic concepts and provides an introduction to material studied in greater depth in third year specialist modules. For other students, it provides the opportunity to consider an economists perspective on important policy issues. A key aspect of this module is the relationship of economics to current and ongoing policy problems.The module introduces you to a variety of contemporary, mainly microeconomic, policy issues. Alongside formal lectures, it also consists of several workshops, which provide opportunities to develop and demonstrate your problem solving and analytical skills. They also give guidance on identifying sources in the literature, data relevant to economic research, analysis of data and the presentation of results orally, as well as in writing. This focus provides opportunities to develop a range of highly transferable skills and lay the foundations to the independent learning skills you require for many of the modules in Stage 3.  
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC532 - Environmental Economics, Institutions and Policy
+
+      
+      
+       This module introduces you to environmental economics and economics generally. A key objective of the module is to help you develop an ability to apply economic thinking to environmental problems. The module considers various aspects of environmental economics including why pollution occurs and how policy can be designed and implemented to deal with it, how to place economic value on the environment and how to understand sustainable development in microeconomic terms.The module is divided into three parts. In Part A we examine the relationship between the economy and the environment. In Part B we consider how environmental policy can be designed, implemented and evaluated in relation to environmental pollution. In Part C we examine issues of environmental valuation, which is a rapidly growing area of research in environmental economics. The emphasis in all parts of the course is to understand the links between theory and practice.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      EC538 - Economic Controversies
+
+      
+      
+       The idea of this module is to teach the skills of economic reasoning and argument by exposing students to the big debates within the discipline and in economic policy. The module draws on current and past controversies across many economics sub-disciplines. This equips students with the ability both to understand and contribute to the debates surrounding the recognised controversies within the discipline at a level consistent with an intermediate undergraduate degree course in Economics. The curriculum also provides an insight into the academic and professional development of the discipline. Four controversies are covered each academic year drawn from a range of topics pertinent to the discipline and relevant sub-disciplines. The list of controversies are framed in the form of a question but can be identified as specific topics as required. The list below is indicative only:1. What should governments do? How far should they intervene in markets, families and the way individuals make choices?2. What is the best way to understand business cycles? What policies can/should governments adopt to help households and firms deal with such fluctuations3. Many economists assume individuals are perfectly rational and fully informed. Is this a sensible and useful way of understanding the economy?4. Is the living wage a good idea?5. How successful were economists at explaining the recent financial crisis?6. Is Free Trade Fair Trade?7. What is the best way of understanding inflation?8. Are currency unions ever a good idea? 9. What is the best way of helping the long term unemployed and their families?
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC534 - The Economics of Money and Banking
+
+      
+      
+       The module asks what determines the set of equilibrium prices required to provide an appropriate level of savings in an economy to finance the expected level of expected activity. It tries to link models of money, banking and finance into one generic, or foundation, view. Specifically, we shall move towards an understanding of how financial and economic innovation have moved hand in glove over many centuries and how it seems to be that when finance fails, so does the modern market economy. Some of the questions we consider are: How can we analyse the appearance of money in an economy? What is the link between money and finance? What explains bank runs? Why is it so difficult to explain exchange rates? Can we explain the occurrence of financial crises? This second-year optional module emphasises both historical experience and analytical techniques. The economic analysis of financial markets and instruments is the starting point for understanding financial markets. This module is desirable for students wanting to take EC562 in Stage 3.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                 
+
+
+
+
+
+ 
+  Year in industry
+
+  
+   Students can opt to take a year in industry with any of our single honours programmes, or the Economics and Business joint honours programme, that contributes towards your final degree classification. The year in industry is not available on other joint programmes in Economics or the four-year European Economics programmes.
+
+The year in industry is taken between the second (Stage 2) and third years (Stage 3) of the degree. The placement must be with a suitable employer, but the reference to 'in industry' is intended to cover employers in any service sector as well as in manufacturing.
+
+Students are responsible for finding their placements, but the School offers structured support for the application process in the form of a non-contributory module, 'Preparing for a Placement'.
+
+Students must have passed Stage 2 of their degree before they can embark on the year in industry.
+  
+
+
+   
+
+ 
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      EC542 - Econometrics I: An Introduction to Modern Econometrics using Stata
+
+      
+      
+       This is a 15-credit module in applied econometrics using Stata (the most popular general-purpose statistical software package used by empirical economists), for students who have followed Stage 1 modules in mathematics and statistics and who have taken the Stage 2 module in quantitative methods (EC511) or equivalent. What distinguishes this module is the adoption of the modern learning-by-doing approach to teaching econometrics, which emphasises the application of econometrics to real world problems. The focus is on understanding the theoretical aspects that are critical in applied work and the ability to correctly interpret empirical results.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC543 - Econometrics 2: Topics in Time Series
+
+      
+      
+       Empirical research in macroeconomics as well as in financial economics is largely based on time series, ie chronological sequences of observations, showing the development of quantities, goods and asset prices, and interest rates. The module offers an introduction to contemporary time-series econometrics, linking the theory to empirical studies of the macroeconomy. Topics include: stationary and non-stationary stochastic processes; linear autoregressive and moving average models; linear difference equations; autoregressive distributed lag models; cointegration and equilibrium correction; vector autoregressive models. These topics are illustrated with a range of theoretical and applied exercises, which are discussed in seminars and computer classes.The module introduces you to the research methods used by macroeconomists in academia, government departments, think tanks and financial institutions. It also helps you to prepare for the quantitative requirements of a masters programme in economics.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      EC565 - Extended Economics Essay
+
+      
+      
+       The module aims to provide an alternative to the EC541 dissertation option for students. In this module, rather than conducting an original piece of research, you are given a set of questions with readings. You can also construct your own question so long as it is approved. You choose a question and (with help from your supervisor) write a 5,000 word essay on this question. The material covered in these essays is typically broader than that explored in the dissertation option and there is no requirement to make any 'contribution to knowledge'. However, the essays still demand more independent work than required for coursework in other modules. You are expected to read round the question AND to assimilate concepts and ideas not covered in lectures.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC541 - Economics Dissertation
+
+      
+      
+       This dissertation is a 30-credit module based on self-directed study, which allows you to develop a complete piece of work within the general field of economics, from the initial idea through to a final written report. It is unique amongst the modules you are taking towards your degree in Economics, both in the ways that you learn and in the ways that you are assessed. Your learning will be largely independent, but is supported by structured supervision from your dissertations supervisor and weekly computing sessions to help in accessing, coding analysing and interpreting your data. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      EC532 - Environmental Economics, Institutions and Policy
+
+      
+      
+       This module introduces you to environmental economics and economics generally. A key objective of the module is to help you develop an ability to apply economic thinking to environmental problems. The module considers various aspects of environmental economics including why pollution occurs and how policy can be designed and implemented to deal with it, how to place economic value on the environment and how to understand sustainable development in microeconomic terms.The module is divided into three parts. In Part A we examine the relationship between the economy and the environment. In Part B we consider how environmental policy can be designed, implemented and evaluated in relation to environmental pollution. In Part C we examine issues of environmental valuation, which is a rapidly growing area of research in environmental economics. The emphasis in all parts of the course is to understand the links between theory and practice.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC534 - The Economics of Money and Banking
+
+      
+      
+       The module asks what determines the set of equilibrium prices required to provide an appropriate level of savings in an economy to finance the expected level of expected activity. It tries to link models of money, banking and finance into one generic, or foundation, view. Specifically, we shall move towards an understanding of how financial and economic innovation have moved hand in glove over many centuries and how it seems to be that when finance fails, so does the modern market economy. Some of the questions we consider are: How can we analyse the appearance of money in an economy? What is the link between money and finance? What explains bank runs? Why is it so difficult to explain exchange rates? Can we explain the occurrence of financial crises? This second-year optional module emphasises both historical experience and analytical techniques. The economic analysis of financial markets and instruments is the starting point for understanding financial markets. This module is desirable for students wanting to take EC562 in Stage 3.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC538 - Economic Controversies
+
+      
+      
+       The idea of this module is to teach the skills of economic reasoning and argument by exposing students to the big debates within the discipline and in economic policy. The module draws on current and past controversies across many economics sub-disciplines. This equips students with the ability both to understand and contribute to the debates surrounding the recognised controversies within the discipline at a level consistent with an intermediate undergraduate degree course in Economics. The curriculum also provides an insight into the academic and professional development of the discipline. Four controversies are covered each academic year drawn from a range of topics pertinent to the discipline and relevant sub-disciplines. The list of controversies are framed in the form of a question but can be identified as specific topics as required. The list below is indicative only:1. What should governments do? How far should they intervene in markets, families and the way individuals make choices?2. What is the best way to understand business cycles? What policies can/should governments adopt to help households and firms deal with such fluctuations3. Many economists assume individuals are perfectly rational and fully informed. Is this a sensible and useful way of understanding the economy?4. Is the living wage a good idea?5. How successful were economists at explaining the recent financial crisis?6. Is Free Trade Fair Trade?7. What is the best way of understanding inflation?8. Are currency unions ever a good idea? 9. What is the best way of helping the long term unemployed and their families?
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC531 - Policy Analysis
+
+      
+      
+       This module applies economic theory and statistical methods to the understanding and critical assessment of economic policy. It is designed for students who have completed Stage 1 Economics. For students studying for an economics degree, the module complements the core second year modules by focusing on the policy application of economic concepts and provides an introduction to material studied in greater depth in third year specialist modules. For other students, it provides the opportunity to consider an economists perspective on important policy issues. A key aspect of this module is the relationship of economics to current and ongoing policy problems.The module introduces you to a variety of contemporary, mainly microeconomic, policy issues. Alongside formal lectures, it also consists of several workshops, which provide opportunities to develop and demonstrate your problem solving and analytical skills. They also give guidance on identifying sources in the literature, data relevant to economic research, analysis of data and the presentation of results orally, as well as in writing. This focus provides opportunities to develop a range of highly transferable skills and lay the foundations to the independent learning skills you require for many of the modules in Stage 3.  
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC540 - Development Economics
+
+      
+      
+       There is a wide range of views and approaches to the study of economic development spanning the whole of the political spectrum from the Marxist left to the libertarian right, and also a rich historical literature. To understand the module, some prior knowledge of economic theory and statistics is required, and a willingness to read widely. But the aim of the module is to teach the basic principles of economic development in order to answer such questions as:Why are there divisions in the world economy between rich and poor countries? How did these divisions arise and what forces perpetuate them? How important are such factors as agriculture, industry, investment performance, population growth, domestic finance, international finance and trade in explaining the economic performance of nations? What role does economics in general have to play in an understanding of why some countries are poor and others rich?
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC567 - Economics of Gender, Children and the Family
+
+      
+      
+       This is a 15 Credit Stage 3 optional module in applied labour and family economics. Its aim is to introduce you to a broad range of the methods and models applied by economists on family related issues. These issues include partnership formation and dissolution, intra-household allocation, education, investment in children, and inter-generational mobility, as well as work and pay from a family perspective. These phenomena are modelled as the outcomes of rational-choice processes, with hypotheses concerning these choices evaluated in the context of relevant empirical evidence. We focus on public policies influencing decisions within families such as fertility, labour supply and investment in human capital of children.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC568 - World Economic and Financial History from the 19th Century
+
+      
+      
+       The aim of the module is to introduce you to the evolution of the world economy from the 19th century to the present. This period experienced rapid growth of trade, saw a massive migration from Europe to the Americas and the rise, fall and rise again of globalisation. A knowledge of the history of the world economy in this period allows us to understand todays world economy better; enlightens our understanding of world income inequality, trade patterns and sources of growth; and teaches us important policy lessons from past recessions and recoveries.Topics covered on the module include growth and trends pre-1913 and the interwar years; the gold standard; commodity and labour market integration; the Great Depression; and recovery from the Great Depression.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC569 - Economic Growth
+
+      
+      
+       This module covers a variety of growth issues from both empirical and theoretical views. The first part of the course deals with basic concepts of economic growth, including how to measure growth and the core theories of economic growth. The second part deals with productivity; how to measure productivity and analyse different sources of productivity growth. The third part deals with economic fundamentals, including the relationship between government policies, income inequality, and growth. The aim of the module is to teach the basic principles of economic growth in order to answer such questions as:- what are the determinants of growth?- how can we improve productivity?- what kind of role does the government play on growth? - why are there differences in the level of income among countries? 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC570 - Microeconomics of Development
+
+      
+      
+       In the last 30 to 35 years, the study of economic development has increasingly focused on the behaviour of individuals  their opportunities, constraints, and choices  to understand the causes and nature of poverty, and on formulating strategies for improving their economic well-being. This trend includes the increased application of microeconomic theories to understand phenomena related to underdevelopment, the collection and analysis of data at the individual level (as opposed to the regional or national level) and, most recently, the use of lab and field experiments to better understand individual behaviour. The module introduces you to these trends, to show how the related microeconomic tools have contributed to a better understanding of the process of economic development. Some of these methods are now widely used by international development agencies  such the World Bank and DfID  as well as academic researchers to critically assess development strategies and evaluate programmes aimed at improving the economic well-being of the poor in developing countries.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC571 - Agricultural, Food and Natural Resource   Economics
+
+      
+      
+       This module introduces you to agriculture, food and natural resource economics and economics generally. A key objective is to help you develop an ability to apply economic thinking to problems in this area. The module considers various aspects of agricultural, food and resource economics including food production, economic theory related to agricultural policy, food supply chains and food prices, food economics specifically food labels and various economic aspects of natural resource management such as forestry and fisheries. The module is divided into three parts. In Part A we examine the relationship between the economy and the agriculture. In Part B we consider aspects of food economics. In Part C we examine various issues relating to natural resource.  The emphasis in all parts of the module is to understand the links between theory and practice.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC544 - Economic Integration in the EU
+
+      
+      
+       The European Union features strongly in all discussions of economic policy and political decision making. Frequently economists are unable to provide a consistent analytical framework for the analysis of the various issues posed. In this module we explore the meaning and analysis of regional economic integration in the context of the EU. This provides a general introduction to the economic rationale for the existence of the EU, the working of some of its main policy areas, and a critique and assessment of the achievements to date. The module deals first with the origins of the EU, the theory of a Customs Union and questions of trade integration. Secondly, it covers the problems and relevance of monetary integration and the common currency area to the process of economic integration. Thirdly, it deals with some specific policy areas, in particular labour market policies, common agricultural policy and competition policy. At the end of this module you are expected to have knowledge of the basic theories underlying customs unions, and of the rationale for, and strength and weaknesses of, policy intervention at EU level. This is a module in applied economics and the emphasis throughout is on the development of appropriate economic theories and their application in the specific context of the EU. It is not concerned with the detailed discussion of the Treaties or the implementation of policy measures. Decision making in the EU is introduced in order to understand the question of the exercise of economic power. The nature of the economic role of the European Union is such that this involves a broad coverage of both microeconomics and macroeconomics, often involving applied issues and applied analysis going beyond that covered in the main theory courses.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC545 - Economics of the Labour Market
+
+      
+      
+       Unemployment has become one of the biggest economic challenges facing many countries, placing the labour market at the core of current economic debate. Understanding the labour market is a prerequisite for informed discussions of issues surrounding the unemployment problem as well as other important topics like discrimination and immigration. The first part of the module follows a fairly conventional approach to the study of labour economics, and covers the supply and demand for labour. We incorporate policy-orientated material throughout  for example, we examine the incentive effects of taxation and unemployment benefits on labour supply, and discuss the effect of pay-roll taxes on labour demand. The second part of the module covers the process of wage determination and unemployment. We analyse the dynamic behaviour of unemployment from a flow perspective (the ins and outs of unemployment) and introduce the role of matching and search frictions to explain the presence of frictional unemployment. Frictional unemployment exists because, even if there are as many vacancies as unemployed workers, in a labour market with imperfect information workers and firms need to spend time to meet and create a new employment relationship. Finally, the module analyses the dramatic rise in unemployment in some OECD countries over the last economic crisis, focusing particularly on the role played by the labour market institutions. During the module you attend computer sessions to learn how to solve the labour supply model and the labour market equilibrium with the Excel Solver. The basic function of applied sessions in these labs is to improve your analytical skills in a dynamic and interactive way. The Excel Solver is described as a user-friendly and flexible tool for economic optimisation. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC546 - Games for Economics and Business
+
+      
+      
+       The growing use of game theory by economists suggests that a professional economic education is incomplete without a firm understanding of this new tool. The module aims to introduce you to a topical and important research area of microeconomic analysis, to develop your skills in setting up and solving games that arise in business and economics, and to enable you to apply game theory to different areas of economics and business.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC547 - Industrial Economics
+
+      
+      
+        Industrial Economics studies why and how firms and industries behave and interact with each other. This is probably one of the most important and interesting areas in economics. Understanding firms' behaviour is relevant not only to the firms but also to the governments that design industrial policies in order to favour consumers without decreasing firms' efficiency.During the module, we deal with issues that are present in everyday news: anti-competitive practices, the effect of market power on consumer welfare and the incentives for product innovation, and private and public effects of mergers. You have the chance to discuss and understand many of these topics in a deeper and more economically informed way.This module has been designed for students who have already taken intermediate microeconomics. You are encouraged to apply economic analysis and techniques to understand the behaviour of firms and industries. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC548 - International Finance
+
+      
+      
+       When we open a newspaper or an economics and business magazine, we often read topics related to monetary and financial relations between countries. A good deal of political debate is also focused on the various aspects that constitute international finance. However, these debates do not allow us to understand their theoretical underpinnings. This is what we are going to study in this module from a rigorous perspective. The first part of the module deals with some basic concepts of international macro such as the balance of payments and exchange rates, and arbitrage conditions. We then go on to analyse the impact of opening up the economy on the alternative macroeconomic policies available. In that part we also analyse the main factors that determine the exchange rates between currencies, and the power of the different models proposed. The third part of the module deals with hot topics in international finance. We discuss the benefits and drawbacks of fixed and floating exchange rates, the concept of a speculative attack, how to understand current account imbalances from an inter-temporal perspective, and how world macroeconomic imbalances drove the 2008/09 international financial crisis and recent sovereign debt crisis in Europe.The module has both a theoretical and an applied emphasis in order to insert the available theories into the real problems of the world economy. It does not analyse the detailed workings of international financial markets or questions related to firm financial management in international capital markets but students interested in these aspects can acquire basic foundations that are fundamental in understanding the context in which firms and governments work.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC549 - International Trade
+
+      
+      
+       The study of international trade has always been an especially lively and controversial area in economics. Yet there was never a time when the study of international trade was as important as today. The economies of different countries are more dependent on each other than they have ever been before, meaning that, among other things, regional crises can spread throughout the world. Keeping up to date with this changing international environment and being able to understand the dynamics behind it is of key importance to firms and governments.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC550 - Monetary Economics
+
+      
+      
+       This final year optional module covers a variety of monetary issues from both a theoretical and a policy perspective. It starts with an introduction to the role of money in the economy, and theories of money supply and demand. A discussion of the IS/LM model gives a basic foundation for analysing how monetary policy affects the economy, and a first theoretical perspective on the neutrality of money  ie whether monetary policy has real effects on the macroeconomy, in either the short or long run. This is followed by a discussion of other theoretical perspectives on neutrality, and relevant evidence. If monetary policy does have real effects, how are these brought about and what are the implications for monetary transmission? The remainder of the module discusses current issues in monetary policy  the goals of monetary policy and how these are expressed in modern simple models of monetary policy, central bank independence and inflation targeting.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC553 - Public Economics
+
+      
+      
+       To understand and be able to evaluate the role played by government in the economy it is important to understand key elements of microeconomic analysis and then be able to apply this understanding to the practical evaluation of policy issues. Economic theory is typically a positive science with right and wrong answers but evaluating policy issues is a much more normative science where there are often no correct answers (just opinions). The module reflects these two sides of studying public economics. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC562 - Economics of Finance 1
+
+      
+      
+       The economic analysis of financial markets and instruments is the starting point of financial economics and this module provides a concise overview of capital markets. Specifically, it examines how the economics of uncertainty have been applied extensively in financial markets. It focuses on the structure of each financial market (such as the trading volume and investors in it), recommended investment strategies for a specific type of investor, and market conventions. We emphasise both practical knowledge and analytical techniques and several useful mathematical skills are explained. The module first introduces key principles, such as discounting, diversification, no arbitrage and hedging, and then discusses each asset class, such as bonds, equities and their derivatives (instruments), emphasising the general idea behind them. Although different types of assets require different methods of valuations and risk control, the basic principles are common to all asset classes. The module also covers asset liability management (ALM) and other related topics. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC563 - Economics of Finance 2
+
+      
+      
+       The module develops your skills in asset pricing and your understanding of the theoretical basis of this subject. It stresses practical training in asset pricing. The two main topics in the module are investors utility maximisation and arbitrage theory in derivative pricing, which is mainly discussed in discrete time models. The most important goal is to give you the ability to apply the model to real data.Although the module requires some mathematical techniques, its aim is to offer practical training, putting stress on the intuitions and heuristics behind theorems and formulae, rather than their rigorous derivations and semantic definitions. Moreover, you are not only expected to understand theories but also expected to master how to use them.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

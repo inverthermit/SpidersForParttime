@@ -1,0 +1,109 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      EL600 - Project
+
+      
+      
+       This is the BEng project that accounts for three-eighths of the work of this year.  The project is conducted on an individual basis and allows you to work in the area of your chosen specialisation.
+
+       Credits: 45 credits (22.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL665 - Communication Systems
+
+      
+      
+       This module presents the main principles of modern communication systems and how these are applied in real comunications systems.  The module provides specialist knowledge of examples of current systems, including optical, microwave and satellite communication systems.  In addition, you gain an awareness of the available products, systems, technologies and techniques in the field of communication systems.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL667 - Embedded Computer Systems
+
+      
+      
+       This module introduces the theory and practice of employing computers as the control and organisational centre of an electronic or mechanical system, and examines issues related to time critical systems.  It also provides exposure to practical embedded systems design through practical work, with one assignment exploring the ideas of real-time operating systems introduced in the lectures and a second using a microcomputer programmed in 'C' to control the ignition timing of a simulated car petrol engine.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL671 - Product Development
+
+      
+      
+       This module introduces the issues relating to the development of commercial electronic  products.  Topics include design, production techniques, the commercial background of a company, quality and electromagnetic compatibility standards, electromagnetic compatibility issues and product reliability.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL676 - Digital Signal Processing and Control
+
+      
+      
+       This courses introduces the basic principles of digital control.  It builds on a basic understanding of signals and systems and digital signal processing developed in EL569 and applies these techniques to the modelling and manipulation of basic control systems.  This includes an introduction to the Laplace Transform and its use in describing control systems.  Bode plots and Root Locus analysis.  These concepts are applied to classical control problems such as the PID controller.  Simple robotic systems are used as examples to illustrate their importance in modern control systems.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL677 - Digital Communication Systems
+
+      
+      
+       The purpose of this module is to extend the treatment of digital communications provided in stage 2 (EL570).  A section on information theory covers fundamental principles on the capacity of communication channels and systems and the use of coding techniques to use the available capacity in the presence of impairments (errors). The part on communication networks examines the protocols used in the Internet and modern telecommunications, as well as in local networks.  The part on optical communications covers the techniques and technology used in the fibre-optic systems which are fundamental in providing the information capacity for todays Internet.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

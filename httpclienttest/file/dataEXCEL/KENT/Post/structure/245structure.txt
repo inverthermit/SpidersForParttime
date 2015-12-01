@@ -1,0 +1,420 @@
+Course structure
+
+
+ This programme is taught jointly with the School of Computing. Both schools are at the forefront of research in their areas. 
+
+The School of Engineering and Digital Arts has an excellent reputation for research in various aspects of biometrics, including individual biometric modalities, the management of complexity in biometric systems and the testing and evaluation of biometric systems; while the School of Computing has participated in the development of X.509 international standard and the first X.509 privilege management infrastructure (PMI) was built by members of this school.
+
+This Master's programme offers an advanced level of learning by providing students with a thorough understanding of the theories, concepts and techniques for the design, development and effective use of secure information systems, and producing graduates who are capable of adapting to changes in the field and leading it in innovation.
+
+The course is designed for practitioners, professionals and graduates with an interest in information security, access control technologies, and application domains using biometric identification and verification systems.
+
+Student profiles
+
+See what our students have to say
+.
+
+Example projects
+
+View examples of student projects
+ for this course.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   CO834 - Trust, Security and Privacy Management
+
+
+   
+    This module investigates the whole process of security management. A holistic view of security management is taken, starting with risk management and the formulation of security policies. Technical subjects include a description of the various security models, and showing how authorisation policies can be automatically enforced. The legal and privacy issues associated with information management are also addressed, as are the usability issues of security technologies. Finally, the module concludes by investigating how security has already been inbuilt into some existing applications, and how security issues will effect the uptake of ubiquitous computing systems
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL846 - Industrial Context of Biometrics
+
+
+   
+    Industrial context of Biometrics: Standards, Testing, and Evaluation of Biometric and Secure Systems provides an examination of the importance of standards and regulation in biometric systems and examines associated standardisation bodies and procedures: Issues related to data collection: volunteer sampling and ethical issues are also addressed. The module is accompanied by a significant number of industrially led colloquia introducing students to the current industrial context for the course.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL858 - Advanced Pattern Recognition
+
+
+   
+    This module introduces advanced methods for pattern recognition with emphasis to multi-source systems. A detailed analysis of the Bayesian classification framework is followed by an introduction to error estimation and advanced feature selection and extraction techniques. Multiple classifier systems, including intelligent and dynamically adaptable classifier combination strategies, such as genetic algorithms, are studied as the basis for the development of state-of-the-art systems including multi-biometric strategies.   A discussion of score normalisation methods and the use of soft biometrics are also included in this module.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO879 - Mobile and Ubiquitous Computing
+
+
+   
+    
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO881 - Object-Oriented Programming
+
+
+   
+    This module provides an introduction to object-oriented programming using the popular Java language. It is designed for beginners who have not studied computer programming before. By the end students will be able to develop simple programmes using Java. (Note that students with substantial prior experience of programming take module CO871 Advanced Java for Programmers[1] instead.) Software development tools (editors, compilers, etc)The wider software development processProgramming paradigms and languagesThe concept of algorithmsSequences of statements and order of executionClasses, objects and packages (what they are and how to use them)Primitive data types, variables and expressionsMethods and parametersControl structures (selection, repetition)Input and outputCoding style and inline documentationOnline documentation
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO871 - Advanced Java for Programmers
+
+
+   
+    This module provides for well-qualified computer science students entering the MSc programme from a range of backgrounds. These students will have good programming skills but will not necessarily have used Java or another object-oriented language extensively. This module seeks to ensure that students have the Java and object-oriented design skills necessary for the rest of their programme.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO899 - System Security
+
+
+   
+    SyllabusFederated identity management: OpenID, SAML, Liberty Alliance, ... Privacy protection Viruses and worms Hacking Secure architectures Formal verification methods E-mail security: SMTP-MIME, S/MIME Secure software development methods and tools, common criteria, code inspections, code coverage tools, code evaluation tools etc. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL875 - Advanced Sensors & Instrumentation Systems
+
+
+   
+    This module covers modern sensors and advanced measurement systems for a diverse range of industrial applications. General measurement principles and concepts are introduced. The module focuses on digital imaging based and intelligent measurement and monitoring techniques. Real life industrial case studies are included to enhance students learning experience in the design and applications of cutting edge instrumentation technologies.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO841 - Computing Law, Contracts and Professional Responsibility
+
+
+   
+    Synopsis of curriculum. Professional issues and professional organisations. Data privacy legislation, and other UK laws relating to the professional use of computer systems.Criminal law relating to networked computer use, including new Anti-Terrorism legislation;and their application. Intellectual Property Rights, including Copyright, Patent and explicit IPR Legislation. Contract Law, with a specific focus on vendor-client contracts, and related issues. Health & Safety issues. Computer-based Projects, including the vendor-client relationship and professional responsibilities, and examples of real-life contracts that have exposed vendor or supplier to unacceptable commercial risks.However, as this is a rapidly evolving field, specific topics will change from year to year, as both computer law and professional responsibilities continue to evolve.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO876 - Computer Security
+
+
+   
+     A study of cryptographic algorithms including symmetric and asymmetric techniques and the distinction between encryption and signatures. Security mechanisms used with operating systems, including: access control lists and capabilities.  Trusted operating systems and common criteria for evaluation. Problems of network security including wiretap, replay, masquerade and denial of service.  Mechanisms to provide security such as firewalls and VPNs. Viruses and worms. Distributed Mechanisms, including client authentication (Needham-Schroeder, Kerberos and others); public key infrastructures and certification, with treatment of chains and authority, and the problem of revocation. Digital rights management systems: CSS, OMA DRM.  Using digital watermarking techniques for digital rights management. Security of IEEE 802.11 networks (aka Wi-Fi), presentation and discussion of their security protocols: WEP, WPA, WPA2, IEEE 802.11i and RSN.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     EL844      - Fundamentals of Image Analysis
+
+
+     
+      Fundamentals of image analysis introduces the basic underlying theoretical and practical skills required for practical image analysis and provides an introduction to how they support the principles of identity authentication based on biometrics.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     EL849      - Research Methods & Project Design
+
+
+     
+      The aim of this module is to prepare students for the Masters Project and for possible future research work. It begins with an introduction to MATLAB and SIMULINK tools which are used in most taught masters modules at Kent. The module also includes details about how to write a literature review and produce a viable project plan. Students learn how to use tools such as RefWorks and EndNote to produce and maintain reference databases. It also addresses important issues concerning the definition of a project and the consideration of ethical and Intellectual Property Issues. Techniques and guidelines for writing clear and concise English are discussed in detail.
+
+
+      Credits: 30 credits
+       (15 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     EL857      - Biometric Technologies
+
+
+     
+      A detailed treatment of the implementation of biometric systems including examples of systems using the major modalities and an analysis of modality specific features and feature extraction, selection and classification strategies. State of the art in sensor technologies; spoofing and counter-measures; analytical approaches to the performance of biometric systems.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     EL890      - MSc Project
+
+
+     
+      A major practical system will be developed either in an industrial context or within the department.  There are no formal lectures - students will undertake the work in their own time under the regular supervision of a member of the academic staff and, where appropriate, industrial collaborators.
+
+
+      Credits: 60 credits
+       (30 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The project module is examined by a presentation and dissertation. The Research Methods and Project Design module is examined by several components of continuous assessment. The other modules are assessed by examinations and smaller components of continuous assessment. MSc students must gain credit from all the modules. For the PDip, you must gain at least 120 credits in total, and pass certain modules to meet the learning outcomes of the PDip programme.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ produce graduate engineers with a broad understanding of how to provide effective information security, and how to develop and use modern security systems, with a particular emphasis on biometric identity management
+ equip trained engineers with the necessary system development skills to allow them to adapt to a dynamic and fast-changing industrial environment
+ provide you with proper academic guidance and welfare support
+ create an atmosphere of co-operation and partnership between staff and students, and offer you an environment where you can develop your potential.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ information security and biometrics (including the importance of taking a systems-wide approach to maintaining information security) and an awareness of developing technologies in this field
+ mathematical and computer models for analysis of information security and biometric systems (including   the design and analysis of modern systems for encryption, authentication, authorisation and identification)
+ design processes relevant to technologies such as networks and pattern classification and supporting methodologies such as system design and software engineering
+ ethical and legal issues, relevant standards and the mechanisms by which such standards are agreed
+ the current industrial context in which biometric and secure systems are developed and employed
+ extensive knowledge of characteristics of equipment, processes, algorithms and products, such as encryption systems, face and finger-print recognition systems and biometric sensors.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ how to think critically, reason and reflect
+ the ability to produce a specification of the operation of a complex system, based on an understanding of the component parts
+ the ability to undertake critical appraisal of a candidate system design and reflect upon its merits
+ the ability to use fundamental knowledge to explore new and emerging technologies
+ the ability to understand the limitations of mathematical and computer-based problem-solving and assess the impact in particular cases
+ the ability to extract data pertinent to an unfamiliar problem and apply it in the solution
+ the ability to apply engineering techniques taking account of commercial and industrial constraints.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the ability to analyse the information security requirements of an organisation
+ the ability to analyse and comprehend a biometrically-based secure system engineering problem, using appropriate formal analysis methods
+ the ability to apply knowledge of design processes in unfamiliar situations and to generate innovative designs to fulfil new needs, particularly in the fields of complex biometric and secure systems
+ the ability to select and employ appropriate development tools for modern biometric and secure systems
+ the ability to select, install and configure different security components to work together to form a complex security system
+ the use of appropriate software tools, techniques and packages to produce and develop security systems, including biometrically-based ones
+ the ability to devise tests of a software system through experiment and simulation and to critically appraise the results
+ the use of software development kits and tools to analyse problems and develop solutions.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the ability to generate, analyse, present and interpret data
+ use of information and communications technology
+ personal and interpersonal skills, working as a member of a team
+ an ability to communicate effectively, in writing, verbally and through drawings
+ the ability for critical thinking, reasoning and reflection
+ the ability to learn effectively for the purpose of continuing professional development.
+ the ability to manage time and resources within an individual and group project. 

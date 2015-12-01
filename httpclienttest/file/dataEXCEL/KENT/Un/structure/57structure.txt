@@ -1,0 +1,968 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      LS300 - Learning Spanish 3 (Post A Level)
+
+      
+      
+       This module is intended for students who have attained the equivalent of an A-Level pass in Spanish. The main aims of the module are: to consolidate and expand knowledge of the grammar and structure of the language, and to promote a high level of skill in speaking, listening, reading and writing. The course also aims to increase your awareness of the history and culture of Spain through the study of appropriate texts. Regular written work will be required throughout the year.Native/near-native speakers taking a four-year degree which includes Spanish will normally be exempt from this module. If you think you belong to this category, please choose an alternative module and contact Hispanic Studies as soon as possible at the beginning of term.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS302 - Intensive Learning Spanish 1 (Beginners)
+
+      
+      
+       This is an intensive module in Spanish for students who have no or very little knowledge of the language. It is also suitable for those who have taken a GCSE in Spanish, as by the end of the module the level attained will be higher than this (students wishing to proceed with Spanish in their second year will join a Post A Level group). The emphasis in this module is on acquiring a sound knowledge of the structure of the language while developing the four main skills: speaking, listening, reading and writing.Please note that this is a very intensive module. If you have little language learning experience, you may find the pace too fast. The module is intended primarily as part of a two-year option for students needing to spend their third year in Spain. Regular written work will be required throughout the year.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      LS312 - Introduction to Hispanic Culture
+
+      
+      
+       This module aims to help you develop an appreciation of the key stages in the development of modern Spanish and Spanish American culture by examining them in their social, political and historical context.  At the same time you will be able to improve your analytical powers and communicative skills to enhance your personal development in preparation for Stage Two and your year abroad, if this is part of your programme. You will gain a sound basic knowledge of key figures and events in Spanish and Spanish American history from the Middle Ages to the end of the 20th century, and an understanding of the key factors influencing social and political change during this period. This will allow you to place social, political and artistic events in a historical context, and to make an informed response to, and evaluate critically, a range of texts and topics representative of the main historical and cultural movements in Spain and Spanish America.The key periods covered are:The emergence of the Spanish nation (711  1492); The Spanish Golden Age;The emergence of Spanish America (1492  1812); 19th Century Spain & the end of the Empire;Spanish America: the way to Independence (1812  1898); Spain from 1898 to the Civil War;Spain under Franco (1936 1975); Spanish America in the XX (1898  1975);Transition to a Modern Spain (1975  2000); Modern Spanish America (1975  2000)
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS313 - Introduction to Hispanic Culture
+
+      
+      
+       See entry for LS312
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+ You have the opportunity to select wild modules in this stage
+
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      CO510 - Software Engineering
+
+      
+      
+       
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      LS504 - Learning Spanish 3B(Intensive Post A-Level)
+
+      
+      
+       This module is intended for students who have attained the equivalent of an 'A' Level pass in Spanish or who have taken LS302 Intensive Learning Spanish 1 (Beginners). The main aims of the module are to consolidate and expand knowledge of the grammar and structure of the language, and to promote a high level of skill in speaking, listening, reading and writing. A secondary aim is to increase awareness of the history and culture of Spain and Spanish America, through the study of appropriate texts. Regular written work will be required throughout the year.Subject to change pending faculty approval
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS505 - Learning Spanish 4
+
+      
+      
+       This module is intended for students who have attained a level of proficiency in Spanish equivalent to at least that of first year undergraduates. The main aim is to develop communicative skills with much of the emphasis being placed on speaking and listening but also involving a fair amount of writing. It will focus on the ability to operate in a variety of registers and respond adequately to different styles of discourse. There are four one-hour contact hours each week: two language seminars, one language lab class and one conversation class.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      LS513 - Spanish Literature: Identity
+
+      
+      
+       This module aims to explore the theme of identity in Spain with regard to the personal development of the individual, the assumed social roles of men and women, their sense of relevance within the world which they inhabit, and their reflection and expression through literature.  This will entail the study of the cultural evolution of individual and collective identity in 20th Century Spanish society and of its particular manifestations in the Spanish literary context.  A selection of texts both by men and by women from all genres will be studied, as will relevant literary criticism.The readings are in Spanish but the module is taught in English
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS515 - Catalan Culture
+
+      
+      
+       This module aims to provide an introduction to Catalonia and to place it in the wider context of Spain.  To this purpose students will be exploring different aspects of Catalan life and history, such as the language, the arts and the relationship between Catalonia and the rest of the country.  The result of this exploration will be used as the basis for an analysis of the distinctive traits of Catalonias own culture.  The module will be structured around two main topics: a general introduction to Catalan culture and an analysis of a range of works of art and history which will provide a basis for the understanding of the position of Catalonia within the context of Spain.  This module may be of particular interest to students thinking of spending their Year Abroad in Barcelona.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS548 - Contemporary Spanish Cinema
+
+      
+      
+       This module will cover aspects of contemporary Spanish history and culture with specific focus on post-1975 filmic production but in the wider context of pre- and post-Franco society, history and politics. Students will become familiar with important issues such as national stereotypes, gender and sexuality, social transformations, as well as relevant concepts in Film Studies such as cinematic genre, spectatorship, and representation. While the module will focus to some extent on the individual voice of each of the directors, it will to analyze how their work represents major currents of development in Spanish cinema, both in relation to form and content.This module is taught in English
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS562 - The Legacy of Inequality: Race and Ethnicity in Latin America
+
+      
+      
+       This module will prove an examination of the incorporation of indigenous and slave populations to political life in different Latin American countries from the colonial period to the present. It will focus on two main issues: the relationship between the state and indigenous populations; and the process of abolition of slavery. These topics will be explored in a comparative perspective with an aim to understanding the legacies of unequal societies and their impact on current realities.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS568 - Second Year Extended Essay
+
+      
+      
+       Stage 2 students write an Extended Essay of 4,000-5,000 words on a topic of their own choice. The topic must be on a Hispanic (Peninsular or Latin American) literary, linguistic or cultural subject; it is expected that the topic will be related to other Hispanic Studies modules taken by the student. Throughout the terms students are given guidance by a chosen supervisor. The supervisor and the student will establish a calendar of meetings / supervisions in Week 1 (at least 5 one-hour meetings) in which aims and objectives, critical approach, bibliography and drafts of the Extended Essay will be discussed.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                            
+      LS571 - After Dictatorship: Spain and Latin America
+
+      
+      
+       This module explores the different ways in which Spain and Latin American countries have attempted to make transitions from dictatorship to democracy. The course provides an overview of the political, social and cultural developments in Spain and Latin America after conditions of dictatorship, from 1975 onwards in the case of Spain and from the 1980s and 1990s in the case of specific Latin American countries (Chile, Argentina and Peru, among others). The course takes a comparative and interdisciplinary approach by combining history, literature, film, journalism and comics. The chosen texts provide an insight into the political, social and cultural attitudes of post-dictatorship societies as well as into the changing role and conditions of cultural production in post-dictatorial democracies. Issues such as historical trauma and historical memory, forgetting and collective memory, and justice and truth commissions cut across the module. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS579 - Barcelona and Havana: Icon, Myth and History
+
+      
+      
+       This module focuses on the cultural history of Barcelona and Havana the iconic capitals of Catalonia and Cuba. Many of the key events and movements of the past century are intimately linked to these two cities, from the collapse of the Spanish Empire and the birth of the new the Latin-American republics, the emergence of nationalism, the development of alternative modes of self-government and their engagement with modernity. Changes and continuities in the political, social and physical topography of Barcelona and Havana will be traced by studying representations of both cities in a range of texts and films from the mid twentieth to the early twenty-first century. Alongside feature films and prose genres such as short stories and reportage, the module will also consider theoretical texts on the city and the contribution of urban life to modern Hispanic culture. Central themes are the interplay of the individual and the collective, urban anonymity and liberation versus alienation and uniformity, multiculturalism and migration.Subject to change pending faculty approval
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      CO646 - Computing in the Classroom
+
+      
+      
+       Students will spend one half-day per week for ten weeks in a school with a nominated teacher. They will observe sessions taught by their designated teacher and possibly other teachers. Later they will act somewhat in the role of a teaching assistant, by helping individual pupils who are having difficulties or by working with small groups. They may take hotspots: brief sessions with the whole class where they explain a technical topic or talk about aspects of university life. They must keep a weekly log of their activities. Each student must also devise a special project in consultation with the teacher and with the module convener. They must then implement and evaluate the project.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO641 - Computer Graphics and Animation
+
+      
+      
+       Computer graphics and animation are important for a variety of technical and artistic applications including web design, HCI and GUI development, games and simulations, digital photography and cinema, medical and scientific visualization, etc.This module introduces the subject from the perspective of computing. You will learn about technologies and techniques for modelling, manipulating, capturing, displaying and storing 2D and 3D scenes, digital images, animations and video. You will also gain practical experience of 3D modelling and animation tools and of implementing digital imaging techniques in Java.Digital Imaging and Video:Human visionColour modelsImages, video and 3DCapture and displayEnhancement and conversionFormats and compression (e.g. GIF, JPEG, MPEG)Computer Graphics:Graphics pipeline3D object and scene modelling with polygon meshesTransformationsProjection, clipping and visible surface determinationIllumination and shadingRay tracing and photorealismComputer Animation:Key-frame animationWarping and morphingArticulated figuresKinematics, dynamics and collision detectionParticle systems and flockingComputer-generated human characters and video-realism
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO637 - Natural Computation
+
+      
+      
+       This module enables students to take ideas from the natural sciences and use them as inspiration for new computational techniques.  You examine developments in biological-inspired computation and other areas such as bioinformatics.  There is also a practical element to the module; you gain knowledge of a widely-used computing paradigm  genetic algorithms (GA).  Topic covered include evolutionary computation, swarm intelligence and artificial immune system
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO643 - Computing Law and Professional Responsibility
+
+      
+      
+       The scope of the module is outlined below. Note that topics will not necessarily be delivered in this orderProfessional issues and professional organisations. Data privacy legislation, and other UK laws relating to the professional use of computer systemsCriminal law relating to networked computer use, including new Anti-Terrorism legislation; and their applicationIntellectual Property Rights, including Copyright, Patent and Contract LawsHealth & Safety issues. Computer-based Projects, including the vendor-client relationship and professional responsibilities
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO636 - Cognitive Neural Networks
+
+      
+      
+       In this module you learn what is meant by neural networks and how to explain the mathematical equations that underlie them. You also build neural networks using state of the art simulation technology and apply these networks to the solution of problems. In addition, the module discusses examples of computation applied to neurobiology and cognitive psychology.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO539 - Web Development
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO532 - Database Systems
+
+      
+      
+       This module provides an introduction to the theory and practice of database systems. It extends the study of information systems in Stage 1 by focusing on the design, implementation and use of database systems. Topics include database management systems architecture, data modelling and database design, query languages, recent developments and future prospects.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO518 - Algorithms, Correctness and Efficiency
+
+      
+      
+       Testing, specification, verification Specifying test properties, and more general logical properties Scaling testing Pre- and post-conditions, Hoare Logic, loop invariantsData and Algorithm Design Dynamic data structures: trees, queues, heaps and priority queues; Sorting and searching algorithms, both in their own right and as components of more complex algorithms; Graph algorithms: depth and breadth-first search, union-find, minimal-cost spanning trees;Estimation and efficiency Informal estimation and approximate calculations; Detailed analysis of the time complexity of some simple algorithms including best, worst and average behaviour; Techniques for analysing and comparing the asymptotic behaviour of algorithms.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO527 - Operating Systems and Architecture
+
+      
+      
+       This module aims to provide students with a more in-depth understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. It will consider systems other than the standard PC running Windows, in order to broaden students outlook. The module has two strands: Operating Systems and Architecture, which each form around 50% of the material.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO528 - Introduction to Intelligent Systems
+
+      
+      
+       This module covers the basic principles of machine learning and the kinds of problems that can be solved by such techniques. You learn about the philosophy of AI, how knowledge is represented and algorithms to search state spaces. The module also provides an introduction to both machine learning and biologically inspired computation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO328 - Human Computer Interaction
+
+      
+      
+       This module provides an introduction to human-computer interaction. Fundamental aspects of human physiology and psychology are introduced and key features of interaction and common interaction styles delineated. A variety of analysis and design methods are introduced (e.g. GOMS. heuristic evaluation, user-centred and contextual design techniques). Throughout the course, the quality of design and the need for a professional, integrated and user-centred approach to interface development is emphasised. Rapid and low-fidelity prototyping feature as one aspect of this.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+ You have the opportunity to select wild modules in this stage
+
+
+
+
+
+
+
+ 
+  Year abroad
+
+  
+   You spend a year either wholly or partly in Spain, or possibly in Latin America, between Stages 2 and 3. Normally you study at a Spanish university or work as a language assistant in a school. We have exchange agreements with universities in Barcelona, Zaragoza, C&oacute;rdoba, Alicante, Madrid, Deusto (Bilbao) and Oviedo as well as with the University of Montevideo (Uruguay) and Universidad Cat&oacute;lica (Lima, Peru).
+  
+
+
+     
+Possible modules may include: 
+
+
+                    
+      LA514 - Year Abroad Module
+
+      
+      
+       Students either study at a relevant foreign university or work (either as teaching assistants or in some other approved capacity).
+
+       Credits: 120 credits (60 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+   
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      LS506 - Learning Spanish 5
+
+      
+      
+       This is a final year language module based on translation and interpreting from Spanish into English and from English into Spanish.   The aims of the module are to enhance knowledge and awareness of some of the subtleties of the Spanish language by a close study of a range of texts from different sources while developing new oral and aural skills by means of on-the-spot translation and interpreting.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      CO600 - Project
+
+      
+      
+       The project gives you the opportunity to follow and develop your particular technical interests, undertake a larger and less tightly specified piece of work than you have before (at university), and develop the project organisation, implementation and documentation techniques which you have learnt in other modules. The technical and professional aspects of project courses are seen as particularly important by both employers (who will often bring them up in interviews) and by professional bodies.The project may be self-proposed or may be selected from a list of project proposals. Typically, a project will involve the specification, design, implementation, documentation and demonstration of a technical artefact. The project is supervised by a member of the academic staff, who holds weekly meetings with the group, during which s/he will give general advice and will assess the progress of the group and the contributions by individual students. Project deliverables are:- a technical report, in the style of an academic paper, describing the scientific/technical outcome of the project; - a well-indexed corpus of material that supports the achievements claimed. In addition, each individual prepares a report outlining his/her contributions to each of the various aspects of the project. This report should not be a repeat of other material delivered as part of the project, but an assessment of the progress of the project and reflections on what the individual has learnt from undertaking it. In particular, it should include a description of the particular activities and outcomes that individual has contributed to the project, and of how the group worked together. This report will be discussed at a viva voce examination which should include a short presentation/demonstration of the project. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO620 - Research Project
+
+      
+      
+       The project gives you the opportunity to follow and develop your particular technical interests, undertake a larger and less tightly specified piece of work than you have before (at university), and develop the project organisation, implementation and documentation techniques which you have learnt in other modules. The technical and professional aspects of project courses are seen as particularly important by both employers (who will often bring them up in interviews) and by professional bodies.The project may be self-proposed or may be selected from a list of project proposals. Typically, a project will involve the specification, design, implementation, documentation and demonstration of a technical artefact. The project is supervised by a member of the academic staff, who holds weekly meetings with the group, during which s/he will give general advice and will assess the progress of the group and the contributions by individual students. Project deliverables are:- a technical report, in the style of an academic paper, describing the scientific/technical outcome of the project; - a well-indexed corpus of material that supports the achievements claimed. In addition, each individual prepares a report outlining his/her contributions to each of the various aspects of the project. This report should not be a repeat of other material delivered as part of the project, but an assessment of the progress of the project and reflections on what the individual has learnt from undertaking it. In particular, it should include a description of the particular activities and outcomes that individual has contributed to the project, and of how the group worked together. This report will be discussed at a viva voce examination which should include a short presentation/demonstration of the project. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      LS580 - Barcelona and Havana: Icon, Myth and History
+
+      
+      
+       This module focuses on the cultural history of Barcelona and Havana the iconic capitals of Catalonia and Cuba. Many of the key events and movements of the past century are intimately linked to these two cities, from the collapse of the Spanish Empire and the birth of the new the Latin-American republics, the emergence of nationalism, the development of alternative modes of self-government and their engagement with modernity. Changes and continuities in the political, social and physical topography of Barcelona and Havana will be traced by studying representations of both cities in a range of texts and films from the mid twentieth to the early twenty-first century. Alongside feature films and prose genres such as short stories and reportage, the module will also consider theoretical texts on the city and the contribution of urban life to modern Hispanic culture. Central themes are the interplay of the individual and the collective, urban anonymity and liberation versus alienation and uniformity, multiculturalism and migration.Subject to change pending faculty approval
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS550 - Reading Monstrosity in Iberian Culture
+
+      
+      
+       This module will take a close look at the figure of the monster in Iberian culture, ranging from medieval considerations of the monster in bestiaries to eighteenth-century medical treatises on monstrous forms to twentieth-century depictions of monsters. We will focus on the historical context out of which a particular meaning of the monster emerges. In order to do so, the course will draw upon high and popular culture, a variety of disciplines, and a variety of media (literature, prints, paintings, films). Discussions will be supplemented with relevant historical, critical or theoretical readings. The monster in this course will be an interpretative model for an understanding of how notions such as normalcy, beauty, the classical body are constructed and will enable us to look at issues of otherness, gender, and race. This module is taught in English
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      SCL501 - Languages in the Classroom
+
+      
+      
+       The student will spend one half-day per week for ten weeks in a school. They will observe sessions taught by their designated teacher and possibly other teachers. Later they will act to some extent in the role of a teaching assistant, by helping individual pupils who are having difficulties or by working with small groups. They may take hotspots: brief sessions with the whole class where they explain a language topic or talk about aspects of University life. They must keep a weekly online journal. Some travel may be required by students taking this module.  In this instance, it should be noted that the University is unable to cover the cost of any such journey.This module is subject to change, pending faculty approval. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS563 - Terrorism and State Terror in Latin America
+
+      
+      
+       This module explores the difficult experiences of terrorism and state terror in Latin America though films and documentaries. Between 1970s and 1990s Argentina, Chile, Central America and Peru lived through extreme instances of insurgency and state sponsored violence. The course will examine the tensions in society brought by these experiences as well as the efforts to come to terms with these memories. The reports produced by the various commissions that sought truth and redress from the 1980s to the present will be the main tests to accompany the course.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      LS567 - Final Year Dissertation
+
+      
+      
+       Final year students write a dissertation of 9,000-10,000 words on a topic of their own choice. The topic must be on a Hispanic (Peninsular or Latin American) literary, linguistic or cultural subject; it is expected that the topic will be related to other Hispanic Studies modules taken by the student. Throughout the two terms students are given guidance by a chosen supervisor. The supervisor and the student will establish a calendar of meetings / supervisions in Week 1 (at least 8 one-hour meetings) in which aims and objectives, critical approach, bibliography and drafts of the dissertation will be discussed.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO328 - Human Computer Interaction
+
+      
+      
+       This module provides an introduction to human-computer interaction. Fundamental aspects of human physiology and psychology are introduced and key features of interaction and common interaction styles delineated. A variety of analysis and design methods are introduced (e.g. GOMS. heuristic evaluation, user-centred and contextual design techniques). Throughout the course, the quality of design and the need for a professional, integrated and user-centred approach to interface development is emphasised. Rapid and low-fidelity prototyping feature as one aspect of this.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO528 - Introduction to Intelligent Systems
+
+      
+      
+       This module covers the basic principles of machine learning and the kinds of problems that can be solved by such techniques. You learn about the philosophy of AI, how knowledge is represented and algorithms to search state spaces. The module also provides an introduction to both machine learning and biologically inspired computation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO527 - Operating Systems and Architecture
+
+      
+      
+       This module aims to provide students with a more in-depth understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. It will consider systems other than the standard PC running Windows, in order to broaden students outlook. The module has two strands: Operating Systems and Architecture, which each form around 50% of the material.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO518 - Algorithms, Correctness and Efficiency
+
+      
+      
+       Testing, specification, verification Specifying test properties, and more general logical properties Scaling testing Pre- and post-conditions, Hoare Logic, loop invariantsData and Algorithm Design Dynamic data structures: trees, queues, heaps and priority queues; Sorting and searching algorithms, both in their own right and as components of more complex algorithms; Graph algorithms: depth and breadth-first search, union-find, minimal-cost spanning trees;Estimation and efficiency Informal estimation and approximate calculations; Detailed analysis of the time complexity of some simple algorithms including best, worst and average behaviour; Techniques for analysing and comparing the asymptotic behaviour of algorithms.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO532 - Database Systems
+
+      
+      
+       This module provides an introduction to the theory and practice of database systems. It extends the study of information systems in Stage 1 by focusing on the design, implementation and use of database systems. Topics include database management systems architecture, data modelling and database design, query languages, recent developments and future prospects.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO539 - Web Development
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO636 - Cognitive Neural Networks
+
+      
+      
+       In this module you learn what is meant by neural networks and how to explain the mathematical equations that underlie them. You also build neural networks using state of the art simulation technology and apply these networks to the solution of problems. In addition, the module discusses examples of computation applied to neurobiology and cognitive psychology.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO643 - Computing Law and Professional Responsibility
+
+      
+      
+       The scope of the module is outlined below. Note that topics will not necessarily be delivered in this orderProfessional issues and professional organisations. Data privacy legislation, and other UK laws relating to the professional use of computer systemsCriminal law relating to networked computer use, including new Anti-Terrorism legislation; and their applicationIntellectual Property Rights, including Copyright, Patent and Contract LawsHealth & Safety issues. Computer-based Projects, including the vendor-client relationship and professional responsibilities
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO637 - Natural Computation
+
+      
+      
+       This module enables students to take ideas from the natural sciences and use them as inspiration for new computational techniques.  You examine developments in biological-inspired computation and other areas such as bioinformatics.  There is also a practical element to the module; you gain knowledge of a widely-used computing paradigm  genetic algorithms (GA).  Topic covered include evolutionary computation, swarm intelligence and artificial immune system
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO641 - Computer Graphics and Animation
+
+      
+      
+       Computer graphics and animation are important for a variety of technical and artistic applications including web design, HCI and GUI development, games and simulations, digital photography and cinema, medical and scientific visualization, etc.This module introduces the subject from the perspective of computing. You will learn about technologies and techniques for modelling, manipulating, capturing, displaying and storing 2D and 3D scenes, digital images, animations and video. You will also gain practical experience of 3D modelling and animation tools and of implementing digital imaging techniques in Java.Digital Imaging and Video:Human visionColour modelsImages, video and 3DCapture and displayEnhancement and conversionFormats and compression (e.g. GIF, JPEG, MPEG)Computer Graphics:Graphics pipeline3D object and scene modelling with polygon meshesTransformationsProjection, clipping and visible surface determinationIllumination and shadingRay tracing and photorealismComputer Animation:Key-frame animationWarping and morphingArticulated figuresKinematics, dynamics and collision detectionParticle systems and flockingComputer-generated human characters and video-realism
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO646 - Computing in the Classroom
+
+      
+      
+       Students will spend one half-day per week for ten weeks in a school with a nominated teacher. They will observe sessions taught by their designated teacher and possibly other teachers. Later they will act somewhat in the role of a teaching assistant, by helping individual pupils who are having difficulties or by working with small groups. They may take hotspots: brief sessions with the whole class where they explain a technical topic or talk about aspects of university life. They must keep a weekly log of their activities. Each student must also devise a special project in consultation with the teacher and with the module convener. They must then implement and evaluate the project.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
