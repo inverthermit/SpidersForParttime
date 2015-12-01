@@ -18,11 +18,12 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 
 import java.util.*;
 
-public class POIReadAndPost {
+public class POIReadAndPostFile {
 	
-	public static String StructureDir="C:\\Users\\Administrator\\Desktop\\wyl\\structure_ug";
+	public static String StructureDir="";
 
-	public static String filepath="D:\\MANCHESTER\\ManchesterPostFixed.xls";
+	public static String rootpath="D:\\KCL\\Post";
+	public static String filepath="\\KCLPostFixed.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -36,7 +37,7 @@ public class POIReadAndPost {
 	public static List<Major> getData(String[] args) throws Exception  {
 		// TODO Auto-generated method stub
 		
-		InputStream is = new FileInputStream(filepath);
+		InputStream is = new FileInputStream(rootpath+filepath);
         HSSFWorkbook hssfWorkbook = new HSSFWorkbook(is);
             HSSFSheet hssfSheet = hssfWorkbook.getSheetAt(0);//The first Sheet.
         
@@ -62,11 +63,11 @@ public class POIReadAndPost {
             major.setType(String.valueOf(hssfRow.getCell(3)));
             major.setApplicationFee(String.valueOf(hssfRow.getCell(4)));
             major.setTuitionFee(String.valueOf(hssfRow.getCell(5)));
-            major.setAcademicRequirements(String.valueOf(hssfRow.getCell(6)).replace("\r", "").replace("\n", ""));
+            major.setAcademicRequirements(String.valueOf(getStructureFromFile(rootpath+"//entry//"+String.valueOf(hssfRow.getCell(6))).replace("\r", "").replace("\n", "")));
             major.setIELTS_Avg(String.valueOf(hssfRow.getCell(7)));
             major.setIELTS_Low(String.valueOf(hssfRow.getCell(8)));
-            major.setStructure(splitStructure(String.valueOf(hssfRow.getCell(9))));
-            //major.setStructure(splitStructure(getStructureFromFile(String.valueOf(hssfRow.getCell(9)))));
+            //major.setStructure(splitStructure(String.valueOf(hssfRow.getCell(9))));
+            major.setStructure(splitStructure(getStructureFromFile(rootpath+"//structure//"+String.valueOf(hssfRow.getCell(9)))));
             major.setLength(String.valueOf(hssfRow.getCell(10)));
             major.setMonthOfEntry(String.valueOf(hssfRow.getCell(11)));
             
@@ -111,7 +112,7 @@ public class POIReadAndPost {
 	}
 	
 	public static String getStructureFromFile(String fileName) throws IOException{
-		File file=new File(StructureDir,fileName);
+		File file=new File(fileName);
 		FileInputStream fis=new FileInputStream(file);
 		byte[] bytes=new byte[fis.available()];
 		fis.read(bytes);
@@ -143,7 +144,7 @@ public class POIReadAndPost {
 			//if(line.equals("Programme Year One")||line.equals("Programme Year Two")||line.equals("Programme Year Three")||line.equals("Programme Year Four")||line.equals("Final Year"))//Final Year
 			//if(line.contains("Year 1")||line.contains("Year 2")||line.contains("Year 3")||line.contains("Year 4")||line.contains("Year 5")||line.contains("Final Year"))//Final Year
 			//if(line.equals("First year")||line.equals("Second year")||line.equals("Third year")||line.equals("Fourth year")||line.equals("Final Year"))//Final Year
-			/*if(line.equals("Year 1")
+			if(line.equals("Year 1")
 					||line.equals("Year 2")
 					||line.equals("Year 3")
 					||line.equals("Year 4")
@@ -153,15 +154,7 @@ public class POIReadAndPost {
 					//||line.contains("In your second year, you will")
 					//||line.contains("In your third year you will")
 					//||line.contains("In your final year, you will")
-					)//Final Year
-					
-*/			if(line.equals("Course content for year 1")
-		||line.equals("Course content for year 2")
-		||line.equals("Course content for year 3")
-		||line.equals("Course content for year 4")
-		||line.equals("Course content for year 5")
-		||line.equals("Course content for year 6")
-		)				
+					)			
 			{
 				if(index!=0)
 				{

@@ -12,7 +12,7 @@ import java.util.List;
 import net.sf.json.JSONObject;
 
 public class Delete {
-	private static String postUrl = "http://myoffer.cn/external/api/courses";
+	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
 	private static int index=1;
 	/**
 	 * @param args
@@ -42,7 +42,7 @@ public class Delete {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AIdozs4s7UN9nU_JXTP-4INvvJmmmtMuV.21Ks8IOVjwi%2BiLDhee1U0C4GLE1yUj05PooVObvilIM; CNZZDATA1256122972=1789449401-1440137143-%7C1441764565");
+	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3Ae3mzxcPAmrNwJ2Ram7A9JQ2H3SY23f-z.UsOvPrYxrjkVVWH8zRNNHxsI%2BoqhH0umktVM8nW7Su8; CNZZDATA1256122972=1789449401-1440137143-%7C1448240003");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");

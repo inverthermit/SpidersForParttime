@@ -93,10 +93,6 @@ public class getURL {
 			{
 				System.out.println("Retry");
 			}
-			
-			
-	    	    
-	        
 		}
 		System.out.println("DONE.");
 		

@@ -20,10 +20,10 @@ import net.sf.json.JSON;
 import net.sf.json.JSONObject;
 import net.sf.json.util.JSONStringer;
 
-public class Add {
+public class AddFile {
 	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
 
-	private static int index=1;
+	private static int index=387;
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -31,8 +31,8 @@ public class Add {
 	public static void main(String[] args){
 		// TODO Auto-generated method stub
 		try {
-			List<Major> list=POIReadAndPost.getData(null);
-			for(;index<=300;){
+			List<Major> list=POIReadAndPostFile.getData(null);
+			for(;index<=391;){
 				add(postUrl,list.get(index-1));
 			}
 		} catch (Exception e) {
@@ -127,7 +127,7 @@ public class Add {
 		   		course.put("scholarship", scholarshipList);
 		   	
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "MANCHESTER");
+		    value.put("university", "KCL");
 		    value.put("course", course);
 		   	entry.put("value", value);
 		   	//System.out.println(entry.toString());
