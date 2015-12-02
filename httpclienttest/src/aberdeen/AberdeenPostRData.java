@@ -33,7 +33,7 @@ import org.htmlparser.util.NodeList;
 import org.htmlparser.visitors.HtmlPage;
 
 
-public class AberdeenPostData {
+public class AberdeenPostRData {
 
 	/*
 	 FEE: http://www.abdn.ac.uk/study/international/tuition-fees-and-living-costs-287.php
@@ -43,7 +43,7 @@ public class AberdeenPostData {
 	
 	
 	public static int MAX_THREAD=1;
-	public static String[][] Data=aberdeen.getURL.PostData1;
+	public static String[][] Data=aberdeen.getURL.PostData2;
 	public static String FILE_PATH="d:\\ABERDEEN";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -327,7 +327,7 @@ public class AberdeenPostData {
 		          parser=Parser.createParser(htmls, "utf-8");
 		          String entryAll="";
 		      	    AndFilter EntryFilter2=new AndFilter(new TagNameFilter("div"),
-		                      new HasAttributeFilter("id","panel4"));
+		                      new HasAttributeFilter("id","panel1"));
 		              NodeList nodesE = parser.extractAllNodesThatMatch(EntryFilter2);
 		              //String Structure="";
 		              if(nodesE.size()>0)
@@ -343,6 +343,7 @@ public class AberdeenPostData {
 		          	    	entryAll=HTMLFilter(entryAll);
 		          	      
 			                result.put("Academic Entry Requirement",entryAll);
+			                result.put("Type",GetType(entryAll));
 		          	    	break;
 		          	    }
 		              }
@@ -371,7 +372,7 @@ public class AberdeenPostData {
 		        result.put("Level", "Postgraduate");
 				result.put("Scholarship", "");
 				result.put("Title",url[2]);
-			    //result.put("Type",url[3]);
+			    
 			   
 				httpclient.close();
 		        return result;
@@ -390,7 +391,7 @@ public class AberdeenPostData {
 	}
 	public static String GetType(String input)//BA BEng Bsc Msc MEng 
 	{
-		String types="BA;BEng;BSc;BDS;BN;BVSc;MOSci;MESci;MEcol;MPhys;MMath;MMarBiol;MBChB;MChem;MSc;MEng;Double MA;Joint MA;MA;MArich;MBA;PG;Pg;EdD;MEd;Postgraduate Diploma;Postgraduate Certificate;Doctorate;Graduate Certificate;LLM;LLB;GradDip;MTh;MRes";
+		String types="BA;BEng;BSc;BDS;BN;BVSc;MOSci;MESci;MEcol;MPhys;MMath;MMarBiol;MBChB;MChem;MSc;MEng;Double MA;Joint MA;MA;MArich;MBA;PG;Pg;EdD;MEd;Postgraduate Diploma;Postgraduate Certificate;Graduate Certificate;LLM;LLB;GradDip;MTh;MRes;MPhil;PhD;Doctorate";
 		
 		String[] array=types.split(";");
 		for(int i=0;i<array.length;i++)
