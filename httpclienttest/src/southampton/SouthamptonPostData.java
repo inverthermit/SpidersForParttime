@@ -33,7 +33,7 @@ import org.htmlparser.filters.TagNameFilter;
 import org.htmlparser.util.NodeList;
 import org.htmlparser.visitors.HtmlPage;
 
-public class SouthamptonUnData {
+public class SouthamptonPostData {
 
 	/**
 	 * @param args
@@ -43,7 +43,7 @@ public class SouthamptonUnData {
 	
 	 */
 	public static int MAX_THREAD=60;
-	public static String[][] Data=southampton.getURL.UnData2_2;
+	public static String[][] Data=southampton.getURLPostT.PostData1;
 	public static String FILE_PATH="d:\\SOUTHAMPTON";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
