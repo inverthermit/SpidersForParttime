@@ -50,7 +50,6 @@ FileInputStream fis=new FileInputStream(new File("./aberdeenPost.html"));//é‚æ
 	   	    	    count++;
 	   	    	}
 	   	    	System.out.println(get1);
-	   	    	
 	   	    	break;
 	   	    }
 	   	    
