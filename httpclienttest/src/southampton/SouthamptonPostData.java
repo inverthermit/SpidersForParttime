@@ -43,7 +43,7 @@ public class SouthamptonPostData {
 	
 	 */
 	public static int MAX_THREAD=60;
-	public static String[][] Data=southampton.getURLPostT.PostData1;
+	public static String[][] Data=southampton.getURLPostT.PostDataECS;
 	public static String FILE_PATH="d:\\SOUTHAMPTON";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -107,7 +107,7 @@ public class SouthamptonPostData {
 						String[] data= getUnhandledURL();
 						if(data!=null)
 						{
-							HashMap<String,String> DataMap=SouthamptonGetDetails(data);
+							HashMap<String,String> DataMap=SouthamptonGetDetails2(data);
 							putIntoWorkbook(DataMap,Integer.parseInt(data[0]));
 							System.out.println(data[0]+" done.");
 						}

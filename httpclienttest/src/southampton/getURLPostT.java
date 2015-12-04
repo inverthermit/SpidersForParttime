@@ -120,12 +120,13 @@ public class getURLPostT {
 	    		System.out.println(a);
 	    	}
 	    }*/
-	    
+	    /*
 		for(int i=0;i<PostData1.length;i++)
 		{
 			System.out.println("{\""+(i+1)+"\",\""+PostData1[i]+"\",\"0\"},");
 		}
-		
+		*/
+		getUnECSInfo();
 
 	}
 	public static void getLinks() throws Exception
@@ -157,7 +158,7 @@ FileInputStream fis=new FileInputStream(new File("./southamptonPostT.html"));//�
 	}
 	public static void getUnECSInfo() throws Exception
 	{
-		FileInputStream fis=new FileInputStream(new File("./southamptonUn2.html"));//鏂板缓涓�涓狥ileInputStream瀵硅薄
+		FileInputStream fis=new FileInputStream(new File("./southamptonPostECS.html"));//鏂板缓涓�涓狥ileInputStream瀵硅薄
         
         byte[] b=new byte[fis.available()];//鏂板缓涓�涓瓧鑺傛暟缁�
         fis.read(b);//灏嗘枃浠朵腑鐨勫唴瀹硅鍙栧埌瀛楄妭鏁扮粍涓�
@@ -466,6 +467,26 @@ FileInputStream fis=new FileInputStream(new File("./southamptonPostT.html"));//�
 		"http://www.orc.soton.ac.uk/mscof.html",
 		"http://www.orc.soton.ac.uk/mscprogramme.html",
 		"https://www.sbs.ac.uk/postgraduate"
+	};
+	
+	public static String[][] PostDataECS={
+		{"1","http://www.ecs.soton.ac.uk/programmes/european-masters-embedded-computing-systems-emecs","European Masters in Embedded Computing Systems (EMECS)","0"},
+		{"2","http://www.ecs.soton.ac.uk/programmes/msc-artificial-intelligence","MSc Artificial Intelligence","0"},
+		{"3","http://www.ecs.soton.ac.uk/programmes/msc-biodevices","MSc Biodevices","0"},
+		{"4","http://www.ecs.soton.ac.uk/programmes/msc_computer_science","MSc Computer Science","0"},
+		{"5","http://www.ecs.soton.ac.uk/programmes/msc-cyber-security","MSc Cyber Security","0"},
+		{"6","http://www.ecs.soton.ac.uk/programmes/msc-data-science","MSc Data Science","0"},
+		{"7","http://www.ecs.soton.ac.uk/programmes/msc-embedded-systems","MSc Embedded Systems","0"},
+		{"8","http://www.ecs.soton.ac.uk/programmes/msc-energy-and-sustainability-electrical-power-engineering","MSc Energy and Sustainability with Electrical Power Engineering","0"},
+		{"9","http://www.ecs.soton.ac.uk/programmes/msc-microelectromechanical-systems-mems","MSc MicroElectroMechanical Systems (MEMS)","0"},
+		{"10","http://www.ecs.soton.ac.uk/programmes/msc-microelectronics-systems-design","MSc Microelectronics Systems Design","0"},
+		{"11","http://www.ecs.soton.ac.uk/programmes/msc-nanoelectronics-and-nanotechnology","MSc Nanoelectronics and Nanotechnology","0"},
+		{"12","http://www.ecs.soton.ac.uk/programmes/msc-software-engineering","MSc Software Engineering","0"},
+		{"13","http://www.ecs.soton.ac.uk/programmes/msc-system-chip","MSc System on Chip","0"},
+		{"14","http://www.ecs.soton.ac.uk/programmes/msc-systems-control-and-signal-processing","MSc Systems, Control and Signal Processing","0"},
+		{"15","http://www.ecs.soton.ac.uk/programmes/msc-web-science","MSc Web Science","0"},
+		{"16","http://www.ecs.soton.ac.uk/programmes/msc-web-technology","MSc Web Technology","0"},
+		{"17","http://www.ecs.soton.ac.uk/programmes/msc-wireless-communications","MSc Wireless Communications","0"}
 	};
 	
 	public static String html2Str(String html) { 
