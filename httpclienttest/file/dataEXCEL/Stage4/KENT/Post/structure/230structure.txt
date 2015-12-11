@@ -1,0 +1,426 @@
+Course structure
+
+
+ The Kent MBA can be studied in one year of full-time study, or part-time over two to three years. As a part-time student you join current full-time students on 1-week long programme modules.
+
+
+
+
+ Modules
+
+
+ The course structure is based on the current curriculum and may change year to year in response to new developments and innovation.   You are required to study a combination of compulsory and optional modules.
+
+Compulsory modules: Introduction to Strategy, Accounting and Financial Management, Contemporary Issues in Strategic Management, International Business, Applied Business Modelling, Leadership and Change, Managing Processess, Marketing Analysis and Planning, The Fundamentals of Corporate Finance    Investment, MBA  Business Report, MBA Management Skills and Career Development Report.
+
+Optional modules: Innovation Management and New Product Development, International Marketing,   A Systems Approach to Managing Complexity, Entrepreneurship.
+
+
+ 
+
+      
+   CB9035 - Applied Business Modelling
+
+
+   
+    The module aims: To understand the nature and importance of business and management modelling in practice. To appreciate the use of modern scientific management techniques and how real-world systems may be represented and solved quantitatively using computer software such as Excel Solver. To recognise managerial problems that can be modelled and analysed using quantitative techniques.The module will be covered from the following topics: The applications of suitable management science models for marketing, finance and production management, among others.  Analysing Complex Decisions: How to determine optimal strategies in situations involving several decision alternatives? Transportation and Networks Design: transportation systems; assignment problems; shortest route (e.g. ambulance service routing); maximum flow (e.g. shipping); minimum spanning tree (e.g. computer/telephone networks). Forecasting Techniques: Time series models; Regression analysis, etc. Managing Complex Projects: planning large projects; resource scheduling; cost scheduling; material management and inventory control (e.g. how much to order and when to order decisions).
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB9062 - Leadership and Change
+
+
+   
+    Leadership can be defined as the capacity to influence people, by means of personal attributes and/or behaviours to achieve a common goal. Leadership is not just about the qualities of an elite few, although the leadership skills of chief executives and their teams are of fundamental importance for organisations. Leadership and management is a highly contextual and contingent activity. Change management is effectively the implementation of corporate strategy, yet there is research evidence that there is a lack of change management capacity and capability within organisations in general.  This module aims to familiarise students with major contemporary research evidence on effective approaches to leadership and development practice. Particular approaches to leadership (transactional/transformational leadership, authentic leadership, power and influence), an understanding of management approaches, teaching and research focusing on the links between people management practices and positive organisational outcomes will be covered, alongside research highlighting major contemporary changes and developments in practice. There will also be discussions and debates in the specific fields of leadership, change management and leadership development. Contemporary topics such as ethical leadership, diversity and leadership (covering topics such as women leaders, multicultural leadership) and case studies on leadership in public and private sectors will be covered. Students will also be informed in HR matters such as managing others fairly and effectively, increasing levels of engagement, commitment, motivation and performance.  
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB943 - Managing Processes
+
+
+   
+    The aims of the module are: To understand the importance of customer orientation and its strategic and operational role in gaining competitive advantage. To understand the inter-relationship between operations and marketing. To develop a capacity for analysing and improving operating problems. To understand the role of information systems and their impact on organisations. To appreciate how quality and speed can improve process effectiveness. To provide an opportunity to develop group working skills and the ability to present and debate an argument and to develop personal learning skills.Key processes in operations management in services and manufacturing: Steering operations to achieve the organisations strategy.  Designing processes, products and services. Planning and controlling ongoing operations. Developing operations capabilities.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB944 - Marketing Analysis and Planning
+
+
+   
+    Topics in this module will include: A Marketing Orientation and Identifying Marketing Opportunities Understanding Customers and Competitors Product and Brand Management Channels of Distribution Pricing Communicating with Customers Marketing Strategy and Planning
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB945 - Contemporary Issues in Strategic Management
+
+
+   
+    The aims of the module are: To review critically current theories and frameworks of strategic management. To apply these approaches to a variety of organisations, industry contexts and markets. To examine the relevance of strategic management thinking to practitioners.The module content will include:Part One: Core Theory Defining strategy Strategy process and strategic objectives   Determinants of strategy  external and internal environment Business level strategy Corporate level strategyPart Two: Global level strategies Defining global strategy Determinants of global level strategy  external and internal environmentPart Three: Strategy Implementation and Development Organizing Strategic control and leadership
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB946 - International Business
+
+
+   
+    The aims of the module are: To analyse the complexity and diversity of the international business environment. To evaluate major trade and foreign direct investment theories and concepts. To investigate the modern multinational enterprise, its evolution and investigate the subsidiary mandates. To offer practical solutions and policy design to the problems faced by the international business community.The module content will include: Introduction - The Global Environment International Trade and Foreign Direct Investment Theories Location, Risk Analysis and Multinational Enterprises Gaining Global Competitiveness Global Finance - Integration in Global Markets Cross Cultural Management Technology and Innovation in International Business Corporate Social Responsibility and International Business Multinational Enterprises and Economic Development Foreign Direct Investment and Governments
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB942 - Accounting and Financial Management
+
+
+   
+    This module will cover: The background to financing, investment and distribution decisions. Types of finance: their varying rights and costs. Sources of finance. Financial reporting: importance, concepts and regulation. Financial statements and their interpretation. Planning, budgeting and control systems. Strategic management and accounting. Investment appraisal and determining the cost of capital. Business valuation M&A.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB964 - The Fundamentals of Corporate Finance &   Investment
+
+
+   
+    The study of finance concerns investment, financing and distribution decisions. This module considers some fundamentals of these aspects from the perspective of a management environment. It begins by considering the impact of risk on investment appraisal. This theme is continued with the analysis of possible diversification via Portfolio Theory which is then further developed to the consideration of a Pricing Model.The financing of an investment opportunity can significantly influence its viability and future potential. Students will consider the characteristics of and some valuation approaches to various sources of finance. In addition, participants will be introduced to the Capital Structure debate and its implications for management decision-making.The module provides understanding of the financial market environment in which companies operate. Various aspects of the efficiency of financial markets and some of the implications thereof are investigated. Students are made aware of and will contribute to the consideration of problems faced by corporations when operating within a stock market. The module further develops analytical skills via the application of valuation models to a range of finance sources.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB990 - A Systems Approach to Managing Complexity
+
+
+   
+    The world in which we live is becoming increasingly complex. This is manifest in both in the speed of change that we face, and in the increasing inter-connectedness of areas that we manage. A further facet of this complexity is the plurality of viewpoints and values with which we have to deal.One particular discipline - the systems approach - has developed explicitly in response to the complexity of the world. It leads us to view the world systemically or holistically rather than linearly. It is not purely academic, but a very practically oriented discipline which has developed a number of different methodologies that aim to help managers improve the problematic situations with which they have to deal.This module covers basic systems concepts, a range of practical methodologies, and some of the process skills necessary for their use.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB887 - Entrepreneurship
+
+
+   
+    This module seeks to explore the emergence and development of the discourse of enterprise and entrepreneurship over the past three decades and its impact on entrepreneurial behaviour. Developing an understanding of the enterprise discourse, provides individuals with access to a range of entrepreneurial resources which individuals/teams can draw on when setting up a business or working within large public and private organisations. Issues explored include: The development of enterprise and entrepreneurship Entrepreneurs as unique individuals Entrepreneurial teams Creativity  Identifying entrepreneurial opportunities Formalising opportunities Small business as an enterprise unit
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     CB9063      - Innovation Management and New Product Development
+
+
+     
+      Innovation Management (e.g. innovation typologies / degrees of innovation, models of innovation and innovation management);  Innovation Systems (e.g. people, leadership and organisation structures for innovation); Innovation Performance (e.g. determining how innovative an organization is); New Product Development (e.g. how to define and quickly implement concepts for new products, services and process).
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB949      - International Marketing
+
+
+     
+      The aims of this module are: To enhance the students awareness of some of the key concepts relating to international marketing. To prepare students for the challenges of international marketing and operating in such environments.The module will include an: Introduction of international marketing and globalisation. Analysis of the international economic environment. Obtaining awareness of the different political-legal issues facing firms. Examining different socio-cultural attributes. An understanding of international marketing intelligence. Consideration of different market entry techniques.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB9038      - MBA Management Skills and Career Development Report
+
+
+     
+      The module content will include the following core skills: Case Study Methodology Reading Skills Research Skills Literature Searching Masters Level Writing Skills Presentation Skills Working in Groups Career and Personal Development Planning
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB9039      - MBA Business Report
+
+
+     
+      The module content will include the following core skills: Preparing a report. Literature searching including the collection and referencing of data. Writing skills appropriate for a senior manager. Presentation skills. Career and personal development planning.
+
+
+      Credits: 30 credits
+       (15 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The programme involves a taught and a project component. The taught programme is assessed by a mixture of coursework assignments throughout the year, and by examinations in January and May/June.
+
+You must complete two reports, to apply the techniques and insights you have learned to a business scenario.
+
+ MBA Management Skills and Career Development Report
+
+ MBA Business Report
+
+
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ educate individuals as managers to improve the quality of management as a profession
+ provide career development opportunities for those with management experience, enhancing your business knowledge and understanding and professional competence
+ add value to a first degree, by developing an understanding and integrated and critical awareness of management and organisations, and assisting students in taking effective roles within them
+ develop your knowledge and understanding of organisations, the external context in which they operate and how they are managed
+ give you a range of cognitive, critical and intellectual skills, research skills and relevant personal and interpersonal skills
+ enable you to set and prioritise objectives, prepare, implement and monitor plans for the achievement of corporate objectives in the light of available and required resources
+ provide you with teaching and learning opportunities that are informed by high quality research and scholarship
+ bring scholarly and critical insights to bear on the subjects, activities and processes associated with the management of organisations
+ provide business education, the value and relevance of which is acknowledged via accreditation by AMBA, and future accreditation by EQUIS and AACSB
+ support national and regional economic success via the development opportunities offered by the programme, including those related to an understanding of international business practices
+ build on the close ties of the University with European institutions and elsewhere internationally
+ enhance the quality of applicants to Kent Business School programmes, both from the UK and overseas.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ the impact of contextual forces on organisations including: legal systems; ethical, economic, environmental, social and technological change issues; international developments; corporate governance
+ markets and customers: the development and operation of markets for resources, goods and services; expectations of customers and equivalent stakeholders; service and orientation
+ the concepts, processes and institutions in the production and marketing of goods and/or services; the management of resources and operations
+ the financing of the business enterprise or other forms of organisations; sources, uses and management of finance; use of accounting for managerial and financial reporting applications
+ the management and development of people within organisations; organisational theory, behaviour; industrial/employee relations, HRM, change management
+ the uses and limitations of a range of research methods/techniques, both qualitative and quantitative, and an understanding of their strengths and weaknesses for providing information and evaluating options in an uncertain organisational environment
+ the development, management and exploitation of information systems and their impact on organisations
+ the use of relevant communication and information technologies for application in business and management within a global knowledge-based economy
+ the development of appropriate business policies and strategies within a changing context to meet stakeholder interests
+ a range of contemporary and pervasive issues which may change over time. Illustrative examples include: innovation, creativity and enterprise, e-commerce, knowledge management, sustainability, business ethics, values and norms, globalisation.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ critical thinking and creativity; managing creative processes in self and others; organising thoughts; analysis, synthesis, critical appraisal - this includes the capability to identify assumptions, evaluate statements in terms of evidence, detect false logic or reasoning, identify implicit values, define terms adequately and generalise appropriately
+ learning through reflection on practice and experience
+ selecting, organising, developing and synthesising complex material
+ analysing problems and identifying appropriate solutions
+ planning, working and studying independently and using resources in a way which reflects best current practice and anticipated future practice
+ communicating and co-ordinating (or eventually leading) a team of multifunctional specialists.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ problem solving and decision making; establishing criteria; using appropriate decision techniques including identifying, formulating and solving business problems; the ability to create, identify and evaluate options; the ability to implement and review decisions
+ numeracy and quantitative skills including the use of models of business situations; qualitative research skills
+ leadership and performance management: selecting appropriate leadership style for situations; setting targets, motivating, monitoring performance, coaching, mentoring continuous improvement
+ ethical and value management: recognising ethical situations, applying ethical and organisational values to situations and choices
+ conducting research into business and management issues
+ appreciation of the role of senior management in any of the key functional areas of organisations and a potential ability to take on such a role within business
+ identifying, finding, recording, organising and manipulating knowledge relevant to the   development and management of organisations
+ identifying and deploying relevant resources for the achievement of organisational objectives
+ initiating and managing change by developing an awareness of threats, perception of opportunities and readiness to reconsider current practice rather than simply repeating past patterns.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ information and knowledge; scanning and organising data; abstracting meaning from information and sharing knowledge
+ effective use of Information and Communication Technology
+ two-way communication: listening, negotiating and persuading or influencing others; oral and written communication, using a range of media, including the preparation of business reports
+ personal effectiveness: self-awareness and self-management; time management; sensitivity to diversity in people and in different situations; the ability to continue learning
+ effective performance within a team environment and the ability to recognise and utilise others&rsquo; contributions in group processes; team selection, delegation, development and management. 

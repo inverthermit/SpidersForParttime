@@ -43,7 +43,7 @@ public class SouthamptonUnData {
 	
 	 */
 	public static int MAX_THREAD=60;
-	public static String[][] Data=southampton.getURL.UnData2_2;
+	public static String[][] Data=southampton.getURL.UnData1_4;
 	public static String FILE_PATH="d:\\SOUTHAMPTON";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

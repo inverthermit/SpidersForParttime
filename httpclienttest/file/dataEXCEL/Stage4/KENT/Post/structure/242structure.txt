@@ -1,0 +1,310 @@
+Course structure
+
+
+ The course is designed to train digital effects artists to work in industry. Our successful former   students are working in London and for international companies in areas ranging from television graphics to architectural visualisation. Although the thrust of the course is towards high end film special effects and animation, the standards and techniques you learn allow you to work in numerous other areas of digital effects.
+
+The primary industry jobs the course is oriented towards include: technical directors in assistant, creature development, lighting effects, look development roles, compositors in compositing, digital paint and roto roles, modellers and trackers/matchmovers. For a smaller project or company roles would include that of a 3D generalist, 3D artist, effects artist or compositor. These are not easy to achieve, as global competition is fierce and success depends on much better than average concentration and constant practise to grasp the essence and modern techniques of digital visual effects.
+
+Student profiles
+
+See what our students have to say
+.
+
+Showreels
+
+View examples of our students' work and showreels
+.
+
+We want you to succeed and work constantly to make sure our course delivers everything you need to know.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   EL837 - Professional Group Work
+
+
+   
+    This module is a group project which allows the student to work on a model of an actual animation job provided by our industrial partner. Each group produces an animation from established plates and models to a 4 week deadline. The student works with a model of a production pipeline, becoming familiar with the production process, chains of approval and departmental divisions.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL839 - Effects Animation
+
+
+   
+    This module is 15 credit module focused on a sequence of practical workshops which introduce the editing and compositing tools used on the course and is supported by a series of lectures concerned with high definition video technology. Students gain an understanding of the theory and standards of colour models, and how they are applied to motion imaging in video, HDTV and digital-cinema and become familiar with the relevant broadcast and compression standards that are used for high definition digital video. In addition, students work together in teams of 4 or 5 students to produce a short digital film which includes high definition video footage and composited effects.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL863 - Advanced 3D Modelling
+
+
+   
+    This module covers in depth inorganic or hard surface and organic modelling in 3D graphics applications. It includes exercises in NURBS and Sub Division modelling and texturing with UVs in Maya and Mudbox.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL864 - Pre-Visualisation
+
+
+   
+    Whilst the Visual Training module covers the understanding necessary for animating characters in single shots, this 15 credit module develops the understanding of, and ability to create planned continuity between shots in sequences - to be able to see and modify sequences of a final film before they are made. To be adept at this requires an in-depth knowledge of the language of film shooting and editing, its terminologies and practical usages. Students completing the module will be able to read and make a storyboard, animatic or previsualisation at a professional level. They will be able to adjust to different types of shooting in their construction of 3D scenes and will understand the professionally used technical terms and the methods used in film editing, to the extent necessary for 3D animators.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL867 - Technical Direction
+
+
+   
+    This 15 credit module is concerned with the use of lighting and shading for storytelling and visual communication. Students will gain an understanding of the fundamental, theoretical concepts in digital lighting as well as gain the necessary skills and experience to produce customized light and shading models which provide aesthetic possibilities not available from "off-the-shelf" packages. Undertaking this module students become expert in the use of the Mental Ray renderer.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL868 - High Definition Compositing
+
+
+   
+    This 15 credit module specifically addresses the technical and artistic requirements for compositing video and 3D elements at a high resolution. Compositing is the artistic blending of several disparate elements from a variety of sources into a single image while making all the component elements appear to be in the same light space and shot with the same camera. On successful completion of the module, working at a high definition resolution, you will be able to composite a moving digital video element from one or more clips seamlessly into another; change seamlessly lightings, camera moves and framings, colour balances and film textures on existing digital video clips; build and match camera movements of 3D environments from and to the 2D evidence in digital video clips; model, texture, animate and light a 3D computer graphics object for seamless compositing into a live action digital video clip.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL869 - Film and Video Production
+
+
+   
+    This module introduces students to the key elements of film form and film-making technique. It provides them with the opportunity to look at their MSc work within the broader context of film art, and to learn basic film-making skills including screenwriting, camerawork, sound recording, and editing. Classes will comprise a mixture of practical workshops and seminars focused on how film-makers uses specific cinematic techniques including narrative construction, visual composition, camera motion, colour, sound, and editing. Students will have a chance to experiment with these techniques by working in small groups to produce a short dramatic film work.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL831 - Digital Visual Art set-up
+
+
+   
+    Animation Setup is an intensive 4-week, 15 credit module at the start of the Programme which has been designed to get all students up to speed regarding the complicated technical processes that surround current animation practice. This module is concerned with the skills and procedures employed professionally including modelling, rigging, skinning, muscle dynamics, texturing and lighting and is undertaken as a set of practical exercises where the student creates a scene with four organic characters and a machine, to be composited in a DV shot. Delivery is by means of Lectures, Demonstrations, Workshops and Assessed Practical Assignments.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL870 - Visual Effects Project
+
+
+   
+    Each student uses all the experience gained on the course to produce a video short in high definition which showcases his or her professional visual effects skills and forms a suitable entree to a professional career.The subject, script, models and soundtrack of the piece are agreed with the academic staff, or is a project from an Industrial collaborator.
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Each module is assessed by practical assignments. The project work is assessed
+on the outcome of the project itself.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ enable you   to develop your knowledge and understanding within the field of digital visual effects, which will equip you to become a professional in the animation and visual effects Industry
+ train you in the requirements and skills needed for work in high definition
+ produce professionally-trained technical directors who are highly skilled in using state of the art 3D modelling and visual effects software
+ provide you with proper academic guidance and welfare support
+ create an atmosphere of co-operation and partnership between staff and students, and offer you an environment where you can develop your potential.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ the computer animation production process and pipeline roles
+ the principles and practices of animated film development
+ the technical terms and methods used in film editing
+ the fundamental concepts of digital video technology
+ current developments in the visual effects industry and related market sectors
+ the relevance of visual effects within the contemporary television and film industries
+
+
+contemporary business practice in the visual effects industry
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the analysis and interpretation of animation issues
+ the ability to work within an animation process and to contribute to this
+ the ability to identify and solve complex problems and issues in the generation of a complex visual effect
+ the ability to identify ideas for enhancing a production&rsquo;s aesthetic quality by the use of complex video effect
+ the ability to demonstrate independence and creative and critical thinking
+ the ability to evaluate creatively evidence to support conclusions.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the use of appropriate software tools, techniques and packages to produce and develop complex visual effects
+ the ability to use drawing as a way of planning, visualising and explaining work in a time-based medium
+ the ability to read and make storyboards and animatics at a professional level
+ the ability to apply management techniques to the planning, resource allocation and execution of a visual effects project
+ the ability to prepare reports and presentations relevant to the design and production of visual effects.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the ability to generate, analyse, present and interpret data
+ use of information and communications technology
+ personal and interpersonal skills, the exercise of initiative and personal responsibility as an individual and as a member of a team
+ an ability to communicate effectively in writing, verbally and through drawings
+ the ability for critical thinking, reasoning and reflection
+ the ability to manage time and resources within an individual and group project
+ the ability to learn effectively for the purpose of continuing professional development. 

@@ -1,0 +1,252 @@
+Course structure
+
+
+ Each one-hour lecture is supplemented by two hours of small-group seminars and workshops in which individual themes are explored in-depth. There are practical classes and mini-projects in which you design, produce and characterise a therapeutic protein with applications in therapy.
+
+In additional to traditional scientific laboratory reports, experience will be gained in a range of scientific writing styles relevant to future employment, such as literature reviews, patent applications, regulatory documents, and patient information suitable for a non-scientific readership.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   BI830 - Science at Work
+
+
+   
+    SummaryScience has a profound influence on professional practice in the private and public sector. This module considers the ways in which different professions interact with science and scientists, and how this influences the work they do. Their interaction with the public will also be discussed. A series of  speakers with diverse professional backgrounds (education, industry, government, policy making, the law, the media) will describe their work, the role of science in the profession, and the way in which science influences their actions and interactions with the public and other professions. This will relate to scientific content in a range of scientific contents, including cancer, reproductive medicine, biotechnology and healthcare.  This will be illustrated by case studies presenting challenges and dilemmas concerning the communication of science in the context of different professions and their target audiences.Themes and Topics The nature of public understanding and public engagement The current science communication landscape: existing schemes, government priorities, charitable organisations Review of recent surveys on public attitudes to science, scientists attitudes to communication, and related studies in the public domain Analysis of published science communication activities targeting different audiences  Analysis of evaluation strategies from surveys of the published literature Case studies of science communication from practitioners in different professions: TV, science writing, media relations, politics, lobbying
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI836 - Practical and Applied Research Skills for Advanced Biologists
+
+
+   
+    The module aims to develop understanding and practical skills in molecular biology, based around practical lab work, interactive seminars and complementary course work. The module will involve conducting a typical molecular biological lab project including the amplification, cloning and bacterial expression of a eukaryotic gene and characterisation of the resulting purified protein. The experimental work will be accompanied by interactive workshops and classes that review the theory of these techniques, and that will introduce complementary approaches not used in the lab. Students will learn skills in experimental design reviewing and discussing case studies relevant to their degree topic. They will also gain experience in analysis and statistical interpretation of complex experimental data.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI837 - The Molecular and Cellular Basis of Cancer
+
+
+   
+    This module will introduce the key mechanisms, processes and factors that underpin cancer development, including oncogenes, tumour suppressor genes, growth factor signalling and angiogenesis. It will review the different types of cancer and their global incidence, comparing this with environmental and cultural risk factors. Inherited predisposition will be covered within the context of specific cancers, and the clinical and pathological manifestation of specific tumours will be explored in lectures and in the practical class associated with the module. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI838 - Genomic Stability and Cancer
+
+
+   
+    This module introduces and develops knowledge in the key area of genome maintenance. Students will learn how loss of genomic integrity leads to enhanced cancer incidence, and how biological processes and the environment contribute to genetic instability. The cellular mechanisms that lead to cancer incidence, together with those that protect cells from the onset of carcinogenic processes will be reviewed. This module will also examine the use of DNA damaging agents in cancer therapies, and incorporate practical knowledge of investigating the cellular responses to DNA damage.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI839 - Targeted Cancer Therapies
+
+
+   
+    This module introduces and develops theoretical and practical knowledge of targeted therapies for the treatment of cancer, focussing on two different technologies: antibody-mediated targeting and gene therapy. In each category, the student will develop an in-depth knowledge of the current technology, and of the challenges that have been encountered  and in only some cases, overcome  in the transition from bench to bedside.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI840 - Translational Medicine: from the laboratory to the clinic
+
+
+   
+    The harnessing of scientific knowledge in the treatment of disease requires a complex series of highly regulated studies that must be performed under highly-regulated legal and ethical frameworks. This module reviews the transition from promising cancer therapy to fully realised therapeutic agent, using specific therapies as examples. It will also discuss the emerging potential for personalised medicine based on patient-specific molecular biomarkers.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   BI844 - MSc Cancer Biology Project
+
+
+   
+    Students will undertake an independent research project that will be designed by the student, in consultation with an academic supervisor, to address specific research questions. Students will be trained in key techniques relating to the project, and will work independently under the supervisors guidance to design and execute experiments that will address the questions formulated earlier. The students will spend approximately 16 weeks in the laboratory and with then write up their findings in the style of a scientific report for publication in a high impact factor scientific journal. They will present a poster and an oral presentation in research symposia arranged by the School. 
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The programme features a combination of examinations and practically focused continuous assessment, which gives you experience within a range of professional activities, eg, report writing, patent applications and public health information. The assessments have been designed to promote employability in a range of professional settings.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ provide an excellent quality of postgraduate-level education in the field of cancer, its biology and its treatment
+ provide a research-led, inspiring learning environment
+ provide a regional postgraduate progression route for the advanced study of a disease that affects a high proportion of the population
+ promote engagement with biological research into cancer and inspire you to pursue a scientific career inside or outside of the laboratory
+ develop subject specific and transferable skills to maximise employment prospects
+ promote an understanding of the impact of scientific research on society and the role for scientists in a range of professions.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ principles and application of key techniques in modern molecular bioscience
+ the molecular, cellular and physiological basis of cancer
+ key contributors to the onset of carcinogenesis
+ the interaction of genes and environment in the onset of cancer
+ current therapeutic strategies and their application in the treatment of different cancers
+ the basis for targeted treatment of specific cancer types
+ the processes and procedures by which scientific knowledge is translated to patient care
+ the way in which scientific knowledge is disseminated to different stakeholders: eg media, policymakers, and the public.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ research skills: how to formulate research questions and hypotheses to address scientific issues
+ analytical skills: interpretation of data, marshalling information from published sources, critical evaluation of your own research and that of others
+ information technology: use of appropriate technology to retrieve, analyse and present scientific information
+ statistical evaluation: the use of appropriate statistical analysis methods in handling scientific data .
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ experimental skills: how to design experiments to address specific research questions and hypotheses
+ practical skills: key techniques in modern molecular biology and their application in molecular bioscience to solve research problems
+ data handling: how to record experimental procedures and data appropriately using good laboratory practice
+ presentation of scientific research: how to write research articles in an appropriate style in keeping with high-impact-factor scientific journals, and posters and oral presentation for conferences and symposia
+ science writing: how to present scientific information to scientific and non-scientific audiences
+ careers: a recognition of career opportunities for scientists outside the laboratory.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ communication: the ability to organise information clearly, present information in oral and written form, adapt presentation for different audiences
+ reflection: make use of constructive informal feedback from staff and your peers and assess your own progress to enhance your performance and personal skills
+ self-motivation and independence: time and workload management in order to meet personal targets and imposed deadlines
+ team work: the ability to work both independently and as part of a research group using peer support, diplomacy and collective responsibility. 

@@ -1,0 +1,505 @@
+Course structure
+
+
+ You study six compulsory modules and two optional modules. The compulsory modules are: Introduction to Logistics and Supply Chain Management, Warehousing and Transport Management, Contemporary Issues in Logistics and Supply Chain Management, Management of Operations, Spreadsheets and Decision Support Systems, Data Mining and Forecasting and a Dissertation in Logistics and Supply Chain Management.
+
+You benefit from project work, live case studies with real organisations, including a visit to a company, and guest lectures that may enhance your employability.
+
+
+
+
+ Modules
+
+
+ The course structure below provides a sample of the modules available for this programme. Most programmes require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may explore other subject areas of interest to you or that may further enhance your employability.
+
+Based on sector research and curriculum developments, we intend to offer the following innovative new module on this programme from 2015/16, subject to availability:
+
+CB9027 - New Product Development and Innovation Management
+
+The following modules are offered to our current students. This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation:
+
+
+ 
+
+      
+   CB921 - Spreadsheets and Decision Support Systems
+
+
+   
+    The aim of this module is to enable students to use spreadsheets (Microsoft Excel) to structure, analyse and solve a variety of managerial problems. It will also provide the students with a basic knowledge of Visual Basic for Applications (VBA) as a means to automate methods and models, and create decision support systems.The module is divided into two main parts outlined below:Spreadsheet Modelling - this part will involve: Learning about modelling techniques to represent the real world in a structured and logical way How to use basic and advanced spreadsheet facilities (e.g. sorting, ranges, look-up tables, formatting, plotting graphs, optimisation tools, statistical functions) How to use spreadsheets to structure, analyse and solve managerial problems (e.g. scheduling, stock control, optimization, forecasting, financial analysis, project management)VBA Programming - this part will focus on the study of Visual Basic for Applications as a means to automate methods and models and create special decision support systems. It will include:  VBA fundamentals Using VBA within Excel Developing VBA applications for Management Science (e.g. employee scheduling, production scheduling, portfolio optimization, network flow problems, and statistical applications) Build simple graphical user interfaces.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8023 - Contemporary Topics in Logistics and Supply Chain Management
+
+
+   
+    The broad areas include some of the following which are taught by 3-4  members of staff which may include visiting professors and these may vary from year to year:- Research Skills* (this is a compulsory part which will run every year by KBS members)- Green and reverse Logistics and its effect on the environment  - Location analysis under a multi criteria planning- Humanitarian Logistics  (operation planning in crisis and disaster relief operations)- Network design and its resilience to changes- Routing and scheduling problems including real time rescheduling and waste management- GIS (its uses, hardware and software for GIS) and its integration within transport Other related topics in logistics (pricing, environmental issues, sale management, etc.)
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB9040 - Data Mining and Forecasting
+
+
+   
+    Detecting differences between groups: 
+Testing for normality, choosing the most appropriate test, interpreting the resultsClassification and cross-classifications: 
+Measures of association; Goodman-Kruskals gamma; Chi-square testsData reduction and exploration: 
+Principal components; factor analysis; cluster analysis; property-fitting.Forecasting methods: 
+Moving averages, exponential smoothing and measures of forecasting accuracyDrivers of Change in Sales Demand: 
+Managing weather and seasonal changes in sales demandThe computer package SPSS will be used for this course including EXCEL in some occasions.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB9058 - Warehousing and Transport Management
+
+
+   
+    The module consists of the following parts.Warehousing/Storage: The Warehouse Location Layout problemWarehousing (bin packing, packaging, marking/labelling, etc)Inventory management Distribution Freight Transportation (air, sea, railroads, trucks, motorbikes/bicycles, pipelines, others)A Brief on the techniques used (routing methods, shortest paths, transport, flows)A Brief on transport/road technology including software and hardware (trucking devices, software used, etc)Transport modelling and its impact on the environment and safety (multi-objective models between cost, environment or risk)
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB932 - Management of Operations
+
+
+   
+    The aims of the module are to: Review how operations can deliver real competitive advantage. Review the overall operations management task, market issues and the development of business and operations strategies, and the management of people. Develop a capacity for analysing operating problems, using the appropriate techniques to improve the operations functions. Allow students to develop their personal learning skills, group working skills, and their ability to critically analyse the techniques used within operations management taking account of the organisational context.Topics to be covered will include: Managing operations in the manufacturing and service sector; the operations managers task and role. Operations strategy, levels of strategy; linking the different levels of strategies through markets. Designing and developing services, products and delivery systems to achieve strategic objectives. Managing and controlling the operations system: MRP, JIT, TQM, Six-Sigma, inventory, and supply chain. Improving operations: measuring productivity and performance, tools and techniques for improvement.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB996 - Introduction to Logistics and Supply Chain Management
+
+
+   
+    The module consists of the following parts: Overview of Logistic Systems and Supply Chain (SC) Definition and discussion of the main SC drivers including responsiveness vs. efficiency The facility location activity The distribution activity including transportation The inventory activity The forecasting and sale activities Marketing, sourcing, procurement and technology.       Analysis of some cases studies and use of excel throughout whenever found necessary
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB997 - Management Science Modelling
+
+
+   
+    The aim of the module is to give students an intensive and rigorous grounding in management science modelling and provide students with a standard set of solution methods for a wide range of the most commonly occurring quantitative problems.The course will be covered from the following topicsLinear Programming Models: Introduction and Formulation Solution Methods  Sensitivity Analysis Typical Applications: Financial, Marketing, Production Management, etc. Network Models:  Transportation, Assignment, Shortest Route, Maximum Flow, Minimum Spanning Tree Project Management: PERT/CPMDeterministic Inventory Models: Basic EOQ Models Economic Production Lot-size ModelsInteger Programming Including ILP Models:   Introduction and Formulation Solution Methods (LP Relaxation, Branch and Bound, Cutting Plane Algorithms) Applications Involving 0-1 variables: Capital Budgeting, Fixed Cost, Distribution System, Design, Location, Product Design and Market Share Optimization
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB933 - Marketing
+
+
+   
+    The aims of the module are: Establish an understanding of marketing, its role in business and the environment in which it operates.  Illustrate the principles of marketing strategy, including segmentation, targeting, positioning and the components of the marketing mix. Establish a framework for analysing business problems and identifying practical solutions. Illustrate the multi-disciplinary nature of marketing and management tools and information.The module content will include: The Market: Understanding and Analysing the Marketing Environment The Organisation: Marketing Strategy Segmentation and Target Marketing Positioning, Products and Branding Services Marketing Marketing Communications Pricing Marketing Channels Ethics in Marketing
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB937 - Financial and Management Accounting
+
+
+   
+    The module content will include: The nature and purpose of accounting and its management interface Concepts underpinning accounting systems and financial statements The construction of the primary financial statements and their interpretation and evaluation The regulatory framework of financial reporting Corporate governance The cash cycle and its management. Classification and behaviour of costs Short-term decision techniques Costing systems and costing for overhead expenditure Budgeting and the budgetary process Accounting control information Investment appraisal Responsibility accounting systems and performance appraisal measures, including the Balanced score card.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB966 - Simulation and Optimization Software
+
+
+   
+    The aim of the module is to give students hands-on experience in using industry-standard optimization and simulation modelling software in order to structure and solve complex and large-scale managerial problems.Optimisation Modelling - this topic will involve: Learning about how to efficiently formulate linear/integer programming models  How to use commercial software to build and solve optimisation models  How to use optimisation software to solve and analyse business related problems of operational/tactical/strategic importance (e.g. project investment, logistics, and location planning)  The importance and steps involved with carrying out a sensitivity analyses (e.g. the meaning of dual variables  How to calculate the range of optimality of input variables)Discrete-Event Simulation - this topic will involve: Learning basic queuing theory, including its key assumptions, benefits and limitations Core theory and technical details pertaining to discrete-event simulation  How to build working simulation models using commercial software that mimic real-world systems  The meaning of common discrete/continuous distributions and how they can be used to model key aspects of a problem How to systematically analyze the results of a model.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     CB968      - Performance Management
+
+
+     
+      The aim of the module is to introduce students systematically to the range of activities in performance evaluations, mainly adopting quantitative approaches; to enable students to gain an understanding of the suitable quantitative approaches used in performance evaluations (and related areas).The module will cover: Introduction and Issues in Strategic Performance Management Basic Structures of Performance Management Main Approaches in Strategic Performance Management Performance Measurement Approaches in Performance Evaluation of Companies Classic DEA Models Approaches in Performance Evaluation of Public Sectors  Extensions of Classic Models
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB969      - Business Statistics and Database Management
+
+
+     
+      Descriptive statistics: Levels of measurement, measures of central tendency, measures of spread, statistical plots, statistical confidence limits, outliers, continuous data Statistical reasoning:  Data and Statistics; hypotheses, decisions, and risk; type 1 and type 2 errors; statistical debate Basic probability:   The addition and the multiplication rule; independent events and mutually exhaustive events, Bayes theorem Probability distributions: Binomial, Poisson, normal, combination of random variables Database Management Database systems Structured Query Language (SQL) SQL 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB9067      - Digital Marketing
+
+
+     
+       The digital marketing environment; Enabling technologies for digital marketing;  Website design, implementation and analysis;  Social media;  Customers in the Internet age: knowing, reaching & retaining the customer;  Network effects and versioning; Internet marketing strategy; Loyalty, Customer Relationship Management and Data Mining;  Brands in the Internet age; Data protection, privacy and legal issues;  Digital marketing and globalisationIn a rapidly changing area it is important not to be too specific, or the course module might risk failing to reflect current trends in the area.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB927      - Heuristics & Optimisation
+
+
+     
+      The aim of the module is to give students further expertise in advanced management science techniques and provide students with certain advanced solution methods for a wide range of quantitative management problems.The module will cover: Optimisation (6 weeks): Constrained Optimisation, Unconstrained Optimisation, Numerical Methods. Heuristics (6 weeks): Formulation of special IP models and applications, Classical heuristics and their classification, Metaheuristics.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB859      - Managing the Multinational Enterprise
+
+
+     
+      The aims of the module are: Analyze the modern multinational enterprise and its evolution. Explore the various ways multinationals are expanding and organized. Investigate the different subsidiary mandates. Critically examine innovation management within the multinational enterprise.The module content will include: Evolution of the Multinational Enterprise  Multinational Enterprise Theories. Multinationals and their Difference from Domestic Firms (Hymers approach to the Modern Multinational, Modes of Internationalization). Integrated Approaches  The Eclectic Framework and the Investment Development Path. Strategy and the Multinational Enterprise.  Integration Responsiveness Framework  Multinational Structures and Roles of Subsidiaries. Organization of the Multinational Network  Heterarchy vs. Hierarchy, Subsidiary Mandates. Technological Innovation and the Multinational. Cultural Differences and Multinational Performance. Unifying Approach Global Value Chain. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB904      - Structure and Organisation of the E-Commerce Enterprise
+
+
+     
+      The module aims to give students the opportunity to become familiar with: Internet technology and infrastructure. Technology planning and management. Acquisition and development of organisational capabilities. Extension of organisational capabilities through technology and networks.Topics to be covered will include: To introduce E-Commerce business models and competitive advantage. To explain Internet technologies and infrastructure. To understand Organisational IT (and IT infrastructure) management especially in relation to information, networks and the Internet. To realise the social, legal and ethical issues arising from the wide use of the Internet (e.g. security, privacy, identity, intellectual property). To introduce the notion of firm capabilities. To show how firms can obtain, develop and retain capabilities. To show the importance of organisational structure and management. To explain generic activity and process models. To show how capabilities can be extended through virtual organisation.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB935      - Organisational Behaviour and Human Resource Management
+
+
+     
+       Introduction to OB and HRM Strategic HRM Performance Management Strategic Recruitment and Selection Diversity and Equal Opportunity in the Workplace Organisational Culture and International HRM Reward Management Learning and Training at Work
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB9057      - Dissertation in Logistics and Supply Chain Management
+
+
+     
+      This module develops the necessary knowledge and skills for students to be able to successfully complete a scholarly dissertation under the supervision of a member of staff. Topics to be covered include: Identifying suitable dissertation topics Searching and reviewing the literature Choosing suitable methods and approaches from the MSc in Logistics  Collecting and analysing data   Providing a solution to a practical problem to improve the efficiency of some of the logistical activities Preparing the dissertation proposal Structuring and writing the dissertation  Giving an oral presentation.
+
+
+      Credits: 60 credits
+       (30 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The programme involves a taught and a project component. The taught programme is assessed by a mixture of coursework assignments throughout the year, and by examinations in May and June.
+
+Once these are completed, you work full-time on the project with a real company, or use related data that contextualises real-world logistics and supply chain management to write a dissertation. This dissertation is an opportunity to apply the techniques and insights presented in the programme and apply them to a particular problem area.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ provide you with advanced study in the design, analysis and implementation of the techniques used in the area of logistics
+ educate you as logistic specialists, and thus to improve the quality of management as a profession
+ prepare you to be operationally effective in the area of logistics and prepare you for an academic career in logistic research, if desired
+ foster the enhancement of your lifelong learning skills and personal development so you can work with self-direction and originality and contribute to business and society at large
+ provide you with a range of conceptual, analytical and research skills in logistics that enhance company visibility and add value to its products, so as to gain a competitive advantage
+ educate you as a manager and logistics specialist to operate in co-ordinated, multi-enterprise organisations and thus improve the quality of management as a profession
+ provide career development opportunities by enhancing the understanding and professional competence in individuals who are already experienced managers and who wish to enhance their competence through a structured course of study
+ add value to your first degree by offering you a theoretical and practical examination of the main activities that have an impact within the supply chain to respond to today&rsquo;s global and highly competitive markets
+ develop an appropriate range of cognitive, critical and intellectual skills, research skills and relevant personal and interpersonal skills
+ enhance the quality of applicants to Kent Business School programmes, both from the UK and overseas
+ use the expertise and experiences of the members of the Centre for Logistics and Heuristic Optimisation.
+ build an effective performance within team environments and the ability to recognise and use individuals&rsquo; contributions in group processes and to negotiate and persuade or influence others; team selection, delegation, development and management
+ the ability to recognise and address ethical dilemmas and corporate social responsibility issues, applying ethical and organisational values to situations and choices.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ all of the activities that exist within logistics and their effect on the overall performance of the company in gaining competitive advantage
+ the various challenges that exist when studying the integration of the various logistical drivers
+ specific strategies to maximize the flow of products/services and information and raw materials to the final point of consumption
+ some quantitative methods that are used to achieve the best option when addressing a given activity within logistics
+ a critical awareness of current issues in logistic research, such as green and reverse   logistics, new technology that is informed by leading-edge research and practice in the field
+ the uses and limitations of a range of research methods/techniques in the field of logistics and an understanding of their strengths and weaknesses for providing information and evaluating options in the design and control of a supply chain.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ critical thinking and creativity, together with a practical understanding of how established techniques of research and enquiry are used to develop and interpret knowledge in business and management
+ learning through reflection in practice and experience
+ the ability to select, organise, develop and synthesise complex material
+ the ability to formulate and test hypotheses using appropriate quantitative techniques, including statistical data analysis
+ the ability to plan, work and study independently and use resources in a way which reflects best current practice and anticipated future practice
+ the integrative capability to communicate and co-ordinate or eventually lead a team of multifunctional specialists.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ problem-solving and decision-making: establishing criteria, using appropriate decision-making techniques, including identifying, formulating and solving business problems; the ability to create, identify and evaluate options; the ability to implement and review decisions
+ the ability to conduct research into the design of a supply chain by considering all the logistical drivers, so as to gain a competitive edge
+ the ability to identify critical issues within logistics that could add value to a company&rsquo;s product or service
+ the ability to prepare technical reports
+ the effective use of literature and secondary data sources
+ give technical presentations to informed audiences
+ the use of statistical and computational tools and packages.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ the ability to communicate effectively through oral and written presentations
+ the ability to apply quantitative techniques appropriately
+ information and knowledge: scanning and organising data, abstracting meaning from information and sharing knowledge
+ the ability to demonstrate the use of a range of media, including ICT
+ the ability to operate effectively in a variety of team roles and take leadership roles where appropriate
+ personal effectiveness: self-awareness and self management, time management, sensitivity to diversity in people and in different situations,   the ability to continue learning. 

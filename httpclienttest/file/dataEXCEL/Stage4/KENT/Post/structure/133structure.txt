@@ -1,0 +1,326 @@
+Course structure
+
+
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   PH709 - Space Astronomy and Solar System Science
+
+
+   
+    SYLLABUS:Space Astronomy Why use space telescopes; other platforms for non-ground-based astronomical observatories (sounding rockets, balloons, satellites); mission case study; what wavelengths benefit by being in space; measurements astronomers make in space using uv, x-ray and infra-red, and examples of some recent scientific missions.Exploration of the Solar System Mission types from flybys to sample returns: scientific aims and instrumentation: design requirements for a spacecraft-exploration mission; how to study planetary atmospheres and surfaces: properties of and how to explore minor bodies (e.g. asteroids and comets): current and future missions: mission case study; how space agencies liaise with the scientific community; how to perform calculations related to the orbital transfer of spacecraft.Solar System Formation and Evolution The composition of the Sun and planets will be placed in the context of the current understanding of the evolution of the Solar System. Topics include: Solar system formation and evolution; structure of the solar system; physical and orbital evolution of asteroids.Extra Solar Planets The evidence for extra Solar planets will be presented and reviewed. The implications for the development and evolution of Solar Systems will be discussed.Life in Space Introduction to the issue of what life is, where it may exist in the Solar System and how to look for it.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PH712 - Cosmology and Interstellar Medium
+
+
+   
+    SYLLABUS:Interstellar Medium The major properties of the Interstellar Medium (ISM) are described. The course will discuss the characteristics of the gaseous and dust components of the ISM, including their distributions throughout the Galaxy, physical and chemical properties, and their influence the star formation process. The excitation of this interstellar material will be examined for the various physical processes which occur in the ISM, including radiative, collisional and shock excitation. The way in which the interstellar material can collapse under the effects of self-gravity to form stars, and their subsequent interaction with the remaining material will be examined. Finally the end stages of stellar evolution will be studied to understand how planetary nebulae and supernova remnants interact with the surrounding ISM. Extragalactic astrophysicsReview of FRW metric; source counts; cosmological distance ladder; standard candles/rods.High-z galaxies: fundamental plane; Tully-Fisher; low surface brightness galaxies; luminosity functions and high-z evolution; the Cosmic Star Formation HistoryGalaxy clusters: the Butcher-Oemler effect; the morphology-density relation; the SZ effectAGN and black holes: Beaming and superluminal motion; Unified schemes; Black hole demographics; high-z galaxy and quasar absorption and emission lines; 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PH722 - Particle and Quantum Physics
+
+
+   
+     Approximation Methods, perturbation theory, variational methods.  Classical/Quantum Mechanics, measurement and the correspondence principle. Uncertainty Principle and Spin precession . Key Experiments in Modern Quantum Mechanics (Aharonov-Bohm, neutron diffractyion in a gravitational field, EPR paradox). Experimental methods in Particle Physics (Accelerators, targets and colliders, particle interactions with matter, detectors, the LHC).  Feynman Diagrams, particle exchange, leptons, hadrons and quarks. Symmetries and Conservation Laws. Hadron flavours, isospin, strangeness and the quark model. Weak Interactions, W and Z bosons.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PH751 - Research Review
+
+
+   
+    In consultation with a member of staff the student will choose a topic within any branch of physics for which appropriate supervision is available and write an article on that topic that would be suitable for publication in the scientific literature as a review article.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PH752 - Magnetism and Superconductivity
+
+
+   
+    
+Introduction, electrons in solids 
+Superconductivity: Introduction to properties of superconductors, Thermodynamics and electrodynamics of superconductors, Type I and Type II superconductors, the flux lattice 
+Superconducting phase transitions 
+Microscopic superconductivity, correlations lengths, isotope effect, Cooper pairs, Froehlich Interaction, BCS theory. 
+High Tc superconductors, superfluids, liquid helium. 
+Magnetism, magnetometry and measuring techniques 
+Localised and itinerant magnetic moments, spin and orbital moments, magnetic moments in solids 
+Paramagnetism 
+Exchange interactions, direct, indirect and superexchange, Magnetic structures, ferro, ferri, antiferromagnetism 
+Neutron and x-ray scattering 
+Spin waves, magnons 
+Magnetic phase transitions 
+See also http://blogs.kent.ac.uk/strongcorrelations/teaching/superconductivity-and-magnetism
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PS700 - Physical Science Research Planning
+
+
+   
+    Aims: 
+Students will develop a number of skills related to the planning and preparation of a research proposal. Students will learn how to search and retrieve information from a variety of locations (databases, websites, journals, proceedings etc). They will learn how to compile a professionally-produced document such as a grant proposal for funding a research activity in a direction of their own. They will exercise presentation skills of their grant proposal and present critical reviews and referee's reports of the research of others.SYLLABUS:
+Research skills
+Colloquium attendance
+Revision of methods of searching the scientific literature (e.g, Web of Science)
+Introduction to sources of information concerning research funding 
+How the Research Councils work
+How specific funding bodies (e.g. STFC, FP7) operate
+Peer review of research proposals
+Identifying research areas and collaborators
+Writing an entire case for support
+Scheduling research programmes
+Costing research
+Completing a research proposal form
+Poster presentation of the research proposal Details of the work to be done will be announced by the convenor during the first two weeks of the academic year.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PS701 - Topics in Functional Materials
+
+
+   
+    Chemists and physicists are now playing an important role in the growing field of materials research. More recently there has been a growing interest, driven by technological needs, in materials with specific functions and this requires a combination of physics and chemistry. For example, new materials are needed for the energy industry (batteries and fuel cells), for the optics and electronics industry (semiconductors, lasers and wave-guides), and for the environment (sensors, actuators and smart materials). The aim of this module is to introduce students to this area of modern materials and techniques.Examples of the topics that might typically be covered are:1. Crystal growth and defects.2. Liquid crystals.3. Magnetism and Magnetic Materials.4. X-ray absorption spectroscopy (XAS).5. Nanomaterials.6. Multiferroics.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PH711 - Rocketry and Human Spaceflight
+
+
+   
+    Flight Operations: Control of spacecraft from the ground, including aspects of telecommunications theory.Propulsion and attitude control: Physics of combustion in rockets, review of classical mechanics of rotation and its application to spacecraft attitude determination and control.Impact Damage: The mechanisms by which space vehicles are damaged by high speed impact will be discussed along with protection strategies.Human spaceflight: A review of human spaceflight programs (past and present). Life-support systems. An introduction to some major topics in space medicine; acceleration, pressurisation, radiation, etc.International Space Station:  Status of this project/mission will be covered.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PH754 - Euromasters Project
+
+
+   
+     A student, supervisor and project will be brought together consensually and a one year research project will be performed within one of the SPS research groups. This will be completely equivalent to a current research masters degree.
+
+
+    Credits: 120 credits
+     (60 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   An interim report, dissertation and presentations.
+  
+
+ 
+   Programme aims
+
+  
+   The programme aims to:
+
+ develop an integrated and critically aware understanding of physics to prepare you to undertake a PhD in the subdisciplines of astrophysics or condensed matter physics anywhere in Europe
+ enhance your employment opportunities and career prospects in physics/astrophysics
+ develop a variety of Master&rsquo;s level intellectual and transferable skills
+ equip you with the learning skills to keep abreast of developments in the continually evolving fields of astrophysics or condensed matter physics
+ instil in you a sense of enthusiasm for physics by underlining the role of the discipline at the core of our understanding of all physical phenomena and as the foundation of many of the pure and applied sciences
+ involve you in the intellectually stimulating and satisfying experience of learning within a research-led environment
+ enable you to undertake and report on an experimental, computational or theoretical investigation based on an extended project in physics or astrophysics
+ enable you to realise your academic potential
+ enhance your appreciation of the applications of physics in different contexts including an appreciation of the importance of physics in industrial, economic, environmental and social contexts
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain a knowledge and understanding of:
+
+ aspects of the theory and practice of condensed matter physics or   astrophysics, and of those aspects upon which it depends: a knowledge of key physics, the use of electronic data processing and analysis, and modern day mathematical and computational tools
+ the most fundamental laws and principles of physics and of astrophysics, along with their application to a variety of areas in physics and/or astrophysics, some of which are at (or are informed by) the forefront of the discipline.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You gain intellectual skills in:
+
+ the ability to identify relevant principles and laws when dealing with problems, and to make approximations necessary to obtain solutions
+ the ability to solve problems in physics using appropriate mathematical tools
+ the ability to execute and analyse critically the results of an experiment or investigation and draw valid conclusions. To evaluate the level of uncertainty in these results and compare them with expected outcomes, theoretical predictions or with published data; thereby to evaluate the significance of their results in this context
+ the ability to use mathematical techniques and analysis to model physical behaviour
+ the ability to comment critically on specialised equipment and techniques, and their use in condensed matter, space science or astrophysics research
+ the ability to solve advanced problems in physics using appropriate mathematical tools, to translate problems into mathematical statements and to obtain order of magnitude or more precise solutions as appropriate
+ the ability to interpret mathematical descriptions of physical phenomena
+ the ability to plan an experiment or investigation under supervision and to understand the significance of error analysis
+ a variety of experimental, mathematical and/or computational techniques applicable to current research within physics
+ the ability to work within in the condensed matter or astrophysics area that is well-matched to the frontiers of knowledge, the science drivers that underpin government-funded research and the commercial activity that provides hardware or software solutions to challenging scientific problems in these fields.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the competent use of appropriate C IT packages/systems for the analysis of data and the retrieval of appropriate and useful information
+ the ability to present and interpret information graphically
+ the ability to communicate scientific information, in particular to produce clear and accurate scientific reports
+ familiarity with laboratory apparatus and techniques, including relevant aspects of health and safety
+ the systematic and reliable recording of experimental data
+ an ability to make use of appropriate texts, research-based materials or other learning resources as part of managing your own learning
+ C IT skills that show fluency at the level and range needed for project work, such as familiarity with a programming language, simulation software or the use of mathematical packages for manipulation and numerical solution of equations
+ the ability to communicate complex scientific ideas, the conclusion of an experiment, investigation or project concisely, and to do so accurately and informatively
+ an ability to make use of research articles and other primary sources
+ the competent use of specialised equipment, the ability to identify appropriate pieces of equipment and to master new techniques and equipment.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ problem-solving skills, in the context of both problems with well-defined solutions and open-ended problems, an ability to formulate problems in precise terms and to identify key issues, and the confidence to try different approaches in order to make progress on challenging problems. Numeracy is subsumed within this area
+ investigative skills in the context of independent investigation including the use of textbooks and other available literature, databases, and the interaction with colleagues to extract important information
+ communication skills in the area of dealing with surprising ideas and difficult concepts, including listening carefully, reading demanding texts and presenting complex information in a clear and concise manner. C IT skills are an important element of this
+ analytical skills: associated with the need to pay attention to detail and to develop an ability to manipulate precise and intricate ideas, to construct logical arguments and to use technical language correctly
+ personal skills: the ability to work independently, to use initiative, to organise yourself to meet deadlines and to interact constructively with other people. 

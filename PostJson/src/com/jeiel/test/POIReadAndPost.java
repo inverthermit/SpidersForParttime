@@ -22,16 +22,16 @@ public class POIReadAndPost {
 	
 	public static String StructureDir="C:\\Users\\Administrator\\Desktop\\wyl\\structure_ug";
 
-	public static String filepath="D:\\MANCHESTER\\ManchesterPostFixed.xls";
+	public static String filepath="D:\\SOUTHAMPTON\\SouthamptonPostT1Fixed.xls";
 	/**
 	 * @param args
-	 * @throws IOException 
 	 * @throws Exception 
 	 * @throws Exception 
 	 */
 	
-	public static void main(String[] args) throws IOException{
-		System.out.println(getStructureFromFile("structure_1.txt"));
+	public static void main(String[] args) throws Exception{
+		//System.out.println(getStructureFromFile("structure_1.txt"));
+		getData(null);
 	}
 	public static List<Major> getData(String[] args) throws Exception  {
 		// TODO Auto-generated method stub
@@ -100,6 +100,29 @@ public class POIReadAndPost {
             	}
             }*/
             major.setScholarship(sc);
+            String tiltee=major.getTitle();
+            //System.out.println(tiltee.replace(tiltee.split(" ")[0]+" ", ""));
+            if(tiltee.contains(" yr"))
+            {
+            	if(tiltee.contains("1 yr"))
+            	{
+            		System.out.println(12);
+            	}
+            	else if(tiltee.contains("2 yr"))
+            	{
+            		System.out.println(24);
+            	}
+            	else if(tiltee.contains("3 yr"))
+            	{
+            		System.out.println(36);
+            	}
+            	else if(tiltee.contains("4 yr"))
+            	{
+            		System.out.println(48);
+            	}
+            }
+            else
+            	System.out.println();
             list.add(major);
         }
         

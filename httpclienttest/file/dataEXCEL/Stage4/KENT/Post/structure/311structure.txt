@@ -1,0 +1,393 @@
+Course structure
+
+
+ Elements of practical work will be carried out in the Business School&rsquo;s dedicated Bloomberg Lab. The virtual trading platform allows you to access and engage with market data through practical case studies and the use of online databases. The programmes also provide you with the necessary training required for the Bloomberg Certificate.
+
+
+
+
+ Modules
+
+
+ The course structure below provides a sample of the modules available for this programme. Most programmes require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may explore other subject areas of interest to you or that may further enhance your employability.
+
+Based on sector research and curriculum developments, we intend to offer the following innovative new modules on this programme from 2016/17, subject to availability:
+
+CB9034 - Dissertation for the MSc Finance (subject to approval)
+
+The following modules are offered to our current students. This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation:
+
+
+ 
+
+      
+   CB8021 - Foundations of Finance
+
+
+   
+    This module will cover the following topics: Investment Appraisal Techniques and Decisions  Portfolio Theory The Capital Asset Pricing Model  Stock Market Efficiency  Sources of Finance  Capital Structure
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8022 - Quantitative Methods
+
+
+   
+    The module content will include: Statistical Concepts Probability Distributions Statistical Inference, Estimation and Hypothesis Testing Correlation, and General Dependence Measures Linear Regression Multiple Linear Regression Logistic Regression Monte Carlo Simulation Modelling in Excel
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8030 - Investments and Portfolio Management
+
+
+   
+     This module assumes basic knowledge and understanding of risk-return relationship, portfolio theory, and CAPM. It considers the investment and portfolio management decision in more detail by first examining the asset allocation decision and investments in a global context. It then attempts to evaluate different types of securities (bonds and stocks) in which investments can be made using a three-step top-down approach consisting of macro- and micro-market analysis, industry analysis and finally, company analysis. It then critically examines different equity portfolio management and performance evaluation strategies.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB9078 - Research Methods and Skills (Finance)
+
+
+   
+    This module develops the necessary knowledge and skills for students to be able to successfully complete a business report proposal. Topics to be covered include: Choosing a company for analysis Identifying suitable finance issues relevant to the chosen company  Searching and reviewing the literature and Bloomberg Choosing suitable methods and approaches for analysing the chosen company Preparing the business report proposal Structuring the business report
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8014 - Financial Data Modelling
+
+
+   
+    The course will cover the following topics: Regression Analysis Univariate Time Series Modelling Multivariate Modelling Cointegration Volatility and Correlation Panel Data Analysis 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8011 - Essentials of Financial Risk Management
+
+
+   
+    The course will cover the following topics: Taxonomy of Risks Essential Financial Products Introduction to Regulation Modelling Portfolio Risk Market Risk and VAR Credit Risk Risk-Adjusted Performance Measures
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8016 - Derivatives
+
+
+   
+    Global derivative markets have exhibited spectacular growth in terms of volume of trading and use by both financial and non-financial institutions. Some of the worlds large institutions-Orange County, Baring, Metallgesellschaft, Negara, AIG, and Lehman Brothers have lost billions of dollars in the financial markets. Whilst national and international authorities have agonised over the regulation of derivative markets, it generated tremendous interest on the nature, operation, working mechanism and true significance of derivative products and markets in the financial system and the economy.  Main topics: Forwards: No arbitrage principle Futures: Marking-to-market, margins call and liquidity Swaps: Interest rate risk and measures for risk management Options: Arbitrage versus speculation, options trading strategies Credit Default Swaps: Selling protection or printing money Path Dependent Products Exotic Options Real-Estate and Subprime Loans: The bubbles that always burst Securitization Process and Asset-Backed Securities: Derivatives as weapons from mass destruction?The module focuses on the principles and characteristics of the main derivative markets, products and instruments, such as Futures, Forward, Options, Swaps, Credit Default Products and Structured Products. It examines the role, significance and working mechanism of various derivatives products, their valuation method and the models underpinning the pricing and hedging of derivative instruments. The module will draw from the rapidly expanding body of academic and professional literature relating to derivatives and their applications in Financial Markets.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB9060 - Finance with Excel
+
+
+   
+     Excel Essentials- Excel Functions: important mathematical and statistical functions - Useful Excel Tricks- Data Analysis, Solver, Goal Seek- Array functions; workings with rows and columns- Financial applications:o Portfolio analysis basics in Excelo PCA Analysis of correlated financial systemso Finding a bond yield with Solver  Basic Financial Calculations with Excel (PV and FV, with applications to stock valuation; building loan tables) Essential Probability and Statistics with Excel Bond & Stock Analysis (bond pricing, duration and convexity, the yield curve, stock valuation using the DDM, DuPont Stock Analysis) Portfolio Optimization (building efficient frontiers; constrained optimization; performance measurement for active and passive strategies; the Black-Litterman approach) Derivatives Modelling in Excel (building swaps cash flow tables; spot-futures parity; options on various underlying assets: pricing, Greeks, implie
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8015 - Financial Regulation and Financial Crises
+
+
+   
+    This module examines the workings of financial markets and firms within their regulatory and legal context. Students will develop an appreciation of the interaction between company law, governance, legal engineering, financial engineering, modern financial intermediaries and the real economy. The implications of company law for corporate governance in financial firms will be developed. In parallel an understanding of regulatory policy development, implementation, supervision and enforcement by the regulator will be shaped. We will examine the nature and impact of soft law and hard law requirements in various international jurisdictions, and their significance in the aftermath of the global financial crisis. We will discuss implications of the Lamfalussy process, post-crisis legislation (such as Dodd-Frank) and the regulatory and legal changes that are currently evolving. We will also discuss the role of the Basel Committee, EBA, EIOPS and ESMA, national regulators (both in the developed and the developing world), sector regulators for banking, insurance, asset management and securities, the European Commission and others. Through these topics we will examine why and how financial firms should be regulated. Particular attention will be paid to current and proposed legal and regulatory requirements affecting banks, insurers, reinsurers, investment firms and asset managers globally as well as in Europe, the UK and the US.We will also study the relationships between regulators and senior management, compliance and risk management functions within financial firms. The interaction between risk, management, compliance, internal audit and the business will be examined through practical classroom exercises and interaction with practitioners. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8020 - Corporate Finance
+
+
+   
+    The module will cover the following topics: The Risk-Return Relationship The Arbitrage Pricing Theory Multifactor Asset Pricing Models Dividend Policy Mergers and Acquisitions
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     CB8025      - Fixed Income Markets
+
+
+     
+      Fixed income markets account for a very significant part of the global financial system and are widely used by a diverse set of market participants. Fixed income markets are particularly important for governments and governmental agencies which, in contrast to corporations, can only raise external funds through bonds rather than equity. The module focuses on the structure and the mechanics of fixed income markets. It explores the principles of valuing fixed income securities and derivative instruments. It also examines the construction of bond portfolios for investment and hedging purposes.  
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB8026      - Financial Engineering
+
+
+     
+      Financial engineering is the rocket science behind the exponential growth of financial markets. New products are introduced every year to respond to increasing demand for bespoke solutions for problems involving finance.The module focuses on the principles and techniques used in the financial markets for pricing and hedging derivatives in general. The module will combine academic and industry literature on the subject and it will try to include some of the most recent products introduced in the finance industry.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB9034      - Dissertation for the MSc Financial Markets
+
+
+     
+      This is an independent research module.
+
+
+      Credits: 45 credits
+       (22.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The programme involves a taught and a project component. The taught programme is assessed by a mixture of coursework assignments throughout the year, and by examinations in May and June.
+
+Once these are completed, students then work full time on the project and write a Dissertation based on this. This 6000-8000 word Dissertation is an opportunity to apply the techniques and insights presented in the programme and apply them to a particular problem area.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ develop your existing skills and knowledge and to provide you with an advanced conceptual understanding of the key issues in finance
+ provide you with the knowledge to be able to evaluate relevant literature critically
+ provide you with a theoretical framework so as to understand, interpret and analyse key issues in finance
+ provide you with a knowledge of research methodologies adopted in empirical research
+ provide you with the skills to test and evaluate theoretical models
+ develop an appropriate range of cognitive, critical and intellectual skills, research skills and relevant personal and interpersonal skills
+ provide preparation for and/or development of a career in the field of finance by developing your skills at a professional or equivalent level, or as preparation for research or further study in the area
+ add value to your first degree by developing your integrated and critical awareness and understanding in the field of financial services
+ provide teaching and learning opportunities that are informed by high-quality research and scholarships, from within the Kent Business School and elsewhere
+ develop your ability to conduct independent self-directed research.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ advanced concepts and theory within the field of finance and their application to a company&rsquo;s financial decisions
+ the research methodologies used to test and evaluate finance and economic models
+ econometric and statistical methods applied to financial data
+ theoretical and practical aspects of key areas of finance
+ up-to-date relevant empirical literature in the field of finance
+ quantitative techniques used in the practice of risk management.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ critical thinking and creativity, including the capability to identify assumptions, evaluate statements, and generalise appropriately
+ the ability to solve complex problems and make decisions
+ the ability to select, organise, develop and synthesise complex material
+ the analytical skills necessary for the analysis of problems and the identification of appropriate solutions
+ the ability to plan work, study independently and use relevant resources in a away which reflects best current practice and anticipated future practice
+ the ability to plan, structure, and produce a dissertation.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the ability to interpret financial data and perform statistical and econometric tests
+ the ability to interpret and evaluate the results obtained from econometric analysis
+ the ability to apply theories to practical and theoretical problems
+ the ability to demonstrate problem-solving skills
+ the ability to analyse important issues relevant for companies&rsquo; financial decisions
+ the ability to conduct research in finance and accounting issues.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ the development of numeracy and quantitative skills
+ communication skills: listening, oral, and written communication using a range of media
+ the effective use of communication and information technology
+ the ability to undertake independent and self-managed learning
+ the capacity for self-development and continuous learning. 

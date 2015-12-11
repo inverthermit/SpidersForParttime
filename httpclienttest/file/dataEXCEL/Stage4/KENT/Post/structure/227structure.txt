@@ -1,0 +1,20 @@
+Course structure
+
+
+The digital media group has interests in many areas of interactive multimedia and digital film and animation.
+
+There is particular strength in web design and development, including e-commerce, e-learning, e-health; and the group has substantial experience in interaction design (eg, Usability and accessibility), social computing (eg, Social networking, computer mediated communication), mobile technology (eg, iPhone), virtual worlds (eg, Second Life) and video games. In the area of time-based media, the group has substantial interest in digital film capture and editing, and manipulation on to fully animated 3D modelling techniques as used in games and feature films.
+
+Research Themes:
+
+ E-Learning Technology
+
+ Medical Multimedia Applications and Telemedicine
+
+ Human Computer Interaction and Social Computing
+
+ Computer Animation and Digital Visual Effects
+
+ Mobile Application Design and Development
+
+ Digital Arts 

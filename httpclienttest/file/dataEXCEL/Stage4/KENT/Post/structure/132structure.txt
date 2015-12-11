@@ -1,0 +1,276 @@
+Course structure
+
+
+ The programme provides a broad and balanced foundation of the science and law that underpins forensic practice and methodology in modern society.
+
+This includes detailed knowledge of the physical techniques and methods of assay, analysis and examination used by forensic scientists, together with the essential chemical and biological knowledge required for understanding forensic evidence and its presentation.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   BI637 - Forensic DNA Analysis I
+
+
+   
+    Lectures:Forensic DNA typing (Lectures 1-12):This section will include the following topics:Forensic DNA analysis  overview; Polymerase chain reaction (PCR); DNA sequencing; genetic fingerprinting case studies; interpretation of DNA profiles; mitochondrial DNA analysis, statistical evaluation of results.Forensic sample preparation and additional biological indicators (Lectures 13-24):This section will include the following topics:Sample preparation for DNA analysis; examination of body fluids; basic principles of DNA fingerprinting in a forensic setting..Analysis of DNA from single cells; forensic applications of DNA analysis in non-violent crimes.Comparison of the advantages and disadvantages of DNA-based and non-DNA based analytical techniques; forensic entomology; forensic botany.Practical:  DNA fingerprinting.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PS601 - Fires and Explosions
+
+
+   
+    Physics and chemistry of fires and explosions:Fire and arson  occurrence and importance.  Combustion  definitions.  Thermodynamics and enthalpy.  Flammability limits, flash point, fire point, ignition temperature.  Pyrolysis of wood and plastics.  Fuels and accelerants.  Propagation and spread of fires.  Sampling and laboratory analysis of fire scene residues.Explosions  definitions.  Vapour phase and condensed phase explosions.  Detonation and deflagration. High and low explosives.  Primary and secondary high explosives.  Molecular design of explosives.  Survey of important explosives.  Stoichiometry, oxygen balance, gas volumes, thermodynamics and enthalpy.  Sampling and laboratory analysis of explosives residues.  Preventative detection of explosives in contexts such as airports.Fires:Fire dynamics. Propagation and spread of fires  flames, fire types, flashover.  Fire investigation.  Forensic Science Service procedures at the scene.  Damage observation and assessment.  Fire and smoke patterns.  Sources of ignition. Injuries and fatalities.  Evidence recovery: sampling and laboratory analysis.  Establishing the origin : the seat of the fire.  Finding the cause: natural, accidental, negligent or deliberate?  Indicators of arson.  Evidence procedures.  Case studies.Explosions:Control of the explosion scene and procedures for recovery of evidence.  Damage observation and assessment.  The work of the Forensic Explosives Laboratory.  Identification of explosives: organics and inorganics. Bulk analysis.  Trace analysis of explosives: recovery, extraction and analysis of samples.  Physical evidence: detonators.  Preventative detection. Precursor identification.  Explosives evidence in court: legal definitions and procedures.  Terrorism.  Case studies.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PS700 - Physical Science Research Planning
+
+
+   
+    Aims: 
+Students will develop a number of skills related to the planning and preparation of a research proposal. Students will learn how to search and retrieve information from a variety of locations (databases, websites, journals, proceedings etc). They will learn how to compile a professionally-produced document such as a grant proposal for funding a research activity in a direction of their own. They will exercise presentation skills of their grant proposal and present critical reviews and referee's reports of the research of others.SYLLABUS:
+Research skills
+Colloquium attendance
+Revision of methods of searching the scientific literature (e.g, Web of Science)
+Introduction to sources of information concerning research funding 
+How the Research Councils work
+How specific funding bodies (e.g. STFC, FP7) operate
+Peer review of research proposals
+Identifying research areas and collaborators
+Writing an entire case for support
+Scheduling research programmes
+Costing research
+Completing a research proposal form
+Poster presentation of the research proposal Details of the work to be done will be announced by the convenor during the first two weeks of the academic year.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PS713 - Substances of Abuse
+
+
+   
+    
+Elements of synthetic organic chemistry and medicinal chemistry which are relevant to substances of abuse.
+The theoretical chemistry and principles of analysis and identification of several substances that are substances of abuse.  The following are indicative:o amphetamines and related compounds o LSD and related compounds o Cannabis and Cannabis products o opiate compounds o cocaine and related compoundso certain controlled pharmaceutical drugs.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PS717 - Incident Management
+
+
+   
+    The module will cover incident management from a tactical/regional and national/strategic perspective using the four stage model: Identification, preparation, mitigation, and recovery. A range of actual and potential incidents will be covered including air accidents, marine accidents, rail accidents, terrorist attacks, and industrial, nuclear and chemical incidents.This will be achieved using lectures, critical evaluation of case studies, real time and simulated incident exercises, and the preparation and presentation at court of incident command reports. Students will be required to examine all aspects of scene and major incident management, disaster planning and related legislation. This will encompass emergency management and planning legislation, damage limitation, evacuation plans, logistical support, inter-agency operation and cooperation, personnel management, evidence prioritisation, preparing incident reports, and presenting such reports at court.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PS720 - Advanced Forensic Project Laboratory
+
+
+   
+    The module is designed to give students experience of a range of advanced laboratory methods with wide application in modern Forensic Science.  These methods will underpin their Stage 4 Forensic Analysis and Incident Management Presentation (PS717) and research project (PS740) modules.The module will be in two sections.  In the first section, taught in the Autumn Term, students will receive training in a range of advanced chemical and physical laboratory methods.  This section of the module will be assessed by a report written on each experiment.   In the second section, beginning towards the end of the Autumn term and continuing throughout the Spring Term, students will select one of the methods for an extended self-directed project.  This will evaluate the application of the method in Forensic Science, and will include experimental measurements to establish the detection limit of the method in trace analysis.  This section of the module will be assessed by oral presentation and written dissertation.Experiments will include such as (NB this is an illustrative list):
+Gas chromatography  mass spectrometryImportant example of modern hyphenated analysis techniques.  Used in analysis of accelerant and explosive traces at scenes of fires and explosions, also in analysis of drugs of abuse.  
+Atomic absorption spectroscopyUsed in the analysis of trace metal content.  Experiment to compare flame and graphite furnace methods.
+NMR spectroscopyUniversally used in analysis of organic substances.  Experiment to manipulate FID curves, to explore peak resolution and detect contaminants in samples such as counterfeit medicines.
+X-ray fluorescenceUsed in analysis of metal artefacts, including bullet casings and forged coins.
+X-ray diffractionUsed in analysis of materials with crystalline lattices, including metals and inorganic explosives residues.
+Electron microscopySEM, TEM and Electron Probe Microanalysis (EPMA) in the analysis of gunshot and explosives residues.
+Raman spectroscopyUsed in forensic analysis of ink pigments, street drugs and counterfeit pharmaceuticals.
+HPLCWidely used method of separating and identifying substances in forensic science.
+UV-visible/fluorescence spectroscopyUsed in comparison of pigments and paper in questioned documents; also chemical tests for explosives and drugs of abuse.
+Image processingFacial recognition software, signature comparison, and the reconstruction of CCTV images.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PS780 - MSC Research Project
+
+
+   
+    Students will undertake a project from an available project listing and will work under the guidance of a supervisor. The student will be encouraged to develop some level of research independence within the project remit appropriate of a postgraduate masters student.The project will be assessed on a number of criteria which will include the project work (the amount, quality etc appropriate for the level), effort put in by the student, the preparation of a written report and an oral presentation session. The students progress will be assessed mid way through the research project through some form of progress report. This will also involve some degree of forward planning such that the students assess their own project requirements for the following term allowing the student to learn time management and forward planning skills.  
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is by examination and coursework.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ develop your integrated and critically aware understanding of forensic science and to prepare you to undertake a PhD in any associated disciplines
+ prepare you for a professional role in forensic science within the criminal or civil judicial system, police, or forensic practice or research                                                                   
+ develop your command, control, and management skills in relation to major incidents, and to prepare and present expert evidential incident reports at court to the highest standard
+ develop a clear recognition of the constraints and opportunities of the environment in which professional forensic science is carried out
+ develop a variety of Masters&rsquo; level intellectual and transferable skills
+ equip you with the learning skills to keep abreast of developments in the continually evolving field of forensic science and forensic investigation
+ enable you to realise your academic potential.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ advanced theory, concepts, and practice in relation to laboratory analysis and substances of abuse                                                                        
+ the command, management, logistics, and forensic implications of major and minor incidents such as air or rail accidents and crime scenes. Emergency and disaster planning, theory, practice, legislation, and implementation                                          
+ advance laboratory analytic methods and apparatus as applied to general analysis and forensic investigation
+ the forensic application of DNA analysis, fire investigation, explosives and accelerants.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ critical thinking, reasoning and reflection
+ the ability to recognise and solve forensic-related problems at an advanced level
+ the ability to select the most appropriate techniques for a given analysis and to use a wide range of advanced analytic apparatus to evidential standards
+ the ability to manage personnel and logistics in demanding and highly fluid environments.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the ability to source funding for, plan, and implement research projects
+ the ability to identify, plan for and manage actual and potential threats in a range of environments
+ the ability to prepare and present an incident management report to evidential standards, and to present such reports at court under hostile cross-examination
+ the ability to perform advanced level analysis on a range of apparatus and to document such to evidential standards
+ familiarity and competence to an advanced level in key items of forensic analytic apparatus.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ personal and interpersonal skills, working as a member of a team and as a team leader.
+ effective research costing and planning
+ skills relevant to a career in forensic science (practice or judiciary) and forensic research
+ the ability to learn effectively for the purpose of continuing your professional development
+ the ability to generate, analyse, interpret and present in a range of environments
+ the ability to manage time and resources within an individual project and as a team manager. 

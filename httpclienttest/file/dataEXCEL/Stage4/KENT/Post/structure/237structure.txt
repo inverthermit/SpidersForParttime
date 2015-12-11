@@ -1,0 +1,509 @@
+Course structure
+
+
+ You study  six compulsory modules and  three optional modules. The compulsory modules are Applied Business Modelling, Business Statistics and Database Management, Consultancy and Research Skills, Data Mining and Forecasting, Management of Operations, Management Science Modelling and Dissertation.
+
+
+
+
+ Modules
+
+
+ The course structure provides a sample of the modules available for this programme. This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may explore other subject areas of interest to you or that may further enhance your employability.
+
+
+ 
+
+      
+   CB9035 - Applied Business Modelling
+
+
+   
+    The module aims: To understand the nature and importance of business and management modelling in practice. To appreciate the use of modern scientific management techniques and how real-world systems may be represented and solved quantitatively using computer software such as Excel Solver. To recognise managerial problems that can be modelled and analysed using quantitative techniques.The module will be covered from the following topics: The applications of suitable management science models for marketing, finance and production management, among others.  Analysing Complex Decisions: How to determine optimal strategies in situations involving several decision alternatives? Transportation and Networks Design: transportation systems; assignment problems; shortest route (e.g. ambulance service routing); maximum flow (e.g. shipping); minimum spanning tree (e.g. computer/telephone networks). Forecasting Techniques: Time series models; Regression analysis, etc. Managing Complex Projects: planning large projects; resource scheduling; cost scheduling; material management and inventory control (e.g. how much to order and when to order decisions).
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB9040 - Data Mining and Forecasting
+
+
+   
+    Detecting differences between groups: 
+Testing for normality, choosing the most appropriate test, interpreting the resultsClassification and cross-classifications: 
+Measures of association; Goodman-Kruskals gamma; Chi-square testsData reduction and exploration: 
+Principal components; factor analysis; cluster analysis; property-fitting.Forecasting methods: 
+Moving averages, exponential smoothing and measures of forecasting accuracyDrivers of Change in Sales Demand: 
+Managing weather and seasonal changes in sales demandThe computer package SPSS will be used for this course including EXCEL in some occasions.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB932 - Management of Operations
+
+
+   
+    The aims of the module are to: Review how operations can deliver real competitive advantage. Review the overall operations management task, market issues and the development of business and operations strategies, and the management of people. Develop a capacity for analysing operating problems, using the appropriate techniques to improve the operations functions. Allow students to develop their personal learning skills, group working skills, and their ability to critically analyse the techniques used within operations management taking account of the organisational context.Topics to be covered will include: Managing operations in the manufacturing and service sector; the operations managers task and role. Operations strategy, levels of strategy; linking the different levels of strategies through markets. Designing and developing services, products and delivery systems to achieve strategic objectives. Managing and controlling the operations system: MRP, JIT, TQM, Six-Sigma, inventory, and supply chain. Improving operations: measuring productivity and performance, tools and techniques for improvement.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB969 - Business Statistics and Database Management
+
+
+   
+    Descriptive statistics: Levels of measurement, measures of central tendency, measures of spread, statistical plots, statistical confidence limits, outliers, continuous data Statistical reasoning:  Data and Statistics; hypotheses, decisions, and risk; type 1 and type 2 errors; statistical debate Basic probability:   The addition and the multiplication rule; independent events and mutually exhaustive events, Bayes theorem Probability distributions: Binomial, Poisson, normal, combination of random variables Database Management Database systems Structured Query Language (SQL) SQL 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB997 - Management Science Modelling
+
+
+   
+    The aim of the module is to give students an intensive and rigorous grounding in management science modelling and provide students with a standard set of solution methods for a wide range of the most commonly occurring quantitative problems.The course will be covered from the following topicsLinear Programming Models: Introduction and Formulation Solution Methods  Sensitivity Analysis Typical Applications: Financial, Marketing, Production Management, etc. Network Models:  Transportation, Assignment, Shortest Route, Maximum Flow, Minimum Spanning Tree Project Management: PERT/CPMDeterministic Inventory Models: Basic EOQ Models Economic Production Lot-size ModelsInteger Programming Including ILP Models:   Introduction and Formulation Solution Methods (LP Relaxation, Branch and Bound, Cutting Plane Algorithms) Applications Involving 0-1 variables: Capital Budgeting, Fixed Cost, Distribution System, Design, Location, Product Design and Market Share Optimization
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8005 - Consultancy and Research Skills
+
+
+   
+    This module develops the necessary knowledge and skills for students to be able to successfully complete a scholarly dissertation or a consultancy project under the supervision of a member of staff. Topics to be covered include: Identifying suitable dissertation/project topics Searching and reviewing the literature Choosing suitable methods and approaches from the MSc Management  Science/Business Analytics Programme Collecting and analysing data Preparing the dissertation proposal Structuring and writing the dissertation Analysing the different consultancy stages Understanding the skills, processes, and risk involved in management consulting Managing projects delivery
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB996 - Introduction to Logistics and Supply Chain Management
+
+
+   
+    The module consists of the following parts: Overview of Logistic Systems and Supply Chain (SC) Definition and discussion of the main SC drivers including responsiveness vs. efficiency The facility location activity The distribution activity including transportation The inventory activity The forecasting and sale activities Marketing, sourcing, procurement and technology.       Analysis of some cases studies and use of excel throughout whenever found necessary
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB937 - Financial and Management Accounting
+
+
+   
+    The module content will include: The nature and purpose of accounting and its management interface Concepts underpinning accounting systems and financial statements The construction of the primary financial statements and their interpretation and evaluation The regulatory framework of financial reporting Corporate governance The cash cycle and its management. Classification and behaviour of costs Short-term decision techniques Costing systems and costing for overhead expenditure Budgeting and the budgetary process Accounting control information Investment appraisal Responsibility accounting systems and performance appraisal measures, including the Balanced score card.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB952 - Integrated Marketing Communications
+
+
+   
+    The module content will include: * The communications process  * Advertising  * Strategy and media planning  * Image, brand management and packaging   * Direct marketing  * Digital and interactive media   * Sales promotion, merchandising and point of sale  * Public relations and corporate identity  * Exhibitions, trade shows, product placement and sponsorship  * Personal selling and sales management  
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB953 - International Marketing Strategy
+
+
+   
+    This module will combine lectures and seminars to present, transfer, discuss and summarise international marketing concepts and frameworks. Specifically the module will cover the following topics:  1) Analysis of socio-economic and cultural conditions in international markets  2) Marketing research and intelligence  3) Identification of International segments and niche markets 4) Alternative international market entry methods  5) Corporate and business ethics in international contexts 6) International marketing mix strategies 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     CB966      - Simulation and Optimization Software
+
+
+     
+      The aim of the module is to give students hands-on experience in using industry-standard optimization and simulation modelling software in order to structure and solve complex and large-scale managerial problems.Optimisation Modelling - this topic will involve: Learning about how to efficiently formulate linear/integer programming models  How to use commercial software to build and solve optimisation models  How to use optimisation software to solve and analyse business related problems of operational/tactical/strategic importance (e.g. project investment, logistics, and location planning)  The importance and steps involved with carrying out a sensitivity analyses (e.g. the meaning of dual variables  How to calculate the range of optimality of input variables)Discrete-Event Simulation - this topic will involve: Learning basic queuing theory, including its key assumptions, benefits and limitations Core theory and technical details pertaining to discrete-event simulation  How to build working simulation models using commercial software that mimic real-world systems  The meaning of common discrete/continuous distributions and how they can be used to model key aspects of a problem How to systematically analyze the results of a model.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB968      - Performance Management
+
+
+     
+      The aim of the module is to introduce students systematically to the range of activities in performance evaluations, mainly adopting quantitative approaches; to enable students to gain an understanding of the suitable quantitative approaches used in performance evaluations (and related areas).The module will cover: Introduction and Issues in Strategic Performance Management Basic Structures of Performance Management Main Approaches in Strategic Performance Management Performance Measurement Approaches in Performance Evaluation of Companies Classic DEA Models Approaches in Performance Evaluation of Public Sectors  Extensions of Classic Models
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB9058      - Warehousing and Transport Management
+
+
+     
+      The module consists of the following parts.Warehousing/Storage: The Warehouse Location Layout problemWarehousing (bin packing, packaging, marking/labelling, etc)Inventory management Distribution Freight Transportation (air, sea, railroads, trucks, motorbikes/bicycles, pipelines, others)A Brief on the techniques used (routing methods, shortest paths, transport, flows)A Brief on transport/road technology including software and hardware (trucking devices, software used, etc)Transport modelling and its impact on the environment and safety (multi-objective models between cost, environment or risk)
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB9066      - Applied marketing research
+
+
+     
+      The module content will include: What is marketing research Buyers and sellers in the research process The marketing research industry Qualitative and quantitative techniques in marketing research Secondary data and marketing intelligence Observational techniques in marketing research Experiments and test marketing Questionnaire design and implementation Cross cultural issues in marketing research Communicating marketing research results
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB927      - Heuristics & Optimisation
+
+
+     
+      The aim of the module is to give students further expertise in advanced management science techniques and provide students with certain advanced solution methods for a wide range of quantitative management problems.The module will cover: Optimisation (6 weeks): Constrained Optimisation, Unconstrained Optimisation, Numerical Methods. Heuristics (6 weeks): Formulation of special IP models and applications, Classical heuristics and their classification, Metaheuristics.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB904      - Structure and Organisation of the E-Commerce Enterprise
+
+
+     
+      The module aims to give students the opportunity to become familiar with: Internet technology and infrastructure. Technology planning and management. Acquisition and development of organisational capabilities. Extension of organisational capabilities through technology and networks.Topics to be covered will include: To introduce E-Commerce business models and competitive advantage. To explain Internet technologies and infrastructure. To understand Organisational IT (and IT infrastructure) management especially in relation to information, networks and the Internet. To realise the social, legal and ethical issues arising from the wide use of the Internet (e.g. security, privacy, identity, intellectual property). To introduce the notion of firm capabilities. To show how firms can obtain, develop and retain capabilities. To show the importance of organisational structure and management. To explain generic activity and process models. To show how capabilities can be extended through virtual organisation.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB934      - Strategy
+
+
+     
+      The strategy module has two main learning components: Acquiring theory and concepts in strategy and strategic management. Application of theory and concepts to the analysis of organisations.The aim is to critically examine and provide insights into the practice and process of strategic management within a variety of private and public sector organisations.What actions can employees pursue in order to attain superior performance for their organisation relative to their competitors? This course is designed to allow students to develop their skills of strategic analysis and their ability to think about the selection and implementation of appropriate strategies in different industry contexts and in different types and styles of organisations, including non-profit and public sector organisations. Topics include: What is Strategy, and Why is it Important? The Context of Strategy Competitive Strategy and Strategic Choices Resource Based Strategy Managing Strategic Change Corporate Social Responsibility Strategy in the Food sector
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB859      - Managing the Multinational Enterprise
+
+
+     
+      The aims of the module are: Analyze the modern multinational enterprise and its evolution. Explore the various ways multinationals are expanding and organized. Investigate the different subsidiary mandates. Critically examine innovation management within the multinational enterprise.The module content will include: Evolution of the Multinational Enterprise  Multinational Enterprise Theories. Multinationals and their Difference from Domestic Firms (Hymers approach to the Modern Multinational, Modes of Internationalization). Integrated Approaches  The Eclectic Framework and the Investment Development Path. Strategy and the Multinational Enterprise.  Integration Responsiveness Framework  Multinational Structures and Roles of Subsidiaries. Organization of the Multinational Network  Heterarchy vs. Hierarchy, Subsidiary Mandates. Technological Innovation and the Multinational. Cultural Differences and Multinational Performance. Unifying Approach Global Value Chain. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CB986      - Dissertation
+
+
+     
+      This module develops the necessary knowledge and skills for students to be able to successfully complete a scholarly dissertation under the supervision of a member of staff. Topics to be covered include:  Identifying suitable dissertation topics  Searching and reviewing the literature  Choosing suitable methods and approaches from the MSc in Management Science  and Business Analytics  Collecting and analysing data  Providing a solution to a practical problem - - by using quantitative techniques learned in the programme  Analysing the results and providing recommendations relevant to practitioners  Structuring and writing the dissertation 
+
+
+      Credits: 45 credits
+       (22.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The programme involves a taught and a project component. The taught programme is assessed by a mixture of coursework assignments throughout the year, and by examinations in May and June.
+
+Once these are completed, you then work full-time on the project and write a dissertation based on this. This 8,000 to 10,000 word dissertation is an opportunity to apply the techniques and insights presented in the programme and apply them to a particular problem area.
+  
+
+ 
+   Programme aims
+
+  
+   The programme aims to:
+
+ educate you to become business analytics specialists, improving the quality of the business analytics profession
+ prepare you to be operationally effective in business analytics and/or for further study or an academic career in the area
+ provide in-depth study in business analytics, including a strong theoretical base and a range of skills relevant to practice
+ add value to a first degree by offering theoretical and practical exposure to problem-solving techniques for effective decision making in a range of complex strategic, operational and managerial situations
+ provide career development opportunities for individuals who are already experienced managers   wishing to enhance their knowledge and understanding through a structured course of study
+ enhance lifelong learning skills and personal development, enabling you to contribute to business and society at large
+ develop a range of cognitive, critical and intellectual skills, together with research and personal/interpersonal skills
+ develop the ability to conduct research into business and management issues, either individual or as part of a team, through research design, data collection, analysis, synthesis and reporting
+ provide teaching and learning opportunities informed by high-quality research and scholarship
+ develop new areas and methods of teaching in response to the advance of knowledge, changes in technology and the needs of students
+ meet the growing market demand for highly skilled analytics workers.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ organisations, their external context and how they are managed
+ the application of business analytics knowledge to a range of complex situations
+ current issues in business analytics, which is informed by leading-edge research and practice in the field.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You gain the ability to:
+
+ creatively apply knowledge of business analytics and understand in practical terms how established techniques of research and enquiry are used to develop and interpret knowledge in business and management
+ evaluate the rigour and validity of published research, assessing its relevance to new situations
+ extrapolate from existing research and scholarship to identify new or revised approached to practice
+ be adaptable and demonstrate originality, insight, critical and reflective abilities, which can be applied to problem situations
+ evaluate and integrate theory and practice in a wider range of situations
+ take responsibility for continuing to develop your own knowledge and skills.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain the ability to:
+
+ understand appropriate techniques sufficient to allow detailed investigation into relevant business and management issues
+ acquire and analyse data and information, evaluate their relevance and validity, and synthesise a range of information in the context of new situations
+ conduct research into business analytics issues that requires familiarity with a range of business data, research sources and appropriate methodologies, informing the overall learning process
+ consistently apply knowledge and subject-specific and wider intellectual skills
+ deal with complex issues both systematically and creatively, and communicate their conclusions clearly to a range of audiences.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the  ability to:
+
+ communicate effectively, both orally and in writing, using a range of media
+ operate effectively in a variety of team roles and take leadership roles, where appropriate
+ be proactive in recognising the need for change and have the ability to manage change
+ make decisions in complex and unpredictable situations
+ be self-directed and able to act autonomously in planning and implementing projects at professional levels. 

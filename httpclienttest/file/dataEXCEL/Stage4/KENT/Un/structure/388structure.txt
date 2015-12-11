@@ -1,0 +1,653 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      CB366 - Management Principles
+
+      
+      
+       Management Principles aims to provide an understanding of the challenges of managing people within complex work organisations.  The experience of work and employment are being affected by rapid change as a result of a number of factors including new technology, the growth of global competition and the changing demographic profiles and values of the work force. These developments are considered within an historical context. An exploration of their implications for management practices and organisational forms will be conducted.
+Students will be introduced to the main concepts and theories through readings and discussions of the main authors in the field. Case studies will be used to show how these concepts can impact upon management decision making within work organisations. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO322 - Foundations of Computing I
+
+      
+      
+       Mathematical reasoning underpins many aspects of computer science and this module aims to provide the skills needed for other modules on the degree programme; we are not teaching mathematics for its own sake.Topics will include algebra, reasoning and proof set theory, functions, statistics.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO328 - Human Computer Interaction
+
+      
+      
+       This module provides an introduction to human-computer interaction. Fundamental aspects of human physiology and psychology are introduced and key features of interaction and common interaction styles delineated. A variety of analysis and design methods are introduced (e.g. GOMS. heuristic evaluation, user-centred and contextual design techniques). Throughout the course, the quality of design and the need for a professional, integrated and user-centred approach to interface development is emphasised. Rapid and low-fidelity prototyping feature as one aspect of this.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB714 - Marketing Principles
+
+      
+      
+       A synopsis of the curriculum
+The module introduces to students the importance of marketing in competitive and dynamic environments. The key topics of the module are:
+The marketing concept
+The marketing environment
+Market segmentation & targeting
+Brand development and management 
+Management of the marketing mix
+Marketing research and new product development
+The implications of internationalisation for marketing managers
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO334 - People and Computing
+
+      
+      
+       Design and communication, what makes for good written communication,  how people get and process information, Personal Development Project, effective spoken communication, how to work successfully in a group, doing academic research, about preparing and giving a presentation, history of computing and the history of communication, the effects of technology, Health and safety issues with computing, the Business of Computing, Employment in IT, software development and software engineering, preparing for examinations, designing for the web: web usability and web accessibility, the basics of IPR, relevant Laws applying to the use and development of computing, such as the Computer Misuse Act and the Data Protection Acts.A range of social issues relating to computing, Representative content might include, Digital divide, Cyber bullying, Case studies Sustainability: e.g. energy consumption, How to estimate? Substantial challenge, Rules of thumb (eg what to upgrade and when, when not to), Legal requirements of sustainability, Economic and ethical constraints.How to make money in the IT industry:  Consultancy, Selling software, Business planning, Pricing and estimating (case studies of what (not) to do from KITC).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      CO546 - Information Systems Analysis
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO547 - Agile Software Development
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO532 - Database Systems
+
+      
+      
+       This module provides an introduction to the theory and practice of database systems. It extends the study of information systems in Stage 1 by focusing on the design, implementation and use of database systems. Topics include database management systems architecture, data modelling and database design, query languages, recent developments and future prospects.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO329 - Computer Applications
+
+      
+      
+       This module introduces students to one of the more important computer tools used in business. The module teaches the use and application of spreadsheets, WhatIf analysis tools and VBA programming to produce solutions to business problems. Topics covered includeThe solution of linear programming problems, financial analysis, time-series forecasting, critical path analysis, inventory control and optimisation. The use of macros and VBA to automate spreadsheet processing.The use of statistical analysis software to summarise and display quantitative data, perform regression analysis and significance tests.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB330 - Fundamentals of Financial Accounting
+
+      
+      
+       A synopsis of the curriculum
+Role and evolution of accounting 
+Single entry accounting; double entry bookkeeping 
+Financial reporting conventions; recording transactions and adjusting entries 
+Principal financial statements; monetary items; purchases and sales; bad and doubtful debts; stock valuation; fixed assets and depreciation methods; liabilities
+Accounting for sole traders
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+
+     
+
+                     
+      CB729 - Enterprise and Entrepreneurship
+
+      
+      
+       This modules aims to enable students to understand the social and economic changes that have raised the status of enterprise, small business and entrepreneurial ventures in the global economy and across sectoral contexts. It examines the diverse nature of entrepreneurs, their characteristics and motivations, as well as the barriers and issues facing entrepreneurs when planning and establishing a new venture. The key topics of the module are: 1) Factors that have influenced the growth of the enterprise culture in the UK.2) The role and relevance of SMEs in the UK economy; varying definitions of SMEs; statistical information; Government policies and initiatives, and support agencies.3) Whether entrepreneurs are born or made; whether enterprise skills can be taught or learned, and whether entrepreneurs differ from business owners and other managers.4) Enterprise and innovation development in organisations, and the role of graduates in innovation, as well as the protection of ideas and intellectual capital.5) The planning process for starting a new venture  risks and liabilities; problems and pitfalls, and potential profit and success. 6) Funding a new enterprise, including via friends, family and fools, business angels and venture capitalists.7) Surviving the early stages of business development, including failure rates in new and small enterprises and barriers to growth and development. 8) Differences in attitudes, objectives, skill requirements and business strategies between small and large firms. 9) Growth strategy options, including the culture shift from operational to strategic thinking, and exit strategies.10) Enterprise in different contexts including corporate enterprise, public sector enterprise and social enterprise.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB731 - Strategy Theory and Practice
+
+      
+      
+       The module provides a broad, basic understanding of strategy and strategic management, on which further strategic analysis, the exploration of strategic issues and the evaluation of strategic options is built. It introduces students to the key vocabulary, concepts and frameworks of strategic management, and establishes criteria for assessing whether or not a strategy can be successful. It further introduces students to analytical frameworks, and differing theories as to how these relate and impact strategic management.  Students will enhance their ability to read business articles from a strategic perspective and to present strategic arguments in a structured manner. The key topics of the module are: 1) The Strategic Internal Environment 2) The Strategic External Environment  3) Organisational Structures and Processes4) Corporate Governance 5) Stakeholder Management6) Corporate Social Responsibility 7) The Search for Competitive Advantage 8) Innovation and Entrepreneurship
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB740 - The Management of Operations
+
+      
+      
+       This module will require students to develop the ability to use appropriate techniques of analysis and enquiry within the management of operations, and to learn how to evaluate alternatives and make recommendations.The key topics of the module are: 1) Strategic role of operations and operations strategy2) Design of processes and the implications for layout and flow3) People, jobs and organisation4) Capacity planning and scheduling5) Inventory control6) Supply chain management, lean systems and enterprise resource planning7) Quality planning and managing improvement
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      CB679 - Corporate and Business Strategy
+
+      
+      
+       Synopsis of the curriculum
+This module will extend students' knowledge and understanding of strategic management and strategic issues.  It will introduce a range of contemporary issues associated with the formulation and implementation of corporate and business strategies with an emphasis on identifying and implementing strategic change within the organisation, building dynamic capabilities and developing coherent strategies.  Issues might include strategies for a recession, global strategies, knowledge-based strategies, firms and industries, strategies where profit is of secondary (or no) importance.  The module will also extend students' theoretical knowledge by presenting contemporary debates and issues in strategic thinking.  The module will use a project in which students identify and suggest possible strategic solutions to a strategic issue in a real organisation to develop students' ability to link theory and practice in real-life situations.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO544 - Networking
+
+      
+      
+       Packet data networks, overview of general equipment and function (e.g. hubs, switches, routers). Large network architecture (e.g. the Internet).The OSI Seven layer model and packet encapsulation.An understanding and appreciation for physical issues (such as cabling and wireless mediums, bandwidth, interference, etc).Data-link layer issues (e.g. IEEE 802.3, IEEE 802.11, collisions, retransmissions, error recovery)Network layer issues covering underlying protocols (e.g. IPv4/IPv6) and routing protocols (e.g. RIP/OSPF/AODV)Transport layer issues and protocols (e.g. TCP/UDP)Session layer issues and protocols (e.g. TCP).Presentation layer overviewApplication layer protocols (e.g. DNS, HTTP, FTP, SMTP/POP3)
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      CO539 - Web Development
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO600 - Project
+
+      
+      
+       The project gives you the opportunity to follow and develop your particular technical interests, undertake a larger and less tightly specified piece of work than you have before (at university), and develop the project organisation, implementation and documentation techniques which you have learnt in other modules. The technical and professional aspects of project courses are seen as particularly important by both employers (who will often bring them up in interviews) and by professional bodies.The project may be self-proposed or may be selected from a list of project proposals. Typically, a project will involve the specification, design, implementation, documentation and demonstration of a technical artefact. The project is supervised by a member of the academic staff, who holds weekly meetings with the group, during which s/he will give general advice and will assess the progress of the group and the contributions by individual students. Project deliverables are:- a technical report, in the style of an academic paper, describing the scientific/technical outcome of the project; - a well-indexed corpus of material that supports the achievements claimed. In addition, each individual prepares a report outlining his/her contributions to each of the various aspects of the project. This report should not be a repeat of other material delivered as part of the project, but an assessment of the progress of the project and reflections on what the individual has learnt from undertaking it. In particular, it should include a description of the particular activities and outcomes that individual has contributed to the project, and of how the group worked together. This report will be discussed at a viva voce examination which should include a short presentation/demonstration of the project. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO650 - IT Consultancy Project
+
+      
+      
+       Students taking this module will undertake two or (typically) more assignments for the Kent IT Clinic (KITC). Each assignment will be of one of three types: .Work on one of KITCs contracts with an external client. To the extent that client-funded workallows, every student will be given at least one assignment of this type. Wherever practical, astudent will be encouraged to participate in the negotiation and pricing of contracts, under theultimate supervision of KITC management. For each assignment, the student may work on theassignment individually or as part of a group, as directed by KITC.A contribution to the infrastructure of KITC itself. These assignments work in a similar way to external assignments, but with KITC as the client. Formulating a costed proposal for the future development of KITC, and presenting reasoned argument in support of the proposal to KITC management, as a candidate for inclusion in KITCs strategic plan for the following academic year. Every student will have at least one assignment of this type.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO655 - Software Project
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      CO634 - Computer Security and Cryptography
+
+      
+      
+       Security has always been an important aspect of computing systems but its importance has increased greatly in recent years.  In this module you learn about areas where security is of major importance and the techniques used to secure them.  The areas you look at include computer operating systems (and increasingly, distributed operating systems), distributed applications (such as electronic commerce over the Internet) and embedded systems (ranging from smart cards and pay-TV to large industrial plant and telecommunications systems).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO639 - Electronic Commerce
+
+      
+      
+       E-commerce is an increasingly important area for consumers, businesses and national economies. This module introduces what is meant by electronic commerce, and discusses its economic and social implications, its drivers and limitations. You will learn about the principal features of business-to-business and business-to-customer e-commerce and compare them with traditional forms of trading. The course also includes the chance to implement a simple end-to-end e-commerce system
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO643 - Computing Law and Professional Responsibility
+
+      
+      
+       The scope of the module is outlined below. Note that topics will not necessarily be delivered in this orderProfessional issues and professional organisations. Data privacy legislation, and other UK laws relating to the professional use of computer systemsCriminal law relating to networked computer use, including new Anti-Terrorism legislation; and their applicationIntellectual Property Rights, including Copyright, Patent and Contract LawsHealth & Safety issues. Computer-based Projects, including the vendor-client relationship and professional responsibilities
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO644 - Semantic Web
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO645 - IT Consultancy Practice 2
+
+      
+      
+       Students taking this module will undertake one or (typically) more assignments for the Kent IT Clinic (KITC). Each assignment will be of one of three types: Work on one of KITCs contracts with an external client. To the extent that client-funded work allows, every student will be given at least one assignment of this type. Wherever practical, a student will be encouraged to participate in the negotiation and pricing of contracts, under the ultimate supervision of KITC management. For each assignment, the student may work on the assignment individually or as part of a group, as directed by KITC. A contribution to the infrastructure of KITC itself.  A contribution to the infrastructure of KITC itself. These assignments work in a similar way to external assignments, but with KITC as the client.Formulating a costed proposal for the future development of KITC, and presenting reasoned argument in support of the proposal to KITC management, as a candidate for inclusion in KITCs strategic plan for the following academic year.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                            
+      CO649 - Data Mining
+
+      
+      
+       Data mining is a process of extracting, from a large amount of data, interesting patterns that are non-trivial, hidden, new and potentially useful. It is a rapidly growing field and is becoming important because with the increasing quantity and variety of online data collections by many organizations and commercial enterprises, there is a high potential value of patterns discovered in those collections. This module looks at different data mining techniques and gives you the chance to use a state-of-the-art data-mining tool and evaluate the quality of the discovered knowledge. The topics include: introduction to data mining and knowledge discovery process, data description, data warehousing and OLAP, data pre-processing, overview of basic data mining tasks, market basket analysis and association rules, classification using decision tree induction, Na&iuml;ve Bayesian classification, K-means clustering, outlier detection, post-processing, social impact and trend of data mining.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                            
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO548 - Software Engineering Process
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO816 - eHealth
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      CB682 - Managing People
+
+      
+      
+       A synopsis of the curriculum
+This module will introduce students to the key concepts of managing people, involving an examination of organisational, human resource management and industrial relations theory. This will be achieved through relating relevant theory to practical people and organisational management issues.The main topics of study are as follows:
+Managing human resources
+Organisational culture
+Groups and team working
+Motivation and job design
+Flexible working practices
+Equal opportunities and diversity management
+Managing learning
+Performance management
+Managing the employment relationship
+Power, control, resistance and the employment relationship
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB742 - Creating Your Own Enterprise
+
+      
+      
+       The understanding and application of enterprise knowledge is seen as a transferable skill that can have cross-school application within the University, in that it has relevance to students from a broad range of academic disciplines who might be considering self-employment after graduation.  The curriculum is based on the Small Firms Enterprise Development Initiative (National Standards-setting body for small business) Standards for Business Start-up, but has been expanded to include contemporary issues such as Intellectual Property and recent legislation. The module will include the following areas of study:1) Why firms become insolvent  economic financial and operational reasons for business failure; risks & liabilities; skills requirements for business ownership; self-development planning; sources of advice, and support for businesses.2) The new business planning process and format - developing and evaluating the business idea, and producing a business plan for potential lenders.3) Financial aspects  budgetary planning and control; cash-flow and working capital; understanding financial accounting and key financial documents; break-even analysis; credit control, and debt recovery.4) Market research, competition and barriers to market entry - identifying customers; market segmentation; planning the sales and marketing processes; customer perceptions and customer care, and developing quality standards for the business5) Legal issues - reporting requirements; UK & EU law relevant to small businesses; business formats and trading status and their respective risks and liabilities; insurance; insolvency, and intellectual property rights such as patents and copyright.6) Planning and employing staff - planning and obtaining premises; physical and financial resources, and the phased implementation of the business plan.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB520 - Service Management
+
+      
+      
+       This module follows CB514 Operations Management but its focus is on services.  It deals with the management of service operations: that part of any organisation that produces and delivers services required by customers of the organisation.  The module aims to provide a clearly structured qualitative treatment of service management that explores the design of service delivery systems and how customer service quality can be managed.Students will be expected to develop the ability to use appropriate techniques of analysis and enquiry within Operations and Service Management and to learn how to evaluate the alternatives and make recommendations. Topics include:
+The nature of services and service strategy
+Service development and technology
+Service quality and the service encounter
+Project/Event management and control
+Managing capacity and demand in services
+Managing inventories
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB561 - Business Law
+
+      
+      
+       A synopsis of the curriculum
+English Legal System, Legal Process, Dispute settlement (outline);
+Law of Contract formation, terms, vitiating elements, discharge and remedies;
+Contracts for the sale of goods  implied terms;
+Consumer credit (outline);
+Negligence  general principles and negligent mis-statement;
+Law of Business Organisations - classification of business organisations, main principles applying to partnerships and registered companies; 
+Employment Law - contract of employment, the main employment rights created by the common law and statute.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB729 - Enterprise and Entrepreneurship
+
+      
+      
+       This modules aims to enable students to understand the social and economic changes that have raised the status of enterprise, small business and entrepreneurial ventures in the global economy and across sectoral contexts. It examines the diverse nature of entrepreneurs, their characteristics and motivations, as well as the barriers and issues facing entrepreneurs when planning and establishing a new venture. The key topics of the module are: 1) Factors that have influenced the growth of the enterprise culture in the UK.2) The role and relevance of SMEs in the UK economy; varying definitions of SMEs; statistical information; Government policies and initiatives, and support agencies.3) Whether entrepreneurs are born or made; whether enterprise skills can be taught or learned, and whether entrepreneurs differ from business owners and other managers.4) Enterprise and innovation development in organisations, and the role of graduates in innovation, as well as the protection of ideas and intellectual capital.5) The planning process for starting a new venture  risks and liabilities; problems and pitfalls, and potential profit and success. 6) Funding a new enterprise, including via friends, family and fools, business angels and venture capitalists.7) Surviving the early stages of business development, including failure rates in new and small enterprises and barriers to growth and development. 8) Differences in attitudes, objectives, skill requirements and business strategies between small and large firms. 9) Growth strategy options, including the culture shift from operational to strategic thinking, and exit strategies.10) Enterprise in different contexts including corporate enterprise, public sector enterprise and social enterprise.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

@@ -1,0 +1,629 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      MA306 - Statistics
+
+      
+      
+       This module will introduce the student to the basic concepts of statistics. The material will be related to real data at every stage and MINITAB will be used to provide statistical computing facilities for all the material studied. Data description and data summary will be studied, followed by an introduction to the main methods of inference. Most material will be based on the Normal, t, and F distributions, but some simple non-parametric procedures will also be covered. The following is a brief summary of the topics to be covered in the module: graphical representation of data; numerical summaries of data; sampling distributions; point estimation; interval estimation; hypothesis tests; association between variables; introduction to nonparametric procedures.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA321 - Calculus and Mathematical Modelling
+
+      
+      
+       In the first part of the course we take a calculus approach to mathematical analysis and provide rigorous proofs of various fundamental results in  classical analysis. In the second part the calculus techniques are used to solve differential and difference equations; numerous applications are discussed.The course will cover the real numbers and functions of one real variable; the calculus of one and several variables; inequalities; Taylor series; properties of sequences of real numbers; first and second order linear and simple non-linear differential equations, linear first and second order difference equations, application of differential and difference equations to solve simple problems.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA322 - Proofs and Numbers
+
+      
+      
+       Numbers and proofs are central notions in modern mathematics that have found applications in many other sciences, but also in our everyday life. For instance, the security of our mobile phones relies on properties of integers. In this course you will be introduced to some of the fundamental results in number theory, and gain an appreciation of the concept of proof in mathematics. Topics covered will include: logic, sets, proofs, selection models, modular arithmetic, complex numbers, polynomials, functions, relations.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA323 - Matrices and Probability
+
+      
+      
+       Co-requisites: MA321 (Calculus and Mathematical Modelling) and MA322 (Proofs and Numbers) This module consists of two parts (a) Probability (Weeks 7-12), (b) Matrices (Weeks 13-18). The first part introduces the main concepts in elementary probability theory, and lays the foundations for the Statistics module MA306 which follows, and the more advanced treatment in modules MA529 (Probability and Statistics for Actuarial Science) and MA629 (Probability and Inference) in the second year.  The second part serves as an introduction to matrix algebra and the ideas of linear spaces starting with the systematic solution of systems of linear equations.The following topics will be covered: Concepts and axioms of probability; theory for unstructured sample spaces; conditional probabilities; discrete and continuous random variables; expectation; Bayes theorem; common distributions; joint distributions; systems of linear equations and Gaussian elimination; determinants; Eigenvalues and Eigenvectors; vector spaces; vectors in 2 and 3 dimensions; and linear systems of differential equations. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA324 - Exploring Mathematics
+
+      
+      
+       This module introduces you to modern means of exploring mathematics: powerful software tools for symbolic and numerical computing, relevant key skills for presenting mathematical results, and the de-facto standard language for typesetting mathematical texts. The module contains three research-led projects in experimental mathematics. In this module, you will see Mathematics that you would not see anywhere else! Topics covered will include: Symbolic and numerical computation, plotting, programming, algorithms, polynomial systems, differential algebra, matrices, Gaussian elimination, eigenvectors, eigenvalues.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA325 - From Geometry to Algebra
+
+      
+      
+       The concept of symmetry is one of the most fruitful ideas through which mankind has tried to understand order and beauty in nature and art. This course first develops the concept of symmetry in geometry. It subsequently discusses links with the fundamental notion of a group in algebra. The syllabus will include: Euclidean geometry, classification of isometries, congruences and similarities, spherical geometry, spherical excess formula, regular polyhedra, Eulers formula, geometry of the complex plane, permutations, disjoint cycle decomposition, cyclic and dihedral groups, infinite groups, elementary results in group theory.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      MA552 - Analysis
+
+      
+      
+       The concept of a limit is basic to Calculus and, unless this concept is defined precisely, uncertainties and paradoxes will creep into the subject. Based on the foundation of the real number system, this module develops the theory of convergence of sequences and series and the study of continuity and differentiability of functions. The notion of Riemann integration is also explored. The syllabus includes the following: Sequences and their convergence. The convergence of bounded increasing sequences. Series and their convergence: the comparison test, the ratio test, absolute and conditional convergence, the alternating series test. Continuous functions: the boundedness theorem, the Intermediate Value Theorem. Differentiable functions: The Mean Value Theorem with applications, power series, Taylor expansions. Construction and properties of the Riemann integral.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA553 - Linear Algebra
+
+      
+      
+       This module is a sequel to First Year Algebra. It considers the abstract theory of Linear spaces together with applications to matrix algebra and other areas of Mathematics (and its applications).  Since linear spaces are of fundamental importance in almost every area of mathematics the ideas and techniques discussed in this module lie at the heart of mathematics. Topics include: Elementary operations on matrices; Vector (alias Linear) spaces; linearly independent and spanning sets, bases, dimension, subspaces;  Linear Transformations; Matrix of a Linear transformation; Change of Basis, Similar Matrices and Applications; Determinant of an LT; Diagonalisation; Invariant subspaces and upper triangular forms; Bilinear forms, norms, Cauchy-Schwarz inequality;  Orthonormal systems; the Gram-Schmidt process;  Diagonalisation of real symmetric matrices by orthogonal matrices; Applications e.g. to Projection mappings and Least Squares Approximation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA629 - Probability and Inference
+
+      
+      
+       This module develops the techniques introduced in the first year probability and statistics modules, and lays the foundation for several third year statistics modules. The probability component of the module is mainly concerned with how to find probability distributions of functions of random variables, an essential skill in proving standard statistical results and in applying probability and statistics in novel situations.  The study of sampling distributions, which underpin much of statistical inference, provides a bridge to the statistical part of the module.  Statistical inference may be divided into point estimation, interval estimation and hypothesis testing.  All of these have been introduced in the first year statistics module.  The present module extends the range of examples, and provides some theoretical justification for the choice of particular techniques in particular cases.Syllabus: Probability; joint distributions of two or more discrete or continuous random variables, marginal and conditional distributions, properties of expectations, variance, covariance and correlation.  Generating functions: moment generating functions, probability generating functions, etc.  Methods for obtaining distributions of functions of one or more random variables. Approximate methods for transformations of random variables.  Sampling distributions related to the Normal distribution.  Principles of statistical inference.  Point estimation; properties of point estimators (unbiasedness, consistency, efficiency).  Methods of estimation; maximum likelihood estimators, methods of moments.  Hypothesis testing; Neyman-Pearson lemma, power function, uniformly most powerful tests, relative efficiency, likelihood ratio test.  Interval estimation; construction of confidence intervals, pivotal functions.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      MA564 - Functions of Several Variables
+
+      
+      
+       Continuity & Differentiation:- Topology of Rn Euclidean norm, convergence, open, closed & compact sets, linear maps- Continuity of real valued  functions in Rn: definition and equivalent characterisations, continuous functions on compact sets, IVT- Differentiation real valued  functions in Rn: directional derivative, Frechet derivative, tangent plane, swapping order of partial derivatives, maxima and minima, MVT, first two terms in Taylor expansion, Hessian- Functions from Rn to Rm: continuity, contraction mappings, differentiability, the Jacobian, change of variables / chain rule, polar, cylindrical and spherical coordinates, implicit function theorem, inverse function theoremIntegration:- Riemann integration in Rn: partitions of rectangles, upper & lower sums, the Riemann integral- Double & triple integrals: iterated integrals, substitution rule, change of variables, use of polar, cylindrical & spherical coordinates- Line and surface integrals: rectifiable curves, arc length, line integrals, path (in)dependence, surfaces, area, surface integralsAdditional topics might include the Integration theorems: divergence and curl, divergence theorem (plane version) and Stokes Theorem.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA565 - Groups and Rings
+
+      
+      
+       Groups are sets with a single binary operation.  They arise as symmetry groups in contexts from puzzles like Rubiks cube to chemistry, where they help list molecules with a given number of atoms involved.  In contrast, rings have two binary operations, generalising the arithmetic of integer numbers. This part of algebra has many applications in electronic communication, in particular in coding theory and cryptography.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA588 - Mathematical Techniques and Differential Equations
+
+      
+      
+       Most physically interesting problems are governed by ordinary, or partial differential equations.  It is examples of such equations that provide the motivation for the material covered in this module, and there is a strong emphasis on physical applications throughout. The aim of the module is to provide a firm grounding in mathematical methods: both for solving differential equations and, through the study of special functions and asymptotic analysis, to determine the properties of solutions. The module will provide invaluable to anybody who later takes third year options in asymptotics, numerical analysis or differential equations.The following topics will be covered: Ordinary differential equations: method of Frobenius, general linear second order differential equation. Special functions: Bessel, Legendre, Hermite, Laguerre and Chebyshev functions, orthogonal functions, gamma function, applications of special functions.  Partial differential equations; linear second order partial differential equations; Laplace equation, diffusion equation, wave equation, Schr&ouml;dingers equation; Method of separation of variables. Fourier series: application to the solution of partial differential equations. Fourier Transforms: Basic properties and Parsevals theorem.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      MA632 - Regression Models
+
+      
+      
+       The aims of the module are to introduce the students to the theory and practice of regression, and associated linear model techniques. Quite often experimenters and researchers wish to express a response variable y as a function of some other (explanatory) variables. For example, y might be the yield of a chemical process and the explanatory variables might be temperature and pressure. Knowing the relationship would enable y to be predicted for particular values of temperature and pressure. In this module the method of deriving such a relationship will be that of least squares and the theoretical and practical aspects of this method will be covered in some detail. There will be opportunity for students to use computer programs.The module covers most of the following topics: definition of the linear model and regression, least squares estimates, sums of squares, expectations, properties of estimators, the ANOVA table, standard errors and confidence intervals for parameters, residuals, diagnostics, regression with two explanatory variables, matrix formulation of the model, multiple regression, extra sum of squares principle, use of MINITAB, model selection strategies, introduction to analysis of variance.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB668 - Linear Programming and its Application
+
+      
+      
+       The broad areas will be as defined as shown below:Modelling LP applications (management, finance, business, marketing)The use of graphical method for small problems and the development Simplex Method (optimality and feasibility criteria) including the two-phase method.The use of a computer software such as Excel to solve LP instances and discussion of results (through a couple of Labs).Degeneracy issues in LP (brief)Duality theory (dual problems, duality theorem, and complementary slackness conditions), and application of duality to other problems (brief)Dual Simplex MethodSensitivity analysis and brief pot-optimality analysisExtension of LP to Integer Programming or Ratio Programming (DEA)
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                                   
+      MA566 - Number Theory
+
+      
+      
+       Review of the basic concepts introduced in MA322, including division, congruence and greatest common divisorsPrime numbers and prime factorisationArithmetic functionsThe group of units modulo n, Euler's Theorem and Fermat's Little TheoremPrimality testsIntroduction to cryptographySquares modulo n and quadratic residuesSums of squaresMersenne, Fermat and perfect numbersDiophantine equations, including Pell's equation and Mordell's equationAround Fermat's Last TheoremAlgebraic and transcendental numbers
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA584 - Computational Mathematics
+
+      
+      
+       The aim of the module is to provide an introduction to the methods, tools and ideas of numerical computation. In applications mathematics frequently generates specific instances of standard problems for which there are no easily obtainable analytic solutions. Examples might be the task of determining the value of a particular integral, or of finding the roots of a certain non-linear equation. Methods are presented for solving such problems on a modern computer. Besides a description of the basic numerical procedure, each method is analysed in terms of when it best works, how it compares with alternative approaches, and the way it may be implemented on a computer. Numerical computations are almost invariably contaminated by errors, and an important concern throughout the module is to understand the source, propagation and magnitude of these errors.The syllabus will cover: Introduction to numerics; solutions of equations in one variable; interpolation and polynomial approximation; numerical differentiation; numerical integration; direct methods for solving linear systems; iterative techniques for solving linear systems.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                            
+      MA590 - Mathematical Modelling
+
+      
+      
+       The module introduces mathematical modelling in a variety of contexts including using Newtons laws of motion, Newtons law of gravitation, population models, exponential growth, density dependent growth, and predator-prey models. Outline syllabus may include topics from: - deriving differential equations from data; dimensional analysis; - discrete models and difference equations: steady states and their stability; - continuous models and ordinary differential equations: steady states and their stability; the slope fields and phase lines; - applications of Linear Algebra (in lower dimensions): systems of linear ordinary differential equations; linear phase plane analysis and stability; - electrical networks;- vector algebra, vector geometry, vector equations, coordinate systems and vector differentiation; - application in mechanics: Newton's laws for a single particle in 3-d; conserved quantities; angular velocity, angular momentum, moment of a force; harmonic motion; 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+
+
+
+
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                     
+      MA599 - Mini-Projects
+
+      
+      
+       Professional mathematicians employ a wide variety of skills when working on any one problem.  This module is designed to give students the opportunity to put their seemingly disparate skills together in a variety of ways and learn to communicate what they have done in an effective manner. Communication skills  both written and spoken  are at the heart of this module.This module  is assessed on the basis of the project work submitted (70%), coursework related to the project (20%), and coursework related to the communication skills component (10%). Students are arranged into small teams. Each group will work together, under the guidance of the project supervisor, to produce a single written project. In addition, each individual student will submit a short report detailing his/her contributions to the group project, and will have an interview where he/she will give a presentation and will answer questions on the project topic.Indicative titles for group projects:   ---  Orthogonal polynomials and special functions --- Integral inequalities and their applications ---  Chaos and the double pendulum --- Knots --- Chaos in one-dimensional maps --- Fractals ---  Generating functions --- Games and  Decisions   --- Public key cryptography  ---  Graph theory --- A Glimpse into Non-Standard Analysis  --- Origami and  Mathematics -- Symmetry Methods for Differential Equations --- Number theory ---  Fourier analysis --- Information theory and cryptography --- Smoker mortality and the effect on life insurance --- Population and financial projections --- Life insurance company product launch --- Modelling Financial Data with ARCH and GARCH models  --- Financial Statements Analysis.There will be a series of key skills workshops covering scientific writing, presentation skills, team-work and typesetting using LaTeX (including surgery hours for LaTeX ). 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA600 - Dissertation
+
+      
+      
+       This module provides an opportunity to explore and research a topic in mathematics or statistics that is of interest to the student. Under the guidance of a supervisor, the student will engage in self-directed study to produce a dissertation.There follows a list of titles which members of staff have offered in the past. The definitive list of topics will be published early in the autumn term. Please note that not all topics are suitable for all students. The majority of Mathematics topics will be aimed at students with a Stage 2 average exceeding 60%. Some topics may also have pre-requisite modules. Acceptance onto a topic is at the supervisor's and convenor's discretion.Indicative Mathematics Titles:Special Functions and Orthogonal Polynomials -- Solitons -- Alternating sign matrices --  Applications of Lagrangian Mechanics in two or more dimensions-- Knot Theory -- Symmetries and finite groups --Finite fields and their applications -- Reaction-diffusion models and nonlinear waves in cell biology -- Analytic number theory -- Theory and applications of quantum mechanics -- Topological Solitons --Numerical methods which preserve geometric properties -- Totally non-negative matrices -- Examples of non-commutative algebras -- Around Rogers-Ramanujan identities -- Quivers -- Signed permutations and the four colour theorem -- Tropical mathematics -- Hilbert's geometries -- Perron-Frobenius theory --  Actions of Lie groups --  Calculus of Variations -- Diophantine equations and related number theory -- Elliptic curves and their applications --  Lie Algebras -- Symmetric Groups --Complexity and Cryptography -- Latin Squares -- Symbolic Integration of Elementary Functions -- Applications of Gr&ouml;bner Bases -- G&ouml;del's Completeness and Incompleteness Theorems -- Geometric Algebra -- Non-Euclidean Geometry -- Topology -- Galois Theory -- Paradox of Fermi-Pasta-Ulam --Averaging Methods in nonlinear ODE -- Linear Operators and Spectral Theory -- Sturm-Liouville Problems -- Fundamental Theorems of Functional Analysis and Applications -- The Group Theory of Rubik's Cube -- Euler's Formula.Indicative Statistics Titles:Simulation of stochastic processes -- Applications of stochastic processes -- Parameter Redundancy in Ecological Models -- Prion Number Determination in Yeast Cells -- Analysis of Teal Data -- Stochastic Frontier Analysis using WinBUGs -- The Lasso and Beyond -- Variable selection in linear regression --  Smoothing splines and applications -- Simulation study for exploring the consistency of certain mean shape estimators -- Statistical inference based on simple shape models -- Hyperbolic geometry and shape analysis -- The National Lottery, it probably won't be you? -- Mastering Monopoly with Markov Chains -- Statistical Inference for Epidemic models -- Statistical ecology --Practical Bayesian statistics -- Applied Stochastic Modelling -- Service times in banks -- Modelling football match statistics -- Randomized response surveys -- Introduction to Markov chain Monte Carlo methods -- Large sample properties of estimators -- Decision Theory -- Analysis of nuclear magnetic resonance (NMR) data  Multi-scale modelling method and application for the remote sensing terrain data.Students registered for MA600 must attend the Communication Skills Workshops where students will learn how to write a report effectively, design graphics and slides, and learn the mathematical typesetting language LaTeX.  
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      MA603 - Introduction to Lie Groups and Lie Algebras
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA605 - Symmetries, Groups and Invariants
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA611 - Introduction to Functional Analysis
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA617 - Asymptotics and Perturbation Methods
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA636 - Stochastic Processes
+
+      
+      
+       A stochastic process is a process developing in time according to probability rules; for example, models for reserves in insurance companies, queue formation, the behaviour of a population of bacteria, and the persistence (or otherwise) of an unusual surname through successive generations.The syllabus will include coverage of a wide variety of stochastic processes and their applications; Markov chains; processes in continuous-time such as the Poisson process, the birth and death process and queues.Marks on this module can count towards examption from the professional examination CT4 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA639 - Time Series Modelling and Simulation
+
+      
+      
+       Note: Stage 2 module for Actuarial Science students onlyA time series is a collection of observations made sequentially in time.  Examples occur in a variety of fields, ranging from economics to engineering, and methods of analysing time series constitute an important area of statistics.  The module focuses on various time series models, including some recent developments, and provides modern statistical tools for their analysis.  The other part of the module covers extensively simulation methods.  These methods are becoming increasingly important tools as simulation models can be easily designed and run on modern PCs.  Various practical examples are considered so as to help the students tackle the analysis of real data.The syllabus includes:  Difference equations, Stationary Time Series: ARMA process.  Nonstationary Processes: ARIMA Model Building and Testing: Estimation, Box Jenkins, Criteria for choosing between models, Diagnostic tests.Forecasting: Box-Jenkins, Prediction bounds. Testing for Trends and Unit Roots: Dickey-Fuller, ADF, Structural change, Trend-stationarity vs difference stationarity. Seasonality and Volatility: ARCH, GARCH, ML estimation. Multiequation Time Series Models: Spectral Analysis.  Generation of pseudo  random numbers, simulation methods: inverse transform and acceptance-rejection, design issues and sensitivity analysis.Marks on this module can count towards examption from the professional examination CT6 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA771 - Applied Stochastic Modelling and Data Analysis
+
+      
+      
+       The module starts with an introduction to a range of atypical data sets, drawn from areas such as ecology, biology, genetics and psychology.  Each of the examples can be described by a suitable stochastic model, making use of the known background to the data, and built on the axioms of probability theory. Fitting models to data is traditionally accomplished by the method of maximum likelihood, and typically this involves numerical optimisation. The labour involved here is only feasible using a computer, and integral to the module is the use of the MATLAB integrated computer package. The module also describes modern Bayesian methods for data analysis, and MATLAB is again very useful for illustrating these methods in operation. In supervised computer practical classes you will gain experience with running a range of computer programs for modern methods of statistical analysis.  Students completing this module will possess an enviable grasp of the utility and power of modern statistics for describing real-life situations.  During the module you will cover most of the following topics: Introduction and examples. Model fitting by maximum likelihood. Function optimisation. Basic likelihood tools. Simulation techniques. Fundamental features of modelling. The EM algorithm. Generalised linear models, generalised linear mixed models. Bayesian methods. Note that this module makes excellent use of a wide range of statistical, mathematical and computational techniques, and revises and integrates material from a number of other lecture courses. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA772 - Analysis of Variance
+
+      
+      
+       This module will build on the material on linear-models covered in the module, MA632 Regression.   Analysis of variance is a fundamentally important method for the statistical analysis of data.  It is used widely in biological, medical, psychological, sociological and industrial research.  In analysing experimental data, the appropriate form of analysis of variance is determined by the design of the experiment, and we shall therefore discuss some aspects of experimental design in this module.  Lectures are supplemented by computing classes which explore the analysis of variance facilities of the statistical package R. Syllabus: One-way ANOVA (fixed effects model); alternative models; least squares estimation; expectations of mean squares; distributional results; ANOVA table; follow-up analysis; multiple comparisons; least significant difference; confidence intervals; contrasts; orthogonal polynomials; checking assumptions; residual plots; Bartletts test; transformations; one-way ANOVA (random effects model); types of experiment; experimental and observational units; treatment structure; randomisation; replication; blocking; the size of an experiment; two-way ANOVA; the randomised complete block design; two-way layout with interaction; the general linear model; matrix formulation; models of full rank; constraints; motivations for using least squares; properties of estimators; model partitions; extra sum of squares principle; orthogonality; multiple regression; polynomial regression; comparison of regression lines; analysis of covariance; balanced incomplete block designs; Latin square designs; Youden rectangles; factorial experiments; main effects and interactions
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA781 - Practical Multivariate Analysis
+
+      
+      
+       Many statistical problems (in biology and psychology, for example) are multivariate, in that more than one measurement is made on each individual under study.  For example, we may be given scores on several different tests, or the levels of several chemicals in the blood.Some statistical techniques for analysing multivariate data are extensions of standard univariate techniques. Other techniques are concerned with the relationships between variables; they lead, in conjunction with modern computing techniques, to a wide variety of descriptive and exploratory tools.In this module, students will attend about 20 lectures and classes designed to introduce all the major concepts and techniques of multivariate analysis, and will do some reading and undertake a small project designed to deepen their appreciation of some of the methodology.Syllabus: Random variables and their properties; The Multivariate Normal (MN) distribution; Partial and multiple correlation; Sampling distributions based on MN; Inference for  the  MN  distribution; including  Hotelling's  T2 and multivariate analysis of variance; Likelihood ratio and Union-intersection methods; Discriminant analysis; Principal component analysis and Factor Analysis; Scaling and rotation of factors; Canonical analysis; Metric and non-metric scaling.  Methods of cluster analysis.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA591 - Nonlinear Systems and Mathematical Biology
+
+      
+      
+       This module provides an introduction to the study of properties of solutions of nonlinear ordinary differential equations, difference equations and their application to problems in Biology. Topics covered include continuous population models, discrete population models (including the onset of chaos), interacting population models (including predator-prey, competition and mutualism models), reaction kinetics and reaction-diffusion models. The emphasis will be on developing an understanding of nonlinear systems and using practical analytical techniques to analyse them. The module will utilise biological models to illustrate the theory and give an insight into how Mathematics can be of practical use in the study of phenomena which are observed in the real world and include some recent developments in this field. The development will bring together several aspects of Mathematics - analytic, geometric and numerical ideas, as well as computation through the use of MAPLE.The module will cover topics in the following areas: Introduction to nonlinear systems and Mathematical Biology; Continuous population models for single species; Discrete population models; Phase plane analysis; Continuous models for Interacting Populations; Stability, instability and limit cycles; Reaction kinetics; Reaction-diffusion models; Reaction-diffusion (Turing) mechanisms.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA595 - Graphs and Combinatorics
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA567 - Topology
+
+      
+      
+       This module is an introduction to point-set topology, a topic that is relevant to many other areas of mathematics. In it, students will be looking at the concept of topological spaces and related constructions. In an Euclidean space, an "open set" is defined as a (possibly infinite) union of open "epsilon-balls". A topological space generalises the notion of "open set" axiomatically, leading to some interesting and sometimes surprising geometric consequences. For example, we will encounter spaces where every sequence of points converges to every point in the space, see why for topologists a doughnut is the same as a coffee cup, and have a look at famous objects such as the Moebius strip or the Klein bottle.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA572 - Complex Analysis
+
+      
+      
+       The module is concerned with complex functions, that is functions which are both defined for and assume complex values.  Their theory follows a quite different development from that of real functions, is remarkable in its directness and elegance, and leads to many useful applications.Topics covered will include: Complex numbers. Domains and simple connectivity.  Integration and  Cauchys theorem.  Singularities and residues.  Applications.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA574 - Polynomials in Several Variables
+
+      
+      
+       This module provides a rigorous foundation for the solution of systems of polynomial equations in many variables.  In the 1890s, David Hilbert proved four ground-breaking theorems that prepared the way for Emmy Noether's famous foundational work in the 1920s on ring theory and ideals in abstract algebra.  This module will echo that historical progress, developing Hilbert's theorems and the essential canon of ring theory in the context of polynomial rings.  It will take a modern perspective on the subject, using the Groebner bases developed in the 1960s together with ideas of computer algebra pioneered in the 1980s. The syllabus will be: Multivariate polynomials, monomial orders, division algorithm, Groebner basis; Hilbert's Nullstellensatz and its meaning and consequences for solving polynomials in several variables; Elimination theory and applications; Linear equations over systems of polynomials, syzygies, discussion of Hilbert's Syzygies Theorem, its proof and applications. Throughout the course there will be opportunities to discuss other applications.  Depending on time, these may include: invariants of group actions, linear PDEs, combinatorics and the Stanley-Reisner ring, and algebraic codes.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB600 - Games and Networks
+
+      
+      
+       The module is divided into three main topics, namely Combinatorial Optimisation, Dynamic Programming and Game Theory.  A more detailed listing of content is given below. Combinatorial Optimisation:  The Shortest Path ProblemThe Minimal Spanning Tree ProblemFlows in NetworksScheduling TheoryComputational ComplexityTheory of Games:  Matrix Games  Pure StrategiesMatrix Games  Mixed StrategiesBimatrix GamesN-person GamesMulti-criteria Decision Theory
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA538 - Applied Bayesian Modelling
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA549 - Discrete Mathematics
+
+      
+      
+       Recently, with the rapid developments in IT, in particular in electronic communication systems, some quite surprising new applications have been found for Discrete Mathematics (as opposed to the Continuous Mathematics based on the calculus). Thus methods for the encoding of information in order to safeguard against eavesdropping or distortion by noise have involved using some basic results from modular arithmetic, polynomial algebra and the theory of finite fields. The module will provide a self-contained introduction to this general area and will cover most of the following topics:(a)   Modular arithmetic, polynomials and finite fields: Applications to orthogonal Latin squares, RSA public key ciphers, coin-tossing over a telephone, linear feedback shift registers and m-sequences.(b)   Error correcting codes: Binary block, linear and cyclic codes including repetition, parity-check, Hamming, simplex; Reed-Muller - BCH - Golay - and other codes; channel capacity; Maximum likelihood, nearest neighbour, syndrome and algebraic decoding.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA587 - Numerical Solution of Differential Equations
+
+      
+      
+       Most differential equations which arise from physical systems can not be solved explicitly in closed form, and thus numerical solutions are an invaluable way to obtain information about the underlying physical system. The first half of the module is concerned with ordinary differential equations (ODEs). Several different numerical methods are introduced and error growth is studied. Both initial value and boundary value problems are investigated.  The second half of the module deals with the numerical solution of partial differential equations (PDEs).  The syllabus includes initial value problems for ODEs, Taylor methods, Runge-Kutta methods, multistep methods, error bounds and stability.  Boundary value problems for ODEs, shooting methods and finite difference schemes.  Partial Differential Equations, difference schemes, iterative methods, stability analysis and the method of lines.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

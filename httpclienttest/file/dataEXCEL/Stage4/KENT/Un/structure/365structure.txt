@@ -1,0 +1,280 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      HI426 - Making History: Theory and Practice
+
+      
+      
+       This module has two aims: 1) to contribute towards equipping the students with the necessary practical and intellectual skills for them to think and write as historians at an undergraduate level; 2) to encourage them to think reflectively and critically about the nature of the historical discipline, its epistemological claims, and why we, as historians, do what we do in the way we do it. This will be achieved through four blocks of seminars and lectures. These will cover: The practice of history, introducing history at university level at both a practical and conceptual level. Historical methodology. This will cover the development of university history in the nineteenth century and how this differed from the study and writing of history that had gone before. It will also consider the impact of the Social Sciences on the historical profession during the twentieth century. The varieties of history. This will examine some of the major themes and approaches, such as Marxism or nationalism, in modern historical scholarship. Beyond history. The final block will consider the linguistic turn and new ways of studying and writing history in the twenty-first century.A fifth component, concentrated in the first three or four weeks of the module, will provide training in core, practical skills (library and bibliographic skills, IT skills and the use of MyFolio and PDP). 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      HI397 - Cinema and Society, 1930 - 1960
+
+      
+      
+       The aim of the module is to provide students with an introduction to the ways in which historians use film as evidence.  It draws on a wide range of films, and stresses that they are to be understood in the context of the societies that produced them.  The films themselves reflect the ways in which the national cinemas of Britain, Europe and America portrayed the world around them.  The module will question the extent to which cinema, the most potent method of mass communication during this period, influenced hearts and minds by looking at films that were commercially successful and popular.  In this way, students will be introduced to the use of non-literary sources as historical documents, will be taught how to interpret them and become aware of the importance of contextualising evidence within a wider framework.Topics to be covered:Britain and the Great War: The Battle of the Somme; Soviet cinema: Battleship Potemkin; America in Depression: Grapes of Wrath; Britain at War: In Which We Serve; America at War: Bataan; Germany at War: Titanic; The McCarthy Era: On the Waterfront
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI411 - Later Medieval Europe
+
+      
+      
+       This module is a survey of medieval Europe from c. 1000 to c. 1450. It includes elements of political, institutional, religious, social and cultural history. The module is intended to provide students with a foundation that will allow them to make the most of other courses in European history, particularly those focusing on the Middle Ages and Early Modern period, by equipping them with a grounding in geography and chronology, as well as in a variety of approaches to the study of history. Lectures will provide an overview of some of the periods defining features including the feudal system; kingship; the crusades, warfare and chivalry; popes (and anti-popes); monasticism and the coming of the friars; heresy; visual culture; women and the family; and towns and trade. Two-hour fortnightly seminars will introduce students to the reading and understanding of primary sources on relevant topics.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI430 - Modern British History (Part Two)
+
+      
+      
+       The course will provide a survey of the major events, themes and historiographical debates in modern British history from the early twentieth century to the 1990s. It will examine the roles of total war, imperialism and decolonisation, social welfare legislation, the advent of mass culture in shaping the nation. Subjects to be covered will include: crisis and reform in Edwardian Britain; politics and society in the Great War; stagnation and recovery in the interwar years; appeasement; the Peoples War, 1939-45; the welfare state; decolonisation; the affluent society and the politics of consensus; the end of consensus 1970-79; nationalism and devolution; Thatcher and the rolling back of the state; New Labour. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI431 - The Renaissance in the British Isles, 1400-1600
+
+      
+      
+       English history is traditionally divided along dynastic lines and the divide between the Middle Ages and the Early Modern period is usually dated to 1485. As Sellar and Yeatman observed The reign of Henry VII marks the end of the Middle Ages. Yet scholars of English literature, drama and culture have long been used to looking past political events and dynastic change to chart longer-term developments. This module introduces students to the years 1400-1600 as a cohesive period in English history that saw a transformation in political, literary, intellectual and religious culture. Moreover, in European terms the years from 1400 to 1600 witnessed the rise to cultural hegemony of the studia humanitatis, the discovery of the New World, and the religious upheavals of the European Reformation. This module looks at the major political events of these years  the Lancastrian Revolution, the Wars of the Roses, the Henrician Reformation, the Mid-Tudor Crisis, and the problems of female monarchy during the reign of Elizabeth I  in the context of longer term developments in the cultural, intellectual and social history of England. Students will be introduced to literary texts including both poetry and drama, material culture, and the built environment, alongside more traditional historical sources (such as chronicles, administrative records and correspondence) as sources for the historian of pre-modern England.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI432 - 1450 - 1600: The Age of Reformation
+
+      
+      
+       This module will provide a survey of the major events, themes and historiographical debates in early modern history from the Renaissance to religious wars of the early seventeenth century. This period in European history witnessed the cultural and social upheaval of the Reformation, the advent of print and the intellectual changes associated with Humanism, the formation of recognisably modern nation states, and the beginnings of Europes troubled engagement with the wider world. . As with the complementary module on later European history (c.1600-1750) the lectures and seminars will be arranged around six key areas:  1) religion 2) intellectual and scholarly life 3) economy 4) society 5) politics and war and 6) culture. These themes will be approached through the examination of national histories, specific events, and historiographical controversies. The topics covered will reflect the research and teaching interests of the School of Historys four permanent early modernists and prepare students for early modern modules taken at I and H level. Students will be encouraged to take this module along with a similar module in the Spring term which will cover the period from c.1600 to c.1750.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI434 - Introduction to the History of Science
+
+      
+      
+       Science has arguably been the greatest force for cultural change in the last 500 years.  Scientists have changed the way we see the world, the way we see ourselves, and have equipped us with technologies that enable us to fly in the sky and shoot neutrinos under the ground.  They have taught us that our observations can shift the nature of physics, yet that we are nothing more than jumped-up apes.  This module visits some of the most important events and developments since the so-called scientific revolution (c. 1700) in order to give a representative view of the history of science.  It also introduces key themes that have been pursued by historians science that collectively call into question some key assumptions about what science is really like.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI436 - A Global History of Empires: 1850-1960
+
+      
+      
+       This course explores the history of empires on a global scale. It challenges students to grasp the history of empires by examining their structures, instruments and consequences. The course will cover the expansion of European empires from the end of the nineteenth to the middle of the twentieth century, in the age of decolonization. Topics include the conquest of Africa in the age of the so-called New Imperialism, the French and British Civilizing missions in Africa and Asia, the emergence of modern ideas of race, immigration, freedom struggles in Asia and Africa, and postcolonial cultural and political developments across the world. It will provide students with a critical historical knowledge of imperialism and globalisation and enable them to form a deep understanding of the postcolonial world. Although this module is distinct from the other module on the history of global empires, (1600-1850) which will run in the Autumn term, for the deep interconnectedness of this history, which this module/s highlights, students will be encouraged to take both. Topics will cover:1. The Victorian Empire: Law, Education and Modernity 2. Empire on the Move: Missionaries, Indentured labour and Convicts 3. The 'Scramble for Africa' 4. The Nature of the British African Empire: from the civilising mission to Indirect Rule) 5. French, Belgian and Portuguese Colonialisms 6. Empire and Race: Ideas of Difference and Degeneration 7. Freedom from Empire: Nationalist and anti-imperialist movements in South Asia, North Africa8. WWII and the 'Second Colonial Occupation' 9. Decolonization in Africa 10. Neo-imperial Adventures? The USSR and China in Africa 11. The Legacy of Empire: the Commonwealth, Immigration and Multiculturalism
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI437 - War and Diplomacy in Europe c1850-2000
+
+      
+      
+       Subjects to be covered will include: The Crimean War; The Franco-Prussian War and German unification; the origins of the First World War; the Treaty of Versailles; the League of Nations; the origins of the Second World War; the Cold War in Europe; the origins of the European Union; from d&eacute;tente in Europe to the fall of Communism.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI438 - Vikings: the European Project, 750-1066
+
+      
+      
+       Vikings, in the popular imagination, are commonly perceived as horn-helmeted, blood-thirsty pirates who killed and pillaged their way across Europe in the Middle Ages with their blood-stained axes. In reality, Vikings did much more than that. They changed the existing early-medieval political order for good; they contributed a great deal to the international trade, economy and urbanisation of different parts of Europe; and they explored and settled the uncharted territories of the North Atlantic, specifically the Scottish Isles, Iceland, Greenland, and as far as 'Vinland' (parts of Newfoundland), becoming the first Europeans to reach and temporarily settle in the North American continent; and they were perhaps the most engaging story-tellers of their time. By the time the Norse settled down and ceased raiding in the second half of the eleventh century, they had fundamentally altered the political, religious, economic and military history of much of the known world. This course will attempt to separate fact from fiction by critically reading and analysing primary source documents alongside archaeological, linguistic and place-name evidence, and thereby uncover the real history that lies behind the well-known stories of the Viking World. In addition, the students will be introduced to the major historiographical debates related to the Viking Age.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI353 - Britain and the Second World War: The Home Front
+
+      
+      
+       War has often been seen as a catalyst for change. This module will examine how far this was true of politics, society, culture and the economy in Britain in the Second World War. The module will draw on a wide range of primary sources: Parliamentary debates, contemporary writings, including those of George Orwell and J B Priestley, cartoons, diaries, and personal memoirs. In order to increase familiarity with primary sources students will complete a compulsory document question as part of their Coursework. By the end of the module students should be able to discuss with authority the varying interpretations of the impact of the war. They will also have experienced the different approaches of political, social, cultural and economic historians, and this should provide a basis for choice of modules in Stage 2.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI366 - Britain in the Age of Industrialisation 1700-1830
+
+      
+      
+       This module aims to provide students with an historical analysis of the classic phase of British industrialisation, traditionally known as the Industrial Revolution.  Historians nowadays emphasise the gradual nature of industrial transformation in Britain, and the period considered here is sufficiently long to encompass several key issues in economic history: the transformation of the rural sector, the role of international trade in development, the origins and dynamics of industrial growth and innovation, the rise of a consumer society, the process of urbanisation, and the social costs of industrialisation.  The module will provide a grounding in historical concepts appropriate to the social sciences, and students will acquire a familiarity with historical statistics.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      HI391 - The Rise of the United States Since 1880
+
+      
+      
+       The module will introduce the students to the history of the U.S during its dramatic rise to industrial and international power.  Beginning with the transformation of the U.S into an urban industrial civilisation at the end of the 19th Century, it ends with a review of the American position at the beginning of the 21st century.  Themes include early 20th century reform, the rise to world power by 1918, prosperity and the Depression, the New Deal, war and Cold War, race relations, Vietnam, supposed decline and resurgence from Nixon to Reagan, the end of the Cold War, the Clinton Administration.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

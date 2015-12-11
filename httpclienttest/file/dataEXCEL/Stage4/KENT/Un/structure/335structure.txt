@@ -1,0 +1,570 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+For the  first four  years, you  follow the course structure of the  BA in Digital Arts with a Year in Industry.
+
+Most modules consist of a mix of lectures, seminars, studio work, computer sessions and private study. The workstations in our computer suites are equipped with current industry-standard software.
+
+In the  fifth  year, you  take seven 15-credit modules based on our existing MSc provision, with the opportunity to specialise by taking optional modules from our Computer Animation or Digital Visual Effects MSc programmes. An additional 15-credit project module  runs in the spring term.  
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      EL313 - Introduction to Programming
+
+      
+      
+       The module provides an introduction to the basic knowledge required to understand, design and write computer programs and the basic principles underlying the process of Software Engineering. No previous programming experience is assumed and the module proceeds via a sequence of lectures supported by simple exercises designed to give practical experience of the concepts introduced in the lectures.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL331 - Website Design
+
+      
+      
+       This module is concerned with the design, development and publication of Websites. You learn how to integrate text and graphics in creating a Web page using the latest HTML5 and CSS3 technologies. Web site creation is enhanced by developing skills in JavaScript programming. No previous Web design experience is required.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL338 - Visual Communication
+
+      
+      
+       This module introduces students to the analysis of visual images. It is a theoretical module which will allow students to examine and critically evaluate still images using formal, semiotic, iconographic and ideological methodologies, among others.  Examples from fine art, photography and digital art will be critically examined with a view of discovering what and how they communicate.  Works of art from the Renaissance to postmodern times will form the basis for seminar discussions.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL339 - Digital Photography
+
+      
+      
+       This module introduces you to the principles and practice of digital photography and photographic special effects, particularly photomontage.  This theory is followed by practical workshops with an experienced professional photographer.  Having learnt the basics you will then produce a portfolio of digital photographs and a poster.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL340 - Digital Effects
+
+      
+      
+       This module introduces the student to developing 3D models using Autodesk 3ds Max, and how these models are lit and rendered.  Susequently student composite their models into video footage using Adobe After Effects.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL341 - Graphic Design
+
+      
+      
+       This module comprises a series of lectures and workshops introducing fundametal concepts of graphic design. Students gain an understanding of the role of typography, layout, colour, 2-D and 3-D space, and motion in design, and learn how to produce solutions to various creative design problems. Weekly sessions in the computer studio and practical skills-based workshops accompany the lectures and allow students to develop a range of design skills.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL342 - Moving Image
+
+      
+      
+       This module is an introduction to digital film-making. Students learn the creative and technical skills in making a short film, whilst working as a member of a production team.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL542 - Creativity in Interactive and Tangible Media
+
+      
+      
+       This module introduces the practical techniques for creating interactive visual display using Processing, a Java-based IDE. We will also develop interesting tangible interfaces using Arduino IDE, with a range of sensors and actuators. Students will learn to manipulate images, create realistic motions, use motion sensing and speech recognition, in a series of lectures and workshops.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      EL532 - Professional 3D and Compositing
+
+      
+      
+       This module introduces the principles and concepts of three dimensional modelling by application of appropriate modelling software. It develops skills in the production of computer-based three dimensional models, animation and virtual objects and graphics. You will produce an animated, 3D model, incorporating lighting effects, textures and other advanced modelling features.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL533 - Digital Film-Making
+
+      
+      
+       This module focuses on three key forms of digital film-making  fiction, documentary, and experimental  and explores the creative and practical aspects of working in each of these forms. Working in small production teams, students will develop their skills in using digital video technologies to produce three short exercises (one in each of the above areas) and a short film.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL537 - Digital Portfolio
+
+      
+      
+       This module introduces the techniques required to design and develop interactive on-line portfolios, and the software tools which support their implementation.  Topics include:  digital image manipulation and advanced HTML.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL539 - Professional Practice
+
+      
+      
+       This module will enhance your knowledge and understanding of the creative industries, including film, post-production and web industries. You will be exposed to real world challenges faced by companies and practitioners in the field as well as introduced to legal and ethical aspects of working in these industries.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL642 - Project Design
+
+      
+      
+       This module prepares students for their final year project.  You will carry out background research to scope the project and present your findings in a research document and through a proposal presentation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+ 
+  Year in industry
+
+  
+   Students on the Year in Industry degree spend a year working in industry between Stages 2 and 3. We have a dedicated Employability Officer who will help you apply for placements; but please note that it is your responsibility to secure a placement, which cannot always be guaranteed. The School has excellent industrial links, providing students with many placement opportunities.
+
+There are many benefits to taking the Year in Industry
+.
+  
+
+
+   
+Possible modules may include: 
+
+
+                    
+      EL790 - Year In Industry
+
+      
+      
+       Students enrolled on programmes with a Year in Industry spend a year (minimum 30 weeks) working in an industrial or commercial setting, applying and enhancing the skills and techniques they have developed and studied in the earlier stages of their degree programme.  Their work is under the direction of the industrial supervisor with support provided via a dedicated Placement Support Officer within the department.
+
+       Credits: 120 credits (60 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+   
+
+ 
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      EL641 - Digital Visual Effects and Post Production
+
+      
+      
+       This module is a very practical module where short video clips integrating live video footage, 3D animations and special effects are developed. Each technical workshop session includes hands-on training in visual effects and compositing software. Theoretical lectures include camerawork, real-world and digital lighting techniques, primary and secondary colour grading, digital cinema and visual effects production pipelines.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL636 - Final Year Project
+
+      
+      
+       Final year project is a substantial independent piece of work which is based on your personal interests and skills. You will develop a portfolio of work which should be suitable for presentation to potential employers. The project may be building an interactive Web or mobile application, creating a piece of 3D modelling, animation or visual effects or working in teams on making a film. Although you are expected to work independently, the direction and scope of your project will be guided by a member of academic staff. You can also work on research projects associated with academic members of staff or on client briefs introduced by the module convener.
+
+       Credits: 60 credits (30 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      EL638 - 3D Computer Animation Pipeline
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL639 - Videogames Design
+
+      
+      
+       This module covers a range of topics in video game design and development, including game physics, AI, level design, player behaviour, game rules and mechanics, as well as user interfaces. This module introduces students to game development using Unity3D and C#. Students will also learn about mobile game development and optimisation issues.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB302 - Managers and Organisations
+
+      
+      
+       The main strand of the lecture material will establish the foundations of organisational behaviour in the context of the historical development of ideas and theory.  The theories will be related to practical examples and thence students will be introduced to modern experience, practice and scholarship. Once the information of the foundation of organisational behaviour is established, at the next level, contemporary topics of management will be touched upon briefly.  This will provide students with basic knowledge related to modern management practices. The content of the module will, therefore, be based on the following topics: Scientific Management Human Relations School Bureaucracy Post Bureaucratic Organizations Contingency Approach Group and teams Motivation Power and authority Managing diversity
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+ 
+
+ 
+  
+  Stage 4
+
+   
+Possible modules may include: 
+
+
+                    
+      EL863 - Advanced 3D Modelling
+
+      
+      
+       This module covers in depth inorganic or hard surface and organic modelling in 3D graphics applications. It includes exercises in NURBS and Sub Division modelling and texturing with UVs in Maya and Mudbox.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL837 - Professional Group Work
+
+      
+      
+       This module is a group project which allows the student to work on a model of an actual animation job provided by our industrial partner. Each group produces an animation from established plates and models to a 4 week deadline. The student works with a model of a production pipeline, becoming familiar with the production process, chains of approval and departmental divisions.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL831 - Digital Visual Art set-up
+
+      
+      
+       Animation Setup is an intensive 4-week, 15 credit module at the start of the Programme which has been designed to get all students up to speed regarding the complicated technical processes that surround current animation practice. This module is concerned with the skills and procedures employed professionally including modelling, rigging, skinning, muscle dynamics, texturing and lighting and is undertaken as a set of practical exercises where the student creates a scene with four organic characters and a machine, to be composited in a DV shot. Delivery is by means of Lectures, Demonstrations, Workshops and Assessed Practical Assignments.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL760 - Integrated Masters Project
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      EL832 - Animation Principles
+
+      
+      
+       Animation Principles is a 15 credit module concerned with fundamental animation concepts. Originally developed by Hollywood animators in the 1940s, these principles have been derived from classical drawn animation and model animation, transposed into the digital medium. Topics covered include: Rules of Thumb...anticipation, action, reaction, keys and breakdowns, successive breaking of joints, breaking up actions. Bouncing Ball...timing, spacing, squash and stretch. Weight...indicating force and mass, strain, judders, release. Line of Action...arcs, intentionality of movement. Secondary Animation...overlapping actions, cloth, hair, wave motions, spline deformations. Effects...dynamics in particles and rigid bodies, fields, fluids. Delivery is by means of Lectures, Demonstrations, Workshops and Assessed Practical Assignments.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL839 - Effects Animation
+
+      
+      
+       This module is 15 credit module focused on a sequence of practical workshops which introduce the editing and compositing tools used on the course and is supported by a series of lectures concerned with high definition video technology. Students gain an understanding of the theory and standards of colour models, and how they are applied to motion imaging in video, HDTV and digital-cinema and become familiar with the relevant broadcast and compression standards that are used for high definition digital video. In addition, students work together in teams of 4 or 5 students to produce a short digital film which includes high definition video footage and composited effects.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL833 - Visual Training
+
+      
+      
+       The exact configuration which makes up a particular facial expression, the exact state of the muscles of a body under different circumstances, the exact nuance of meaning conveyed by different gesture positions, are all elements that go to distinguish superior from mediocre animation. The most effective way to develop such observational and outputting skills is through traditional drawing and sculpture, which is frequently reflected in studio hiring policies. This 15 credit module uses traditional art techniques to develop the students digital animation abilities. Delivery is by means of Lectures, Demonstrations, Workshops, and Life Drawing Classes and is marked on the production of a portfolio of artwork: drawings, a sculpture, 2D and 3D sequences, created over a series of practical assignments.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL865 - Action in Animation
+
+      
+      
+       Action in Animation is a 15 credit module concerned with the techniques used to produce articulate motion which is life-like and convincing - this is the base of both comedic cartoon animation and realistic animation for compositing as in creating realistic stunts or armies for action and historical spectaculars, where cost or danger prohibit live shooting. Students completing the module will be able to create convincing human, animal and bird locomotion of all kinds, create transitions between different speeds and different modes, reuse this animation by repositioning it and putting it on motion paths, and co-ordinate this repositioning and path animation on a large scale in crowd or herd staging.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL866 - Acting in Animation
+
+      
+      
+       This 15 credit module allows you to develop a wellrounded understanding of how thoughts and emotions are clearly and engagingly conveyed using 3D character models. In order to be a good character animator, one must not merely copy performances and reproduce them; one must be an actor through the technology and the techniques available to the animator. Like acting, there are two main ways of developing this - the external observation of behaviour, gesture and expressions, and the internal use of ones own emotional experiences to breathe life into a performance. The aim of this module is to sharpen the students approach to both of these under the guidance of an experienced veteran character animator.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL867 - Technical Direction
+
+      
+      
+       This 15 credit module is concerned with the use of lighting and shading for storytelling and visual communication. Students will gain an understanding of the fundamental, theoretical concepts in digital lighting as well as gain the necessary skills and experience to produce customized light and shading models which provide aesthetic possibilities not available from "off-the-shelf" packages. Undertaking this module students become expert in the use of the Mental Ray renderer.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL868 - High Definition Compositing
+
+      
+      
+       This 15 credit module specifically addresses the technical and artistic requirements for compositing video and 3D elements at a high resolution. Compositing is the artistic blending of several disparate elements from a variety of sources into a single image while making all the component elements appear to be in the same light space and shot with the same camera. On successful completion of the module, working at a high definition resolution, you will be able to composite a moving digital video element from one or more clips seamlessly into another; change seamlessly lightings, camera moves and framings, colour balances and film textures on existing digital video clips; build and match camera movements of 3D environments from and to the 2D evidence in digital video clips; model, texture, animate and light a 3D computer graphics object for seamless compositing into a live action digital video clip.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL869 - Film and Video Production
+
+      
+      
+       This module introduces students to the key elements of film form and film-making technique. It provides them with the opportunity to look at their MSc work within the broader context of film art, and to learn basic film-making skills including screenwriting, camerawork, sound recording, and editing. Classes will comprise a mixture of practical workshops and seminars focused on how film-makers uses specific cinematic techniques including narrative construction, visual composition, camera motion, colour, sound, and editing. Students will have a chance to experiment with these techniques by working in small groups to produce a short dramatic film work.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

@@ -1,0 +1,596 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      BI300 - Introduction to Biochemistry
+
+      
+      
+       This module provides an introduction to biomolecules in living systems. It contrasts the simplicity of the basic building blocks (amino acids, sugars, fatty acids and nucleotides) with the enormous variety and adaptability of the different macromolecules they form (proteins, carbohydrates, lipids and nucleic acids). It highlights the nature of the molecular structure of the macromolecules and their interactions within the cellular environment.Lectures:Introduction.  What is Biochemistry?  The chemical elements of living matter.  The central role of carbon and the special properties of water.  The underlying principle in the use of monomers to construct macromolecules.  The nature of weak interactions in an aqueous environment.Nucleic Acids.  Types - DNA and RNA.  Chemical structure, properties of phosphodiester linkage, primary structure.  Nucleic Acids.  Secondary structure - Watson Crick DNA model, A and Z DNA.  Tertiary structure - circular DNA, supercoiling.  Stability of nucleic acids - sugar phosphate chain, base pairing, base stacking.  Biological functions of Nucleic Acids.  Proteins.  Amino acids - structure, classification, properties.  Peptides and peptide bond.  Secondary structure.  Structural proteins.  Tertiary structure - role in function.  Factors determining secondary and tertiary structure.  Quaternary structure.  Protein Function - Myoglobin versus Haemoglobin. Haemoglobin variants.  Subcellular fractionation.  Protein isolation and purification.  Carbohydrates.  Monosaccharides, stereoisomers, conformation, derivatives.  Disaccharides, glycosidic bond stability and formation (a and &szlig;).  Polysaccharides.  Storage (e.g. starch, glycogen), structural (e.g. cellulose, chitin, glycosaminoglycans bacterial cell walls).  Glycoproteins.Lipids: lipids, fatty acids, triacylglycerols, glycerophospholipids, sphingolipids, glycosphingolipids, steroids, waxes. Membranes: lipid bilayers, hydrophobic effect, fluid-mosaic model, membrane-bound proteins. Membrane transport systems: passive transport, ionophores, active transport, double-membrane systems, porin.General techniques in biomolecular science: spectroscopy of small molecules, chromatography and electrophoresis.Practicals:1. Preparation and identification of nucleic acids.2. Analysis of the sugar composition of honey and TLC separation of lipids.3. Chromatographic separation of proteins4. Assessed practical.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI301 - Enzymes and Introduction to Metabolism
+
+      
+      
+       The module introduces you to metabolic pathways and the control of metabolism by changes in enzyme activity. It includes the rates of biological processes and the theoretical principles underlying them, the basic structure and function of enzymes and their kinetics. You perform enzyme assays to determine their kinetic properties and also study the key pathways of metabolism in animals and their control mechanisms.Lectures:This course aims to introduce the workers present in all cells  enzymes, and their role in the chemical reactions that make life possible.The fundamental characteristics of enzymes will be discussed  that they are types of protein that act as catalysts to speed up reactions, or make unlikely reactions more likely.  Methods for analysis of enzymic reactions will be introduced (enzyme kinetics).  Control of enzyme activity, and enzyme inhibition will be discussed.Following on from this the pathways of intermediary metabolism will be introduced.  Enzymes catalyse many biochemical transformations in living cells, of which some of the most fundamental are those which capture energy from nutrients.  Energy capture by the breakdown (catabolism) of complex molecules and the corresponding formation of NADH, NADPH, FADH2 and ATP will be described.  The central roles of the tricarboxylic acid cycle and oxidative phosphorylation in aerobic metabolism will be detailed.  The pathways used in animals for catabolism and biosynthesis (anabolism) of some carbohydrates and fat will be covered, as well as their control. Finally how humans adapt their metabolism to survive starvation will be discussed.Enzymes as biological catalysts.  Historical perspective.  Monomeric; oligomeric, isoenzymes; soluble and membrane bound enzymes.  How enzyme specificity is manifested (stereospecificity, geometric specificity).  Lock and key; induced-fit and transition state stabilization models.  Enzymes and cofactors.Chemical kinetics.  Elementary reactions, rates of reaction, transition state theory.Enzyme classification:  the EC system;  trivial and formal names.  Groups 1-6 with examples.  Simple enzyme kinetics.  Michaelis Menten equation.  Pre-steady state kinetics, the study of fast reactions.Determination of Vmax and Km.  Lineweaver Burk, Hanes, and Eadie-Hofstee.  Errors in the linear plots.  Turnover number.  Enzyme activity.  Effect of temperature and pH on enzyme activity.Enzyme inhibition:  Competitive; Uncompetitive; Un-competitive; Mixed; and Substrate inhibitions.Two substrate enzyme kinetics.  Double displacement (ping-pong) and ternary complex mechanisms.  Compulsory order and random order ternary complex mechanisms.Kinetics of oligomeric enzymes.  Cooperativity-definitions: positive, negative, heterotropic and homotropic cooperativity.  The Hill equation.  Effects of co-operativity. Regulation of enzyme activity.  Enzyme availability, enzyme activity, feedback inhibition, allosteric effectors.Introduction to metabolic pathways.   Intermediary metabolism and the relationship between complex and simple molecules.  Anabolism and catabolism:  the transitions between simple and complex molecules.  Energy capture from catabolic processes:  definition of oxidative and substrate level phosphorylation.  Roles of NAD+/FAD/ATP.  Anabolism and the need to drive synthesis:  roles of ATP hydrolysis and NADPH.Aerobic respiration.  The searches for `respiratory molecules' and the discovery of the Krebs cycle.  Conservation of energy from the cycle in NADH, FADH2 and GTP/ATP.  Structures of Krebs cycle intermediates, and carbon flow through the cycle.  Relationship of Krebs cycle to catabolic and anabolic processes.  Cellular location of Krebs cycle in eukaryotic and prokaryotic cells.Oxidative phosphorylation.  Observations of requirement for proton gradient and sequential oxidation and reduction reactions.  The electron transport chain, and how energy from NADH/FADH2 generates
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI302 - Molecular and Cellular Biology I
+
+      
+      
+       This module introduces you to themes and experimental techniques in molecular biology, genetics and eukaryotic cell biology. It covers basic cell structure, the principles of the cell cycle and cell division, the control of living processes by genetic mechanisms, and techniques for genetic manipulation such as gene cloning, and investigating cell biology e.g. microscopy. Lectures: Functional Geography of Cells:  Introduction to Cell Organisation, Variety and Cell Membranes.  Molecular Traffic in Cells.  Organelles involved in Energy and Metabolism.  Eukaryotic Cell Cycle.  Chromosome Structure & Cell Division.  Meiosis and Recombination.Molecular biology: The structure and function of genetic material. Chromosomes, chromatin structure, mutations, DNA replication, DNA repair and recombination, basic mechanisms of transcription, mRNA processing and translation.  Techniques in Molecular and Cellular Biology:  Methods in Cell Biology - light and electron microscopy; cell culture, fractionation and protein isolation/electrophoresis;  antibodies, radiolabelling. Gene Cloning  vectors, enzymes, ligation, transformation, screening;  hybridisation, probes and blots, PCR, DNA sequencing. Applications including recombinant protein expression, trangenics/knockouts, RNAi, genome projects, DNA typing, microarray and 'omics' studies (genome, proteome, interactome, metabolome etc).Practical: PCR amplification of DNA and gel analysis  Tests:  1 multiple choice test
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI307 - Human Physiology and Disease
+
+      
+      
+       This module considers the anatomy and function of normal tissues, organs and systems. We look at the manifestation of the various conditions at the level of cells, tissues and the whole patient, and also discuss diagnosis, available prognostic indicators and treatments.Lectures:This module will consider the anatomy and function of a range of normal tissues, organs and systems and then describe their major pathophysiological conditions.  It will consider the etiology of the condition, its biochemistry and its manifestation at the level of cells, tissues and the whole patient.  Lecture content:Cells and tissues, membrane dynamics, cell communication and homeostasis (3); Introduction to the nervous system (2); The immune system and inflammation (3); Blood cells and clotting (1); The cardiovascular system (3); the respiratory system (3); The digestive system, liver and pancreas (3) and the Urinary system (4).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI308 - Skills for Bioscientists
+
+      
+      
+       Subject-based and communication skills are relevant to all the bioscience courses. This module allows you to become familiar with practical skills, the analysis and presentation of biological data and introduces some basic mathematical and statistical skills as applied to biological problems. It also introduces you to the computer network and its applications and covers essential skills such as note-taking and essay writing.Topics covered in lectures/workshops:How biosciences is taught at UKC - lectures, supervisions, problem solving classes, practicals.  Effective study and listening skills, note taking and use of the library.  Support networks.General principles of analytical biochemistry - quantitative/qualitative analysis, making and recording measurements.  The quality of data - random and systematic error, precision, accuracy, sensitivity and specificity.  The manipulation and presentation of data - SI units, prefixes and standard form Molarities and dilutions -concentration (molarity) and amounts (moles), dilutions.   Acids, bases and buffers in aqueous solutions - Definition of pH, acid and bases (including a revision of logarithms).  Acid-base titrations.  Buffer mixtures, buffering capacity and the Henderson-Hasselbalch equation.Dissociation of polyprotic, weak acids.  Biochemical relevance of pH e.g. pH dependant ionisation of amino acids.Spectroscopy - The range of electromagnetic radiation.  Absorption and emission of radiation.  Molecular absorptiometry - the use of the Beer-Lambert relationship for quantitative measurements using absolute or comparative methods (molar and specific extinction coefficients).Reaction Kinetics.  Reactions and rates of change:  Factors affecting the rate of a reaction. Zero, first and second order reactions. Rate constants and rate equations (including integration).  Worked examples of rates of reactions.Statistics Descriptive statistics: definition of statistics, sampling, measurement scales, data hierarchy, summarising data, averaging, mean, mode, median, quantiles, graphical methods, displaying proportions, charts and chart junk. Parametrising distributions: coefficient of variation, normal distribution, properties of the normal curve, skewness and kurtosis, accuracy and precision. Probability: definition,  events, exclusivity and conditional probability, throwing dice and tossing coins, independent and dependent events, permutations, multiplicative rule, binomial distribution, unequal probabilities, Pascal's triangle, factorials and combinations. Hypothesis testing: null hypothesis, p-value, normal curve, z-score and t-score, t values and confidence interval, t-tables, comparing two samples, degrees of freedom, t-tests for same and different sample sizes, paired samples, difference between means.Correlation and covariance: two-dimensional distributions, scatter diagram, degree  and limits of correlation, spurious correlation, correlation and causality, time correlation, normalising the covariance, covariance in spreadsheet calculations. Regression: the regression line, slope and intercept parameters, regression in spreadsheet calculations, history of regression, assumptions in regression, effect of outliers, how not to use statistics.Practicals:1. Microscopy:  introduction to the laboratories and basic microscopy2. Molarities and Dilutions:  (a) preparation of solutions and (b) determination of accuracy.3. pH and buffers:  (a)  preparation of solutions and (b) determination of accuracy.4. Spectrophotometry:  protein estimation by the Biuret method 5. Microbial growth: measurement of microbial populations and growth
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI322 - Biological Chemistry B
+
+      
+      
+       The principles of chemistry are an essential foundation for biochemistry. Building up from the atomic level, this module introduces periodicity, functional groups, compounds and chemical bonding, molecular forces, molecular shape and isomerism, and chemical reactions and equilibria, enabling you to understand the importance of organic chemistry in a biological context.Phase A: Autumn Term (5 lectures, 6 x 2 hr Workshops)Basic chemical concepts for biology will be taught and applied through examples in a workshop atmosphere.  The five workshop topics covered are: (i) Atoms and states of matter (ii) valence and bonding (iii) basic organic chemistry for biologists (iv) molecular shapes and isomerism in biology and (iv) chemical reactivity and chemical equations. Workshop (vi) is for revision before the assessment test.Phase B:  Autumn Term (9 lectures, 1 x 2 hr Workshop)Chemical and biochemical thermodynamics (6 lectures, 1 workshop). Topics covered are: (i) energetic and work, (ii) enthalpy, entropy and the laws of thermodynamics (iii) Gibbs free energy, equilibrium and spontaneous reactions, (iv) Chemical and biochemical equilibrium (including activity versus concentration and Le Chateliers principle).  The two hour workshop is designed to be delivered as small group sessions to cover the applications and practice of thermodynamics concepts.Chemistry applied to biological concepts (3 lectures): bonding, valence, hybridisation as well as biological applied thermodynamic process (biomolecular association/dissociation).  Phase C: Spring Term (15 lectures, 3 x 2 hr workshops)Fundamental organic chemistry with biological examples. Topics covered: (i) Introduction and basic functional chemistry, (ii) Isomerism and stereochemistry (iii) Reaction mechanisms - (iv) Alkanes/alkyl halides/alkenes/alkynes (v) Aromatic compounds (vi) Heterocyclic compounds and (vii) Carbonyl compounds and carboxylic acids. The two hour workshops provide practice in drawing reaction mechanisms and the use of molecular models to understand shapes and isomerism.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI324 - Genetics and Evolution
+
+      
+      
+       This module is an introduction to Mendelian genetics and also includes human pedigrees, quantitative genetics, and mechanisms of evolution.Lectures/Workshops:GeneticsAn introduction to the genetics of a variety of organisms including Mendelian inheritance (monohybrid and dihybrid) and exceptions to the predicted outcomes due to incomplete dominance, co-dominance, lethal alleles, epistasis and genetic linkage, the chromosomal basis of inheritance, organelle based inheritance and epistasis. The inheritance of human genetic disease and its investigation by human pedigree analysis will also be introduced. Bacterial genetics.Evolution The nature of mutation, including molecular mechanisms leading to the mutation of DNA,  and the role of both mutation and horizontal gene transfer in evolution. Historical views on evolution, Darwins observations, the fossil record to modern techniques. Microevolution, population genetics and analysis of the distribution of genes within populations and  mechanisms of gene flow, genetic drift, selection and speciation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      BI505 - Infection and Immunity
+
+      
+      
+       This module (Spring Term only) will provide you with (a) an understanding of the features and functions of the immune cells and soluble proteins used in the defence of the body against invading microorganisms (weeks 13 to 17) and (b) the principles of epidemiology and the features of the major diseases of infectious origin that colonise the blood and tissues of the human body (weeks 18 to 22). In weeks 23 and 24 there are feedback and revision lectures and a practical lab session. The lecture list is shown below:-Lectures: (twice a week during Spring Term)Week 13 Intro to course and online questionnaire (EMAC/AT), Innate Immunity (EMAC)Week 14 Complement (EMAC), Adaptive Immunity (EMAC)Week 15 T cell mediated Immunity (EMAC), Antibody structures and functions (EMAC)Week 16 Antibody Diversity (EMAC), Antigen Processing and presentation (EMAC)Week 17 Cell communication (EMAC), Immunopathology (EMAC)Week 18 Epidemiology (AT) and Virology (JR)Week 19 Parasite infections (AT), Fungal Infections (AT)Week 20 Skin Infections (AT), Respiratory Tract Infections (AT)Week 21 UTIs (AT), STDs (AT)Week 22 CNS infections (AT), GI Infections (AT)Week 23 Feedback on assessment 1 (EMAC), Immunology Revision Session (EMAC)Week 24 Medical microbiology Revision Session (AT)Assessment 1 Two Immunology Questions (set in week 16).Assessment 2 Medical Microbiology Practical (in week 23/24) Assessment 1 (Answering two immunological questions) week 16 (25%): This assessment will be on two questions of immunological importance. By answering the questions set, students can learn in more depth about particular immune processes and their interaction with particular pathogenic micro-organisms.Assessment 2 (Practical) week 23/24 (20%): This practical involves the visual and biochemical identification of a wide range of microorganisms and cultures and the answering of questions leading from this practical work. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI513 - Physiology
+
+      
+      
+       This module develops a more detailed understanding of particular physiological systems and relates this to relevant disease processes and their detection. The role of research and laboratory methods in understanding human disease is also introduced at this stage.Lecture OverviewReproductive System: Male and female reproductive systems; Endocrine control of reproduction: Fertilisation; Early embryogenesis; Pregnancy and Parturition; Reproductive disordersMuscle: Muscle types: skeletal, smooth and cardiac; Structure of muscle; Molecular basis of contraction; Regulation of contraction including neural control; Energy requirements of muscle; Types of movement: reflex, voluntary, rhythmic; Muscle disorders. Nervous System Cells of the nervous system: neurons and glia; Electrical properties of neurons: action potential generation and conduction; Synaptic structure and function: transmitters and receptors. Structural organization of the central nervous system (CNS) and function of individual regions; Organization and function of the peripheral nervous system (PNS): somatic motor, autonomic (sympathetic and parasympathetic) and sensory; Sensory systems: vision, hearing, taste, smell, pain. Disorders of the nervous systemEndocrine System: Endocrine glands; Classes of hormones; Mechanisms of hormone action; Regulation of hormone release; Endocrine disorders.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI514 - Pharmacology
+
+      
+      
+       This module introduces you to the major concepts underpinning pharmacology  the study of drugs and their actions in cells, tissues and whole animals. You learn to describe the effects of drugs in cells and to relate the mechanism of drug action to their therapeutic intervention in disease.A synopsis of the curriculumPharmacodynamics and chemical transmission Introduction and basic principles of drug action Structure and function of receptors and ion channels  Neurotransmission. Neurons and synapses, neuromuscular junctions, autonomic nervous system, adrenergic and cholinergic nerve terminals, neuromodulation Local transmission. Inflammatory response: role of histamineSystematic pharmacology The Cardiovascular System. Regulation of blood pressure, angina and cardiac failure The Respiratory System. Pathogenesis of asthma, mode of action of bronchodilators and anti-inflammatory agents The Central Nervous System -Central neurotransmitters and opioids, Local and general anaesthetics, Treatment of anxiety and sleep disorders, Treatment of schizophrenia, Parkinsons disease and mania/depression, Drugs of abuse and withdrawal symptoms The Gastrointestinal Tract. Pathogenesis and treatment of peptic ulcers The Endocrine and Reproductive Systems. Corticosteroids, contraception and pregnancy, treatment of subfertility Chemotherapy. General principles of antibiotic/antiviral/antifungal/anticancer agentsPractical workshop:Drug receptor binding data analysis Clinical workshop:A case-study workshop to investigate the challenges of treating patients with complex symptoms
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI520 - Metabolism and Metabolic Disease
+
+      
+      
+       This module describes how errors in metabolic processes result in the development of human diseases such as phenylketonuria, gout, hypercholesterolarmia, diabetes and porphyria.Topics:Introduction: Revision of metabolism taught previously.Mitochondrial electron transport: The chemiosmotic hypothesis; respiratory chain structure and function; respiratory cofactors.Mitochondrial ATP synthesis: Oxidative phosphorylation; The F1Fo ATP synthase structure and mechanism.ATP yield and defects in mitochondrial metabolism: NADH utilisation; Mitochondrial inheritance; Diseases caused by mutations in the mitochondrial genome.Overview of inherited metabolic disease processes: Accumulation of substrate; Accumulation of a normally minor metabolite; Deficiency of product; Secondary metabolic phenomena. Relation to genetics: Autosomal recessive disorders; X-linked recessive disorders; Autosomal dominant disorders;Metabolism of amino acids and nucleotides: Diseases including phenylketonuria and gout.The urea cycle: Ammonia production; Diseases associated with enzyme deficiencies.Cholesterol metabolism: Familial hypercholesterolemia and atherosclerosis; Regulation of cholesterol levels; Statins.Vitamins and malnutrition: Vitamin A and vision; Vitamin C and scurvy; Vitamin D and bone disorders; Vitamin K and blood clotting.Sugar metabolism: Glucose transporters and disease; Glycogen storage diseases; Pyruvate dehydrogrenase complex defects.Diabetes and insulin: Diabetic ketoacidosis.Heme synthesis and breakdown in health and disease:   Metabolic defects in heme synthesis and the porphyrias.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI525 - Introduction to Laboratory Medicine A
+
+      
+      
+       This module will introduce the student to two of the four main branches of laboratory medicine, Clinical Biochemistry and Cellular Pathology, and begin to develop the skills students will require to work effectively and safely within a clinical setting.  Exposure to professional biomedical scientists working within the different disciplines and to the unique NHS environment will also support students in making career choices in the future. A. Introduction1. Working in todays National Health Service 2. Careers for Biomedical Scientists B. Clinical Biochemistry Overview of Clinical Biochemistry, Using the Laboratory, Techniques  Instrumentation and Automation, Clinical Applications, Antigen-Antibody Reactions, Separation techniques. Screening for disease  concepts, rationale and screening programmes, application of biochemical techniques to paediatrics and inborn errors of metabolism, tumour markers, liver function, iron and porphyrias, enzymes and their use in laboratory medicine,  clinical applications of protein biochemistry, nutrition in health and disease, lipids and atherosclerosis.  There is one assignment supporting this part of the module relating to case studies and data analysis of clinical biochemistry dataC.   Cellular PathologyApplication of histological and cytological techniques in a clinical setting, including cell and tissue sampling techniques, microscopic methods, sample preparation and storing, immunohistochemistry.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI532 - Skills For Bioscientists 2
+
+      
+      
+       You have lectures on biological techniques complemented by practical classes and supervisions. There are sessions on group work, essay-writing, problem-solving and computer-based procedures to develop your transferable skills. In addition, there are presentations on careers to help you start thinking about future career options.Module Components:  A. Communication Skills in Biosciences:Essay writing, oral presentations, laboratory reports, the scientific literature and literature reviews. Working in groups.B. Techniques in Biomolecular Science Immunochemistry. Monoclonal and polyclonal antibody production, immuno-chromatography, ELISA and RIA.Electrophoresis, Immunoblotting, Protein Determination, Activity Assays, PurificationC. Computing for Biologists:Bioinformatics, phylogenetic trees, database searches for protein/DNA sequencesD. Mini-project  introduction to research skillsStudents will work in groups of eight to undertake directed experimental work (Group Project ) before extending the project further through self-directed experiments working as a pair ( Mini Project). E. Careers: The programme will be delivered by the Careers Advisory Service and will review the types of careers available for bioscience students. The sessions will incorporate personal skills, careers for bioscience graduates, records of achievement, curriculum vitae preparation, vacation work, postgraduate study, interview skills and action planning.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI548 - Microbial Physiology and Genetics I
+
+      
+      
+       This module includes a review of the structure and biosynthesis of bacterial and fungal cells, their key metabolic processes and their quest for food. You also study microbial growth, genome organisation and the structure and mechanisms of DNA?transfer. Lectures: Introduction: The ecological, medical, scientific and commercial importance of bacteria. Bacterial evolution and taxonomy. (2 lectures)Microbial biodiversity at the structural level: Composition of the average bacterial cell, basic bacterial cell structure in comparison to a model eukaryotic cell (yeast). Gram positive and gram negative. Archea. Organisation of DNA. Membranes and the transport of small molecules into and out of the cell. Peptidoglycan and Lps and their importance in pathogenesis. The location and function of proteins. Capsule, flagella and adhesins. (7 lectures)Introduction to growth, fuelling and biosynthesis: Division by binary fission, including growth equations. Growth in batch and chemostat cultures; liquid vs. solid media. Nutritional and non-nutritional factors affecting growth (temperature, osmolarity, pH and antibiotics). Physiological state and balanced growth. Adaptation to extreme conditions. (3 lectures)Microbial biodiversity at the physiological and biochemical level:  The diversity in bacterial metabolism (nutrient sources (particularly carbon and nitrogen)), photosynthesis, aerobic and anaerobic growth and alternative terminal electron acceptors. Fermentation. The inverse relationship between growth factor requirements and biochemical complexity. The ecological significance of bacteria. (3 lectures)Synthesis, localisation and assembly of macromolecular structures: DNA replication and transcription. Translational and protein localisation, assembly of flagella and adhesins. Membranes, including Lps. Peptidoglycan. Antibiotics that inhibit peptidoglycan biosynthesis. Capsules. (4 lectures + Practical)Signalling and physiological control: Introduction to bacterial genetics. The regulation of gene expression at the transcriptional and post-transcriptional level in response to a model factor (iron availability  the Fur/RyhB regulon). Chemotaxis. (3 lectures)Practicals:Antibiotics the students investigate the effects of bacteriostatic and bacteriocidal antibiotics on bacterial growth. They are required to  answer questions about the practical results as well as associated data addressing the mechanisms of antibiotic resistance.   Characterisation and identification practical The students assess/measure factors using chromogenic / visual readouts (ideally qualitative and quantitative), relating to metabolism and virulence (e.g. Casein, Gelatine and Urea hydrolysis, fermentation of variety of carbon (carbohydrate sources), starch hydrolysis and agglutination tests with yeast. The students would collate the information together and identify / characterise the isolates (given as ABCD) and explain how they may differ in the niches they occupy. Workshop:  Growth and viable counts in which the students are given numerical data + growth equations and have to define factors such as (i) dilutions needed to give specific cell numbers, (ii) generations of growth to achieve specific cells numbers (iii) growth rate/doubling time.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      BI521 - Metabolism and Metabolic Regulation
+
+      
+      
+       This module describes the integration of the many chemical reactions underpinning the function of cells. For example, how cells make ATP and use it to drive cellular activities, and how plant cells harvest energy from the sun in the process of photosynthesis.Part A: principles of metabolic regulationMetabolic regulation maintains molecular homeostasis. Metabolic controls that lead to changes in output of metabolic pathways in response to signals or changes in circumstances.Common points of regulation: reactions far from equilibrium. Examples from carbohydrate metabolism of relationship between equilibrium constants, mass action coefficients and free energy changes. Metabolic control analysisMechanisms of regulation: examples from e.g. carbohydrate metabolism. Timescale; transcriptional regulation; post-translational modification; signalling via e.g. Ca2+ and metabolites especially AMP.Part B: plant metabolismPhotosynthesisC3 and C4 pathwaysGlyoxylate cycleSecondary metabolites: morphine, quinine, nicotine, caffeine and othersPart C: microbial metabolic adaptationsMicrobial genomics: analysing metabolic pathways using genomic informationMicrobial metabolism in the nitrogen cycleExamples of specialised metabolism: Salmonella, Campylobacter and othersSecondary metabolites: certain antibioticsPart D: metabolism in biotechnologyManipulating microbial metabolism for the production of useful compounds: citric acid, amino acids etc.Manipulating mammalian cell metabolism in biotechnology: production of complex molecules by animal cells in culture, and its relation to metabolic processes.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI501 - Gene Expression and Its Control
+
+      
+      
+       The module deals with the molecular mechanisms of gene expression and its regulation in prokaryotes and eukaryotes. This involves descriptions of how genetic information flows from DNA to RNA to protein, how this flow is controlled in specific tissues and cells throughout development and how it is disrupted in cancer cells.Lectures:  The genome:  Human genome;  Mapping human genes;  Genome organisation;  Analysing genomes;  DNA sequencing.The gene:  Gene organization;  Gene transcription: fundamentals;  Gene transcription: prokaryotes;  Gene transcription: eukaryotes;  RNA processing: introns splicing;  RNA processing: other events;  Translation: mRNA and tRNA;  Translation: the ribosome;  Translation: mechanism.Gene regulation:  Transcriptional regulation: prokaryotes;  Transcriptional regulation: eukaryotes (simple systems);  Transcriptional regulation: eukaryotes (complex systems);  Post-transcriptional regulation: mRNA processing and turnover;  Post-transcriptional regulation: translational control.Practical:Students are provided with a set of experimental data relating to either to gene organisation or gene expression and its regulation.  These data are analysed in class and deductions made from that data. Students are required to prepare a report that is submitted at the end of the day and then assessed. Part of the report involves the preparation of a short abstract.In-course Assessments:  1.  Data analysis practical;  2.  Supervision problems.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI503 - Cell Biology
+
+      
+      
+       The cell is the fundamental structural unit in living organisms.  Eukaryotic cells are compartmentalized structures that like prokaryotic cells, must perform several vital functions such as energy production, cell division and DNA replication and also must respond to extracellular environmental cues.  In multicellular organisms, certain cells have developed modified structures, allowing them to fulfil highly specialised roles.This module reviews the experimental approaches that have been taken to investigate the biology of the cell and highlights the similarities and differences between cells of complex multicellular organisms and microbial cells.  Initially the functions of the cytoskeleton and certain cellular compartments, particularly the nucleus, are considered.  Later in the unit, the mechanisms by which newly synthesised proteins are secreted or shuttled to their appropriate cellular compartments are examined.Lectures: Cell motility and the cytoskeleton. - types of cell movements.  Actin-based mechanisms - actin/myosin systems in muscle and other cells in higher eukaryotes and the discovery of corresponding microbial systems. - microtubules and their role in intracellular transport:  microtubule-based motors, dynein and kinesin.  ATP and GTP driven processes - the family of intermediate-sized filaments and human cytoskeletal-based disorders.  Concepts of the evolution of intermediate filaments between microbes and man.Regulation of the mitotic cell cycle and the dynamic structure of the nucleus.   theinterphase nucleus - chromatin, nucleolus, nuclear envelope structure, biogenesis of ribosomes, genetic approaches to analysis of regulation of mitosis, definition of yeast cdc genes;comparison with biochemical approaches. Regulation of progression from G1  S  G2  M. Cycle exit to G0 and return. Chromatin structure and its regulation through the cycle, Dynamics of the nuclear envelope and chromosome/chromatid separation.Growth factor, signalling and apoptosis. Stem cells. Intercellular junctions and the extra cellular matrix.Overview of membrane traffic in eukaryotic cells. - relationship of endocytotic andexocytotic pathways, compartments and sorting. Biogenesis of proteins destined for organelles or for secretion.- experimental approaches  yeast and bacterial sec genes vs biochemical dissection of mammalian secretory tissue, signal sequences targeting proteins to different organelles, folding and post-translational modification of proteins in the secretory pathway, eukaryotic secretory pathway  biochemical and genetic dissection of compartments, transport mechanisms and targeting. Protein turnover (e.g. ubiquitin and proteasomes).Practicals: Actomyosin contraction in myofibrils using phase microscopy.Supervisions:  Reading and pr&eacute;cis of a scientific paper in cell and molecular biology. Presentation of its chief findings and impact
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+
+
+
+
+
+ 
+  Year in industry
+
+  
+   Biomedical Science offers the possibility of doing a one-year placement away from the University between Stages 2 and 3. Sandwich placements provide an excellent opportunity to gain relevant work experience, usually in the pharmaceutical industry or a research institute. These placements can be in the UK or abroad. You are paid by your employer and produce an independent research project.
+
+On a sandwich placement you acquire additional skills and gain first-hand experience of a particular type of work, which will help to inform your career decisions at the end of your degree. Students have worked at companies including: GlaxoSmithKline MedImmune, Lonza, BASF, Eli Lilly and Bayer Crop Science.
+
+Progression: To progress to stage 2 you must achieve an overall average of 65% in Stage 1 unless you applied before July and met the conditions of the entry offer made. If the 65% requirement is not met, you will be transferred to the equivalent 3-year programme which is identical except for the year spent away from the University.
+
+Visit the School of Biosciences web pages
+ for more information about the sandwich option, including comments from past students.
+  
+
+
+   
+Possible modules may include: 
+
+
+                    
+      BI797 - Sandwich Year Assessment
+
+      
+      
+       A placement typically is a 9-12 month internship with a commercial or public sector or charity organisation which provides opportunities for the student to develop graduate level subject-specific and generic employability skills. Choice of placement by student will be guided and facilitated at UoK with the learning outcomes listed above in mind. It is requested by UoK that the student be closely guided in work (usually with a named supervisor) involving specialist training. Placements are expected to have a scientific research focus and incorporate a project element that may be written up as a scientific report, however, the specific type of work undertaken may vary significantly from placement to placement. The research project should occupy not less than thirty percent of the sandwich year. 
+
+       Credits: 120 credits (60 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+   
+
+ 
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      BI600 - Biology Project
+
+      
+      
+       Early in the Autumn term, projects are assigned to students, where possible in accordance with student choice.  Students then meet individually or in small groups with their project supervisor to discuss the objectives of the project and obtain guidance on reading to ensure a good background before embarking on the project work.The main project activities take place in the Spring term. Formal meetings may be arranged at the discretion of the student and supervisor.  Students are expected to dedicate 300 hours to their project work.  Non-laboratory students are strongly encouraged to meet with the supervisor at least once a week to discuss progress and ideas and to resolve problems.  At the end of the formal project time, students are allowed time to complete the final project report, although they are encouraged to start writing as early as possible during the Spring term.  The supervisor reads a draft of the report, provided it is handed in by an agreed time, and provides feedback on content and style.  Organisation and Content:  Projects are designed by individual members of staff in keeping with their research interests and fall into one of five categories:1. Laboratory: wet or dry practical research undertaken in the teaching laboratories, followed by preparation of a written report. To be guaranteed the opportunity to undertake a laboratory project, students must have achieved and average of at least 55% in the second year. 2. Dissertation: library-based research leading to production of a report in the style of a scientific review3. Business: development of a biotechnology business plan4. Communication: similar to dissertation projects but with an emphasis on presenting the scientific topic to a general, non-scientist audience
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI606 - Pathogens & Pathogenicity
+
+      
+      
+       You study the molecular basis for microbial pathogenesis in relation to bacterial, viral and fungal pathogens. Topics include host-pathogen interactions, therapeutic strategies, vaccination and the role of viruses in the development of cancer.Lectures:Bacterial Pathogens:  Microbial pathogenicity:  variations on a common theme.  Methodology of studying bacterial pathogenesis.  Mechanisms of Pathogenesis.  Adherence:  molecular basis of bacterium-host cell interactions.  Bacterial invasion of eukaryotic cells.  Virulence factors.  Applications of virulence factors in the treatment and prevention of diseaseHuman Fungal Pathogens:Fungi and Human Disease - overview of major human fungal infections;  clinical picture, diagnosis and mechanisms of transmission;  epidemiological aspects of fungal infections.Mechanisms of Pathogenesis - adherence, invasion of eukaryotic cells, morphogenesis;  virulence factors: Candida albicans, Aspergillus fumigatus, Cryptococcus neoformans, Histoplasma capsulatum;  Whole genome analysis of fungal pathogens.Host resistance to infection and antifungal chemotherapy - host defense mechanisms to fungal infections, role of the humoral and cellular immune response;  antifungal chemotherapy: azoles, polyenes, echinocandines and antimetabolites future developments for the treatment of fungal infections. Viral Pathogens:Viruses and Human Disease - transmission and spread:  overview of important human virus infections;  mechanisms of transmission (Aerosol, Oro-fecal, Sexual etc.);  epidemiology - patterns of endemic and epidemic disease.Mechanisms of Pathogenesis:  Spread in the body;  Disease mechanisms;  Mechanisms of Cell Killing (Herpes simplex and Polio);  Immunopathology and Auto-immune Disease.Virus infection  long term consequences for the host:  escape through mutation and natural selection;  disabling the immune system;  avoidance mechanisms.Viruses and Cancer:  Mechanisms of Virus Transformation (EBV, Retroviruses & Papilloma);  Viruses and Human Cancer (Cervical carcinoma, Hepatocellular Carcinoma & Burkitt Lymphoma).Parasitic Pathogens:Overview of Parasites and classificationParasites and pathogenicity - Parasitism as a lifestyle: advantages & limitations; Factors that influence pathogenesis; Mechanisms by which parasites cause pathology; Types of pathology; Parasites diversity Parasite transmission -  mechanisms of transmission (Aerosol, Oral-fecal, Sexual etc.); epidemiology - patterns of endemic and epidemic disease.The useful Parasite - Importance of parasites for the maintenance of healthy immune systemVaccination:  Killed virus (Salk Polio);  Attenuated Vaccines (Rubella, Measles & Sabin Polio);  Subunit (Engineered) Vaccines (Hepatitis B).Antiviral chemotherapy:  Overview of Antivirals (Mechanisms, Clinical Use and Resistance);  Acyclovir (Herpes viruses);  Amantadine (Influenza);  AZT (HIV). 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI622 - Advanced Immunology
+
+      
+      
+       Since the discovery of HIV, great progress has been made in our understanding of the immune system. This module looks at topical aspects of this subject, with emphasis on the regulation of the immune response and dysfunctional immune systems in disease states.Lectures:Introduction to the immune systems of the body (Revision Lecture)Antigen processing and presentation:   Role of antigen presenting cells especially dendritic cells; processing and presentation of endogenous and exogenous antigens and virus evasion; immunotherapies (EMAC)Transplantation immunology:  Basis of tolerance and graft rejection; clinical aspects of transplant rejection; general and specific immunosuppressive therapies (EMAC)Autoimmunity: The induction of tolerance to self; causes leading to autoimmunity; role of antibody; clinical examples of autoimmune disease (EMAC) Hypersensitivity: Type I (IgE-mediated); type II (antibody-mediated cytotoxic); type III (immune-complex mediated) and type IV hypersensitivity; clinical manifestations and therapies for hypersensitivity, the hygiene hypothesis, clinical examples of diseases. (EMAC)Role of cytokines in the immune system: Properties of cytokines; cytokine receptors; cytokine-related diseases including inherited immunodeficiencies; the therapeutic applications of cytokines and their receptors (PJN)Cell migration and inflammation: Lymphocyte recirculation; role of adhesion molecules; neutrophil and lymphocyte extravasation; the inflammatory process; chronic inflammatory diseases (PJN)Tumour immunology: Tumour-specific and -associated antigens; immune response to tumours; tumour evasion of immune responses; cancer immunotherapy (PJN)Applied immunology: Immunotherapy; vaccines; immunodiagnostics; immunoaffinity (PJN)Advanced immunology: A course summary (PJN).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI627 - Haematology and Blood Transfusion
+
+      
+      
+       This module describes the anatomy, physiology, pathology, and therapy of the blood and blood forming tissues, including the bone marrow. It covers a wide range of disorders including haematological malignancies, infection with blood-borne parasites that cause malaria, and inappropriate clotting activities such as deep vein thrombosis.Lectures:  Haematology: An introduction to haematology: module outline, aims and objectives.  Haemopoiesis and the bone marrow. The red cell: structure and function.   Inherited abnormalities of red cells.   Anaemias - acquired and inherited. White blood cells in health and disease. An introduction to haematological malignancies. Bleeding disorders and their laboratory investigation. Thrombophilia. Blood borne parasites. Blood Transfusion:  The ABO and Rhesus blood group systems.  Other blood group systems.  Blood banking techniques.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      BI640 - Magnetic Resonance in Biosciences and Medicine
+
+      
+      
+       Magnetic resonance (MR) and remained a fundamental scientific method for several decades since its conception in 1938 but in the last 25 years, it has been successfully applied within biosciences and medicine as both nuclear magnetic resonance spectroscopy (NMR) and magnetic resonance imaging (MRI). This module is designed for students with an interest in the applications of NMR and MRI and our approach and will be taught by example using real-world data, current research papers and reviews to reveal the utility of these methods across biosciences and medicine.This course begins by providing a basic understanding of MR for NMR and MRI as they both utilise identical methodologies. This section introduces, in a pictographic manner, general concepts relevant to NMR and MRI approaches discussed later in the module such as the experimental optimization, quantitation of biomedical metabolites and the production of contrast and signal in MRI images. The remainder of the module is split equally between describing some of many the applications, advantages and limitations of NMR and MRI. The NMR section focuses on the biological uses of NMR with the main emphasis on medical applications toward cell and tissue metabolism. Metabolite NMR is especially interesting as it has recently emerged as an important technique to monitor and map molecular markers in the study of many disease and conditions. The MRI section discusses MRI equipment, theory of medical MRI imaging, vascular and cardiac MRI, following tissue and organ activity, metabolic MRI methods and functional MRI (fMRI). fMRI is the gold-standard method to study brain activity using blood flow and can be used to assess tumours, stroke, head and brain injury or diseases such as Alzheimer's Disease.The course is delivered through 22 lectures and two feedback sessions for coursework.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI642 - Cancer Biology
+
+      
+      
+       This module will develop further understanding of the molecular basis of cancer, and will explore how this knowledge may be used to develop new therapeutic strategies to tackle the disease in its variety of forms. Topics to be covered include the regulation of gene expression, the role of growth factor signalling and oncogenes/tumour suppressor genes in disease progression; the cell cycle and apoptosis; cancer stem cells and differentiation; chemo-resistance and metastasis; DNA structure and stability; tumour immunology; targeted cancer therapies and clinical trial design.Topics:A. The Molecular Biology of Cancer: Regulation of gene expression; Growth factor signalling and oncogenes; Growth inhibition and tumour suppressor genes; the Cell Cycle and apoptosis.B. Cancer stem cells and differentiation; chemo-resistance and metastasis.C. Tumour immunology; targeted cancer therapies and clinical trial design.D. DNA structure and stability: mutations versus repair.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI643 - Neuroscience
+
+      
+      
+       The module is divided into three roughly equal sized units, each dealing with a specific aspect of neurobiology. Throughout, both the normal system and diseases and disorders that arise as a consequence of abnormalities will be covered. Unit 1: Development of the Nervous SystemLooks at how the complex and intricately wired nervous system develops from a simple sheet of neuroepithelial cells by addressing the cellular and molecular basis of: Neurulation (formation of the brain and spinal cord)Nerve cell proliferation (Neurogenesis)Differentiation and survival of nerve cellsAxon growth and guidanceSynapse formation (Synaptogenesis) Unit 2: Signalling at the SynapseConsiders the molecules and mechanisms involved in transmission of signals between nerve cells:Neurotransmitters and neuromodulators Molecular mechanisms of transmitter releaseNeurotransmitter receptors and transporters Unit 3: The Brain and BehaviourExplores how the nervous system controls a variety of behaviours including:Learning and memorySleep and dreaming
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI602 - Cellular Communication I
+
+      
+      
+       This module begins by overviewing the principles of cell signalling and the diverse mechanisms used by cells to communicate, considering the main modes of cell-cell communication (adhesion and gap junctions; ligand-receptor complexes), the major classes of signalling molecules (hormones, neurotransmitters and growth factors) and the receptor types upon which they act. It then focuses on nuclear, G-protein coupled, and enzyme linked receptors covering in molecular detail these receptors and their associated signal transduction pathways. Nuclear receptors: cellular location and molecular organisation of receptors, structure-function-activity relationships, receptors as sequence-specific DNA binding proteins.G protein coupled receptors: receptors coupled to heterotrimeric G-proteins, guanine binding proteins, effectors (e.g. adenylate cyclase, phospholipase C), second messengers (e.g. cAMP, IP3, DAG), protein kinases and phosphatases.Receptor tyrosine kinases e.g. epidermal growth factor receptor (EGF) family and insulin receptor, and their varied roles in cellular metabolism, cell behaviour, development and disease. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI628 - Microbial Phsiology and Genetics II
+
+      
+      
+       Building upon the second year course Microbial Physiology and Genetics 1, this advanced level course focuses on how physiological homeostasis is maintained in the bacterial cell in response to environmental stresses.Lectures: Introduction: Outline of how physiological homeostasis and adaptation is achieved in the bacterial cell. (0.5 lecture)Experimental approaches used to study microbial physiology and genetics: Classical and reverse genetics as applied to the study of bacteria. The use of reporter fusions. Transcriptomic and proteomic analysis of gene expression. Deep sequencing and metagenomics. Protein-nucleic acid interactions. (2.5 lectures)Transcriptional and post-transcriptional regulation of gene expression in bacteria: Transcription and translation in bacteria and the diverse mechanisms by which they are controlled. Phase variation and quorum sensing as modes of gene regulation. (4 lectures)Complex signalling and physiological control: Selected examples of physiological control in microorganisms, including the Sigma E envelope stress response pathway, regulation in response to nitrogen availability and nitric oxide stress, sensing, and detoxification mechanisms (3 lectures)Microbial biodiversity at the physiological and biochemical level:  Diversity of respiratory adaptations. Light harvesting: purple bacteria & cyanobacteria. Photosynthetic electron transport in purple bacteria & cyanobacteria. (2 lectures) Practical: Current lac-fusions practical from BI635  Symposium: Group presentation of a research paper relating to topic areas in Complex  signalling and physiological control or Microbial biodiversity at the physiological and  biochemical level 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI626 - Integrated Endocrinology and Metabolism
+
+      
+      
+       This module focuses on the endocrine system, one of the two great control systems of the body. In conjunction with the nervous system, these two regulatory systems are responsible for monitoring changes in an animals internal and external environments and directing the body to make any necessary adjustments to its activities so that it adapts itself to these environmental changes.Lectures:I. Principles of Endocrinology:Overview of the endocrine system and its role in conjunction with the nervous system in the maintenance of homeostasis.The hypothalamic-pituitary axis and feedback mechanisms.Diagnostic testing, monitoring and management of disease.II. Function, Regulation and Disorders of the following systems:The thyroid gland.The parathyroid glands.The adrenal glands.The kidney, renal hormones and monitoring kidney function.Bone and vitamin D.Reproductive Endocrinology.Pancreatic hormones and diabetes.Workshops:Case Study WorkshopsCase studies will be presented to develop skills in the analysis and evaluation of biochemical data related to endocrine malfunction.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI604 - Biological Membranes
+
+      
+      
+       Cells and subcellular compartments are separated from the external milieu by lipid membranes with protein molecules inserted into the lipid layer. The structure and function of these two components are diverse, ranging from regulatory functions to maintaining the structure of the cell.Topics:Review of the fluid mosaic model for membrane organisation: Experimental evidence for fluidity  lateral/rotational/flip-flop.Membrane proteins:Types:  integral vs peripheral, and their experimental definition.  Asymmetry and sidedness.Bitopic and mono-topic, general review of synthetic mechanisms (signal sequences etc.) for bitopic protein synthesis.  Structures of channel and carrier proteins and some mechanisms and diseases.Monotopic membrane proteins:  exposed on one side of the membrane e.g. squalene-hopene cyclase, ras, fatty acylated proteins, GPI-linked (sticky fingers and greasy feet).Peripheral membrane proteins.  Interaction with the lipid bilayer via pleckstrin homology and other domains.Generation of bitopic and monotopic proteins by differential exon usage in a single  gene, e.g. NCAM.Membrane lipids:Types:  phospholipids, sphingolipids and sterols;  in vivo distributions.Formation of bilayers:  evidence for bilayer structures.Sidedness and asymmetry of lipids:  dynamics, and phasesRafts and caveolae:  structural evidence and relation to signalling.Pointers to membrane lipid metabolism:  phospholipases and signalling;  metabolic  defects and Tay-Sachs disease. The in vivo structure of a mammalian plasma membrane: The red cell membrane:  observation of the requirements of such a membrane and how those requirements are not met in certain disease states (spherocytosis, elliptocytosis and pyropiokilocytosis).  The putative CO2 metabolon.  Structure of the red cell membrane and its associated cytoskeleton: the spectrin/ankyrin/actin system.  The membrane skeleton as a mechanism for restricting the mobility of membrane proteins in the plane of a membrane: relationship to non-erythroid cells, examples including cardiomyocyte membrane cytoskeleton and long QT syndrome resulting from ankyrin defects.  Practicals: An exploration of the red cell membrane focusing on the anion transporter.  The practical will include computer analysis of the sequence of the anion transporter to predict its structure in relation to experimental data from the practical.  Workshop: exam preparation.Supervisions: problem solving based on past exam papers.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      BI620 - Virology
+
+      
+      
+       This module surveys the full replication cycle of a broad range of viral families, including newly emerging infectious diseases. The module includes interactive discussions on a number of recent scientific publications that highlight the relevant and important issues in the field of virology today.Part A: survey of viral families and their propertiesVirus families and taxonomyViral structureViral genomicsVirus replication (overview)Virus transmissionViral diseases and host interactionsAnti-viral therapeutics and vaccinationPart B: detailed examination of the different mechanisms of viral replicationEntryProtein synthesisGenome replicationAssemblyBuddingTransmissionPart C: fundamental methods in virus researchKey historical methodsCurrent standard techniquesNovel methodsPart D: virology research designGrant writingOral presentationResearch review and evaluation
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI638 - Bioinformatics and Genomics
+
+      
+      
+       The past decade has seen significant advances in our ability to obtain biological data, be it protein structures or genome sequences. The bioinformatics element of this module will focus on modelling the structure, interactions and function of proteins. The genomics element will introduce the basic concepts of genome sequencing and what we have learnt from the sequencing of over 1000 different organisms. Finally the module will combine both elements to use protein modelling to identify how genetic variants (e.g. mutations) lead to disease. The lectures will teach the theory and the computer workshops will introduce some of the many web servers available to perform bioinformatics analyses.Topics:A. Bioinformatics Data sources & Sequence analysis:Databases and data availability. Using sequence data for analysis  sequence searching methods, multiple sequence alignments, residue conservation, Phylogenetics, Protein domains and families (e.g. Pfam, Interpro).B. Protein Bioinformatics Methods Protein structure and function prediction. Prediction of binding sites/interfaces with small ligands and with other proteins. Bioinformatics analyses using protein data.C. GenomicsAn introduction to DNA analysis methods moving onto omics approaches, primarily focussing on the data available from DNA sequencing  how it can be used to compare genomes (comparative and functional genomics). Metagenomics and transcriptomics will also be covered.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI639 - Frontiers in Oncology
+
+      
+      
+       BI639 Frontiers in OncologyThis module introduces the basic principles of cancer biology and cancer therapy. It will explain the characteristics of cancer and why the development of more effective anti-cancer therapies is so extremely challenging. The module includes interactive discussions on a number of recent scientific publications that highlight the relevant and important issues at the frontiers of cancer research today.Part A: survey of the leading issues in oncologyorigin of cancercancer biologycancer therapiesPart B: fundamental methods applied in oncological researchKey historical methodsCurrent standard techniquesNovel methodsPart C: oncology research designGrant writingOral presentationResearch review and evaluation
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB612 - New Enterprise Startup
+
+      
+      
+       A synopsis of the curriculum
+The curriculum is based on the Small Firms Enterprise Development Initiative (National Standards-setting body for small business) Standards for Business Start-up, but has been expanded to include contemporary issues such as Intellectual Property and recent legislation. It will include the following areas of study:
+Why firms become insolvent  economic financial and operational reasons for business failure, risks & liabilities, skills requirements for business ownership, self-development planning, sources of advice and support for businesses
+The new business planning process and format, developing & evaluating the business idea, producing a business plan for potential lenders.
+Financial aspects  budgetary planning & control, cash-flow and working capital, understanding financial accounting and key financial documents, break-even analysis, credit control and debt recovery, understanding PAYE & VAT.
+Market research, competition and barriers to market entry, identifying customers, market segmentation, planning the sales & marketing processes, customer perceptions & customer care, developing quality standards for the business
+Legal issues: reporting requirements, UK & EU law relevant to small businesses, business formats & trading status and their respective risks and liabilities, insurance, insolvency; patents, copyrights and IPR.
+Planning & employing staff, planning and obtaining premises, physical & financial resources; phased implementation of the business plan.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

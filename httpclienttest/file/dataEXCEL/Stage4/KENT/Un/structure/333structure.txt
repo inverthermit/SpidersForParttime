@@ -1,0 +1,476 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      EL305 - Introduction to Electronics
+
+      
+      
+       Electronics hardware consists of various components and devices interconnected in such a way that they perform the required functions. This module introduces students to main electric components (i.e. resistors, capacitors, inductors, and voltage and current sources) and to operational amplifiers, which are the basic building blocks of many circuits; how do they work and what properties do they have; what are their main usages in circuits and systems; and how to practically perform simple measurements and tests. Also, fundamentals of analysis of electric circuits and the main circuit laws are taught. The teaching of this module makes an extensive use of a computer-aided electronic circuit design tools to assist in and to amplify traditional lecture-based learning. It also includes a mini-project in which students gain practical laboratory experience, including design, physical construction and testing of an example operational amplifier circuit. The module requires some elementary mathematical skills.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL311 - The Robotics Project
+
+      
+      
+       This module is designed to provide experience in the practical and management aspects of project work. It is supported by a lecture course and weekly supervisions. After an initial hands-on introduction to soldering, use of bench equipment and the CAD and manufacture of a PCB, the project consists of constructing a robot that incorporates an additional PCB of your own constructions and some software of your own devising.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL315 - Digital Technologies
+
+      
+      
+       The aims of this module are to introduce the necessary theoretical background to understand the operation of large-scale digital systems and to develop the necessary skills to design the logic of moderately complex digital circuits. The module forms an introduction to the fundamental theory underlying modern digital technology covering both combinatorial and sequential logic systems. The techniques introduced will form the basis for future modules. No previous knowledge of digital systems is assumed.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL318 - Engineering Mathematics
+
+      
+      
+       Mathematics is the fundamental language of engineering, allowing complex ideas to be formulated and developed. This course provides the sound basis of mathematical techniques and methods required by almost all other modules in the department's engineering courses. Topics covered include functions and graphs, set theory, complex numbers, calculus, matrices and vectors, and probability. The lectures are supported by assessed examples classes, taken in small groups.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL319 - Engineering Analysis
+
+      
+      
+       This module expands the introductory mathematics covered in EL318 and provides students with the appropriate mathematical tools necessary for the further study of electronic and computer systems. Topics covered include differential equations, the Fourier Series, Partial Differentiation, Laplace, Poisson and Wave equations, which will be used to solve problems in the areas of Signals, Systems and Electromagnetic fields. The lectures are supported by assessed examples classes, taken in small groups.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      WSHOP094 - EDA Placement Information
+
+      
+      
+       
+
+       Credits: 0 credits (0 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL561 - Image Analysis & Applications
+
+      
+      
+       Intelligent processing is associated with information processing operations which are generally carried out reliably and efficiently by humans, but which may be much more challenging for computer-based processing systems.  This module will introduce and explore some important techniques and applications for automated intelligent processing.  Principally, it will explore the visual environment, which is so important in human activity and increasingly so in supporting computational processing platforms routinely encountered in the modern world.  The display, manipulation and efficient communication of images (embracing issues ranging from how to manipulate image data to provide an optimal visual experience, to the automatic extraction of information from images to understand their content) are key elements in the design and utilisation of many contemporary applications in digital media and in engineering.This module will introduce the basic techniques required for image processing and automated image analysis, and will include a introductory study of the use of so-called neural network processors for the analysis of images, especially in relation to problems of image recognition, since such architectures neatly bridge the areas of human and automated processing.  Similarly, the module will embrace important topics of increasing interest in the context of maintaining the security of systems and media, including particularly an introduction to the emerging field of biometrics (the automatic identification of individuals).  Biometrics provides a good domain within which the power of intelligent processing can be illustrated, both because the identification of individuals is a fundamental human capability, and is increasingly important in many media applications (especially in relation to system security), but also because this often relies directly on the effective processing of visual data and complex images.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL560 - Microcomputer Engineering
+
+      
+      
+       This is a highly practical module that starts with the C programming language, looks at software engineering issues, and at the use of the C language in the programming of an 8-bit microcontroller and concludes with the input/output of data using polling and interrupts.  There are supporting practicals and a bus interfacing experiment.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL562 - Computer Interfacing
+
+      
+      
+       The module consists of a major practical project involving both computer hardware and software and a series of supporting lectures. Students work in groups of four and each group is allocated to a different application. Applications range from measuring ambient temperature to controlling a simple robot. The project provides an opportunity for students to gain experience not only in technical areas such as PC based data acquisition, computer interfacing and visual programming but also in transferable skills including team working, project management, technical presentation and report writing.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL565 - Electronic Instrumentation and Measurement Systems
+
+      
+      
+       This module consists of a series of coherent lectures, laboratory sessions and examples classes. Technical topics covered in the module include general principles of measurement and instrumentation, sensors and transducers, signal conditioning and data presentation elements, power supplies, and noise and screening. Students will be taught to understand the role of the various elements of a measurement system and to specify and evaluate a measurement system for a given application. Students will design, construct and test several measurement systems using common sensors and electronic components in addition to a case study of measurement techniques for industrial applications. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL568 - Digital Implementation
+
+      
+      
+       This module provides an overview of modern digital system implementation.  It includes fabrication technologies, memory technologies, memory interfacing and an introduction to VHDL/Xilinx.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL569 - Signals and Systems
+
+      
+      
+       This module introduces basic methods and techniques for describing and analysing continuous and discrete time signals and systems. The course introduces the notions of linear time-invariant systems and their impulse response. The convolution operation is illustrated as a means for describing the behaviour of such systems. The connection between continuous and discrete time signals is explained through the introduction of the sampling theorem. The course introduces basic concepts for describing signals and systems in the time and frequency domains including the Fourier Series, the Fourier Transform and the Laplace Transform before applying them to signal and system analysis. The use of feedback control is illustrated as a tool to tailor the response of engineering signals and systems. The course introduces tools for the analysis of control systems and these concepts are applied to introduce  the industry standard PID controller and design control strategies for simple electromechanical  systems. MATLAB is used in a series of laboratory workshops to illustrate the material covered in the lectures.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL570 - Communications Principles
+
+      
+      
+       The purpose of this module is to provide the funadmental knowledge required to understand communication systems.  It concentrates mainly on signal transmission in the presence of impairments and how modulation, coding and detection schemes can mitigate against these impairments.  A smaller section of the module introduces students to some core concepts in modern communication networks.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+ 
+  Year in industry
+
+  
+   Students on the Year in Industry degree spend a year working in industry between Stages 2 and 3. We have a dedicated Employability Officer who will help you apply for placements; but please note that it is your responsibility to secure a placement, which cannot always be guaranteed. The School has excellent industrial links, providing students with many placement opportunities.
+
+
+Students taking the Year in Industry programme are eligible to apply for a placement offered through the School's exchange agreement with Hong Kong City University.
+
+There are many benefits to taking the Year in Industry
+.
+  
+
+
+   
+Possible modules may include: 
+
+
+                    
+      EL790 - Year In Industry
+
+      
+      
+       Students enrolled on programmes with a Year in Industry spend a year (minimum 30 weeks) working in an industrial or commercial setting, applying and enhancing the skills and techniques they have developed and studied in the earlier stages of their degree programme.  Their work is under the direction of the industrial supervisor with support provided via a dedicated Placement Support Officer within the department.
+
+       Credits: 120 credits (60 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+   
+
+ 
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      EL600 - Project
+
+      
+      
+       This is the BEng project that accounts for three-eighths of the work of this year.  The project is conducted on an individual basis and allows you to work in the area of your chosen specialisation.
+
+       Credits: 45 credits (22.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL667 - Embedded Computer Systems
+
+      
+      
+       This module introduces the theory and practice of employing computers as the control and organisational centre of an electronic or mechanical system, and examines issues related to time critical systems.  It also provides exposure to practical embedded systems design through practical work, with one assignment exploring the ideas of real-time operating systems introduced in the lectures and a second using a microcomputer programmed in 'C' to control the ignition timing of a simulated car petrol engine.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL671 - Product Development
+
+      
+      
+       This module introduces the issues relating to the development of commercial electronic  products.  Topics include design, production techniques, the commercial background of a company, quality and electromagnetic compatibility standards, electromagnetic compatibility issues and product reliability.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL673 - Digital Systems Design
+
+      
+      
+       This module looks at the methodology of designing and implementing large digital systems.  Students taking this module will learn how to design reliable digital systems using synchronous design techniques, will learn how to design digital systems which are easily testable and will be able to use a range of software tools which synthesize digital systems using VHDL.  Students taking this module must have previously taken EL568.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL676 - Digital Signal Processing and Control
+
+      
+      
+       This courses introduces the basic principles of digital control.  It builds on a basic understanding of signals and systems and digital signal processing developed in EL569 and applies these techniques to the modelling and manipulation of basic control systems.  This includes an introduction to the Laplace Transform and its use in describing control systems.  Bode plots and Root Locus analysis.  These concepts are applied to classical control problems such as the PID controller.  Simple robotic systems are used as examples to illustrate their importance in modern control systems.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      CO643 - Computing Law and Professional Responsibility
+
+      
+      
+       The scope of the module is outlined below. Note that topics will not necessarily be delivered in this orderProfessional issues and professional organisations. Data privacy legislation, and other UK laws relating to the professional use of computer systemsCriminal law relating to networked computer use, including new Anti-Terrorism legislation; and their applicationIntellectual Property Rights, including Copyright, Patent and Contract LawsHealth & Safety issues. Computer-based Projects, including the vendor-client relationship and professional responsibilities
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO633 - Computer Networks and Communications
+
+      
+      
+       This modules contains two main components.  It starts with a comprehensive and detailed study of current computer networks and communications technologies.  You learn how the various hardware and software components are organised and how they actually work .  A selection of key topics are then looked at in even greater depth to reveal the state-of-the-art and issues (problems) that remain to be solved.Network Architectures and Protocols:  This component provides a comprehensive study of network architecture and individual protocol layers, including details of the technologies, algorithms and protocols currently used.The Advanced Topics component takes an in-depth look at a number of advanced topics in the area of computer communications, including details of the current practice and outstanding issues in a number of state-of-the-art areas.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO634 - Computer Security and Cryptography
+
+      
+      
+       Security has always been an important aspect of computing systems but its importance has increased greatly in recent years.  In this module you learn about areas where security is of major importance and the techniques used to secure them.  The areas you look at include computer operating systems (and increasingly, distributed operating systems), distributed applications (such as electronic commerce over the Internet) and embedded systems (ranging from smart cards and pay-TV to large industrial plant and telecommunications systems).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

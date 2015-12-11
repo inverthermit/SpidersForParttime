@@ -1,0 +1,303 @@
+Course structure
+
+
+ This programme combines technology, interface design and application development for mobile platforms, with a particular emphasis on developing iPhone and iPad apps and creating apps with high usability and reliability.
+
+On completion of the course, you will have gained skills in the latest technologies  in this rapidly expanding and developing field.
+
+The MSc begins in late September and finishes in September of the following year, and consists of approximately six months of coursework followed by a short period reserved for examinations and a four-month project.
+
+Student profiles
+
+See what our students have to say
+.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   EL880 - HCI For Mobiles
+
+
+   
+    This module is concerned with designing mobile applications taking into account usability, accessibility and sociability. Students will evaluate current and future trends of interaction design and interface technologies in a mobile context. The module also encourages students to analyse critically human activities in order to identify innovative design solutions.   Topics include activity modelling, economic theories for HCI, Internet of things, graphic design, universal design, etc.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL881 - Android Application Design
+
+
+   
+    
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL882 - iPhone Application Design
+
+
+   
+    This module is concerned with the design, implementation and testing of applications for iOS devices such as the iPhone and iPad. Students will work at all stages of the development life-cycle from inception to testing, whilst considering usability and device capabilities for a mobile application capable of meeting a functional specification.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL883 - Mobile Web Development
+
+
+   
+    This module is concerned with developing Web Apps for mobile devices such as iPhones and Android phones using HTML5, CSS3 and Javascript. How to use the Mobile JQuery framework is described, and the development of RESTful web services using PHP is investigated.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL884 - Mobile Application Design Project
+
+
+   
+    A mobile application will be developed for a platform agreed between the student and the supervisor either in an industrial context or within the School.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL885 - Research Methods and Project Design for Mobile Apps
+
+
+   
+    The aim of this module is to prepare students for the Masters Project and for possible future research work.The module includes details about how to write a literature review and produce a viable project plan. Students learn how to use tools such as RefWorks and EndNote to produce and maintain reference databases. It also addresses important issues concerning the definition of a project and the consideration of ethical and Intellectual Property Issues. Techniques and guidelines for writing clear and concise English are discussed in detail.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO871 - Advanced Java for Programmers
+
+
+   
+    This module provides for well-qualified computer science students entering the MSc programme from a range of backgrounds. These students will have good programming skills but will not necessarily have used Java or another object-oriented language extensively. This module seeks to ensure that students have the Java and object-oriented design skills necessary for the rest of their programme.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO881 - Object-Oriented Programming
+
+
+   
+    This module provides an introduction to object-oriented programming using the popular Java language. It is designed for beginners who have not studied computer programming before. By the end students will be able to develop simple programmes using Java. (Note that students with substantial prior experience of programming take module CO871 Advanced Java for Programmers[1] instead.) Software development tools (editors, compilers, etc)The wider software development processProgramming paradigms and languagesThe concept of algorithmsSequences of statements and order of executionClasses, objects and packages (what they are and how to use them)Primitive data types, variables and expressionsMethods and parametersControl structures (selection, repetition)Input and outputCoding style and inline documentationOnline documentation
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL890 - MSc Project
+
+
+   
+    A major practical system will be developed either in an industrial context or within the department.  There are no formal lectures - students will undertake the work in their own time under the regular supervision of a member of the academic staff and, where appropriate, industrial collaborators.
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The project module is examined by a presentation and dissertation. The Research Methods and Project Design module is examined by several components of continuous assessment. The other modules are assessed by examinations and smaller components of continuous assessment. MSc students must gain credits from all the modules (180 credits in total). For the PDip, you must gain at least 120 credits in total, and pass certain modules to meet the learning outcomes of the PDip programme.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ educate graduate engineers and equip them with advanced knowledge of the technology required to deliver applications and web content to mobile devices
+ produce high-calibre designers versed in modern interaction design methodology who are able to develop mobile applications with high usability
+ provide you with proper academic guidance and welfare support
+ create an atmosphere of co-operation and partnership between staff and students, and offer you an environment where you can develop your potential
+ to strengthen and expand opportunities for industrial collaboration with the School of Engineering and Digital Arts.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ standards, design principles and practices for the mobile web
+ interface technologies and principles of interaction design and usability for mobile applications
+ current standards, processes and technologies to support mobile communications
+ structured programming techniques for embedded and mobile systems
+ the development of the e-commerce market place and principles
+ project management techniques relevant to the mobile application development industry.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to integrate web and mobile technologies
+ the ability to develop information architectures for the mobile web
+ the ability to take into consideration accessibility, sociability and other issues when designing mobile applications
+ the ability to analyse a problem and develop a system-level specification, based on an understanding of the interaction between the component parts of the system
+ the ability to design and develop software solutions based on a system-level specification, taking into account economic factors, risks and benefits
+ the integration of information and data from a variety of sources to develop new software solutions.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the ability to use software development kits (SDK) to develop mobile and embedded applications
+ the ability to devise tests of a software and/or hardware system through experiment or simulation and to critically appraise the results
+ the ability to design mobile applications with high usability by effective integration of user interface elements in a SDK
+ the ability to carry out user research and technical searches when developing mobile and embedded applications
+ the ability to apply management techniques to the planning, resource allocation and execution of a project
+ the ability to prepare technical reports and presentations.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the ability to generate, analyse, present and interpret data
+ use of information and communications technology
+ personal and interpersonal skills, working as a member of a team
+ an ability to communicate effectively (in writing, verbally and through drawings)
+ the ability for critical thinking, reasoning and reflection
+ the ability to manage time and resources within an individual and group project
+ the ability to learn effectively for the purpose of continuing professional development. 

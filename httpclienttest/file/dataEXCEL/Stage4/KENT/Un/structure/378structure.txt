@@ -1,0 +1,147 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+ Foundation year
+
+ 
+  This programme is for students who do not have the qualifications needed for direct entry to Stage 1 of our degree programmes. It covers electronics, computing, physics and mathematics.
+
+If you successfully complete the foundation year, you can go on to take either the Computer Systems Engineering programmes mentioned above or Electronics and Communications Engineering.
+  Find out more about the benefits of a Foundation Year
+.
+ 
+
+
+
+
+   
+Possible modules may include: 
+
+
+                    
+      EL021 - Calculus
+
+      
+      
+       This module introduces students to the mathematics of calculus and its applications in electronics.  Examples classes support the student learning.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL024 - Electromagnetics for Engineers
+
+      
+      
+       This module introduces students to the basic principles of electro-magnetism that are necessary in order to understand modern electronic and communications systems.Practical work and examples classes are included to assist the student learning.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL025 - Electrical Principles and Measurements
+
+      
+      
+       This module covers the basic principles and laws which enable students to analyse electrical circuits.  The theory and practice of performing and assessing electronic measurements are also covered.  The material is supported by practical laboratory work and examples classes.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL026 - Analogue Electronics
+
+      
+      
+       This module introduces students to electronic components, circuits and systems.  By the end of this module students should be able to understand the operation of some important electronic circuits.  Practical work is included in this module which includes the construction of a simple radio.  Examples classes also support the student learning.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL027 - Semiconductor and Digital Electronics
+
+      
+      
+       This module introduces logic gates and networks in theory and in a practical class. It also introduces semiconductor material and devices in theory and in practical classes.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL033 - Introduction to programming using MATLAB
+
+      
+      
+       This module introduces MATLAB as a technical programming language. As programming skills are essential for modern scientific and engineering work, and MATLAB is becoming an important tool for technical computations, this module enables students to cover both these requirements simultaneously. It provides students with an effective understanding of programming concepts and techniques as well as the basic software engineering process required to develop solutions to given problems using the MATLAB environment. Reflecting the need to appreciate both the functionality of programming structures and the issues involved in programming implementations the course is organised in a series of alternating theoretical lectures and practical, problem driven, terminal sessions.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      MA022 - Graphs, Geometry and Trigonometry
+
+      
+      
+       Lecture SyllabusGraphs and Geometry Graphs and the information to be read from them; The straight line, application to plots of experimental data; Coordinate geometry of straight lines: parallel and perpendicular lines; The graphical solution of equations; Graphs of the trigonometric functions; symmetry and translation properties; Equation of the circle.Trigonometry; Measures of angle; Triangles Trigonometric functions; Pythagoras theorem and the fundamental identity of trigonometry; Sine and cosine rules; The addition formulae, the double angle formulae; Trigonometric equations; Applications.Vectors; Notion of a vector quantity; Representation of a vector using components; Unit vectors; Addition and subtraction of vectors; Magnitude and orientation; Vectors in 3 dimensions; Scalar products; Introduction to vector fields. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH020 - Algebra and Arithmetic
+
+      
+      
+       
+Arithmetic Calculations. Significant figures. Standard form. Fractions Simplification of fractions. Percentages and fractional changes. Errors. Indices. Logarithms and exponential functions.
+Algebra  Basic rules (operations and indices). Solving equations (substitution and order of operation). Changing subject of a formula Inverse operations Rules of indices Long division Expansion Factorisation Quadratics equation Solving linear equations. Solving simultaneous linear equations Partial fractions. Binomial Theorem.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

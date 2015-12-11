@@ -1,0 +1,490 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      CH308 - Molecules Matter & Energy
+
+      
+      
+       Atomic and Molecular Structure Energetics and quantisation; structure of the atom, energy levels in atoms and electronic configuration of atoms: Pauli exclusion principle, Hunds rule, effective nuclear charge; Periodicity, ionisation energy and electron affinity. Nature of molecules. Electronic structure in molecules; molecular orbitals; using atomic orbitals to make molecular orbitals (linear combination of atomic orbitals); bonding and antibonding, sigma and pi orbitals; hybridisation; delocalisation and resonance.Gases, Liquids, Solutions and Solids Gases laws, intermolecular forces: types of interaction; liquids: classification of liquid types .Molecular and ionic solids, lattice energies, diffusion in liquids and solids, viscosity, surface tension. Ions in solution, Coulombic interactions, ionic atmosphere, Debye-H&uuml;ckel theory. Electrolyte solutions, strong and weak electrolytes, ionic strength, pH, ionic conduction: conductance measurements, transport numbers and ionic mobility; electrophoresis.Thermodynamics The rational foundations of thermodynamics, the first law. Thermochemistry: enthalpies of formation and reaction, thermochemical calculations. Molecular interpretation of internal energy: heat capacities, equipartition of energy, population of rotational and vibrational states, Boltzmann distribution. The concept of entropy and the second law, reaction feasibility, Gibb's free energy, chemical potential. Equilibrium and thermodynamics, Van't Hoff equation, equilibrium calculations. Third law of thermodynamics and molar entropies, entropy and disorder. Thermodynamics of protein folding.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH309 - Fundamental Organic Chemistry for Physical Scientists
+
+      
+      
+       
+Carbon: the carbon atom, atomic and molecular orbitals, sp3 hybridisation, bonding, drawing/representation of organic compounds.
+Functional Groups: overview of functional groups and names.
+Alkanes; structure, nomenclature, physical properties, conformations, isomers, cyclic alkanes.
+Alkenes: structure, nomenclature, physical properties, sp2 hybridisation, p-bonding, E/Z-isomers, electrophilic addition reactions of alkenes.
+Alkynes: structure, sp hybridisation, nomenclature, representative reactions.
+Organic reactions: homolytic and heterolytic bond scission and bond formation, curly arrows, polar reactions, electrophilic addition to alkenes.
+Alkyl halides: structure, nomenclature, physical properties, synthesis of alkyl halides, reactions of alkyl halides.
+Nucleophilic substitution reactions: introduction to bimolecular nucleophilic substitution (SN2), unimolecular nucleophilic substitution (SN1) and elimination reactions (E1 and E2).
+Chirality: stereoisomers, enantiomers, diastereoisomers, (R) and (S) notation and definition, properties of enantiomers.
+Aromatic compounds: definition of aromatic, Huckel rule, delocalisation, aromatic vs non-aromatic rings, nomenclature, simple reactions.
+Aldehydes and ketones: structure, nomenclature, representative reactions (oxidation, reduction reactions).
+Carboxylic Acids and Derivatives: structure, nomenclature, representative reactions (oxidation, reduction reactions).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH314 - Introduction to Biochemistry and Drug Chemistry
+
+      
+      
+       Lectures:  Physical Principles: bonding, acids, bases.  Biochemistry & Biological Chemistry: amino acids, peptides, protein structure (e.g. alpha helices and beta sheets). Nucleic acids, RNA, DNA. Carbohydrates, nomenclature, structural representation, biologically relevant carbohydrate derivatives. Lipids,  terpene derivatives. Enzymes (optimal conditions, activation energy). Membrane structure and membrane proteins eg transporters and ion channels, receptors. Nervous System.  Drug Chemistry: Drugs targets and bonding. Introduction to anti-infectives. Absorption, distribution, metabolism and excretion (ADME). Drug action. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH320 - Chemical Reactions
+
+      
+      
+       Lectures:
+GCSE mathematics through to algebra, data analysis, graphical treatment of errors, logarithms, basic probability, trigonometry and the application of the above to chemistry. 
+The chemical equation and stoichiometry. Chemical reactions in solutions. Acid and Bases. Br&oslash;nstedt-Lowry Theory and the pH scale. Common-Ion effects in acid-base equilibria, buffer solutions, neutralisation and titration curves. Introduction to first and second order reactions. Identifying the rate determining step and calculation of initial and final concentrations. Introduction to activation barriers and calculations of activation energies via the Arrhenius theory.Laboratory classes:
+Basic methodologies for the study of the physical chemistry of reactions and systems in the laboratory. Chemical handling and use of glassware, instrumentation and equipment. Equipment calibration and accuracy. Study of kinetics and thermodynamics of selected reactions.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH382 - Chemical Skills
+
+      
+      
+       Laboratory safety: lectures on laboratory safety including safe handling of chemicals, electrical supplies, solvents and gases both within and outside fume cupboards, safe disposal of chemicals, CoSHH and risk assessment, accident prevention.Laboratory skills: the completion of a set of experiments in a lab environment within the safety structure as laid out by lab risk assessments. To include: fundamental organic chemistry methodology, chemical handling, use of equipment (including calibration and accuracy), infra-red spectroscopy, analytical chemistry and titrations, colorimetry, gravimetric analysis, solvent extraction.Data presentation methods: the correct and succinct planning and preparation of scientific reports, correct referencing, data manipulation and presentation, literature searches and library catalogues, academic integrity and referencing styles.Periodic table and inorganic chemistry: Periodic trends in the periodic table: chemical properties, reactivity and compounds across periods 1 and 2, introduction to diagonal relationships; hydrogen and its compounds; Group 1  the alkali metals, their compounds and reactivity; Group 2  the alkaline earth metals, their compounds and reactivity; introduction to redox chemistry; the p-block: Group 13 elements, their properties and reactivity, the inert pair effect, the chemistry of boron; Group 14 elements, properties, compounds and reactivities, carbon and its allotropes; Group 15: the chemistry of the pnictogens, nitrogen, phosphorus and its allotropes; Group 16: the chemistry of the chalcogens; Group 17: the chemistry of the halogens; extension to MO and VSEPR theory; introduction to groups 12 and 18.Molecular graphics: use of MarvinSketch to represent and draw chemical structures and calculate molecular properties, using J-mol and J-ice to present molecular and crystal structures graphically, use of HULIS software to calculate energy levels from H&uuml;ckel theory.Maths for physical scientists: basic mathematics and functions used in physical sciences, curve sketching and plotting simple functions, differentiation and integration, examples of physical science applications including chemical reaction rates.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH302 - Computing Skills
+
+      
+      
+       Introduction to the concept of programming languages, and to Fortran 90 in particular.Introduction to the UNIX operating system: including text editors, the directory system, basic utilities, the edit-compile-run cycle.Introduction to Fortran 90, including the use of variables, constants, arrays and the different Fortran data types; iteration (do-loops) and conditional branching (if statements).Modular design : subroutines and functions, the intrinsic functions.Simple input/output, such as the use of format statements for reading and writing, File handling, including the Fortran open and close statements, practical read/write of data files. The handling of character variables.Programming to solve physical/chemistry problems. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PH307 - Disasters
+
+      
+      
+       Objectives: To examine actual and potential chemical disasters, spanning, for example:Chemical Industry: Pharmaceutical, oil, nuclear, pesticide, explosive and health industriesThe Environment:  Emissions, water quality, toxins (guidelines), climate changeCriminality:   Terrorism, pollution, toxin dumping The module will explore the scientific principles and phenomenon that underpin such disasters, including their causes, effects and implications, possible mitigation and future prevention planning.This module will cover some well-known and well-publicised events such as Union Carbide, Bhopal, Thalidomide, Halifax Explosion, Chernobyl, Minamata disaster, climate change, giving a clear account of each and discussing the scientific, technical and human contributions to the disaster - some of which have the potential to exact catastrophic change.Lectures will address the following: The limitations of scientific evidence, disaster management and mitigation, catastrophe theory.essay and report writing, seminar and presentation skills. Case studies covering actual and potential disasters.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      PS512 - Numerical, Statistical and Analytical Skills
+
+      
+      
+       Trace Analysis:Trace analysis: definitions, methods and problems. Sampling, storage and contamination. Quality control. Random and systematic errors; statistical treatment of data. Accuracy and precision. Signal/noise ratio. Sensitivity and detection limits. Choice of methods for trace analysis. Units, dimensions, exponentials and logarithms:  Decimal places and significant figures. Units and dimensions: SI units, dimensional analysis. Manipulation of exponentials and logarithms. Power laws. Exponential decay and half-life. Beer-Lambert law, Arrhenius equation, Boltzmann distribution, Gaussian functions.Chemical Arithmetic: Balancing chemical equations. Amount of substance, molar quantities, concentration and volumetric calculations, gravimetric analysis, gas pressures and volumes.Equilibrium calculations, strong and weak electrolytes. pH, acid-base equilibria, buffer solutions. Solubility. Chemical kinetics: reaction rates, rate constants and orders of reaction.Probability and Statistics:Elementary probability, probability spaces, Venn diagrams, independence, mutual exclusion, expectation. Quantitative treatment of the effect of evidence: Bayes Theorem and conditional probability Samples and populations, mean, standard deviation, moments, standard error. Probability distributions: binomial, normal, poisson. Limiting cases. Use of normal tables. Significance testing and confidence limits. Hypothesis testing. The chi-squared test. A brief look at probability-based arguments used by expert witnesses, recent controversies and challenged convictions. Regression and correlationLaboratory work: Analysis of alkaloids by HPLCAccelerant analysis by gas chromatography Analysis of metal cartridge cases and counterfeit coins using X-ray fluorescence spectroscopyDetermination of copper by atomic absorption spectroscopy Quantifying substances in a mixture using UV-visible spectroscopyIsolation & purification of caffeine from tea leaves
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH504 - Organic Reaction Mechanisms
+
+      
+      
+       This module will expand upon the basic organic and physical chemistry covered in CH309 and CH308 and provide an introduction to a more in-depth study of organic reactions and materials encountered in organic chemistry. In particular this module will place emphasis on classes of compounds and aspects (synthesis, properties) of organic chemistry not encountered (or not encountered in detail) by the student in CH309. Building upon the knowledge and skills obtained from CH309 fundamental reaction mechanisms will be expanded upon and in combination with a survey of the common organic compound classes, this will lead to the application of carbon-carbon bond forming reactions.Syllabus:Reaction mechanisms;Alcohols and ethers;Carbon-carbon Bond Forming Chemistry;Organic Transformations;Aromatic Chemistry;Protecting groups.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH506 - Chemical Identification Techniques
+
+      
+      
+       SYLLABUS:Nuclear Magnetic Resonance: Simple theory of nuclear magnetic resonance, NMR. The NMR experiment and the spectrometer. The chemical shift and factors which affect it. Spin-spin coupling. Nomenclature of spin systems. Coupling constants. Simple 2nd order effects. Labile protons and NMR (alcohols, acids and amines). Magnetic and chemical inequivalence. Introduction to 13C NMR spectroscopy.Mass Spectrometry: Basic theory and operation of the magnetic sector mass spectrometer. Interpretation of mass spectral data and fragmentation mechanisms. Gas chromatography/mass spectrometry.Infrared and Raman Spectroscopy: Experimental details. Applications of characteristic group frequencies. Determination of symmetry of simple molecules.Basic Diffraction Methods: Diffraction. Generation of x-rays. Synchrotron sources. Neutron sources. Basic crystallography. Bravais lattices. Unit cells. Symmetry. Space groups. Braggs Law. Powder patterns. Systematic absences. Indexing powder patterns. Single crystal x-ray diffraction. Structure identification.Some of the uses of diffraction. Diffraction in Forensic ScienceUV-vis and Fluorescence Spectroscopy: Description of the theory of UV-vis electronic absorption. Colours of compounds and materials. HOMO-LUMO transitions and conjugation in &#960-systems. Typical organic chromophores and their absorption frequencies. Molar absorptivities and the Beer-Lambert Law. UV-vis spectra of inorganic compounds. Instrumentation and equipment for UV-vis spectrophotometry. Uv-vis and RI detectors in HPLC. Basic theory of fluorescence spectroscopy. Excitation and relaxation. Stokes shift. Excitation and emission spectra.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH530 - Polymeric and Organic Materials
+
+      
+      
+       Module Aim: By employing a chemistry in context approach, the topics outlined below (Polymers, LCs, LEOs, and OLEDs) will function as information conduits. These are topics relevant to the digital native cohorts entering UoKs Chemistry programmes. The aim of this module is to deliver fundamental concepts of synthetic organic chemistry, polymer chemistry, some soft materials chemistry, ideas of structure-property relationships, and basic MO theory in concepts relating to conductive and emissive organics, while giving context to the make-up and operation of modern-day materials / devices. Lectures:I) Polymers Macromolecules: definition; nomenclature.Molecular weight parameters: polymers in solution; measuring molecular weight.Polymerisations: chain growth & step growth; radical, ionic, condensation, ring-opening mechanisms; living vs controlled polymerisations; kinetics of polymerisations; emulsion polymerisation; inorganic polymers.Properties of polymers: crystallinity; melting points, glass-transition temperatures.Plastic vs rubber.II) Liquid Crystals: LC-displays: deconstructed.Synthesis: synthetic evolution of LCs; ester to biphenyl; straight chain to chiral (and reasons for).Properties: macroscopic-vs-microscopic-vs-molecular; structure property relationships (hydrogen Bonding, pi-stacking, electrostatics); different phases and how they impact displays (and common uses).Conjugated polymers: basic theory; properties.III) Light Emitting Organics: Fluorescence: Recap of basic principles of fluorescent emission (including basic MO theory); short vs long chain emitters and molecular emittersSynthesis: synthesis of common colored emitters (Red, Green, Blue, Yellow); source of the color (emission process for each emitter); Design considerations (stability, aggregation, amount of conjugation)Properties: structure-property relationships, tuneability; applicationsLCs vs OLEDs: device make-up and comparisons; properties of each component in relation to devicesPhosphorescence: Recap of basic principles of phosphors vs fluorophors; phosphorescent d-block and f-block metal complexes; basic MO theory in relation to metal-based emission; metal-based phosphors in devices (examples and synthesis).Practical Lab Component:Two laboratory experiments make up the practical component of CH530. Titles of the experiments are as follows: Synthesis of cyclic and polymeric siloxanes; Synthesis and analysis of polystyrene.Aims of the practical sessions include: exposure to synthetic chemistry, spectroscopic techniques, materials characterisation techniques, and current chromatography technologies - gel permeation chromatography (GPC).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH531 - Thermodynamics and Kinetics
+
+      
+      
+       Thermodynamics: 
+Revision of stage one material (CH308), First and Second Law, concept of internal energy, enthalpy and entropy.
+Gibbs Energy and its Applications  formation energy, dependence of temperature and pressure, Gibbs energy and phase equilibria-Clausius-Clapeyron's equation
+Non-electrolyte solutions, thermodynamic of mixing, binary mixtures and volatile liquids, real solutions, Rault's and Henry's law. Colligative properties.
+Electrolyte solutions. Thermodynamics of ions in solutions, Debye-Huckel theory. Salting-in and Salting-out effect, Non-ideal mixing
+Chemical Equilibrium, influence of temperature, pressure and catalyst, van't Hoff equation.
+Statistical Thermodynamics; Macrostate and microstate, Botzmann distribution law, partition function, molecular partition function, relationship partition function and thermodynamic quantities.Electrochemistry: 
+Electrochemical cell, thermodynamics of electrochemical cell. Types of electrochemical cells
+The electrode-solution interface. Double layer formation
+The rate of charge transfer.Kinetics:
+Collision theory, diffusion controlled reactions and the material balance equation.
+Transition state theory, reaction coordinate, Potential energy surfacethermodynamics of transition state theory 
+Electron transfer in homogenous systems, rate of transfer, theory of transfer.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH532 - Spectroscopy and Bonding
+
+      
+      
+       SYLLABUS:1) Quantum theory - Introduction: origins of quantum mechanics, wave-particle duality, Shrodinger equation, wave function, uncertainty principle.- Techniques and applications: translational motion  particle in a box, vibrational motion  harmonic approximation, rotational motion, spin  spin orbit coupling. - Atomic structure and spectra: structure of hydrogenic atoms, atomic orbitals and their energies, spectroscopy and selection rules, orbital approximation, spectra of complex atoms.- Molecular structure: valence-bond theory, homonuclear diatomic molecules, heteronuclear diatomic molecules and polyatomic molecules.2) Molecular symmetry and group theory - Symmetry elements: Operation and symmetry elements, symmetry classification of molecules, polarity and chirality- Molecular orbital theory: character tables and symmetry labels, overlap and symmetry, representations. - Applications of character tables to spectroscopy 3) Spectroscopy - Rotation of molecules: energy levels, transitions, microwave spectroscopy, calculation of moments of inertia and bond lengths.- Vibration in molecules: molecular vibrations for a diatomic molecule, vibrationrotation spectra, vibrations of polyatomic molecules, infra-red spectroscopy, Raman spectroscopy, calculation of bond energies. - Electronic transition in molecules: electronic spectra of diatomic molecules, UV-VIS, fluorescence and phosphorescence. - Other spectroscopies: basic concepts on photoelectron and X-ray fluorescence spectroscopies, nuclear magnetic resonance (NMR) and M&ouml;ssbauer spectroscopy. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH533 - Materials and Solid State Chemistry
+
+      
+      
+       I) Solid State Chemistry lectures 
+Structures and Materials, Close-packed structures, Structures adopted by simple binary solids; e.g. CsCl- NaCl-, sphalerite and Wurtsite structure. Octahedral and tetrahedral holes in close-packed lattices  
+Bonding in Solids, ionic bonding and the ionic model, molecular solids, band theory, defects in solids.
+Oxide structures. Structures of ionic solids, principally oxides, corundum, ReO3, perovskites, spinels.
+Zeolites, structural features of Si-O bond chains and networks in silicates, al, aluminium and metal ions in aluminosilicates. Zeolite compositions and structures; sodalite, Zeolites A,X,Y and ZSM5; channels and cavities. Synthesis of zeolites. Applications of zeolites for ionic exchange, molecular absorption and catalysis.
+Defects in solids, including point defects as well as long range  
+Non-stoichiometry, types of non-stoichiometry in solids.
+Transport and reactivity in solids, diffusion and electrical transport in solids.  Solid state reactions
+Relate and predict materials properties based structure and bonding in the solid. II) Phase Diagrams
+The phase rule, number of phases, components degrees of freedom. Calculation of composition from phase diagrams.
+One component systems
+Two-component systems
+Three-component systems
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH534 - Inorganic and Environmental Chemistry
+
+      
+      
+       Inorganic Chemistry:Stereochemistry of metal complexes: geometrical, optical, structural, ionisation/hydration, linkage, coordination isomerism.Bonding in transition metal complexes.  Crystal field theory: crystal field splitting, factors effecting crystal field splitting, the spectrochemical series, low spin and high spin complexes, crystal field stabilisation energy (CFSE), hydration energy of M2+ ions, site selection in spinels and the Jahn Teller effect. Thermodynamic and kinetic stability of metal complexes.  Stability constants. The chelate effect. Lability of ligands. Preparation and reactivity of transition metal complexes. Colours of complexes: d?d spectra, spin and Laporte selection rules, intensities of absorptions.  Measurement of ligand field splitting energy. Charge transfer absorptions. Diamagnetism, paramagnetism, magnetic moment.  Comparison with the d-block elements. Position of lanthanides and actinides in the periodic table.  Electronic configuration, oxidation states and chemistry.  The lanthanide contraction. Separation of lanthanide elements. f?f spectra. Chemistry of actinides: uranium.Soil and Environmental Chemistry:Silicates and other common minerals. Soil types, pollution, and analysis. Toxicity of elements and compunds; speciation, ion exchange, environmental mobility and bio-availability.Laboratory:  Experiments in preparative and analytical inorganic chemistry, to include: the separation of nickel and cobalt by ion-exchange chromatography; measurement of the ligand field splitting energy in a titanium (III) complex; preparation and properties of complex ions; isomerism in coordination complexes.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+ 
+  Year in industry
+
+  
+   You have the opportunity to spend a year in industry between Stages 2 and 3. We give advice and guidance on finding a placement.
+
+Please note that acceptance onto the course is not a guarantee of a placement. The responsibility of finding a placement is on the student, with help and support from the department.  If you cannot find a placement, you  will be required to change your registration for the equivalent BSc  programme without the Year in Industry  option.
+  
+
+
+   
+Possible modules may include: 
+
+
+                    
+      CH590 - Chemistry Industrial Placement
+
+      
+      
+       
+
+       Credits: 120 credits (60 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+   
+
+ 
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      CH604 - Analytical Chemistry
+
+      
+      
+       To increase the fundamental understanding of a range of physical techniques currently used in analytical chemistry, and to explore the potential applications of these techniques.SYLLABUS:Atomic emission/absorption spectrometry High-performance liquid chromatography (HPLC) Capillary zone electrophoresis (CZE) Ion chromatography Mass spectrometry and associated chromatographic techniques:Electro-analytical chemistry Optical microscopy Electron microscopy 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH620 - Chemistry Research Project
+
+      
+      
+       
+Selection of a topic area to investigate from a list of available options. 
+Writing a literature review.
+Writing a progress report.
+Performing an investigation as an individual or in a group setting with minimal supervision.
+Giving a presentation.
+Writing a project report.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH622 - Topics in Inorganic Synthetic Chemistry
+
+      
+      
+       Lectures for the following topics:
+Sol-gel, hydrothermal and templated synthesis. 
+Synthesis of nanoparticles. Control of their size and shape. Functionalisation and stabilisation. 
+Catalyst design and synthesis. 
+"Shake and bake" to synthesise oxide materials for applications such as multiferroics. 
+High-pressure synthesis to prepare novel type of materials; advantages and disadvantages.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH623 - Main Group and Organometallic Chemistry
+
+      
+      
+       This module will adopt a molecular orbital theory based approach to deliver an understanding of the variation fundamental bonding modes across the periodic table as applied to hard and transition metal organometallic systems ie. The common synthetic tools of modern chemists. Context for this will be formed by linking these concepts to synthetic transformations of academic and industrial importance, eg. Transmetallation and catalytic processes.Lectures:I Structure and Bonding in the Main GroupII Applications of NMR to Inorganic Systems III Transition Metal Organometallic Chemistry and Homogeneous Catalysis Laboratory (Practical) Component:The laboratory component comprises three synthetic practical sessions with the aim of providing exposure to the techniques and materials discussed in lectures, including inorganic spectroscopic techniques.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CH624 - Transformations and Chirality in Organic Chemistry
+
+      
+      
+       Module Aim: A key component to chemical education is the exposure to more advanced aspects of chirality, and chemical transformations towards the synthesis of simple targets. Concepts relating to the synthesis of natural and unnatural target molecules through organic chemical transformations are essential to the students chemical repertoire. In-depth exposure to chirality, exposure to asymmetric chemical transformations, carbon-carbon bond-forming reactions, and their application in targeted small molecule synthesis will be covered. Comprehensive literature searching as a means to problem solving will be emphasised. These are topics relevant to the cohorts completing UoKs Chemistry programmes. The aim of this module is to deliver advanced concepts of synthetic organic chemistry and the introduction of these concepts in the synthesis of complex organic molecules.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS701 - Topics in Functional Materials
+
+      
+      
+       Chemists and physicists are now playing an important role in the growing field of materials research. More recently there has been a growing interest, driven by technological needs, in materials with specific functions and this requires a combination of physics and chemistry. For example, new materials are needed for the energy industry (batteries and fuel cells), for the optics and electronics industry (semiconductors, lasers and wave-guides), and for the environment (sensors, actuators and smart materials). The aim of this module is to introduce students to this area of modern materials and techniques.Examples of the topics that might typically be covered are:1. Crystal growth and defects.2. Liquid crystals.3. Magnetism and Magnetic Materials.4. X-ray absorption spectroscopy (XAS).5. Nanomaterials.6. Multiferroics.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      PS601 - Fires and Explosions
+
+      
+      
+       Physics and chemistry of fires and explosions:Fire and arson  occurrence and importance.  Combustion  definitions.  Thermodynamics and enthalpy.  Flammability limits, flash point, fire point, ignition temperature.  Pyrolysis of wood and plastics.  Fuels and accelerants.  Propagation and spread of fires.  Sampling and laboratory analysis of fire scene residues.Explosions  definitions.  Vapour phase and condensed phase explosions.  Detonation and deflagration. High and low explosives.  Primary and secondary high explosives.  Molecular design of explosives.  Survey of important explosives.  Stoichiometry, oxygen balance, gas volumes, thermodynamics and enthalpy.  Sampling and laboratory analysis of explosives residues.  Preventative detection of explosives in contexts such as airports.Fires:Fire dynamics. Propagation and spread of fires  flames, fire types, flashover.  Fire investigation.  Forensic Science Service procedures at the scene.  Damage observation and assessment.  Fire and smoke patterns.  Sources of ignition. Injuries and fatalities.  Evidence recovery: sampling and laboratory analysis.  Establishing the origin : the seat of the fire.  Finding the cause: natural, accidental, negligent or deliberate?  Indicators of arson.  Evidence procedures.  Case studies.Explosions:Control of the explosion scene and procedures for recovery of evidence.  Damage observation and assessment.  The work of the Forensic Explosives Laboratory.  Identification of explosives: organics and inorganics. Bulk analysis.  Trace analysis of explosives: recovery, extraction and analysis of samples.  Physical evidence: detonators.  Preventative detection. Precursor identification.  Explosives evidence in court: legal definitions and procedures.  Terrorism.  Case studies.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      PS637 - DNA Analysis & Interpretation
+
+      
+      
+       The module lectures will cover the following topics:  Historical methods  DNA sample collection, processing and storage DNA theory DNA databases and statistical interpretation Quality Assurance, management and control Legal aspects Forensic case studies Future trends 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

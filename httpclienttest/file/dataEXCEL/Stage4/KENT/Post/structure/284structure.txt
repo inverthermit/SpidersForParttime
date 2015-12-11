@@ -1,0 +1,353 @@
+Course structure
+
+
+ Elements of practical work will be carried out in the Business School&rsquo;s dedicated Bloomberg Lab. The virtual trading platform allows you to access and engage with market data through practical case studies and the use of online databases. The programmes also provide you with the necessary training required for the Bloomberg Certificate.
+
+
+
+
+ Modules
+
+
+ The course structure below provides a sample of the modules available for this programme. Most programmes require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may explore other subject areas of interest to you or that may further enhance your employability.
+
+The following modules are offered to our current students. This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation:
+
+
+ 
+
+      
+   CB8020 - Corporate Finance
+
+
+   
+    The module will cover the following topics: The Risk-Return Relationship The Arbitrage Pricing Theory Multifactor Asset Pricing Models Dividend Policy Mergers and Acquisitions
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB9078 - Research Methods and Skills (Finance)
+
+
+   
+    This module develops the necessary knowledge and skills for students to be able to successfully complete a business report proposal. Topics to be covered include: Choosing a company for analysis Identifying suitable finance issues relevant to the chosen company  Searching and reviewing the literature and Bloomberg Choosing suitable methods and approaches for analysing the chosen company Preparing the business report proposal Structuring the business report
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8015 - Financial Regulation and Financial Crises
+
+
+   
+    This module examines the workings of financial markets and firms within their regulatory and legal context. Students will develop an appreciation of the interaction between company law, governance, legal engineering, financial engineering, modern financial intermediaries and the real economy. The implications of company law for corporate governance in financial firms will be developed. In parallel an understanding of regulatory policy development, implementation, supervision and enforcement by the regulator will be shaped. We will examine the nature and impact of soft law and hard law requirements in various international jurisdictions, and their significance in the aftermath of the global financial crisis. We will discuss implications of the Lamfalussy process, post-crisis legislation (such as Dodd-Frank) and the regulatory and legal changes that are currently evolving. We will also discuss the role of the Basel Committee, EBA, EIOPS and ESMA, national regulators (both in the developed and the developing world), sector regulators for banking, insurance, asset management and securities, the European Commission and others. Through these topics we will examine why and how financial firms should be regulated. Particular attention will be paid to current and proposed legal and regulatory requirements affecting banks, insurers, reinsurers, investment firms and asset managers globally as well as in Europe, the UK and the US.We will also study the relationships between regulators and senior management, compliance and risk management functions within financial firms. The interaction between risk, management, compliance, internal audit and the business will be examined through practical classroom exercises and interaction with practitioners. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8011 - Essentials of Financial Risk Management
+
+
+   
+    The course will cover the following topics: Taxonomy of Risks Essential Financial Products Introduction to Regulation Modelling Portfolio Risk Market Risk and VAR Credit Risk Risk-Adjusted Performance Measures
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8012 - Financial Institutions Management
+
+
+   
+    Commercial and investment banks form the backbone of the wholesale banking sector. In the UK, the commercial banking sector is estimated to lend circa &pound;5000bn and to accept deposits totalling circa &pound;7000bn . The UK is also a key centre for securities transactions. As a result, the study of the fundamental principles underpinning the role of and risks posed (by and to) commercial and investment banks, is vital to the study of financial markets. This module focuses extensively on the nature, structure and strategic objectives of commercial and investment banks. Through understanding their role and purpose, we will then build on our understanding of the risks arising from the practice of commercial and investment banking The module will draw upon both academic literature and practitioner content. Financial Intermediation  Nature, purpose and taxonomy Introduction to commercial and investment banking  conceptual basis Strategic objectives Function, stakeholders, structure and operation Risks - Prudential risks and Conduct of business risks Governance Culture Senior Management, Risk Management, Compliance and Internal Audit The role of capital and the need for liquidity Other mitigants for risk  The reform agenda
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8013 - Domestic and International Banking
+
+
+   
+    Financial system consists of financial institutions which interact within markets and provide financial services and products required by individuals, households, business entities, government and international institutions. This module provides an overview of the nature and activities of the main groups of financial institutions and financial markets within the UK and US. It attempts to explain the interrelationships between those institutions and markets, and to identify the forces driving change within the financial systems. Theoretical issues are examined in so far as they are required to assist analysis of financial institutions and markets.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8016 - Derivatives
+
+
+   
+    Global derivative markets have exhibited spectacular growth in terms of volume of trading and use by both financial and non-financial institutions. Some of the worlds large institutions-Orange County, Baring, Metallgesellschaft, Negara, AIG, and Lehman Brothers have lost billions of dollars in the financial markets. Whilst national and international authorities have agonised over the regulation of derivative markets, it generated tremendous interest on the nature, operation, working mechanism and true significance of derivative products and markets in the financial system and the economy.  Main topics: Forwards: No arbitrage principle Futures: Marking-to-market, margins call and liquidity Swaps: Interest rate risk and measures for risk management Options: Arbitrage versus speculation, options trading strategies Credit Default Swaps: Selling protection or printing money Path Dependent Products Exotic Options Real-Estate and Subprime Loans: The bubbles that always burst Securitization Process and Asset-Backed Securities: Derivatives as weapons from mass destruction?The module focuses on the principles and characteristics of the main derivative markets, products and instruments, such as Futures, Forward, Options, Swaps, Credit Default Products and Structured Products. It examines the role, significance and working mechanism of various derivatives products, their valuation method and the models underpinning the pricing and hedging of derivative instruments. The module will draw from the rapidly expanding body of academic and professional literature relating to derivatives and their applications in Financial Markets.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB8006 - Financial Statement Analysis
+
+
+   
+    The module will cover:A framework for business analysis and valuation;Financial analysis/ratio analysis;Valuation theory and concepts;Quality of earnings;Security analysis;Credit analysis and financial distress prediction;Mergers and acquisitions.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB9060 - Finance with Excel
+
+
+   
+     Excel Essentials- Excel Functions: important mathematical and statistical functions - Useful Excel Tricks- Data Analysis, Solver, Goal Seek- Array functions; workings with rows and columns- Financial applications:o Portfolio analysis basics in Excelo PCA Analysis of correlated financial systemso Finding a bond yield with Solver  Basic Financial Calculations with Excel (PV and FV, with applications to stock valuation; building loan tables) Essential Probability and Statistics with Excel Bond & Stock Analysis (bond pricing, duration and convexity, the yield curve, stock valuation using the DDM, DuPont Stock Analysis) Portfolio Optimization (building efficient frontiers; constrained optimization; performance measurement for active and passive strategies; the Black-Litterman approach) Derivatives Modelling in Excel (building swaps cash flow tables; spot-futures parity; options on various underlying assets: pricing, Greeks, implie
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB9073 - Bank Asset-Liability Risk Management
+
+
+   
+         Bank Risk Management: Focuses for analysis Asset-Liability Management Treasury Target Operating Model and reporting line ALM trading and hedging principles Banking Book interest-rate risk management Derivation of the bank internal funding curve The Asset-Liability Committee (ALCO) ToR Liquidity risk management: principles and appetite Liquidity risk management: risk metrics and limits Liquidity risk management: optimum liabilities strategy Internal funds pricing and funding policies Liquidity reporting and stress testing Capital management Capital strategy Securitisation and balance sheet management Investor relations and credit ratingsThe rationale and objective of the module:The module is designed to be a practical real-world, and up-to-date, focus on key risk management aspects within banks. It provides latest knowledge on the field of study and develops relevant skills for students interested in specialising in Banking and Finance. Asset-liability management is the core discipline in banking, and one that must be mastered by every bank worldwide, irrespective of its operating model or product suite. Every bank in the world, bar none, possesses a Treasury desk that is responsible for managing the balance sheet asset-liability mix.Students will gain understanding of current problems and new insights at the forefront of the bank risk management focuses, including latest approaches being introduced and new regulations being applied. The module includes analysis of underlying theories and related applications within the banking environment.It is a practitioner-developed and practitioner-orientated programme of structured study that will enable students to develop an advanced-level understanding of the core process of banking, that of asset-liability management (ALM), capital and liquidity risk management. Students will be able to apply market standard techniques to measure ALM risks and formulate strategies for management of these risks at any bank. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     CB9079      - Business Report in Finance
+
+
+     
+      By applying appropriate research methods, students employ relevant finance techniques to evaluate a chosen company. Analysis about the companys financial practices and performance is then drawn together and presented in a report format.
+
+
+      Credits: 45 credits
+       (22.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The programme involves a taught and a project component.
+
+The taught programme is assessed by a mixture of coursework assignments throughout the year, and by examinations in May and June.
+
+Once these are completed, you work full-time on the project component and write a dissertation based on this, applying techniques and insights presented in the programme to a specific problem.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ provide knowledge and understanding of the financial systems and institutions that exist in Western economies and emerging markets
+ provide you with the knowledge to be able to evaluate the relevant literature critically
+ provide you with the knowledge to enable the application of appropriate risk management techniques
+ enable you to interpret and evaluate banking and financial theory critically
+ develop your ability to apply quantitative techniques to finance and banking practice
+ develop an appropriate range of cognitive, critical and intellectual skills, research skills and relevant personal and interpersonal skills
+ provide you with the knowledge of the financial regulations that exist within the financial world
+ provide preparation for and/or development of a career in financial services/banking by developing your skills at a professional or equivalent level, or as preparation for research or further study in the area
+ add value to your first degree by developing your integrated and critical awareness and understanding in the field of financial services
+ provide teaching and learning opportunities that are informed by high-quality research and scholarships, from within the Kent Business School and elsewhere
+ develop your ability to conduct independent self-directed research.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ the advanced concepts and theories within the field of banking and finance and their application to developments and issues in the financial markets
+ the current research methodologies and statistical techniques applied to financial data
+ theoretical and practical aspects of key areas of finance
+ up-to-date relevant literature in the fields of banking and finance
+ the structure and operations of the financial markets and the financial regulations that exist
+ the methods by which risk faced by banks is managed (both theoretical and practical)
+ the quantitative techniques applied to finance and banking practice.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ critical thinking and creativity, including the capability to identify assumptions, evaluate statements, and generalise appropriately
+ the ability to solve complex problems and make decisions
+ the ability to select, organise, develop and synthesise complex material
+ the analytical skills necessary for the analysis of problems and the identification of appropriate solutions
+ the ability to plan work, study independently and use relevant resources in a away which reflects best current practice and anticipated future practice
+ the ability to plan, structure, and produce a dissertation.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the ability to critically interpret and evaluate financial data and information
+ the ability to demonstrate an advanced understanding in the field of finance and banking
+ the ability to apply theories to practical and theoretical problems
+ numeracy and quantitative skills required to analyse theoretical and practical problems in banking and finance
+ the ability to analyse important issues in the area of banking and finance
+ the ability to conduct research in the field of finance and banking.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ the development of numeracy and quantitative skills
+ communication skills: listening, oral, and written communication using a range of media
+ the effective use of communication
+ the ability to undertake independent and self-managed learning
+ a capacity for self-development and continuous learning. 

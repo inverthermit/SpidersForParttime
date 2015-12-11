@@ -1,0 +1,745 @@
+Course structure
+
+
+The course structure provides a sample of the modules available for this programme. This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may explore other subject areas of interest to you or that may further enhance your employability.
+
+Based on sector research, the following innovative new modules will be offered on this programme from 2016/17:
+
+CB718 - Consumer Insight
+
+CB726 - Corporate Strategy and Leadership
+
+CB743 - Human Resources and Organisational Behaviour
+
+CB727 - Marketing and the Value Chain
+
+CB719 - Sales Forecasting
+
+The following modules are offered to our current students. This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation:
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      CB365 - Economics for Business 1
+
+      
+      
+       The main topic areas are as follows:
+Business organisations
+Supply and demand
+Operation of markets
+The consumer
+Profit maximisation
+Input markets
+Investment and capital
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB366 - Management Principles
+
+      
+      
+       Management Principles aims to provide an understanding of the challenges of managing people within complex work organisations.  The experience of work and employment are being affected by rapid change as a result of a number of factors including new technology, the growth of global competition and the changing demographic profiles and values of the work force. These developments are considered within an historical context. An exploration of their implications for management practices and organisational forms will be conducted.
+Students will be introduced to the main concepts and theories through readings and discussions of the main authors in the field. Case studies will be used to show how these concepts can impact upon management decision making within work organisations. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB367 - Introduction to Data Analysis and Statistics for Business
+
+      
+      
+       The aim of this module is to give students a solid grounding in key statistical techniques required to analyse effectively business data and data relevant for business.  
+Spreadsheets: Features and functions of commonly-used spreadsheet software including: workbook, worksheet, rows, columns, cells, data, text, formulae, formatting, printing, graphics and macros, charts and graphs, data management facilities, data validation, spreadsheet security and documentation. 
+Summarising data with histograms, bar charts, frequency distributions, measures of central tendency and dispersion. 
+Probability: The relationship between probability, proportion and percent, addition and multiplication rules in probability theory and Venn diagrams. 
+Common Probability Density Functions 
+Sampling and its use in inference, and applications of sampling in business management. 
+Regression and correlation: scatter plots; simple regression; interpreting computer output. 
+Forecasting using spreadsheets. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB368 - Quantitative Methods for Business
+
+      
+      
+       This module will build on the statistical module in the first term, developing further key skills in relation to numerical manipulation, data usage and quantitative methods as applicable in the business environment. Indicative topics include: 
+Numbers and algebra  an introduction 
+Interest calculations 
+The use of logarithms 
+Index numbers and growth rates 
+Discounting and Net present value  
+Simultaneous equations  
+Linear programming  
+Business planning 
+Accounting applications 
+Company accounts application using FAME 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB311 - Business Skills & Employability
+
+      
+      
+       Topics the module will cover include: Orientation to studying at university, time management and learning styles.  Research and cognitive development (writing essays and reports in higher education, research and referencing, plagiarism, how to make a reasoned argument, literature searches and introduction to critical and analytical thinking). The theories underlying personal skill development needed to achieve success at university and in the workplace (i.e. effective communication; working in groups, teamwork, problem solving, creative thinking, conflict management and negotiation). Personal Development Planning for Employability (including career search, CV writing, and making sense of employer skills requirements).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB330 - Fundamentals of Financial Accounting
+
+      
+      
+       A synopsis of the curriculum
+Role and evolution of accounting 
+Single entry accounting; double entry bookkeeping 
+Financial reporting conventions; recording transactions and adjusting entries 
+Principal financial statements; monetary items; purchases and sales; bad and doubtful debts; stock valuation; fixed assets and depreciation methods; liabilities
+Accounting for sole traders
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+
+     
+
+                     
+      CB331 - Fundamentals of Management Accounting
+
+      
+      
+       Synopsis of the curriculum
+Definition of management accounting; 
+Relationship to financial accounting; 
+Absorption costing; marginal costing; 
+Process costing; joint costs; 
+Activity based costing; 
+Cost behaviour; 
+Breakeven analysis; 
+Pricing: external, internal, transfer pricing;  
+Forecasting costs; 
+Regression analysis; 
+Information and management accounting
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB714 - Marketing Principles
+
+      
+      
+       A synopsis of the curriculum
+The module introduces to students the importance of marketing in competitive and dynamic environments. The key topics of the module are:
+The marketing concept
+The marketing environment
+Market segmentation & targeting
+Brand development and management 
+Management of the marketing mix
+Marketing research and new product development
+The implications of internationalisation for marketing managers
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      CB715 - Business Financial Management
+
+      
+      
+       Synopsis of the curriculum
+The course begins by looking at the ever important financial management function. It then proceeds to cover key topics, including: 
+investment appraisal techniques under certainty and uncertainty
+portfolio theory, CAPM, WACC and capital structure
+the efficient market hypothesis
+interaction of investment and financing decisions
+decomposition of risk
+options and pricing
+dividends and dividend valuation models.  The financial system within which business organisations operates is examined, followed by the specific sources of long and short-term capital, including the management of fixed and working capital.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB728 - Intermediate Management Accounting
+
+      
+      
+       The module provides a further understanding of the nature of costing systems and the relevance of costing information for management.  The module will develop, within an economic and organisational context, the principles and techniques used to provide appropriate relevant information for managers to enable them to make better informed decisions. The role of Management Accountants in the organisation, cost determination, Introduction to cost terms and purposes  Cost Volume Profit Analysis  Job order costing, absorption costing, activity based costing Standard costing and variance analysis, operational control and performance measurement Long term decision making techniques, risk and uncertainty, limiting factors of production Profit reporting and stock valuation Pricing, target costing, life cycle costing and customer profitability analysis Cost allocation, joint and by-product costing, service departments Project appraisal, sensitivity analysis, decision tree, distributions and project outcomes, Essay topic submission Performance management systems, performance measurement and control, Strategic management accounting and Value based management
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB732 - Financial Regulations and Reporting
+
+      
+      
+       This module aims to provide students with a thorough understanding of the financial accounting techniques at an advanced level and with an appreciation of the regulatory and social environment within which financial reporting takes place.   Conceptual framework of financial reporting Financial Reporting environment The Regulation of financial reporting Deferred Tax Research and Development Intangibles Group Accounting Associates and Joint Ventures Off Balance sheet financing
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB730 - Intermediate Financial Accounting
+
+      
+      
+       The main areas covered below will further develop the students understanding of the importance and relevance of financial accounting disciplines.  They will also be able to differentiate between various forms of accounts and how to interpret them. Adjusting Entries  Provisions and Contingencies Partnership accounting  Capital structure of companies Interpretation of financial statements Introduction to the role of the auditor Measurement problems in traditional accounting Leases Long Term Contracts
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB363 - Economics For Business 2
+
+      
+      
+       A synopsis of the curriculum
+The main topic areas are as follows:
+The circular flow of income
+Inflation & Unemployment
+Aggregate supply, aggregate demand and fiscal policy
+Money, the financial system, interest rates and monetary policy
+International trade, the balance of payments and exchange rates
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      CB681 - Managing Human Resources in Contemporary Organisations
+
+      
+      
+       A synopsis of the curriculum
+This module will introduce students to the key concepts of managing people, involving an examination of organisational, human resource management and industrial relations theory. This will be achieved through relating relevant theory to practical people and organisational management issues.The main topics of study are as follows:
+The theory of HRM
+Corporate Social Responsibility & HRM
+Human Resource Planning
+Recruitment & Selection
+Training & Development
+Performance Management & Appraisal
+Reward Management
+Employment Involvement & Participation
+International & Comparative HRM
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB343 - Global Business Environment
+
+      
+      
+       The module will cover various aspects of the changing global environment.  An indicative list of topics is given below, however the main aim of the module is to examine contemporary issues within the global business environment that are likely to impact upon business operations and strategy: Globalisation: Definition, Evolution, Implications for countries, firms and people,  The Triad: European Union, United States, Japan - Investment, Trade, Relations International Capital and Financial Markets: New York, London, Frankfurt, Tokyo World Institutions: World Trade Organisation, International Monetary Fund, United Nations International Economic Environment: Exchange Rates and patterns of trade Environment: Global Warming  Kyoto Agreement Business and Corporate Culture: Japan & Germany VS UK & US  Innovation & Technology Mergers and Acquisitions Firm and Stakeholders - Ethical Issues
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB731 - Strategy Theory and Practice
+
+      
+      
+       The module provides a broad, basic understanding of strategy and strategic management, on which further strategic analysis, the exploration of strategic issues and the evaluation of strategic options is built. It introduces students to the key vocabulary, concepts and frameworks of strategic management, and establishes criteria for assessing whether or not a strategy can be successful. It further introduces students to analytical frameworks, and differing theories as to how these relate and impact strategic management.  Students will enhance their ability to read business articles from a strategic perspective and to present strategic arguments in a structured manner. The key topics of the module are: 1) The Strategic Internal Environment 2) The Strategic External Environment  3) Organisational Structures and Processes4) Corporate Governance 5) Stakeholder Management6) Corporate Social Responsibility 7) The Search for Competitive Advantage 8) Innovation and Entrepreneurship
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB725 - Project Management
+
+      
+      
+       This module aims to develop a critical understanding of project management to enable students to recognise the importance of the discipline in a variety of organisational and functional contexts. Students should develop a critical understanding of the concepts employed in project management at strategic, systems and operational levels, and an appreciation of the knowledge and skills required for successful project management in organisations. The syllabus will focus specifically on the 4D & 7S models of project management.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB754 - Corporate Social Responsibility
+
+      
+      
+       The aim of the module is to develop an understanding of corporate social responsibility (CSR) and sustainability informed by ethical theory and stakeholder perspectives. Students will have the opportunity to familiarise with essential readings and cases in CSR to enable them to recognise key issues that are raised by stakeholder groups such as shareholder activism; socially responsible investment; employee discrimination; working conditions; ethical issues in marketing; management; consumer protection; gifts/ bribes; accountability; collaboration with civil society organisations, and corruption of governmental actors. The module will therefore contribute in building an understanding on contemporary social issues in business by highlighting the importance of a collaborative approach with internal and external stakeholder groups. 
+Business Ethics 
+Corporate Social Responsibility 
+Sustainability 
+Social responsibilities of sectors and industries  
+Implementation of socially responsible and sustainable programmes and initiatives
+Stakeholders of organisations, including: Consumers Employees Suppliers Competitors Shareholders Civil society Government 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+
+     
+
+                     
+      CB740 - The Management of Operations
+
+      
+      
+       This module will require students to develop the ability to use appropriate techniques of analysis and enquiry within the management of operations, and to learn how to evaluate alternatives and make recommendations.The key topics of the module are: 1) Strategic role of operations and operations strategy2) Design of processes and the implications for layout and flow3) People, jobs and organisation4) Capacity planning and scheduling5) Inventory control6) Supply chain management, lean systems and enterprise resource planning7) Quality planning and managing improvement
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB697 - Managing People and Teams
+
+      
+      
+       Managing People and Teams aims to provide an understanding of the key concepts within management theory. This core knowledge is applied to a range of organisational settings so that the influence of management theory on management practice is understood.  The role played by specialist management functions within Human Resource Management (HRM) and Employment Relations is investigated.Students will be introduced to the main concepts and theories through readings and discussions of the main authors in the field.  Case studies will be used to show how these concepts can impact upon management thinking and decision making within work organisations.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB720 - Business Information Systems
+
+      
+      
+       In recent years IT has become a strategic business resource that can affect competitive advantage, transform industries and products and be a key factor in the success or failure of an organisation. The aim of this module is to equip students with the strategic IS management skills they will need to make appropriate use of IT as general or functional managers in an information-based age. This necessitates some technical understanding of computing, but not at an advanced level. Topics include:1. Introduction: Managing the Digital Business2. Information Systems and Organisations 3. Information Systems Strategy4. IT-induced Business Transformation and Strategic Alignment5. Evaluating IT Investments6. Key Enterprise-Wide Information Systems: 
+a. Enterprise Resource Planning Systems
+b. Customer Relationship Management Systems
+c. Knowledge Management Systems 
+d. Supply Chain Management Systems7. Management Decision-Making and Business Intelligence Systems8. Information Systems for Collaboration9. E-Commerce and E-Business10. Change Management Issues for Information Systems11. Managing International Information Systems
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+
+
+
+
+
+ 
+  Year in industry
+
+  
+   All students spend a year in industry, supported by a dedicated placement team and a programme designed to ensure that students gain experience in the functional areas and industries of their choice.
+
+The placement allows you to experience, first hand, many of the issues addressed in the taught programme and to use the tools, techniques and applications in a real business setting. It will become a vital component of your CV and will give you a distinct advantage over other business graduates.
+  
+
+
+   
+Possible modules may include: 
+
+
+                    
+      CB698 - Business Placement Report
+
+      
+      
+       Synopsis of the curriculum
+The placement provides you with a structured opportunity to combine work experience with academic study.
+It allows you to develop and reflect on managerial and/or professional practice in real and often complex situations, and to integrate this with the study of the relevant subject(s) of your main degree programme.
+Where relevant, you develop, reinforce and apply professional and/or technical expertise in an employment context. 
+The placement report requires you to integrate theory and practice, and to show how you have developed as an independent learner able to reflect effectively on what you are doing.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB699 - Business Placement Experience
+
+      
+      
+       Synopsis of the curriculum
+The placement experience provides you with a structured opportunity to combine work experience with academic study. 
+It allows you to develop and reflect on managerial and/or professional practice in real and often complex situations, and to integrate this with the study of the relevant subject(s) of your main degree programme. 
+Where relevant, you develop, reinforce and apply professional and/or technical expertise in an employment context. The placement portfolio requires you to document your experiences in relation to both your university studies as well as to a wide range of employability skills.
+In addition, the portfolio allows demonstration of professional development through the collection and presentation of relevant evidence. 
+
+       Credits: 90 credits (45 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+   
+
+ 
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                     
+      CB729 - Enterprise and Entrepreneurship
+
+      
+      
+       This modules aims to enable students to understand the social and economic changes that have raised the status of enterprise, small business and entrepreneurial ventures in the global economy and across sectoral contexts. It examines the diverse nature of entrepreneurs, their characteristics and motivations, as well as the barriers and issues facing entrepreneurs when planning and establishing a new venture. The key topics of the module are: 1) Factors that have influenced the growth of the enterprise culture in the UK.2) The role and relevance of SMEs in the UK economy; varying definitions of SMEs; statistical information; Government policies and initiatives, and support agencies.3) Whether entrepreneurs are born or made; whether enterprise skills can be taught or learned, and whether entrepreneurs differ from business owners and other managers.4) Enterprise and innovation development in organisations, and the role of graduates in innovation, as well as the protection of ideas and intellectual capital.5) The planning process for starting a new venture  risks and liabilities; problems and pitfalls, and potential profit and success. 6) Funding a new enterprise, including via friends, family and fools, business angels and venture capitalists.7) Surviving the early stages of business development, including failure rates in new and small enterprises and barriers to growth and development. 8) Differences in attitudes, objectives, skill requirements and business strategies between small and large firms. 9) Growth strategy options, including the culture shift from operational to strategic thinking, and exit strategies.10) Enterprise in different contexts including corporate enterprise, public sector enterprise and social enterprise.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB723 - Business Valuation and Financial Analysis
+
+      
+      
+       The aim of this module is to develop students ability to analyse corporate financial statement information and to make performance evaluations and investment decisions. The module investigates the role of corporate financial statements in the context of company valuation and aim to cover the following topics: Foundations of financial statement analysis Economic and sector performance Financial reporting model Critique of financial statements Standardising financial statement information Ratio analysis Economics of valuation and valuation models 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB740 - The Management of Operations
+
+      
+      
+       This module will require students to develop the ability to use appropriate techniques of analysis and enquiry within the management of operations, and to learn how to evaluate alternatives and make recommendations.The key topics of the module are: 1) Strategic role of operations and operations strategy2) Design of processes and the implications for layout and flow3) People, jobs and organisation4) Capacity planning and scheduling5) Inventory control6) Supply chain management, lean systems and enterprise resource planning7) Quality planning and managing improvement
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB742 - Creating Your Own Enterprise
+
+      
+      
+       The understanding and application of enterprise knowledge is seen as a transferable skill that can have cross-school application within the University, in that it has relevance to students from a broad range of academic disciplines who might be considering self-employment after graduation.  The curriculum is based on the Small Firms Enterprise Development Initiative (National Standards-setting body for small business) Standards for Business Start-up, but has been expanded to include contemporary issues such as Intellectual Property and recent legislation. The module will include the following areas of study:1) Why firms become insolvent  economic financial and operational reasons for business failure; risks & liabilities; skills requirements for business ownership; self-development planning; sources of advice, and support for businesses.2) The new business planning process and format - developing and evaluating the business idea, and producing a business plan for potential lenders.3) Financial aspects  budgetary planning and control; cash-flow and working capital; understanding financial accounting and key financial documents; break-even analysis; credit control, and debt recovery.4) Market research, competition and barriers to market entry - identifying customers; market segmentation; planning the sales and marketing processes; customer perceptions and customer care, and developing quality standards for the business5) Legal issues - reporting requirements; UK & EU law relevant to small businesses; business formats and trading status and their respective risks and liabilities; insurance; insolvency, and intellectual property rights such as patents and copyright.6) Planning and employing staff - planning and obtaining premises; physical and financial resources, and the phased implementation of the business plan.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB684 - Strategic Human Resource Management
+
+      
+      
+       This module will introduce students to the key concepts of managing people, involving an examination of organisational, human resource management and industrial relations theory.  This will be achieved through relating relevant theory to practical people and organisational management issues. The main topics of study are as follows:
+The theory of strategic HRM
+Strategic HRM and Business Strategy 
+Strategic HRM and Organisational Performance
+Strategic employee involvement and participation
+HRM in the public sector
+HRM in Small and Medium Enterprises
+HRM in the voluntary sector
+Strategic HRM in the international context
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      AC507 - Management Accounting II
+
+      
+      
+       The module provides an insight into contemporary management accounting issues. It takes an interdisciplinary perspective and builds on the knowledge and techniques acquired in Stages 1 and 2 core modules. In particular, the module explores the role of management accounting within the context of strategic management and management control. It also traces and evaluates recent major changes in management accounting and shows how management accounting may be used in managing organisations. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB513 - Taxation
+
+      
+      
+       Synopsis of the curriculum
+This module introduces students to:
+The UK tax system including the overall function and purpose of taxation in a modern economy, different types of taxes, principal sources of revenue law and practice, tax avoidance and tax evasion. 
+Income tax liabilities including the scope of income tax, income from employment and self-employment, property and investment income, the computation of taxable income and income tax liability, the use of exemptions and reliefs in deferring and minimising income tax liabilities. 
+Corporation tax liabilities including the scope of corporation tax, profits chargeable to corporation tax, the computation of corporation tax liability, the use of exemptions and reliefs in deferring and minimising corporation tax liabilities. 
+Chargeable gains including the scope of taxation of capital gains, the basic principles of computing gains and losses, gains and losses on the disposal of movable and immovable property, gains and losses on the disposal of shares and securities, the computation of capital gains tax payable by individuals, the use of exemptions and reliefs in deferring and minimising tax liabilities arising on the disposal of capital assets. 
+National insurance contributions including the scope of national insurance, class 1 and 1A contributions for employed persons, class 2 and 4 contributions for self- employed persons. 
+Value added tax including the scope of VAT, registration requirements, computation of VAT liabilities.
+Inheritance tax and the use of exemptions and reliefs in deferring and minimising inheritance tax liabilities.
+Introduction to international tax strategy, implementation, compliance and defence.
+The obligations of taxpayers and/or their agents including the systems for self-assessment and the making of returns, the time limits for the submission of information, claims and payment of tax, the procedures relating to enquiries, appeals and disputes, penalties for non-compliance .
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+
+     
+
+                     
+      CB542 - Business/Management Project
+
+      
+      
+       Synopsis of the curriculum
+Introduction to Business/Management Projects
+Research Methodologies
+Literature search and Literature Review
+Data collection and questionnaire
+Structuring a Project Report
+Data Analysis
+Presentations
+
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB561 - Business Law
+
+      
+      
+       A synopsis of the curriculum
+English Legal System, Legal Process, Dispute settlement (outline);
+Law of Contract formation, terms, vitiating elements, discharge and remedies;
+Contracts for the sale of goods  implied terms;
+Consumer credit (outline);
+Negligence  general principles and negligent mis-statement;
+Law of Business Organisations - classification of business organisations, main principles applying to partnerships and registered companies; 
+Employment Law - contract of employment, the main employment rights created by the common law and statute.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB605 - European Business
+
+      
+      
+       The curriculum is organised into two parts.
+Part I: Understanding the European Business Environment (Autumn)
+The European Business Environment (PESTEL), History and Development of the EU, Political and Institutional Framework of the EU.  Impact of EU policies on business operations: from Single Market to Single Currency, EU Competition and Social Policies, Regional Policy and Industrial Policy, EU Trade Policy.Part II: Doing Business in the New Europe (Spring)
+Formulating a European Business Strategy, Identifying Market Opportunities and Evaluating Modes of Entry. Understanding the impact on business of cultural diversity. Management within a European environment. Finance, Marketing and HRM issues for European Business.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB679 - Corporate and Business Strategy
+
+      
+      
+       Synopsis of the curriculum
+This module will extend students' knowledge and understanding of strategic management and strategic issues.  It will introduce a range of contemporary issues associated with the formulation and implementation of corporate and business strategies with an emphasis on identifying and implementing strategic change within the organisation, building dynamic capabilities and developing coherent strategies.  Issues might include strategies for a recession, global strategies, knowledge-based strategies, firms and industries, strategies where profit is of secondary (or no) importance.  The module will also extend students' theoretical knowledge by presenting contemporary debates and issues in strategic thinking.  The module will use a project in which students identify and suggest possible strategic solutions to a strategic issue in a real organisation to develop students' ability to link theory and practice in real-life situations.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

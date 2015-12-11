@@ -439,7 +439,7 @@ FileInputStream fis=new FileInputStream(new File("./southamptonPostT.html"));//é
 		{"167","http://www.southampton.ac.uk/engineering/postgraduate/taught_courses/audiology/msc_audiology.page","0"},
 		{"168","http://www.southampton.ac.uk/healthsciences/postgraduate/taught_courses/mres_clinical_research.page","0"},
 		{"169","http://www.southampton.ac.uk/healthsciences/postgraduate/taught_courses/msc_leadership_management.page","0"},
-		{"170","http://www.southampton.ac.uk/medicine/postgraduate/taught_courses/msc-genomics-medicine.page","0"},
+		{"170","http://www.southampton.ac.uk/medicine/postgraduate/taught_courses/msc-genomic-medicine.page","0"},
 		{"171","http://www.southampton.ac.uk/wsa/postgraduate/taught_courses/MA_advertising_design_management.page","0"},
 		{"172","http://www.southampton.ac.uk/wsa/postgraduate/taught_courses/ma_communication_design.page","0"},
 		{"173","http://www.southampton.ac.uk/wsa/postgraduate/taught_courses/ma_design_management.page","0"},

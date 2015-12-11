@@ -1,0 +1,241 @@
+Course structure
+
+
+ You undertake a substantial project in the area of finance or financial econometrics, supervised by an experienced researcher. Some projects are focused on the analysis of particular complex data sets while others are more concerned with generic methodology.
+
+You gain experience of analysing real data problems through practical classes and exercises. The course includes training in the computer language R.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   MA636 - Stochastic Processes
+
+
+   
+    A stochastic process is a process developing in time according to probability rules; for example, models for reserves in insurance companies, queue formation, the behaviour of a population of bacteria, and the persistence (or otherwise) of an unusual surname through successive generations.The syllabus will include coverage of a wide variety of stochastic processes and their applications; Markov chains; processes in continuous-time such as the Poisson process, the birth and death process and queues.Marks on this module can count towards examption from the professional examination CT4 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA835 - Portfolio Theory and Asset Pricing Models
+
+
+   
+    This module will examine current theories on portfolio management and developing asset models to assist risk management of financial services firms. Syllabus Topics: Efficient market hypothesis, measures of investment risk, portfolio theory, models of asset returns, asset pricing models, Brownian motion, martingales, stochastic calculus, Ito processes and stochastic models of security prices.Marks on this module can count towards examption from the professional examination CT8 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA837 - Mathematics of Financial Derivatives
+
+
+   
+    This module will examine the understanding and pricing of options and derivatives, along with models for interest rates and credit risk. Syllabus Topics: An introduction to derivatives, Greeks, binomial model, Black-Scholes option pricing formula, martingale representation theorem, arbitrage-free pricing, interest rate models, credit risk models.Marks on this module can count towards examption from the professional examination CT8 of the Institute and Faculty of Actuaries.  Please see http://www.kent.ac.uk/casri/Accreditation/index.html for further details.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA889 - Analysis of Large Data Sets
+
+
+   
+    Introduction. Examples of multivariate procedures. The covariance matrix and correlation matrix. The Multivariate normal; motivation, joint probability density function (pdf). Partial and multiple correlation. Sampling distributions. Inference from MN samples. Tests with correlation matrix known and unknown. Unionintersection (UI) tests. Likelihood ratio (LR) methods. Hotellings T-squared. Two-sample tests.Multivariate Analysis of Variance. Discriminant analysis. Linear discriminant function (LDF): derivation with parameters known. Use when parameters are estimated. Distribution-free approach. Principal component analysis. Aims. Derivation of principal components (PCs) of a multivariate random variable. Use of sample data. Calculation of PC scores. Sampling distributions. Factor analysis. The factor model. Factor loadings. Scaling and rotation of factors. Determinacy.Methods for estimation of factor loadings and factor scores. Canonical analysis. Definition. Applications. Scaling. Measures of dissimilarity. Metric scaling. Non-metric scaling. Horseshoe diagrams. Cluster analysis. Hierarchical methods. Single and complete link analyses. Calculation of distances. Presentation methods. Probabilistic approaches. Variable Selection in Linear Regression Models: Examples of high-dimensional problems; Collinearity; All subset selection; Information theoretic approaches to variable selection; Penalized maximum likelihood; Ridge regression; non-negative garrote; Lasso and adaptive Lasso estimation; LARS algorithm; Oracle property; Elastic Net. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA890 - Practical Statistics and Computing
+
+
+   
+    Nonparametric Methods: This part of the  module comprises approximately 10 lectures on nonparametric methods, showing how they are applied in practice for testing goodness of fit to a distribution, including tests of normality, for testing randomness of a sequence, and for comparing two samples. Practical Statistics: There is no fixed syllabus for this component of the course. Students gain experience of practical data analysis through a series of assessments that confront them with unfamiliar data, which may require the use of techniques introduced in any of the other core modules of the Programme.Statistical Computing: At the start of the module, students are introduced to, and gain experience of, the document preparation system LaTeX, which enables the production of high-quality mathematical documents. Then there are sessions in which students learn the statistical package R, using a mixture of lectures and hands-on computing workshops. The initial aim is for students to gain familiarity with importing and manipulating data, producing graphs and tables, and running standard statistical analyses. The later parts of the module focus on the use of R as a programming language, introducing basic programming mechanisms such as loops, conditional statements and functions. This provides students with the means to develop their own code to undertake non-routine types of analysis if these are not already available in R.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA886 - Modelling of Time-Dependent Data and Financial Econometrics
+
+
+   
+    Stationary Time Series: Stationarity, Autocovariance and autocorrelation functions, Partial autocorrelation functions, ARMA processes. ARIMA Model Building and Testing: Estimation, Box Jenkins, Criteria for choosing between models, diagnostic tests for residuals of a time series after estimation. Forecasting: Holt-Winters, Box-Jenkins, Prediction bounds. Distributional properties of asset returns, Regression test for CAPM, multifactor models, Financial applications of AR, MA, and ARMA, Predicting asset returns, ARCH and GARCH models, Random walk hypothesis tests, Volatility processes.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA867 - Project
+
+
+   
+    The module, which is compulsory for students of MSc in Statistics and MSc in Statistics with Finance, enables students to undertake an independent piece of work in a particular area of statistics, or statistical finance/financial econometrics and to write a coherent account of the material. A list of possible topics, together with names of Staff willing to supervise these projects, will be circulated to students in the autumn term. Projects suitable for MSc Statistics and MSc Statistics with Finance will be indicated. Students are given a briefing document containing regulations and advice on the preparation of projects. Students then choose a topic after consultation and agreement with the relevant member of staff. This is done early in the second term. The range of projects available is wide, encompassing both practical data analysis and more methodological work, although projects that are primarily theoretical will typically have obvious practical applications. In addition, students can propose their own topics, provided a suitable supervisor can be found.The dissertation is expected to be about 10,000 words excluding any appendices containing computer code and so forth. The dissertation is submitted in early September, before the start of the next academic year.
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA881 - Probability and Classical Inference
+
+
+   
+    This course introduces (and revises for some students) the essentials of probability and inference which provide the backbone for later modules.Syllabus: Probability: axioms, marginal, joint and conditional distributions, Bayes theorem, important distributions, generating functions and various models of convergence. Classical Inference: Sampling distributions. Point estimation: consistency, Cramer-Rao inequality, efficiency, sufficiency, minimum variance unbiased estimators. Likelihood. Methods of estimation. Hypothesis tests: maximum likelihood-ratio test, Wald and score tests, profile and test-based confidence intervals. Modified likelihood and estimating equations: marginal, conditional, pseudo- and quasi-likelihood, estimating equations.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA882 - Advanced Regression Modelling
+
+
+   
+    This module covers regression techniques used to understand the effect of explanatory variables on a response, which may be continuous, ordinal or categorical. Issues including general inference, goodness-of-fit, variable selection and diagnostics will be discussed and the material presented in a data-centred way.The syllabus isLinear Model: Simple and multiple linear regression including inference (estimation, hypothesis testing and confidence intervals) and diagnostics (detection of outliers, multicollinearity and influential observations). The General linear model, polynomial regression and analysis of variance.Discrete data analysis: Review of Binomial, Poisson, negative binomial and multinomial distributions. Properties, estimation, hypothesis tests.Generalized Linear Model: Estimation, hypothesis testing and model comparison of these models. Diagnostics and goodness-of-fit.Contigency tables: Tests for independence, Measures of association, logistic models, multidimensional tables, log linear models, fitting and model selection.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA883 - Bayesian Statistics
+
+
+   
+    The origins of Bayesian inference lie in Bayes' Theorem for density functions; the likelihood function and the prior distribution combine to provide a posterior distribution which reflects beliefs about an unknown parameter based on the data and prior beliefs. Statistical inference is determined solely by the posterior distribution. So, for example, an estimate of the parameter could be the mean value of the posterior distribution.This module will provide a full description of Bayesian analysis and cover popular models, such as the normal distribution. Initially, the flavour will be one of describing the Bayesian counterparts to well known classical procedures such as hypothesis testing and confidence intervals.Current methods for inference involving posterior distributions typically involve sampling strategies. That is, due to the complicated nature of some posterior distributions, analytic methods fail to provide meaningful summaries. Hence, sampling from the posterior has become popular. A full description of  sampling techniques, starting from rejection sampling, will be given. The syllabus will be:Conjugate models (prior and posterior belong to the same family of parametric models). Predictive distributions; Bayes estimates; Sampling density functions; Gibbs and Metropolis-Hastings samplers; Winbugs; Bayesian regression and hierarchical models; Bayesian model choice; Decision theory; Objective priors; Exchangeability.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is through coursework and formal examinations. 

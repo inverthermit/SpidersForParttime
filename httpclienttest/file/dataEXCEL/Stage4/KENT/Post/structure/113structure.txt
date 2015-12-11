@@ -1,0 +1,600 @@
+Course structure
+
+
+ At least one modern application of mathematics is studied in-depth by each student. Mathematical computing and open-ended project work forms an integral part of the learning experience. There are opportunities for outreach and engagement with the public on mathematics.
+
+You take eight modules in total: six from the list below; a short project module and a dissertation module. The modules concentrate on a specific topic from: analysis; applied mathematics; geometry; and algebra.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   MA961 - Mathematical Inquiry and Communication
+
+
+   
+    The module consists of Key Skills classes and project work. The project will be a substantial investigation of a problem arising from one of the optional modules. Students will have opportunities to participate in outreach activities to enhance their communication skills.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CB600 - Games and Networks
+
+
+   
+    The module is divided into three main topics, namely Combinatorial Optimisation, Dynamic Programming and Game Theory.  A more detailed listing of content is given below. Combinatorial Optimisation:  The Shortest Path ProblemThe Minimal Spanning Tree ProblemFlows in NetworksScheduling TheoryComputational ComplexityTheory of Games:  Matrix Games  Pure StrategiesMatrix Games  Mixed StrategiesBimatrix GamesN-person GamesMulti-criteria Decision Theory
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA549 - Discrete Mathematics
+
+
+   
+    Recently, with the rapid developments in IT, in particular in electronic communication systems, some quite surprising new applications have been found for Discrete Mathematics (as opposed to the Continuous Mathematics based on the calculus). Thus methods for the encoding of information in order to safeguard against eavesdropping or distortion by noise have involved using some basic results from modular arithmetic, polynomial algebra and the theory of finite fields. The module will provide a self-contained introduction to this general area and will cover most of the following topics:(a)   Modular arithmetic, polynomials and finite fields: Applications to orthogonal Latin squares, RSA public key ciphers, coin-tossing over a telephone, linear feedback shift registers and m-sequences.(b)   Error correcting codes: Binary block, linear and cyclic codes including repetition, parity-check, Hamming, simplex; Reed-Muller - BCH - Golay - and other codes; channel capacity; Maximum likelihood, nearest neighbour, syndrome and algebraic decoding.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA563 - Calculus of Variations
+
+
+   
+    In the Calculus of Variations, definite integrals involving one or more unknown functions are considered, and it is required to determine these unknown functions so that the definite integral shall take maximum or minimum values.  The topic has connections with many others, such as differential equations, differential geometry, dynamical systems and as well as setting forth the basic theory, the module will explore various of its applications.The syllabus includes: Introduction and motivation.  The Euler equation for extremals.  Natural boundary conditions.  Constrained problems.  Noethers Theorem.  Lagrangian and Hamiltonian mechanics.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA572 - Complex Analysis
+
+
+   
+    The module is concerned with complex functions, that is functions which are both defined for and assume complex values.  Their theory follows a quite different development from that of real functions, is remarkable in its directness and elegance, and leads to many useful applications.Topics covered will include: Complex numbers. Domains and simple connectivity.  Integration and  Cauchys theorem.  Singularities and residues.  Applications.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA574 - Polynomials in Several Variables
+
+
+   
+    This module provides a rigorous foundation for the solution of systems of polynomial equations in many variables.  In the 1890s, David Hilbert proved four ground-breaking theorems that prepared the way for Emmy Noether's famous foundational work in the 1920s on ring theory and ideals in abstract algebra.  This module will echo that historical progress, developing Hilbert's theorems and the essential canon of ring theory in the context of polynomial rings.  It will take a modern perspective on the subject, using the Groebner bases developed in the 1960s together with ideas of computer algebra pioneered in the 1980s. The syllabus will be: Multivariate polynomials, monomial orders, division algorithm, Groebner basis; Hilbert's Nullstellensatz and its meaning and consequences for solving polynomials in several variables; Elimination theory and applications; Linear equations over systems of polynomials, syzygies, discussion of Hilbert's Syzygies Theorem, its proof and applications. Throughout the course there will be opportunities to discuss other applications.  Depending on time, these may include: invariants of group actions, linear PDEs, combinatorics and the Stanley-Reisner ring, and algebraic codes.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA576 - Groups and Representations
+
+
+   
+    Groups arise naturally in many areas of mathematics as well as in chemistry and physics.  A concrete way to approach groups is by representing them as groups of matrices, in which explicit computations are easy.  This approach has been very fruitful in developing our understanding of groups over the last century.This module will provide a rigorous introduction to the main ideas and notions of groups and representations.  It will also have a strong computational strand: a large part of the module will be devoted to explicit computations of representations and character tables (a table of complex numbers associated to any finite group).The syllabus will be as follows:(a) Groups: basic structure and examples (matrix groups, permutations), group actions;(b) A concrete approach to groups via representations;(c) Character tables: theory and computations for small groups;(d) Simple groups.Throughout the course there will be opportunities to discuss other topics.  Depending on time, these may include some of the following examples: Platonic solids, Sylow Theorems, invariants of group actions, combinatorics, groups and cryptography.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA577 - Elements of Abstract Analysis
+
+
+   
+    In this module we build on the key analytical concepts of sequences, series, limits,and continuity developed in any first course on Real Analysis, and place them in the more general context of metric spaces. In the first part of the course fundamental notions of metric spaces, such as compactness and completeness, are discussed. Metric space theory underpins much of modern anaylisis and its applications. In the second part of the course we use techniques and theorems from metric spaces to discuss elements of Hilbert space theory. The course emphasizes formal definitions and proofs, and aims to enable you to place your previous knowledge of anaylsis in a much wider context.The syllabus will be taken from the following topics:(1) Metric space theory.  Definitions and examples of metric spaces, normed spaces, inner-product spaces. Balls, boundedness, open and closed sets.  Convergence, Cauchy sequences, completeness, and equivalence of metrics.  Completion of a metric space, uniform convergence, and exchanging limits.   Incompleteness of the space of Riemann-integrable functions under Lp-norms, and an informal discussion of its completion, i.e., Lp-spaces. The space of continuous functions and supremum norm.   Limit points, closure, boundary, separability, density.  Banach contraction mapping theorem; applications to ODE theory (Picard's theorem), and/or integral equations.  Continuity in metric spaces, uniform continuity, and continuity of linear mappings.  Compactness, sequential compactness, Heine-Borel, Non-compactness of balls in infinite dimensional normed spaces.  The spaces of continuous functions C(X) on a compact metric space X, and the Weierstrass approximation theorem. (2) Basic Hilbert space theory. Definitions and examples of inner-product spaces, Hilbert spaces, Cauchy-Schwarz inequality, parallelogram identity, l2 and L2([a,b]).  Orthogonal complements and orthogonal projections.   Orthonormal sets and Gram-Schmidt orthogonalisation.  Examples of orthogonal polynomials, e.g., Legendre polynomials and/or Chebyshev polynomials.  Complete orthonormal systems, Bessel's inequality, Parseval's theorem, and the Riesz-Fisher theorem. Trigonometric series and L2 convergence. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA587 - Numerical Solution of Differential Equations
+
+
+   
+    Most differential equations which arise from physical systems can not be solved explicitly in closed form, and thus numerical solutions are an invaluable way to obtain information about the underlying physical system. The first half of the module is concerned with ordinary differential equations (ODEs). Several different numerical methods are introduced and error growth is studied. Both initial value and boundary value problems are investigated.  The second half of the module deals with the numerical solution of partial differential equations (PDEs).  The syllabus includes initial value problems for ODEs, Taylor methods, Runge-Kutta methods, multistep methods, error bounds and stability.  Boundary value problems for ODEs, shooting methods and finite difference schemes.  Partial Differential Equations, difference schemes, iterative methods, stability analysis and the method of lines.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA591 - Nonlinear Systems and Mathematical Biology
+
+
+   
+    This module provides an introduction to the study of properties of solutions of nonlinear ordinary differential equations, difference equations and their application to problems in Biology. Topics covered include continuous population models, discrete population models (including the onset of chaos), interacting population models (including predator-prey, competition and mutualism models), reaction kinetics and reaction-diffusion models. The emphasis will be on developing an understanding of nonlinear systems and using practical analytical techniques to analyse them. The module will utilise biological models to illustrate the theory and give an insight into how Mathematics can be of practical use in the study of phenomena which are observed in the real world and include some recent developments in this field. The development will bring together several aspects of Mathematics - analytic, geometric and numerical ideas, as well as computation through the use of MAPLE.The module will cover topics in the following areas: Introduction to nonlinear systems and Mathematical Biology; Continuous population models for single species; Discrete population models; Phase plane analysis; Continuous models for Interacting Populations; Stability, instability and limit cycles; Reaction kinetics; Reaction-diffusion models; Reaction-diffusion (Turing) mechanisms.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     MA962      - Geometric Integration
+
+
+     
+      The equations studied in this module will be ordinary differential systems, especially Hamiltonian systems. The aim of this subject area is to obtain and study numerical solutions of these systems that preserve specific qualitative and geometric properties. Review of basic numerical methods, variational methods and Hamiltonian mechanics. Properties that numerical methods can preserve: first integrals, symmetries (for example, scaling, Galilean), symplecticity, time reversibility.  Modified Euler and Runge-Kutta methods, splitting methods. Use and misuse of the various notions of error. Examples, applications and computations.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA963      - Poisson Algebras and Combinatorics
+
+
+     
+      The general topics of this module are Poisson algebras, their quantisations, and applications to combinatorics.Poisson algebras first appeared in the work of Sim&eacute;on-Denis Poisson two centuries ago when he was studying the three-body problem in celestial mechanics. Since then, Poisson algebras have been shown to be connected to many areas of mathematics and physics.  This module will provide a rigorous but example led introduction to the main ideas and notions of Poisson algebras and their quantisations. Specific applications will be to problems in combinatorics and to the study of totally positive matrices that are used in statistics, game theory, mathematical economics, mathematical biology.... This module will have a strong computational strand: a large part of the module will be devoted to explicit computations of symplectic leaves of Poisson algebras and to algorithmic methods in total positivity.The syllabus will be Poisson algebras: basic structure and examples. Symplectic leaves; Symplectic leaves in Poisson matrix varieties and Bruhat order on the symmetric group; Deformation of Poisson algebras: an introduction to algebraic quantum groups and their prime ideals through examples (quantum plane, quantum matrices...);  Totally positive/nonnegative matrices: definition, examples, properties and cell decomposition. Link between total positivity and Poisson algebras;  Algorithmic methods for detection of totally nonnegative matrices.  The curriculum can be extended in various ways: Poisson-Lie groups, Coxeter groups, Hopf algebras, representation theory, and these are suitable for project work.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA965      - Symmetries, Groups and Invariants
+
+
+     
+      In this module we will study certain configurations with symmetries as they arise in real world applications. Examples include knots described by admissible diagrams or chemical structures described by coloring patterns. Different diagrams and patterns can describe essentially the same structure, so the problems of classification up to equivalence arises. This will be solved by attaching invariants which are then put in normal form to distinguish them. Review of basic methods from linear algebra, group theory and discrete mathematics; Reidemeister moves and the Smith Normal form of integral matrices; The Jones - and Kauffman polynomials, limits of classification; Permutation groups, transitivity, primitivity, Burnside formula and Polya-enumeration; Examples, observations, generalizations and proofs.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA966      - Diagram Algebras
+
+
+     
+      Roughly speaking, a diagram algebra has a basis consisting of some sort of diagrams and a multiplication coming from concatenation of diagrams. There is no formal definition, just a host of interesting algebras arising in different parts of mathematics and physics (for example the invariant theory of classical groups, algebraic Lie theory, knot theory, integrable models and statistical mechanics, quantum computing). First examples include the group algebra of the symmetric group and the Temperley-Lieb algebra. Although various examples of diagram algebras were known for much of the last century, it was Graham and Lehrer's definition of cellular algebras in 1995 which brought together many examples and ignited algebraists' interest in the subject. Exactly solvable Mathematical physicists have independently been developing and using diagram algebras as an important computational tool for a long period of time; the prototypical example of the Temperley-Lieb algebra was introduced in the context of statistical mechanics in 1971. It should not be a surprise that diagram algebras also play an important role in integrable quantum spin chains, the quantum counterparts of the classical statistical mechanical models. This course will give students two different perspectives on diagram algebras: from algebra and from statistical mechanics. The presentation will be example-led. The syllabus will include: (Associative) algebras and their modules: an introduction to representation theory; Examples of diagram algebras including the group algebra of the symmetric group, the Brauer algebra and the Temperley Lieb algebra; The origins of diagram algebras through algebra  Schur-Weyl duality; Cellular algebras  definitions, general theorems and implications for classes of diagram algebras. An introduction to statistical mechanics; The origins of diagram algebras in physics  the Potts model and the Temperley Lieb algebra, other examples of diagram algebras that arise in physics.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA967      - Quantum Physics
+
+
+     
+      Quantum mechanics provides an accurate description of nature on a subatomic scale, where the standard rules of classical mechanics fail.  It is an essential component of modern technology and has a wide range of fascinating applications. This module introduces some of the key concepts of quantum mechanics from a mathematical point of view.Indicative specific applications topics are: Solutions of the Schr&ouml;dinger equation for a selection of potentials including potential wells and the harmonic oscillator.  Introduction into the theory of tunnelling and scattering.  Applications of quantum theory to physical systems such as Semiconductors, Superconductors, Josephson junctions and SQUIDs, Spin Chains. Recent developments in the quantum world such as Quantum Teleportation, Quantum Computing and Communication, Quantum Dots.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA968      - Mathematics and Music
+
+
+     
+      In this module, we study two significant areas of applied mathematics, namely the wave equation and digital processing. Further, topics in the geometry of musical space, and the geometry of musical rhythm, will be introduced.A synopsis of the curriculumThe syllabus will include:1. The mathematics of the drum&middot; Solutions of the linear wave equation in two dimensions in terms of Fourier series and Bessel functions &middot; How the shape of the drum affects what is heard: can you hear the shape of the drum?&middot; Standing waves and Chaladni patterns&middot; Properties of Bessel functions2. The mathematics of acoustics: the wave equation in 3 dimensions 3. The mathematics of digital music processing &middot; Aliasing, Sampling, Filtering &middot; Discrete Fourier Transform, Convolutions 4. Frequency modulation and FM tones 5. Gabor transform and Spectrograms &middot; definition, basic constructions &middot; wavelets versus Fourier series &middot; applications Further, topics in the geometry of musical space, and the geometry of musical rhythm, will be introduced. Since tonal harmony theory and the ability to read music scores cannot be assumed, further study of these will be by student choice in the assignments.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA969      - Applied Differential Geometry
+
+
+     
+      Differential geometry studies geometrical objects using analytical methods. It originates in classical mechanics. Modern differential geometry has made a huge impact in the development of nonlinear mathematical physics including integrable systems and string theory. Nowadays differential geometry is at the centre of the analysis of pattern recognition, image processing and computer graphics.Indicative specific subtopics are:  Theory of curves. Plane and space curves. Euclidean invariants of curves. Frenet frame.  Theory of surfaces. Metrics on regular surface. Curvature of a curve on a surface. Gaussian curvature and mean curvature. Covariant derivative and geodesics. The Euler-Lagrange equations. Minimal surfaces. Evolution of curves and surfaces as integrable systems: Invariant curve evolution. The mean curvature flows. The connection with integrable systems. The modified Korteweg de-Vries equation. Curves in Riemannian manifolds: Riemannian metrics, connections, curvatures and geodesics. Curves evolution in Riemannian manifold with constant curvature. Modern applications. i. 2D and 3D projective geometry and application to multiple view geometry in computer vision; ii. Moving frames, invariant signatures in pattern recognition;iii. Poisson manifold and Hamiltonian systems.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA970      - Nonlinear Analysis and Optimisation
+
+
+     
+      Suppose that we multiply a real matrix with a vector, but we replace the multiplication operation by addition and the addition operation by taking maximum. In this way we obtain a ``linear'' map in the max-plus (or tropical) algebra. The origins of this algebra lie in combinatorial optimization and in the analysis of dynamic discrete event systems, which are used to model transportation/communication networks and manufacturing systems. Like matrices, max-plus maps have a rich theory.Max-plus maps can be viewed as nonlinear versions of stochastic matrices. They lie within the framework of nonlinear Perron-Frobenius theory, which is a nonlinear extension of the classical theory of nonnegative matrices. This point of view is very fruitful: it allows one to apply methods from nonlinear analysis, in addition to algebraic ones, and provides a broader perspective on max-plus algebra and its applications.This module offers a basic introduction to max-plus (or tropical) algebra and develops the connection with nonlinear Perron-Frobenius theory. It builds on standard undergraduate Linear Algebra and Analysis courses. Applications  will be illustrated by various simple practical problems in  combinatorial optimisation and game theory.  
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA971      - Introduction to Functional Analysis
+
+
+     
+      This module will give an introduction to one of the main areas underpinning research in Analysis today: Functional Analysis, which has applications in many sciences, in particular in the modern theory of solutions of partial differential equations. As well as giving the main definitions and theorems in the area, the course will focus on applications, in particular to differential equations and in approximation theory. The following topics will be covered in the course:1) Linear spaces: Normed and Banach spaces, Inner-product and Hilbert spaces, examples 2)  Linear operators and functionals: bounded linear operators, functionals, dual spaces, reflexive spaces, adjoint operators, selfadjoint operators, examples3) Fundamental theorems: Hahn-Banach, Uniform boundedness principle, Open mapping & Closed graph theorem, Baire Category theorem4) Fixed point theorems and applications to differential and integral equations5) Applications in approximation theory: best approximation in Hilbert space, approximation of continuous functions by polynomialsPossible additional topic: Spectral theory of bounded linear operators, weak and weak* topologies, algebras of bounded linear operators
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA972      - Algebraic Curves in Nature
+
+
+     
+      In this module we will study plane algebraic curves and the way that they arise in applications to other parts of mathematics and physics. Examples include the use of elliptic functions to solve problems in mechanics (e.g. the pendulum, or Euler's equations for rigid body motion), spectral curves of separable Hamiltonian systems, and algebraic curves over finite fields that are used in cryptography. The geometrical properties of a curve are not altered by coordinate transformations, so it is important to identify quantities that are invariant under such transformations. For curves, the most basic invariant is the genus, which is most easily understood in terms of the topology of the associated Riemann surface: it counts the number of handles or holes. The case of genus zero (corresponding to the Riemann sphere) is well understood, but curves of genus one (also known as elliptic curves) lead to some of the most interesting and difficult problems in modern number theory.    Review of basic results from complex analysis and topology; Riemann surfaces and plane curves in complex affine and projective space;  The genus of a curve: degree-genus and Riemann-Hurwitz formulae; Genus one: elliptic curves and their group structure; elliptic functions and elliptic integrals, with applications;  Higher genus: functions, divisors and differentials on algebraic curves; Riemann-Roch theorem; example: hyperelliptic curves.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA973      - Basic Differential Algebra
+
+
+     
+      Differential algebra is a relatively recent branch of algebra that exploits the analogies between systems of algebraic equations and nonlinear systems of (mainly ordinary) differential equations. The basic references are (1) and (2) below. The tools developed in differential algebra are useful for practical problem solving, but they must be used through computer algebra packages since computations can get very heavy. In this module, we will give special emphasis to the package  "DifferentialAlgebra" included in the Maple kernel. We will give a rigorous but example led introduction to the main ideas of computer algebra. The main applications to be discussed are the analysis of singularities and the simplification of nonlinear differential systems. As already indicated, the module will have a strong computational flavour: Students will explore concrete examples with the computer algebra system Maple, comparing hand computations with the results achieved by the full-blown algorithms and dispatching large computations to the package.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA562      - Nonlinear Waves and Solitons
+
+
+     
+      In this module, students will be introduced to nonlinear phenomena and be shown how mathematics can provide a qualitative description of real world nonlinear waves such as those seen in oceans, in shallow water, and in optical fibres. Applications include the understanding of tsunamis, freak waves, shock waves, and soliton solutions of some famous integrable partial differential equations that have arisen from standard modelling processes. The material is chosen so as to demonstrate the range of mathematical techniques available and to illustrate the many properties of the solutions of the associated nonlinear partial differential equations.Indicative specific subtopics are: Introduction. The hyperbolic wave equation utt = c2?.2u. Dispersion relations. Method of Fourier transforms for solving linear diffusion equations. Plotting solutions of partial differential equations using MAPLE.  First-order partial differential equations. Simultaneous ordinary differential equations. Total differential equations P dx + Q dy + R dz = 0. Integral curves and integrability conditions. Quasilinear partial differential equations; the method of characteristics. Systems of quasilinear partial differential equations. Nonlinear partial differential equations; Charpits method, Monge Cone, the complete integral, Weak solutions and shock waves. Hodograph transformations. The Hamilton-Jacobi equation.  Symmetry Methods. Introduction to Lie symmetries and invariant transformations. Elementary travelling wave and scaling solutions of partial differential equations. The classical Lie method for partial differential equations. Symbolic manipulation programs for symmetry methods.  Nonlinear partial differential equations. Origin and physical applications. Shallow water wave theory; derivation of the Korteweg-de Vries equation. Burgers' equation; the Cole-Hopf transformation; exact solutions.  Solitons. Historical remarks and the discovery of the soliton. Travelling wave solutions for the Korteweg-de Vries equation. Inverse scattering for the Korteweg-de Vries equation. Soliton and rational solutions. Conservation laws. B&auml;cklund transformations and nonlinear superposition principles. Hirota's method, with applications to the Korteweg-de Vries and related equations. Symbolic manipulation programs for soliton equations. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA964      - Applied Algebraic Topology
+
+
+     
+      There is growing interest in applying the methods of algebraic topology to data analysis, sensor networks, robotics, etc. The module will develop the necessary elements of algebra and topology, and investigate how these techniques are used in various applications.The syllabus will include: an introduction to topological spaces including cw complexes, manifolds and simplicial complexes; an investigation of the elements of homotopy theory; an exploration of homological and computational methods; applications including homological sensor networks and topological data analysis. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     MA960      - Dissertation
+
+
+     
+      The dissertation represents the culmination of the students work in the programme. It offers the students the opportunity to carry out a piece of extended independent scholarship, and to show their ability to organise and present their ideas in a coherent and convincing fashion.Students will be expected to discuss possible dissertation topics with academic staff members of the Mathematics group within SMSAS in the spring term. An initial supervision will be arranged in the Spring term during which the student and supervisor will discuss the approaches to the topic and draw up a timetable plan which will include some meetings to discuss progress and areas of difficulty. The supervisor will comment on a draft before submission. The topic of the dissertation will depend on the mutual interests of the student and the student's chosen supervisor.
+
+
+      Credits: 60 credits
+       (30 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is by closed book examinations, take-home problem assignments and computer lab assignments (depending on the module). The project and dissertation modules are assessed mainly on the reports or work you produce, but also on workshop activities during the teaching term.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ provide a Master&rsquo;s level mathematical education of excellent quality, informed by research and scholarship
+ provide an opportunity to enhance your mathematical creativity, problem-solving skills and advanced computational skills
+ provide an opportunity for you to enhance your oral communication, project design and basic research skills
+ provide an opportunity for you to experience and engage with a creative, research-active professional mathematical environment
+ produce graduates of value to the region and nation by offering you opportunities to learn about mathematics in the context of its application.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ the applications of mathematical theories, methods and techniques
+ the power of generalisation, abstraction and logical argument
+ the processes and pitfalls of mathematical approximation  
+ nonlinear phenomena
+ geometric thinking
+ non-commutative phenomena
+ algebraic thinking
+ analytic thinking
+ mathematical computation.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ problem solving: the ability to work with self-direction and originality in tackling and solving problems, as well as an ability to provide an analytic approach to mathematical problem-solving
+ independent critical reading of technical material
+ independent creative mathematical inquiry: to develop an understanding of how techniques of research and enquiry are used to create and interpret mathematical knowledge, to show initiative in the application of knowledge
+ logical argument: the ability to formulate detailed rigorous arguments and to deal with complex issues both systematically and creatively.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ mathematical typesetting (LaTeX)
+ the ability to speak with clarity to both a mathematical and a non-specialist audience
+ symbolic computation (eg Maple)
+ numerical computation (eg Matlab).
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ oral and written communication: the ability to communicate technical material, ideas and results to specialist and non-specialist audiences
+ project design: to independently plan, implement and complete a project to professional level
+ basic research: to be able to select and critically evaluate appropriate material from a variety of sources, be able to use appropriate IT tools, be able to write a literature survey, to investigate a mathematical topic in-depth
+ organisational, decision-making, self-management and time-management skills, including the ability to manage your own learning and self-development, and to plan and implement tasks autonomously. 

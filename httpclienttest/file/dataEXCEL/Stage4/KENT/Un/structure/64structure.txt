@@ -1,0 +1,884 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      IT312 - History of Italian Cinema:The Legacy of Neo-Realism
+
+      
+      
+       This course will introduce the students to the work of some of the major Italian filmmakers who contributed to Neorealism's aesthetics and contents (Rossellini, De Sica, De Santis, Fellini) and those who have been inspired by them from the Fifties to the present. Through the study of the history of Italian cinema, students will become familiar with some of the most relevant issues of the history of Italian culture and society. The course will focus particularly on some periods of the history of both Italian cinema and Italian society:- The 1940s: Neorealism as a rejection of the fascist film industry ('Telefoni bianchi/White Telephones' and 'Calligrafi/Calligraphers') and as a way of representing Italian society in the years between the fall of fascism and the birth of the Italian Republic. - The legacy of Neorealism in the Fifties: Fellini - the decline of Neorealism into the so-called Pink Neorealism during the years of 'Ricostruzione (Reconstruction) and the Cold War- The legacy of Neorealism and its influence on Hollywood mainstream industry (with special focus on gangster films)- The legacy of Neorealism on contemporary Italian cinema (e.g. Moretti, Sorrentino, Garrone).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      IT315 - An Introduction to Italian
+
+      
+      
+       This module aims to introduce students to Italian Literature and Culture through the centuries (from the Unification to the late XX century). Its principal objective will be to set representative works of a number of key Italian writers and intellectuals, such as: D'Annunzio, Montale, Ungaretti, Pasolini, Levi, and the Futurists, in their socio-historical and cultural background.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      IT301 - Learning Italian - Beginners
+
+      
+      
+        This is an intensive module in Italian for students who have no or very little knowledge of the language. This course will be of particular interest to anyone wishing to widen their knowledge of Romance languages and to those intending to spend time in Italy. Key basic grammatical structures will be taught through the means of purpose-designed Italian language course books. The students will use the exercise book to carry out grammar exercises at home, which will then be corrected in class. The students will practice their aural skills by listening to audiotapes and videos both in and outside the class. Each chapter of the coursework book is theme based (travelling, shopping, family, etc.). The students will learn how to write and speak in Italian by acquiring new vocabulary, key grammatical points and by carrying out role-plays / presentations. All these aspects relate to the themes in the coursework book. A range of materials will be provided to the student and will for the basis for discussions, translations and applied exercises. Some cultural background of Italy will be provided (e.g. geography, art, music, culinary etc.) The students will also be expected to carry out simple translations from Italian to English / English to Italian. The texts provided will be extracted from the web or the coursework book itself. These translations will also relate to the themes covered in each chapter of the coursework book. By the end of the course the student will have covered key grammatical areas including: the present tense, the future, the gerund, and basic pronouns.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      IT308 - Learning Italian 3 (Post A Level)
+
+      
+      
+       The module is intended for students with an A Level Italian (although Intermediate/GCSE/AS Level will be considered), and is aimed at consolidating students knowledge of written and spoken Italian, at strengthening their grammatical awareness of Italian and at practicing translation skills both from and into Italian. Students will develop skills to plan work, study independently and use relevant sources, as well as acquire a sophisticated knowledge of Italian through weekly exercises of translation, grammar and conversation. The module comprises three elements: one hour per week devoted to advanced Italian grammar, one devoted to translation from English into Italian and guided comprehension, and one hour of conversation practice with a native speaker Italian. This module is subject to change, pending faculty approval. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+ You have the opportunity to select wild modules in this stage
+
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      CO510 - Software Engineering
+
+      
+      
+       
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      IT508 - Learning Italian 2 (Intermediate)
+
+      
+      
+       This module has been planned as the natural follow-on for those who have recently, successfully taken a beginners Italian course such as IT301, and who should have covered the basics of grammar, acquired a stock of high frequency vocabulary and reached a degree of proficiency beyond GCSE and approaching A-level. (A2-B1 in terms of the Common European Framework of Reference {CEFR}).At the same time the course is designed to prepare students for their third year studies and exams in Italy. IT508, like IT301, is an intensive course which requires serious commitment.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      IT563 - Learning Italian 4 *Advanced)
+
+      
+      
+       IT563 is an intermediate level module. Its aims are to strengthen and widen the linguistic knowledge in the Stage 1 IT308 module, to consolidate students vocabulary and improve their knowledge of written and spoken Italian through immersion in a variety of texts, and to practise translation skills both from and into Italian. IT563, like IT308, is an intensive course which requires serious commitment.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      IT552 - Italian Short Story
+
+      
+      
+       This module focuses on a number of Italian contemporary short stories. More specifically, it discusses the literary treatment of love, and the love story, in the short stories of some of the most important Italian writers of the second half of the 20th century and early 21st century. Works by worldwide renowned authors such as Italo Calvino, Natalia Ginzburg, Cesare Pavese and Leonardo Sciascia, accomplished "postmodernist" writers belonging to a younger generation such as Antonio Tabucchi and Pier Vittorio Tondelli, as well as less celebrated authors such as Gianni Celati, Erri De Luca and Fabrizia Ramondino will be taken into consideration. While not underestimating the profound economic, social and political changes that Italy underwent during the last sixty years, particular emphasis will be given to the similar way in which all these writers seem to fictionally conceive of the love relationship as a missed encounter. In spite of the manifold forms of love being described in these texts (between husband and wife; wife and lover; young boy and ideal father; sister and brother; mother and daughter; two young men, etc.), all the short stories chronologically analysed in this module seem to rely on Calvino's provoking suggestion according to which the missed encounter is the "fundamental element" of love relationships.This module is subject to change, pending faculty approval.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      IT556 - Catching the Tide: Cultural Renewal in 20th Century Italy
+
+      
+      
+       Despite her incomparable heritage, Italy experienced for many centuries a sense of cultural provincialism, with the world's intellectual curiosity switching to Paris, London, New York and other centres of innovation. This module focuses on the clear connections between rapid socio-economic and socio-political change and the thrust for cultural modernity that made 20th century Italy once more a key contributor to the literary and visual arts in Europe and beyond. A wide variety of Italian "texts" of the first seventy years of the 20th century will be taken into consideration, including novels, plays, short stories and films.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      IT542 - Italian Extended Essay
+
+      
+      
+       This will depend on the subject matter and the advice of the supervisor. The subject will be broadly within the field of Italian Studies.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      CO636 - Cognitive Neural Networks
+
+      
+      
+       In this module you learn what is meant by neural networks and how to explain the mathematical equations that underlie them. You also build neural networks using state of the art simulation technology and apply these networks to the solution of problems. In addition, the module discusses examples of computation applied to neurobiology and cognitive psychology.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO532 - Database Systems
+
+      
+      
+       This module provides an introduction to the theory and practice of database systems. It extends the study of information systems in Stage 1 by focusing on the design, implementation and use of database systems. Topics include database management systems architecture, data modelling and database design, query languages, recent developments and future prospects.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO539 - Web Development
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO637 - Natural Computation
+
+      
+      
+       This module enables students to take ideas from the natural sciences and use them as inspiration for new computational techniques.  You examine developments in biological-inspired computation and other areas such as bioinformatics.  There is also a practical element to the module; you gain knowledge of a widely-used computing paradigm  genetic algorithms (GA).  Topic covered include evolutionary computation, swarm intelligence and artificial immune system
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO641 - Computer Graphics and Animation
+
+      
+      
+       Computer graphics and animation are important for a variety of technical and artistic applications including web design, HCI and GUI development, games and simulations, digital photography and cinema, medical and scientific visualization, etc.This module introduces the subject from the perspective of computing. You will learn about technologies and techniques for modelling, manipulating, capturing, displaying and storing 2D and 3D scenes, digital images, animations and video. You will also gain practical experience of 3D modelling and animation tools and of implementing digital imaging techniques in Java.Digital Imaging and Video:Human visionColour modelsImages, video and 3DCapture and displayEnhancement and conversionFormats and compression (e.g. GIF, JPEG, MPEG)Computer Graphics:Graphics pipeline3D object and scene modelling with polygon meshesTransformationsProjection, clipping and visible surface determinationIllumination and shadingRay tracing and photorealismComputer Animation:Key-frame animationWarping and morphingArticulated figuresKinematics, dynamics and collision detectionParticle systems and flockingComputer-generated human characters and video-realism
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO643 - Computing Law and Professional Responsibility
+
+      
+      
+       The scope of the module is outlined below. Note that topics will not necessarily be delivered in this orderProfessional issues and professional organisations. Data privacy legislation, and other UK laws relating to the professional use of computer systemsCriminal law relating to networked computer use, including new Anti-Terrorism legislation; and their applicationIntellectual Property Rights, including Copyright, Patent and Contract LawsHealth & Safety issues. Computer-based Projects, including the vendor-client relationship and professional responsibilities
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO518 - Algorithms, Correctness and Efficiency
+
+      
+      
+       Testing, specification, verification Specifying test properties, and more general logical properties Scaling testing Pre- and post-conditions, Hoare Logic, loop invariantsData and Algorithm Design Dynamic data structures: trees, queues, heaps and priority queues; Sorting and searching algorithms, both in their own right and as components of more complex algorithms; Graph algorithms: depth and breadth-first search, union-find, minimal-cost spanning trees;Estimation and efficiency Informal estimation and approximate calculations; Detailed analysis of the time complexity of some simple algorithms including best, worst and average behaviour; Techniques for analysing and comparing the asymptotic behaviour of algorithms.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO527 - Operating Systems and Architecture
+
+      
+      
+       This module aims to provide students with a more in-depth understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. It will consider systems other than the standard PC running Windows, in order to broaden students outlook. The module has two strands: Operating Systems and Architecture, which each form around 50% of the material.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO528 - Introduction to Intelligent Systems
+
+      
+      
+       This module covers the basic principles of machine learning and the kinds of problems that can be solved by such techniques. You learn about the philosophy of AI, how knowledge is represented and algorithms to search state spaces. The module also provides an introduction to both machine learning and biologically inspired computation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO328 - Human Computer Interaction
+
+      
+      
+       This module provides an introduction to human-computer interaction. Fundamental aspects of human physiology and psychology are introduced and key features of interaction and common interaction styles delineated. A variety of analysis and design methods are introduced (e.g. GOMS. heuristic evaluation, user-centred and contextual design techniques). Throughout the course, the quality of design and the need for a professional, integrated and user-centred approach to interface development is emphasised. Rapid and low-fidelity prototyping feature as one aspect of this.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO646 - Computing in the Classroom
+
+      
+      
+       Students will spend one half-day per week for ten weeks in a school with a nominated teacher. They will observe sessions taught by their designated teacher and possibly other teachers. Later they will act somewhat in the role of a teaching assistant, by helping individual pupils who are having difficulties or by working with small groups. They may take hotspots: brief sessions with the whole class where they explain a technical topic or talk about aspects of university life. They must keep a weekly log of their activities. Each student must also devise a special project in consultation with the teacher and with the module convener. They must then implement and evaluate the project.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+ You have the opportunity to select wild modules in this stage
+
+
+
+
+
+
+
+ 
+  Year abroad
+
+  
+   You normally spend the year abroad at one of our exchange universities in Italy &ndash; Bologna, Parma, Pavia or Salerno. Alternatively, you can opt to work as an English language assistant in an Italian school. A paid internship programme is available at the prestigious Italian Trust-Fondazione CRT, based in Turin.
+
+  
+
+
+     
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      IT506 - Learning Italian 5
+
+      
+      
+       This module is designed primarily for final year students of Italian who have studied or worked in Italy. Familiarity with the language, as spoken and written at professional level for example in journalism or literature - is expected, together with a well-stocked vocabulary, a reasonable command of idiom in common use and a sense of linguistic appropriateness to context.  Students engage in the following activities throughout the year: translation from Italian into English, using a range of registers and topics translation from English into Italian, using journalistic and literary texts study grammatical and lexical subtleties of the Italian language group discussion on specific topics
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      IT564 - Istantanea: Photography and Visual Culture in Modern and Contemporary I
+
+      
+      
+       This module aims at developing students visual literacy within the context of Italian studies, by teaching the skills necessary for the reading of static visual materials, especially photography. Contextually, it aims at developing and enhancing the critical response of students to such imagery, with particular focus on their social, cultural and political context. Photography worldwide has been at the centre of daily life, artistic production and political propaganda for the last century and a half. This holds all the more true for Italy, whose contemporary history as a unified country begins almost at the same time as the popularisation of photography. This module will explore this relationship on a socio-historical basis: It will analyse, among other topics, the portrayal of the Risorgimento; Lombrosos criminological and anthropometric use of photography; pseudo-anthropological photography in colonialist exploits, racism and eugenics; Fascist propaganda; futurism and modernism; neo-realist documentary photography and its influence on photojournalism of the 1960s-70s; the paparazzi, fashion and advertisement; photography and the contemporary visual arts; digital photography and social networks. By means of a close reading of photographic and other visual materials, the students will gain a profound understanding of the practicesideological, political, commercial, aesthetic, socialthat produce such materials within the modern Italian cultural context. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      IT571 - Learning Italian Through Literature
+
+      
+      
+       Literature is an unrivalled tool to teach a language. As well as expanding language awareness, it provides authentic material, personal involvement, and cultural enrichment.This module, primarily designed for last year students at an advanced level, integrates language and literature in order to provide learners with a chance to perfect their mastery of the Italian language and practice a variety of language skills, while introducing them to some among the most representative texts of contemporary Italian fiction.The approach will be linguistic, thematic and intercultural. The chosen literary texts will be used in order to analyse the peculiar features of the Italian language as well as to encourage self-reflection, interaction, and cross-cultural confrontation. Texts to be dealt with include: Italo Calvinos Lavventura di un lettore, Leonardo Sciascias Il lungo viaggio, Dino Buzzatis Sette piani, Giuseppe Pontiggias Vitali Antonio, Dacia Marainis Il Bambino Grammofono e lUomo Piccione, Luigi Malerbas Le galline pensierose and Le pietre volanti (extracts), Andrea Camilleris Il giudice Surra.This module is subject to change, pending faculty approval. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      IT548 - Italian Cinema and Literature
+
+      
+      
+       This module discusses contemporary film adaptations (1990s-2000s) taken from four different Italian textual sources (childrens tale, monologue, novel and non-fiction) under the following main aspects: 1.   as "parallel" works which supplement the original literary texts. Films expand, update and adjust the themes of the original literary texts to the historical, social and cultural context in which the adaptations are made. 2.   as works of literary criticism. The way the narrative of a film adaptation is structured and the way a film chooses to selectively focus on some particular episodes and themes is evidence of how the film director critically analyses the literary text and "re-writes" it in the form of a screenplay and in the editing of the material filmed;3.   as an altogether "new" product that structurally differs from the original literary source. Cinema's language relies on signifying images or visual signs that are irreducible to those of written and spoken languages;4.   finally, we will analyse the impact that filmmaking had on the art of writing, assessing the extent to which contemporary novels are often already written with the big screen in mind. We will focus on four emblematic contemporary adaptations: Collodis Pinocchio, adapted by Roberto Benigni, Bariccos Novecento (a monologue), adapted by Tornatore (La leggenda del pianist sulloceano), Ammanitis Io non ho paura, adapted by Gabriele Salvatores, and finally Savianos Gomorra, adapted by Matteo Garrone.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      IT503 - Italian Dissertation
+
+      
+      
+       This module may only be taken provided that other Italian non-language units are being followed throughout the final year. The subject of the Essay will be agreed between the student and a supervisor appointed by the Section; it will normally arise from work done either in other Stage 2 and 3 modules or during the year abroad, but other topics are not necessarily excluded. It will be based on the students own research under the guidance of a supervisor. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      SCL501 - Languages in the Classroom
+
+      
+      
+       The student will spend one half-day per week for ten weeks in a school. They will observe sessions taught by their designated teacher and possibly other teachers. Later they will act to some extent in the role of a teaching assistant, by helping individual pupils who are having difficulties or by working with small groups. They may take hotspots: brief sessions with the whole class where they explain a language topic or talk about aspects of University life. They must keep a weekly online journal. Some travel may be required by students taking this module.  In this instance, it should be noted that the University is unable to cover the cost of any such journey.This module is subject to change, pending faculty approval. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      CO600 - Project
+
+      
+      
+       The project gives you the opportunity to follow and develop your particular technical interests, undertake a larger and less tightly specified piece of work than you have before (at university), and develop the project organisation, implementation and documentation techniques which you have learnt in other modules. The technical and professional aspects of project courses are seen as particularly important by both employers (who will often bring them up in interviews) and by professional bodies.The project may be self-proposed or may be selected from a list of project proposals. Typically, a project will involve the specification, design, implementation, documentation and demonstration of a technical artefact. The project is supervised by a member of the academic staff, who holds weekly meetings with the group, during which s/he will give general advice and will assess the progress of the group and the contributions by individual students. Project deliverables are:- a technical report, in the style of an academic paper, describing the scientific/technical outcome of the project; - a well-indexed corpus of material that supports the achievements claimed. In addition, each individual prepares a report outlining his/her contributions to each of the various aspects of the project. This report should not be a repeat of other material delivered as part of the project, but an assessment of the progress of the project and reflections on what the individual has learnt from undertaking it. In particular, it should include a description of the particular activities and outcomes that individual has contributed to the project, and of how the group worked together. This report will be discussed at a viva voce examination which should include a short presentation/demonstration of the project. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO620 - Research Project
+
+      
+      
+       The project gives you the opportunity to follow and develop your particular technical interests, undertake a larger and less tightly specified piece of work than you have before (at university), and develop the project organisation, implementation and documentation techniques which you have learnt in other modules. The technical and professional aspects of project courses are seen as particularly important by both employers (who will often bring them up in interviews) and by professional bodies.The project may be self-proposed or may be selected from a list of project proposals. Typically, a project will involve the specification, design, implementation, documentation and demonstration of a technical artefact. The project is supervised by a member of the academic staff, who holds weekly meetings with the group, during which s/he will give general advice and will assess the progress of the group and the contributions by individual students. Project deliverables are:- a technical report, in the style of an academic paper, describing the scientific/technical outcome of the project; - a well-indexed corpus of material that supports the achievements claimed. In addition, each individual prepares a report outlining his/her contributions to each of the various aspects of the project. This report should not be a repeat of other material delivered as part of the project, but an assessment of the progress of the project and reflections on what the individual has learnt from undertaking it. In particular, it should include a description of the particular activities and outcomes that individual has contributed to the project, and of how the group worked together. This report will be discussed at a viva voce examination which should include a short presentation/demonstration of the project. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                          
+      CO646 - Computing in the Classroom
+
+      
+      
+       Students will spend one half-day per week for ten weeks in a school with a nominated teacher. They will observe sessions taught by their designated teacher and possibly other teachers. Later they will act somewhat in the role of a teaching assistant, by helping individual pupils who are having difficulties or by working with small groups. They may take hotspots: brief sessions with the whole class where they explain a technical topic or talk about aspects of university life. They must keep a weekly log of their activities. Each student must also devise a special project in consultation with the teacher and with the module convener. They must then implement and evaluate the project.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO320 - Introduction to Object-Oriented Programming
+
+      
+      
+       This module provides an introduction to object-oriented software development.  Software pervades many aspects of most professional fields and sciences, and an understanding of the development of software applications is useful as a basis for many disciplines. This module covers the development of simple software systems. Students will gain an understanding of the software development process, and learn to design and implement applications in a popular object-oriented programming language.  Fundamentals of classes and objects are introduced, and key features of class descriptions:   constructors, methods and fields.  Method implementation through assignment, selection control structures, iterative control structures and other statements is introduced.  Collection objects are also covered and the availability of library classes as building blocks.  Throughout the course, the quality of class design and the need for a professional approach to software development is emphasized
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO323 - Databases and the Web
+
+      
+      
+        An introduction to databases and SQL, focussing on their use as a source for content for websites. Creating static content for websites using HTML(5) and controlling their appearance using CSS. Using PHP to integrate static and dynamic content for web sites. Securing dynamic websites. Using Javascript to improve interactivity and maintainability in web content.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO328 - Human Computer Interaction
+
+      
+      
+       This module provides an introduction to human-computer interaction. Fundamental aspects of human physiology and psychology are introduced and key features of interaction and common interaction styles delineated. A variety of analysis and design methods are introduced (e.g. GOMS. heuristic evaluation, user-centred and contextual design techniques). Throughout the course, the quality of design and the need for a professional, integrated and user-centred approach to interface development is emphasised. Rapid and low-fidelity prototyping feature as one aspect of this.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO324 - Computer Systems
+
+      
+      
+       14. A synopsis of the curriculumThis module aims to provide students with an understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. The module has two strands: Hardware Architecture and Operating Systems and Networks, which form around 35% and 65% of the material respectively. Both strands contain material which is of general interest to computer users; quite apart from their academic value, they will be useful to anyone using any modern computer system.Hardware ArchitectureData representation: Bits, bytes and words. Numeric and non-numeric data. Number representation.Computer architecture: Fundamental building blocks (logic gates, flip-flops, counters, registers). The fetch/execute cycle. Instruction sets and types.Data storage: Memory hierarchies and associated technologies. Physical and virtual memory.Operating Systems and NetworksOperating systems principles. Abstractions. Processes and resources. Security. Application Program Interfaces.Device interfaces: Handshaking, buffering, programmed and interrupt-driven i/o. Direct Memory Access.File Systems: Physical structure. File and directory organisation, structure and contents. Naming hierarchies and access. Backup.Background and history of networking and the Internet.Networks and protocols: LANs and WANs, layered protocol design. The TCP/IP protocol stack; theory and practice. Connection-oriented and connectionless communication. Unicast, multicast and broadcast. Naming and addressing. Application protocols; worked examples: SMTP, HTTP).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO528 - Introduction to Intelligent Systems
+
+      
+      
+       This module covers the basic principles of machine learning and the kinds of problems that can be solved by such techniques. You learn about the philosophy of AI, how knowledge is represented and algorithms to search state spaces. The module also provides an introduction to both machine learning and biologically inspired computation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO527 - Operating Systems and Architecture
+
+      
+      
+       This module aims to provide students with a more in-depth understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. It will consider systems other than the standard PC running Windows, in order to broaden students outlook. The module has two strands: Operating Systems and Architecture, which each form around 50% of the material.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO520 - Further Object-Oriented Programming
+
+      
+      
+       This module builds on the foundation of object-oriented design and implementation found in module CO320 Introduction to Object-Oriented Programming to provide a deeper understanding of and facility with object-oriented program design and implementation.  More advanced features of object-orientation, such as inheritance, abstract classes, nested classes, graphical-user interfaces (GUIs), exceptions, input-output are covered.  These allow an application-level view of design and implementation to be explored.  Throughout the module the quality of application design and the need for a professional approach to software development is emphasized.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO518 - Algorithms, Correctness and Efficiency
+
+      
+      
+       Testing, specification, verification Specifying test properties, and more general logical properties Scaling testing Pre- and post-conditions, Hoare Logic, loop invariantsData and Algorithm Design Dynamic data structures: trees, queues, heaps and priority queues; Sorting and searching algorithms, both in their own right and as components of more complex algorithms; Graph algorithms: depth and breadth-first search, union-find, minimal-cost spanning trees;Estimation and efficiency Informal estimation and approximate calculations; Detailed analysis of the time complexity of some simple algorithms including best, worst and average behaviour; Techniques for analysing and comparing the asymptotic behaviour of algorithms.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO643 - Computing Law and Professional Responsibility
+
+      
+      
+       The scope of the module is outlined below. Note that topics will not necessarily be delivered in this orderProfessional issues and professional organisations. Data privacy legislation, and other UK laws relating to the professional use of computer systemsCriminal law relating to networked computer use, including new Anti-Terrorism legislation; and their applicationIntellectual Property Rights, including Copyright, Patent and Contract LawsHealth & Safety issues. Computer-based Projects, including the vendor-client relationship and professional responsibilities
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO641 - Computer Graphics and Animation
+
+      
+      
+       Computer graphics and animation are important for a variety of technical and artistic applications including web design, HCI and GUI development, games and simulations, digital photography and cinema, medical and scientific visualization, etc.This module introduces the subject from the perspective of computing. You will learn about technologies and techniques for modelling, manipulating, capturing, displaying and storing 2D and 3D scenes, digital images, animations and video. You will also gain practical experience of 3D modelling and animation tools and of implementing digital imaging techniques in Java.Digital Imaging and Video:Human visionColour modelsImages, video and 3DCapture and displayEnhancement and conversionFormats and compression (e.g. GIF, JPEG, MPEG)Computer Graphics:Graphics pipeline3D object and scene modelling with polygon meshesTransformationsProjection, clipping and visible surface determinationIllumination and shadingRay tracing and photorealismComputer Animation:Key-frame animationWarping and morphingArticulated figuresKinematics, dynamics and collision detectionParticle systems and flockingComputer-generated human characters and video-realism
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO637 - Natural Computation
+
+      
+      
+       This module enables students to take ideas from the natural sciences and use them as inspiration for new computational techniques.  You examine developments in biological-inspired computation and other areas such as bioinformatics.  There is also a practical element to the module; you gain knowledge of a widely-used computing paradigm  genetic algorithms (GA).  Topic covered include evolutionary computation, swarm intelligence and artificial immune system
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO539 - Web Development
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO532 - Database Systems
+
+      
+      
+       This module provides an introduction to the theory and practice of database systems. It extends the study of information systems in Stage 1 by focusing on the design, implementation and use of database systems. Topics include database management systems architecture, data modelling and database design, query languages, recent developments and future prospects.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CO636 - Cognitive Neural Networks
+
+      
+      
+       In this module you learn what is meant by neural networks and how to explain the mathematical equations that underlie them. You also build neural networks using state of the art simulation technology and apply these networks to the solution of problems. In addition, the module discusses examples of computation applied to neurobiology and cognitive psychology.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

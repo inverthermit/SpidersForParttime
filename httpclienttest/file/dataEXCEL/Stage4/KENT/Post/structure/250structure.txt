@@ -1,0 +1,825 @@
+Course structure
+
+
+ The Graduate Diploma in Computer Science is suitable for graduates of computer science or related subjects seeking to progress to one of our Advanced or IT and Business Master&rsquo;s programmes. Also see our two-year International Master&rsquo;s programmes.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   CO523 - Fundamentals of Programming and Logic
+
+
+   
+    The module will cover: Object-oriented programming: Fundamentals of classes and objects. Class libraries. Testing. Inheritance and polymorphism.Graphical-user interfaces (GUIs), exceptions, input-output Functional programming: Expressions, values and types. (sessions and scripts). Numbers, booleans and characters.Function definitions. Approaches to testing programs. Polymorphic types. Lists and common listprocessing functions. Tuples. Pattern matching, recursive function definitions. Library functions.Algebraic data types. Propositional Logic. Data and information representation using XML. Applications of XML.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO651 - Research and Study Skills
+
+
+   
+    
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO699 - Computing Project
+
+
+   
+    This module is to provide the opportunity for students to undertake a substantial individual computing project on a topic of their choice. Frequently the project is chosen from the discipline of the student's previous degree programme, thus enabling students to appreciate the role of computing in diverse application domains. The project may be self-proposed or may be selected from a list of project proposals. Typically, a project will involve the specification, design, implementation, documentation and demonstration of a technical artefact. The project is supervised by a member of the academic staff, who holds weekly meetings with the student, during which s/he will give general advice and will assess the progress of the student. Attendance at these meetings is compulsory and is monitored. The supervisors will direct students towards background and research-related literature relevant to the project. The meetings also enable students to respond to suggestions from supervisors for innovative and challenging extensions to their chosen project. Towards the end of the project, the student prepares a report describing the outcome of the project, which may be supplemented by appendices that support the achievements claimed.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO600 - Project
+
+
+   
+    The project gives you the opportunity to follow and develop your particular technical interests, undertake a larger and less tightly specified piece of work than you have before (at university), and develop the project organisation, implementation and documentation techniques which you have learnt in other modules. The technical and professional aspects of project courses are seen as particularly important by both employers (who will often bring them up in interviews) and by professional bodies.The project may be self-proposed or may be selected from a list of project proposals. Typically, a project will involve the specification, design, implementation, documentation and demonstration of a technical artefact. The project is supervised by a member of the academic staff, who holds weekly meetings with the group, during which s/he will give general advice and will assess the progress of the group and the contributions by individual students. Project deliverables are:- a technical report, in the style of an academic paper, describing the scientific/technical outcome of the project; - a well-indexed corpus of material that supports the achievements claimed. In addition, each individual prepares a report outlining his/her contributions to each of the various aspects of the project. This report should not be a repeat of other material delivered as part of the project, but an assessment of the progress of the project and reflections on what the individual has learnt from undertaking it. In particular, it should include a description of the particular activities and outcomes that individual has contributed to the project, and of how the group worked together. This report will be discussed at a viva voce examination which should include a short presentation/demonstration of the project. 
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO620 - Research Project
+
+
+   
+    The project gives you the opportunity to follow and develop your particular technical interests, undertake a larger and less tightly specified piece of work than you have before (at university), and develop the project organisation, implementation and documentation techniques which you have learnt in other modules. The technical and professional aspects of project courses are seen as particularly important by both employers (who will often bring them up in interviews) and by professional bodies.The project may be self-proposed or may be selected from a list of project proposals. Typically, a project will involve the specification, design, implementation, documentation and demonstration of a technical artefact. The project is supervised by a member of the academic staff, who holds weekly meetings with the group, during which s/he will give general advice and will assess the progress of the group and the contributions by individual students. Project deliverables are:- a technical report, in the style of an academic paper, describing the scientific/technical outcome of the project; - a well-indexed corpus of material that supports the achievements claimed. In addition, each individual prepares a report outlining his/her contributions to each of the various aspects of the project. This report should not be a repeat of other material delivered as part of the project, but an assessment of the progress of the project and reflections on what the individual has learnt from undertaking it. In particular, it should include a description of the particular activities and outcomes that individual has contributed to the project, and of how the group worked together. This report will be discussed at a viva voce examination which should include a short presentation/demonstration of the project. 
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO633 - Computer Networks and Communications
+
+
+   
+    This modules contains two main components.  It starts with a comprehensive and detailed study of current computer networks and communications technologies.  You learn how the various hardware and software components are organised and how they actually work .  A selection of key topics are then looked at in even greater depth to reveal the state-of-the-art and issues (problems) that remain to be solved.Network Architectures and Protocols:  This component provides a comprehensive study of network architecture and individual protocol layers, including details of the technologies, algorithms and protocols currently used.The Advanced Topics component takes an in-depth look at a number of advanced topics in the area of computer communications, including details of the current practice and outstanding issues in a number of state-of-the-art areas.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO636 - Cognitive Neural Networks
+
+
+   
+    In this module you learn what is meant by neural networks and how to explain the mathematical equations that underlie them. You also build neural networks using state of the art simulation technology and apply these networks to the solution of problems. In addition, the module discusses examples of computation applied to neurobiology and cognitive psychology.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO637 - Natural Computation
+
+
+   
+    This module enables students to take ideas from the natural sciences and use them as inspiration for new computational techniques.  You examine developments in biological-inspired computation and other areas such as bioinformatics.  There is also a practical element to the module; you gain knowledge of a widely-used computing paradigm  genetic algorithms (GA).  Topic covered include evolutionary computation, swarm intelligence and artificial immune system
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO641 - Computer Graphics and Animation
+
+
+   
+    Computer graphics and animation are important for a variety of technical and artistic applications including web design, HCI and GUI development, games and simulations, digital photography and cinema, medical and scientific visualization, etc.This module introduces the subject from the perspective of computing. You will learn about technologies and techniques for modelling, manipulating, capturing, displaying and storing 2D and 3D scenes, digital images, animations and video. You will also gain practical experience of 3D modelling and animation tools and of implementing digital imaging techniques in Java.Digital Imaging and Video:Human visionColour modelsImages, video and 3DCapture and displayEnhancement and conversionFormats and compression (e.g. GIF, JPEG, MPEG)Computer Graphics:Graphics pipeline3D object and scene modelling with polygon meshesTransformationsProjection, clipping and visible surface determinationIllumination and shadingRay tracing and photorealismComputer Animation:Key-frame animationWarping and morphingArticulated figuresKinematics, dynamics and collision detectionParticle systems and flockingComputer-generated human characters and video-realism
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CO643 - Computing Law and Professional Responsibility
+
+
+   
+    The scope of the module is outlined below. Note that topics will not necessarily be delivered in this orderProfessional issues and professional organisations. Data privacy legislation, and other UK laws relating to the professional use of computer systemsCriminal law relating to networked computer use, including new Anti-Terrorism legislation; and their applicationIntellectual Property Rights, including Copyright, Patent and Contract LawsHealth & Safety issues. Computer-based Projects, including the vendor-client relationship and professional responsibilities
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     CO645      - IT Consultancy Practice 2
+
+
+     
+      Students taking this module will undertake one or (typically) more assignments for the Kent IT Clinic (KITC). Each assignment will be of one of three types: Work on one of KITCs contracts with an external client. To the extent that client-funded work allows, every student will be given at least one assignment of this type. Wherever practical, a student will be encouraged to participate in the negotiation and pricing of contracts, under the ultimate supervision of KITC management. For each assignment, the student may work on the assignment individually or as part of a group, as directed by KITC. A contribution to the infrastructure of KITC itself.  A contribution to the infrastructure of KITC itself. These assignments work in a similar way to external assignments, but with KITC as the client.Formulating a costed proposal for the future development of KITC, and presenting reasoned argument in support of the proposal to KITC management, as a candidate for inclusion in KITCs strategic plan for the following academic year.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO648      - Systems and Services, Design and Management
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO525      - Dynamic Web
+
+
+     
+      The World Wide Web has become one of the most significant and revolutionary technologies in its ability to deliver new forms for both business and personal communication. In order to be able to fully utilise the power of the Web a good understanding of several key technologies is required. In this module you will learn how to utilise XML to create new forms of Web based documents. You will find out how flexible Web pages can be created using stylesheets and client side scripting. You will also discover how to use server side scripting to support dynamic content and interaction with other applications
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO526      - Distributed Systems and Networks
+
+
+     
+      This module looks at the way distributed systems are modelled to contain and control the problems that naturally arise from distribution. It introduces the major techniques used to achieve coordinated and consistent use of distributed resources, both in terms of the construction of application components and the support of system-wide features such as support for security and management. It shows, by discussing the incorporation of multimedia information, how suitable use of abstractions can assist in requirements capture and system evolution.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO527      - Operating Systems and Architecture
+
+
+     
+      This module aims to provide students with a more in-depth understanding of the fundamental behaviour and components (hardware and software) of a typical computer system, and how they collaborate to manage resources and provide services. It will consider systems other than the standard PC running Windows, in order to broaden students outlook. The module has two strands: Operating Systems and Architecture, which each form around 50% of the material.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO528      - Introduction to Intelligent Systems
+
+
+     
+      This module covers the basic principles of machine learning and the kinds of problems that can be solved by such techniques. You learn about the philosophy of AI, how knowledge is represented and algorithms to search state spaces. The module also provides an introduction to both machine learning and biologically inspired computation.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO529      - Human Computer Interaction
+
+
+     
+      This module provides an introduction to human-computer interaction. Fundamental aspects of human physiology and psychology are introduced and key features of interaction and common interaction styles delineated. A variety of analysis and design methods are introduced (e.g. GOMS. heuristic evaluation, user-centred and contextual design techniques). Throughout the course, the quality of design and the need for a professional, integrated and user-centred approach to interface development is emphasised. Rapid and low-fidelity prototyping feature as one aspect of this.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO531      - Software Engineering Practice
+
+
+     
+      Software systems are typically large and complex systems that require a disciplined and professional approach to their analysis, design and implementation. We show you how to deal with problems of scale and complexity combining software engineering and traditional systems methodologies.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO532      - Database Systems
+
+
+     
+      This module provides an introduction to the theory and practice of database systems. It extends the study of information systems in Stage 1 by focusing on the design, implementation and use of database systems. Topics include database management systems architecture, data modelling and database design, query languages, recent developments and future prospects.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO534      - IT Consultancy Methods
+
+
+     
+      The principal aim of this module is effectively to equip computing students to operate as IT consultants to small businesses. The module is designed to support students who wish to work in the Kent IT Clinic  http://www.cs.kent.ac.uk/students/kitc/index.htmlbut will also provide students with a general appreciation of the environment of IT consultancy.A pervading theme is that students of this course (as well as students conducting projects for KITC) should be the primary players in developing KITCs quality plan, ensuring that quality issues are thoroughly understood by KITC participants, and that participants have a sense of ownership of the Clinics procedures.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO536      - Advanced Programming Techniques
+
+
+     
+      This module takes a deeper look at advanced techniques in both low and high level programming languages.  Topics include:  Introduction to Unix; Low-level architecture; memory layout; pointers; C programming and debugging; pre-processing, compiling, linking and loading, including the use of dynamically linked libraries.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO538      - Concurrency Design and Practice
+
+
+     
+      The CSP model of concurrency is the core of this module, primarily presented through the occam-pi multiprocessing language and additionally using the JCSP library for Java.  The following topics will be covered: Parallel programming: processes, channels, alternation, barriers, CREW principle, types, variables and computation. Building concurrent systems: components, layered networks and modularity. Semantic aspects of concurrent programming: security-issues, race-hazards, deadlock, livelock, starvation and non-determinism. Design methodologies for deadlock, livelock and starvation-free systems. Performance of concurrent systems (including the efficient exploitation of multicore processors). Applications of concurrency for: robotics, embedded-systems, networking, complex system modelling, graphics and hardware design. Implementation of concurrent systems in natively sequential languages, comparing the use of specialised concurrency models (e.g. CSP) with a standard threads-and-locks model.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO522      - Algorithms, Data structures and Complexity
+
+
+     
+      By the end of this module you will have gained: the ability to design and use linked data structures; the ability to analyse the time and space behaviour (efficiency) of algorithms; an understanding of known algorithms, in particular graph, text manipulation and geometric algorithms; an understanding of the computer representation and manipulation of numerical data along with a general appreciation of numerical calculation and approximate reasoning.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO628      - Graphs
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO634      - Computer Security and Cryptography
+
+
+     
+      Security has always been an important aspect of computing systems but its importance has increased greatly in recent years.  In this module you learn about areas where security is of major importance and the techniques used to secure them.  The areas you look at include computer operating systems (and increasingly, distributed operating systems), distributed applications (such as electronic commerce over the Internet) and embedded systems (ranging from smart cards and pay-TV to large industrial plant and telecommunications systems).
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO632      - Advanced Concurrency Design and Practice
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO635      - Logic Programming and Constraint Programming
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO521      - Software Engineering Design and Validation
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO524      - Programming Language Technology
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO640      - Software Failure and Risk
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     EL561      - Image Analysis & Applications
+
+
+     
+      Intelligent processing is associated with information processing operations which are generally carried out reliably and efficiently by humans, but which may be much more challenging for computer-based processing systems.  This module will introduce and explore some important techniques and applications for automated intelligent processing.  Principally, it will explore the visual environment, which is so important in human activity and increasingly so in supporting computational processing platforms routinely encountered in the modern world.  The display, manipulation and efficient communication of images (embracing issues ranging from how to manipulate image data to provide an optimal visual experience, to the automatic extraction of information from images to understand their content) are key elements in the design and utilisation of many contemporary applications in digital media and in engineering.This module will introduce the basic techniques required for image processing and automated image analysis, and will include a introductory study of the use of so-called neural network processors for the analysis of images, especially in relation to problems of image recognition, since such architectures neatly bridge the areas of human and automated processing.  Similarly, the module will embrace important topics of increasing interest in the context of maintaining the security of systems and media, including particularly an introduction to the emerging field of biometrics (the automatic identification of individuals).  Biometrics provides a good domain within which the power of intelligent processing can be illustrated, both because the identification of individuals is a fundamental human capability, and is increasingly important in many media applications (especially in relation to system security), but also because this often relies directly on the effective processing of visual data and complex images.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO630      - Comparative Programming Languages
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO831      - Mobile and Ubiquitous Computing
+
+
+     
+      In this module you discuss the characteristics and limitations of hardware devices, communication and software infrastructures and environments used on small devices and in mobile and ubiquitous computing contexts. You look at the current practice in mobile and ubiquitous computing contexts, and deal with a range of professional and ethical issues, particularly those relating to security and privacy in mobile and ubiquitous computing.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CO832      - Data Mining and Knowledge Discovery
+
+
+     
+      This module explores a range of different data mining and knowledge discovery techniques and algorithms. You learn about the strengths and weaknesses of different techniques and how to choose the most appropriate for any particular task. You use a state-of-the-art data-mining tool, and learn to evaluate the quality of discovered knowledge. There is also the opportunity to extend data mining concepts and principles to text and web mining.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     EL667      - Embedded Computer Systems
+
+
+     
+      This module introduces the theory and practice of employing computers as the control and organisational centre of an electronic or mechanical system, and examines issues related to time critical systems.  It also provides exposure to practical embedded systems design through practical work, with one assignment exploring the ideas of real-time operating systems introduced in the lectures and a second using a microcomputer programmed in 'C' to control the ignition timing of a simulated car petrol engine.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is through a mixture of written examinations and coursework, the relative weights of which vary according to the nature of the module.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ to be of special interest to students, especially overseas students, whose undergraduate degree is equivalent to a non-honours degree in computing or a related subject and who wish to proceed onto an advanced or specialist taught MSc programme in the School of Computing at Kent or elsewhere
+ provide a programme that will attract and meet the needs of both those contemplating a career in computing and those motivated primarily by an intellectual interest in computer science
+ provide computing skills that will be of lasting value in a field that is constantly changing
+ offer a range of options to enable you to match your interests and study some selected areas of computing in greater depth
+ provide teaching that is informed by current research and scholarship and which requires you to engage with aspects of work at the frontiers of knowledge.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+(Depending on the options you choose)
+
+ hardware: the major functional components of a computer system
+ software: programming languages and practice, tools and packages, computer applications, structuring of data and information
+ communication and interaction: the basic computer communication network
+ concepts: communication between computers and people, the control and operation of computers
+ practice: problem identification and analysis, design development, testing and evaluation.
+ theory: algorithm design and analysis, formal methods and description, modelling.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+(Outcomes 1, 3 and 4 dependent on the options you choose)
+
+ modelling: knowledge and understanding in the modelling and design of computer -based systems in a way that demonstrates comprehension of the trade-off involved in design choices
+ reflection and communication: present succinctly to a range of audiences rational and produce reasoned arguments
+ requirements: identify and analyse criteria and specifications appropriate to specific problems and plan strategies for their solution
+ criteria evaluation and testing: analyse the extent to which a computer-based system meets the criteria defined for its current use and future development
+ methods and tools: deploy appropriate theory, practices, and tools for the specification, design, implementation, and evaluation of computer-based systems.
+ professional responsibility: recognise and be guided by the professional, economic, social, environmental, moral and ethical issues involved in the sustainable exploitation of computer technology
+ computational thinking: demonstrate a basic analytical ability and its relevance to everyday life.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ how to specify, design, and implement computer-based systems
+ how to evaluate systems in terms of general quality attributes and possible tradeoffs presented within the given problem
+ how to information management: how to apply the principles of effective information management, information organisation, and information retrieval skills to information of various kinds, including text, images, sound, and video
+ how to deploy effectively the tools used for the construction and documentation of software, with particular emphasis on understanding the whole process involved in using computers to solve practical problems
+ how to operate computing equipment and software systems effectively.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the ability to work effectively as a member of a development team
+ communication: make succinct presentations to a range of audiences about technical problems and their solutions
+ information technology: effective use of general IT facilities, information retrieval skills
+ numeracy: understand and explain the quantitative dimensions of a problem
+ self management: managing your own learning and development, including time management and organisational skills
+ professional development: appreciating the need for continuing professional development in recognition of the need for lifelong learning. 

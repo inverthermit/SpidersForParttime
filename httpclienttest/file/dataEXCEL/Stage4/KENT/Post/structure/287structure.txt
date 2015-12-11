@@ -1,0 +1,932 @@
+Course structure
+
+
+ You can tailor your studies to your particular needs and interests to obtain an LLM or Diploma in a single specialisation, in two specialisations jointly, or by choosing a broad range of modules in different areas of law to obtain a general LLM or Diploma in Law.
+
+As a student on the LLM at Canterbury, your choice of specialisation will be shaped by the modules you take and your dissertation topic. To be awarded an LLM in a single specialisation, at least three of your six modules must be chosen from those associated with that specialisation with your dissertation also focusing on that area of law. The other three modules can be chosen from any offered in the Law School. All students are also required to take the Legal Research and Writing Skills module. To be awarded a major/minor specialisation you will need to choose three modules associated with one specialisation, and three from another specialisation, with the dissertation determining which is your 'major' specialisation.
+
+For example, a student who completes at least three modules in International Commercial Law and completes a dissertation in this area would graduate with an LLM in International Commercial Law; a student who completes three Criminal Justice modules and three Environmental Law modules and then undertakes a dissertation which engages with Criminal Justice would graduate with an LLM in Criminal Justice and Environmental Law.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   LW919 - Legal Research and Writing Skills
+
+
+   
+    This is a compulsory module for all Masters students and must be completed within one academic year. Both Diploma and Certificate students can opt to take this module in addition to their required modules. It is a non-contributory module which does not count towards your degree, but it will appear on your final transcript with a Pass/Fail result. The module is timetabled from 16:00-18:00 on Wednesdays in Eliot Lecture Theatre 2.The Autumn Term of this module will provide an introduction to the legal research and writing skills required to carry out research at Masters level. The Spring Term will enable students to acquire and develop the skills necessary to carry out a longer term research project, such as their dissertation. Students will be introduced to a range of theoretical frameworks that will enable them to develop their own critical approach to their chosen dissertation topic.Please see separate programme for further details on each session available from the Kent Law School Postgraduate Office.
+
+
+    Credits: 5 credits
+     (2.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW801 - Intellectual Property
+
+
+   
+    Over the past few decades, the scope of intellectual property has grown significantly. The goal of the module is to provide an overview of these areas from different angles in order to be able to assess this expansion. In so doing, it will examine this area of law from historical, theoretical and practical perspectives. The emphasis throughout the module is on reflexive critique. That is, we will study the different modes of justifying intellectual property; the different historical approaches to trace the ways in which we can understand the political economy of intellectual property and we will look at the past to try to find ways of thinking about the present situation of international legal regimes. On a more contemporary level, we will study the interaction between intellectual property and health, the problems posed by biotechnology, as well as the more practical question on the way of producing evidence in intellectual property trials. No prior knowledge or study of intellectual property is required.
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW802 - International Business Transactions
+
+
+   
+    This module will examine the problems that arise in commercial transactions between businesses established in different States. The module will concentrate specifically on the 'transnational' nature of such transactions, and some of the solutions characteristically adopted by different legal systems, with emphasis on International, English or the US systems, or where appropriate legal rules and materials of other jurisdictions by way of illustration. The module will also cover the unique features of current transnational business transactions such as Mergers and Acquisition, Franchising and the increasing influence of certain developing states, such as India, South Africa, Nigeria and China.Topics coveredSources of Transnational Commercial Law and the interactions of Lex Mercatoria with public international law, International Conventions, Model Uniform Law, UNCITRAL, Reception and Approximation in National Law, Conflicts of Law, International Commercial Customs and Practice, The Role of International Chamber of Commerce; International Sales of Goods, The Vienna Convention 1980, UNIDROIT Principles; Standard Trade Terms especially INCOTERMS; Commercial Paper and Finance of International Sales, Documents of Title, Bills of Lading, Mates' Receipts, Consignment Notes, Paperless Documents and EDI, UNCITRAL Model Law on Electronic Commerce, comparative analysis of electronic commerce and electronic signature regimes, Negotiable Instruments, Payment Collection Arrangements, Mergers and Acquisition, Oil and Gas Transactions,  Letters of Credit, Performance Bonds and Guarantees, Export Credit Guarantees; Licensing and Franchising; Dispute Resolution with special emphasis on the resolution of disputes involving parties across the developed and developing states divide.
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW844 - Legal Aspects of Contemporary International Problems
+
+
+   
+    There are a number of ways to approach the field of international law. It can be treated doctrinally as a system of rules from various sources  such as treaties, state practices that are seen to have the binding force of law, and general principles shared across domestic jurisdictions  built up over time to regulate interactions between states and other entities. It can be studied as a historical phenomenon, emerging from out of a colonial history with contemporary implications. It can also be studied as an (imperfect) approach to addressing international 'problems', placing international law in broader social, political, and historical contexts as one possible source of 'solutions'. This course highlights international laws limits and possibilities in relation to a set of contemporary inter- and trans-national concerns, including the use of armed force, responses to emerging security threats, and unresolved territorial disputes. It focuses on key themes of international law, such as sovereignty, statehood, self-determination, and the regulation of armed conflict, drawing upon perspectives from the humanities and the interpretive social sciences. It explores these overlapping themes as they emerge across several issues and case studies, bringing international law into a relationship with contemporary geopolitics, political theory, and the fields historical inheritance. Along the way, we will address philosophical and theoretical questions such as the binding character of international law, problems of representation and interpretation, and the rhetorical dimensions of customary international law. Topics covered The topics covered vary year to year to align with changing circumstances and also according to student interest, but are anticipated to be as follows:- The use of force and the law of armed conflict - Reframing sovereignty: the responsibility to protect- Regulating the global arms trade- Targeted killing- Enforcing the prohibition against torture- Border conflicts and colonial legacies in international law
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW847 - World Trade Organisation (WTO) Law and Practice I
+
+
+   
+    The establishment of the WTO on 1 January 1995 has signalled the beginning of a new era in international economic relations. Unlike the GATT, whose main purpose was the reduction of barriers on trade in goods, the WTO legal regime reach deeper into more areas of policy-making, ranging from the regulation of services and investments to the protection and enforcement of intellectual property rights. Furthermore, through its Dispute Settlement Understanding (DSU) the WTO has the capacity to generate case-law on the resolution of disputes under the WTO agreements that it covers. This marks a significant shift from the earlier GATT dispute settlement mechanism as it creates, for the first time on the multilateral level, a binding decision-making apparatus. Thus any serious attempt to understand the nature and development of international economic law requires a careful and detailed study of the WTO and its law and practice. It is the cornerstone of the new global economic order. This module offers a comprehensive overview of this evolving legal and regulatory order.Topics covered1.  Theoretical and Political Approaches to International Economic Regulation of Trade; the main actors: states, multinational enterprises, civil society and NGOs2.  Free Trade Theory and Practice3.  The Institutional Context: the Bretton Woods System, the GATT and the WTO4.  The WTO and developing countries: GATT preferences and WTO Special and   Differential Treatment5.  The Dispute Settlement Understanding6.  Trade in Agriculture7.  Trade in Services8.  Trade Related Aspects of Intellectual Property Rights9.  The rise of 'mega-market' trade agreements10.  Alternative trade arrangements
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW927 - Law and the Humanities 1: Ethos and Scholarship (Intensive Delivery)
+
+
+   
+    This module provides students with a solid grounding in law and the humanities, a distinct approach to law that draws upon disciplines like political theory, literature, film studies, history and social theory. The module familiarises students with key questions in the field, provides training in humanities methods in relation to law, and equips students with a clear and rigorous approach to all their present and future academic work. No special knowledge or experience of any particular discipline is required to undertake the module. The module is organized around three main questions; Part one interrogates what is distinctive about law and humanities research methodology by considering the relation between the scholar and their object of study. We ask how the humanities consider this problem, with attention to the special case of law and the legal tradition. Students will find this helpful in thinking through their own relationship with topics of interest in their research.Part two will consider the notion of "critical" scholarship, by asking the question of what legal scholarship can do, or what it is for. Students will have the opportunity to reflect on critical scholarship's function in relation to key questions of politics, ethics, and justice. Part three takes up the theme of responsibility. What options does current scholarship offer for thinking about the responsibility of the scholar? Can humanities-based approaches to law offer a distinctive answer to the question of the scholar's responsibility, or to whom (or what) they might be responsible?Considering law in relation to the textual tradition broadly understood, this module emphasizes the skills of reading, critical analysis, writing and argument-making across a range of different texts, cultural media, and legal questions. There will be a practical focus on producing well-crafted and supported arguments. The module will help students to develop an incisive paradigm for their dissertation in the final stage of their masters programme, whatever its disciplinary orientation might be. Where possible, the module will encourage students who are interested in further academic study to produce assessment that could be shaped for publication with a suitable journal in the field of law and the humanities.
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW871 - Policing
+
+
+   
+    This module offers a critical study of policing from historical, legal, political and social perspectives. It focuses primarily on policing in the United Kingdom, with other appropriate jurisdictions (including the European Union) being used for comparative purposes. Topics covered include: History of the structure, organisation and concept of the police Ethical and legal principles underlying policing as well as the implications for policing of the European Convention on Human Rights The different functions of policing Police culture Police powers and procedures Public order policing Police governance and accountability Cross-border police co-operation Private policing
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW810 - International Law on Foreign Investment
+
+
+   
+    This module explores the legal implications (practical and theoretical) of foreign direct investment. Attention is paid to the perspectives of states, investors, civil society actors and theorists; and to placing legal implications in their economic, social, political and historical context. Questions considered include:  What political, economic and legal actors and factors have shaped the international law on foreign investment? What are the legal implications of the fact that most foreign investments are made by corporations? What roles can host state legal systems play in attracting and regulating foreign investments? What international legal mechanisms are used to enable foreign investment? What challenges do current concerns with corruption and tax evasion pose to existing international law on foreign investment?
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW852 - European Environmental Law and Policy
+
+
+   
+    This module provides an overview of the policy and legislation of the European Union in relation to the environment and ecological protection, with particular sectors considered in more detail in other environmental modules. The overall purpose of the module is to appreciate the significance of European Union law as a system of regional international law seeking to harmonize the national laws of the Member States according to common principles of environmental regulation. An initial focus is upon foundational issues including the nature of the European Union, basic principles of European Union environmental policy and law, and problematic issues such as the tension between free trade and environmental protection. Attention is also given to particular examples of environmental measures, with some discussion of how these are implemented in national law. Finally, discussion is provided as to recent and forthcoming developments at European Union level, including critical issues of participation, implementation and enforcement, at European Union and national levels.Topics covered introductory session: a scan of the module the evolution of European Union environmental competence fundamental environmental objectives of the European Union the basis for substantive environmental legislation reconciling environmental protection and trade  substantive European Union legislation on waste regulation environmental information and participation alternative strategies in environmental regulation the implementation and enforcement of environmental legislation
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW862 - Death and Dying
+
+
+   
+    This module aims to explore how the law is involved in matters to do with death and dying.Topics Covered legal definitions of death the practical and ethical difficulties associated with death and the dying process the care and needs of the dying euthanasia and clinically assisted death and their implications the role of living wills, advance directives and clinical judgement the role of patient autonomy in relation to death and dying
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     LW864      - Foundations of the English Legal System
+
+
+     
+      This module is intended to provide a deep grounding in the prerequisites for understanding a body of law in its theoretical, legal, ethical and practical contexts in order to provide them with the skills required for postgraduate legal study. The socio-legal, ethical, and professional aspects of medical law and ethics in context will be drawn upon as a focus to demonstrate how to acquire and apply the requisite skills. Students will be provided with research training tailored to the requirements of postgraduate legal scholarship. They will gain practice in evaluating theoretical frameworks presented to them in scholarly commentary in order to use them as analytic tools in their own written work. Students will be challenged to critically examine legal texts such as sources of English common law, together with scholarly commentary, in order to hone their abilities to construct reasoned arguments and to choose appropriate theoretical frameworks in their written assessments at postgraduate level.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW921      - Privacy and Data Protection Law
+
+
+     
+      The module will explore emerging privacy and data protection issues, including Big Data, CTV surveillance, Internet and cyber surveillance, and cross-border information flows, legal structures and privacy protection measures. Students will be challenged to critically examine how personal, financial, health and transactional data are managed and who has access to this information.  It will require students to assess emerging legal, regulatory, data protection and personal privacy issues raised by widespread access to personal information, including genetic data. The module will focus on the legal data protection, human rights, consent, confidentiality, and IT data security questions that arise when personal information is accessed by the state, law enforcement agencies, corporations and business, employers, health clinicians and researchers.The essential aims and objectives of the proposed LLM module are to equip students to undertake a sustained analysis of privacy and data protection law. Students will be asked to critically examine whether privacy protection, consent and confidentiality measures are proportionate to the legal requirements to protect personal information while balancing the requirements of economic commerce, the state and public administrations to collect, use and share personal information.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW923      - Economic Sociology of Law
+
+
+     
+      What causes us to forget that 'the economy' and 'the law' are made up of interacting human beings? Why does it matter? These are questions that are relevant to every person in every country. They are the questions that motivate the emergent field of Economic Sociology of Law (ESL), which takes sociologically-inspired approaches to relationships between the 'economic' (the production, distribution and consumption of goods and services) and the legal (the use, abuse and avoidance of legal rules and institutions). In this module we systematically (that is, addressing the analytical, empirical and normative components) explore the limitations of orthodox legal and economic approaches, and examine how Economic Sociology of Law might compensate for them. There is a strong practical and empirical emphasis, and examples are drawn from current events and policy from all over the world. Questions considered include:  Where do the concepts of economy, law and society come from? What do they signify? Are they uniformly accepted? Mutually exclusive? What are the substantive focus of legal, sociological and economic approaches to law and economy? How do these disciplines (conceptually and empirically) approach legal rules, institutions and practices? Why  in pursuit of what values and interests  is it useful to take any of these approaches to law?Emphasis is likely to be placed on the property rights and transaction costs, formality and informality, markets and market failure, state intervention and regulation and corruption.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW839      - Environmental Quality Law
+
+
+     
+      This module provides an introduction to the law on environmental quality and a preface to regulatory themes that are pursued in other environmental modules. In common language, the module is about the law relating to 'pollution', but, as will be seen, this is a concept that is quite difficult to define with the precision that is needed as a basis for legal rights and duties. 'Environmental quality' is a broader term, encompassing issues as to the degree of contamination that is considered acceptable in relation to the three environmental media of water, air and land. Broadly, the module is organised around the progression of approaches that law has taken towards the regulation of those activities that have been identified as most damaging to the environmental media. Although, this involves careful examination and evaluation of national laws relating to pollution control, attention is increasingly focused upon regulatory requirements drawn from European Union and international law. The module seeks to assess different models and strategies for environmental quality regulation against broader objectives for the environment in reflecting upon what it is that is to be regulated, and why, and whether actual approaches to regulation are the best way of achieving this.  Topics coveredSession 1: Objectives of environmental quality lawSession 2: Environmental quality and private rights Session 3: Environmental liability and environmental human rightsSession 4: Water quality regulationSession 5: Air quality law Session 6: Waste management lawSession 7: The Integration of pollution controlSession 8: Enforcement and the Environment Agency
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW814      - Public International Law
+
+
+     
+      This module provides a detailed study of the history, rules, doctrines and institutions of public international law. It offers a critical analysis of the international legal order and a firm basis upon which to found arguments concerning the political importance of international law. The module pays special attention to the way in which the evolution and operation of the international legal order influence not only international relations, but also daily domestic life.At the end of the course students will be able to assess, both internally and in context, the main the rules, doctrines and institutions of public international law. Students will also develop the necessary tools to reflect critically on some of the most important problems and tensions that define the contemporary global order: from calamities resulting from war, international interventions and surveillance strategies in countries like Afghanistan, Libya and Pakistan, to the everyday effects of increasing socio-economic disparities and environmental decay in both the Global South and the Global North. The teaching, discussions and readings in the module will equip students both with a doctrinal understanding of public international law, and with an approach to the field that is grounded in a Critical, Socio-Legal and Law and Humanities perspective.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW815      - EU Constitutional and Institutional Law
+
+
+     
+      This module focuses on the foundational rules, principles and doctrines underpinning the constitutional and institutional legal framework of the European Union. Against the backdrop of financial turbulence within the Eurozone and the recent structural reforms to the Union introduced by the 2007 Lisbon Treaty, this core area of EU law has gained heightened political and legal significance in the context of on-going debates on the nature and extent of European legal integration.  The following specific topics will be considered in this module: the respective roles, competencies and powers of the EU's main political and judicial institutions; foundational legal principles underpinning the EU's legal framework including direct effect and supremacy of Union law; the relationship between the EUs Court of Justice and national courts of the Member States; enforcement mechanisms of EU law; human rights in EU law  and the impact of EU Citizenship. In addition, at the end of the module students will have an opportunity to take stock and appraise the 'constitutional nature and impact of the Union.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW905      - International Financial Services Regulation
+
+
+     
+      This module is about the regulatory regimes that govern financial sectors of the economy. It focuses on the very recent history of regulation in this field and it examines domestic and international aspects of how states and societies enact and perform regulation of financial firms and transactions. The module is built around three inter-related elements:  Development of the New International Financial Architecture (NIFA), a set of institutions, standards and processes that have been established during the last ten years to increase the stability of financial sectors globally, particularly in the so-called "emerging economies", and to expand markets for the services and products of financial firms. This element of the module will entail study of (a) the construction of economic crises of the 1990s as a threat to the global economic order; (b) the creation of new international groupings and institutions, (eg., the Financial Stability Forum and the G-20) and new roles for older institutions (e.g. surveillance by the IMF and the World Bank Group through the Financial System Assessment Program) to address the threat, (c) regulatory technique in the international arena, including standard setting, harmonization and compliance, and other dimensions of governance through soft law.  Relationships between the NIFA and the changing modes of governing domestic financial sectors: This element of the module will entail study of (a) the emergence of integrated financial sector regulators in many jurisdictions; (b) interaction between the domestic / regional and the international spheres in response to concerns about financial instability, risk and 'contagion'. (Relevant responses include implementation of Basel II, the Lender of Last Resort, and the development of international standards of insurance supervision); and (c) comparative analysis of the market governance regimes established by integrated regulators in terms of their capacities to protect domestic consumers of financial services.   Critical analysis of scholarly and policy literature on regulation of the financial sectors. This element of the module will entail reflective assessment of how authors of literature on financial sector regulation execute the craft of research by reference to factors such as linkages to relevant literatures, originality of authors' claims, strength of argument and analysis of data.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW906      - International Enviromental Law - Legal    Foundations
+
+
+     
+      This module is designed to examine and assess the core foundational legal principles and regulatory structures underpinning international environmental law and policy.  Specifically, it considers the various core sources of international law relating to the environment, the principal international institutions involved in its development as well as legal issues involved relating to its implementation and enforcement. Whilst specific topic areas may vary according to the pedagogical preferences of the module convenor, indicatively the module may be expected to cover all or most of the following topic areas which address key aspects of the legal foundations of international environmental law:   Historical context and development of international environmental law   Legal sources: (1) sources and structures of public international law; legal instrumentation; (2) general principles of international environmental law; (3) international human rights and the environment   Institutional issues: the role of international organisations, states and non-governmental actors in international environmental law's development, the legal relations between the EU and the international community in the environmental sector    Implementation and enforcement (1): the role of public institutions at international level (responsibilities of states and the role of international institutions); (2) the role of private persons and access to environmental justice under international environmental law   Selected case study: eg, international law on climate change or waste shipment.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW908      - International and Comparative Consumer Law   and Policy
+
+
+     
+      Consumer law is a significant area of business regulation in many parts of the world. The EU has developed an ambitious programme of harmonization, provides intriguing approaches to transnational governance of markets, and competes as an international model of consumer law with models such as the US. Standards for consumer products and services are increasingly established at the international level through "private" bodies such as the International Standards Organization (ISO)The module is structured as follows:    An introduction to the rationales for and explanations for the growth of consumer law and policy at the national and international level.  An introduction to transnational, comparative and international dimensions of consumer regulation and relevant institutional structures.   Contemporary EU consumer law and policy. This section provides an analysis of the nature and structure of consumer policy and consumer law in the EU through an analysis of selected areas which may include unfair commercial practices; product safety; internet regulation; unfair contract terms: and consumer credit. We  consider central ideas institutional structures, and implementation mechanisms set against the background of contemporary approaches to regulation in the EU. Critical analysis of international, regional and national regulation of consumer credit and debt.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW837      - Conservation and Natural Resources Law
+
+
+     
+      The conservation and sustainable use of living natural resources or biodiversity represents a key element in securing the overarching environmental policy objective of sustainable development.  Globally, the protection of the world's endangered species, habitats and ecosystems is becoming an ever more urgent task.  The module traces the historical progression from approaches based on property rights, welfare based legislation to more genuinely conservation oriented laws.  From early national legislation concerned with the direct protection of wildlife and the protection of ecologically important habitats the module turns to look at ecological law from broader European Union and global international perspectives.  Discussions of the EU Wild Birds and Habitats Directives, and the Biodiversity Convention  are used to illustrate some of the key legal features in biodiversity conservation law.  Concluding sessions examine the international trade dimension of conservation law and the protection of fishery resources.  The module explores some of the challenges of regulating and managing dynamic ecosystems and the implications of regulation for landholders and those engaged in wildlife exploitation.  Topics Covered The Legal Status of Natural Resources  The Direct Protection of Species and Institutional Responsibilities The Protection of Habitats The European Union Wild Birds Directive The European Union Habitats Directive Implementation of European Union Conservation Legislation International Trade and Nature Conservation The Tragedy of the Commons: Fisheries Resources
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW838      - Land Development Law
+
+
+     
+      The regulation of land development and land use is a key element in the legal response to the need to protect the environment and to secure broader environmental policy objectives such as sustainable development and the enhancement of biodiversity.  Development places perhaps the greatest stress on natural resources and environmental quality. In many legal systems the decision to grant development consent is critical. This module considers the role of strategic and specific planning controls in preventing and mitigating environmental harm.  This module provides discussion of private law forms of land use control and of current debates in property law about restraining owners' rights because of social constraints such as environmental protection, and also the impact of human rights laws which seek to protect property rights from undue state interference. There is a strong emphasis on those legal forms which are found both internationally and across jurisdictions, in particular environmental assessment.  Particular attention is given to the European Union Environmental Impact Assessment Directive and the Strategic Environmental Assessment Directive, and the difficulties in implementing these that have arisen in the member states.  Topics Covered Private Control of Land Development  Public Law Origins of Land Use Regulation Land Development and Human Rights Development Planning  Development Control  Planning Conditions and Obligations  The EU Environmental Impact Assessment Directive  Implementation of Environmental Impact Assessment  The EU Strategic Environmental Assessment Directive
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW907      - Commercial Credit
+
+
+     
+      Credit and financing are the lifeblood of capitalism. Commercial credit and the taking of security is an area of law that is of significant economic and social importance in developed and developing economies. The most recent world financial crisis was triggered by failures in debt markets associated with household financing. This module explores central ideas about the role of commercial financing in the economy, its contribution to economic development, different international approaches to legal regulation, international competition between models and the role of legal transplantation.We focus initially in this module on the economic and social role of commercial credit law, its role in economic development and international initiatives to promote reform and harmonisation. The module then considers the central role of security in commercial credit and discusses both English and North American approaches to the regulation of security interests and their treatment in insolvency. The module highlights the fundamental ideas, principles and policies in these contrasting systems. The module then considers the role of Islamic Finance and outlines its basic principles and assumptions and structures of financing. It considers finally the role of microfinance as a case study of the role of credit in development.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW884      - International Environmental Law - SubstantiveLegal Aspects
+
+
+     
+      This module is designed to examine and assess selected substantive legal aspects of International Environmental Law.  For this purpose, the module is divided into two main parts. The first part considers particular sectors of environmental policy that are the subject of international legal regulation and obligations. This will involve an appraisal of how international legal regulation has developed in these areas, taking into account various challenges, legal and political, that have been influential in shaping their respective evolution. The second part of the module focuses on selected legal topics concerning the implementation of international environmental law.  In particular, it will consider various relatively recent developments in international environmental that have served to broaden out participation beyond the level of the nation state as regards the monitoring and enforcement of international environmental protection obligations. Topics covered The module will cover a range of substantive legal aspects of international environmental law (the list of topics may change over time to accommodate legal developments and/or teaching and learning considerations). Indicatively, the module may be expected to cover all/some of the following topic areas: A. Selected substantive sectors of International Environmental Law Atmospheric pollution (1): Air pollution Atmospheric pollution (2): Climate change  Water (1) : marine environment Water (2): freshwater resources Waste management B. Selected aspects of implementation of International Environmental Law Civil society and implementation of International Environmental Law: the impact of the 1998 &Aring;rhus Convention Civil liability and International Environmental Law Criminal liability and International Environmental Law
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW886      - Transnational Criminal Law
+
+
+     
+      In this module we study the main principles, key institutions, policies and politics of transnational criminal law. We explore selected examples of transnational offending and international legal responses thereto in the light of current theoretical, political and doctrinal debates. We consider transnational crimes, and the mechanisms, by which states cooperate with each other and with international institutions in order to enforce their domestic criminal law.  Topics covered The historical development of transnational criminal law The phenomenon of transnational organized crime and jurisdiction over transnational crime Money laundering and terrorist financing Terrorism Drug trafficking People trafficking Extradition and Abduction Mutual Legal Assistance International Police Cooperation
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW888      - Climate Change and Renewable Energy Law
+
+
+     
+      This module examines a range of topics relating to the legal regulation of anthropogenic climate change and the promotion of renewable and other alternative forms of energy generation and conservation.While the module requires introductory coverage of the international context, and explores some of the specific ethical and policy questions that tackling climate change engages, the module does not cover those aspects of the international legal regulation of climate change that are covered in LW906 International Environmental Law: Legal Foundations or any coverage that there may be in LW884 International Environmental Law: Substantive Legal Aspects. The focus is on the EU and national level, and comparative analysis.Topics covered Climate Change as a Policy Problem: the International Law and Policy Context EU Climate Change I: an Overview of the Law and Policy of the EU EU Climate Change II: Controlling Emissions through Traditional Regulatory Forms EU Climate Change III: The EU Greenhouse Gas Emissions Trading Scheme and comparative economic incentive approaches UK Climate Change I: Legal Obligations under the UK Climate Change Act 2008 UK Climate Change II: The Institutional Dimension: the UK Committee on Climate Change Comparative Climate Change Reduction Duties and Proposals: Canada as a case study Carbon Capture and Sequestration: International, EU and national legal Issues Flexibility mechanisms Climate Change Litigation: Liability mechanisms in comparative perspective Promoting Renewable Energy and Energy Conservation: General Legal and Policy Issues, and case study
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW899      - Corporate Governance
+
+
+     
+      In recent years corporate governance - meaning the governance of the large corporations which dominate modern economic life - has emerged as a major area of political and academic interest. Increasing attention has come to be focused, in particular, on the comparative aspects of corporate governance and on the different legal regimes found in different parts of the world, with policy makers striving to determine which regimes are most likely to deliver (so-called) `efficiency' and competitive success. In this context much has been made of the differences between shareholder-oriented, Anglo-American governance regimes and the more inclusive (more stakeholder-oriented) regimes to be found in certain parts of continental Europe and Japan. One result is that the increasing interest in corporate governance has re-opened old questions about the nature of corporations, about the role and duties of corporate managers and about the goal of corporate activities and the interests in which corporations should be run.This module will explore these debates. More generally, the question of corporate governance has become entangled with other important debates, most notably that surrounding the merits (or otherwise) of different models of capitalism: Anglo-American regimes are associated with stock market-based versions of capitalism, while European regimes are associated with so-called welfare-based versions of capitalism.The question of corporate governance has, therefore, become embroiled with debates about the morality and efficiency of different models of capitalism. These too will be explored in this module.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW843      - International Human Rights Law
+
+
+     
+      This module is designed to enable postgraduate students to obtain both essential knowledge of and critical insight into, issues relating to international human rights law. Human rights occupy an extremely important place in contemporary discussions about law, justice and politics at both the domestic and the international level. Across all spheres of government, bodies of law and, pretty much, in every single social mobilization, human rights are invoked and debated. This module approaches the key place occupied by human rights in the contemporary world from an international perspective. The module aims to link the international origins of human rights and the main human rights systems, with the actual practice of human rights. Particular attention is paid in the module to the value, as well as the limits of human rights when they approach, or try to address the problems and the aspirations of five important 'subjects': the Citizen, the Refugee, the Cultural Subject, the Woman and the Poor.The module is organized around lectures and seminars delivered by the convenor, as well as lectures given by invited guests speaker. Guest speakers will explore in their lectures how they have approached in their research and practice the five 'subjects' mentioned above (ie, the Citizen, the Refugee, the Cultural Subject, the Women and the Poor). Emphasis is placed on maximum student participation during seminar discussions for which students will need to prepare. Students are encouraged to develop a critical perspective in light of historical and socio-economic backgrounds.Similar to the module public international law, the teaching, discussions and readings in the module will equip students both with a doctrinal understanding of international human rights law, and with an approach to the field that is grounded in a Critical, Socio-Legal and Law and Humanities perspective.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW916      - European Union International Relations Law
+
+
+     
+      This module explores the external relations law of the European Union with third countries and international organisations. This is an increasingly important area given that the EU has evolved into the largest regional trading and political bloc on the world stage. Having focused initially on developing a common trading policy with the international community, since the early 1990s the EU has steadily broadened the range of its powers to be able to engage in political as well as military issues on the international scene. A significant milestone was the formal establishment of the EU's Common Foreign and Security Policy by the Maastricht Treaty in 1993. More recently, the Lisbon Treaty 2007 further enhanced the EU's role in foreign affairs through a series of institutional changes and innovations, notably including the introduction of the 'External Action Service', which is the EU counterpart to national diplomatic services, and the Unions High Representative for Foreign Affairs and Security Policy. The module will critically explore the following aspects in particular:  1. The institutional and core legal framework of EU external relations law, including the division of competences between the EU and the Member States, the impact of human rights in EU external relations and the expansion of the EU powers over time;2. Selected specific policy areas, such as the Common Commercial Policy, the Common Foreign and Security Policy, and the external dimension to EU environmental policy, along with their different (and sometimes conflicting) objectives and underlying political perspectives. The module will also foster a contextual, interdisciplinary and critical approach to studying the subject, with reference to political science literature on the effects of EU external policies.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW918      - International and Comparative Bankruptcy and Insolvency Law & Policy
+
+
+     
+      Bankruptcy and Insolvency law has become a central aspect of commercial law. The restructuring of capitalism since the 1970s, the growth of neo-liberalism, the increased use of debt financing by both firms and individuals, and the volatility of the international economy have contributed to its international importance. The World Bank views a 'modern' insolvency law as central to the development infrastructure, it is linked to fostering entrepreneurialism as well as providing a safety net for individuals in a high debt economy. This course provides a critical introduction to central issues in business and personal insolvency. Topics covered1. Theories of insolvency law.  2. The English model: Central issues in insolvency law: The role of secured credit in bankruptcy law. Liquidation and reorganization.3. The North American model: Chapter 114. Personal Insolvency5. Cross-border and international insolvency6. The future of bankruptcy in an age of austerity
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW924      - EU Criminal Law and Procedure
+
+
+     
+      This module offers a critical study of the origins, principles, concepts and practices of European Union criminal law and procedure from historical, constitutional, legal, political and social perspectives. It also addresses how national criminal law and procedure (especially that in the United Kingdom) are being shaped by developments at EU level, and explores the emergence of a distinct EU criminal process. Topics covered Origins and development of criminal law and procedure; Law and policy making processes; Europol and cross-border police cooperation; Cross-border evidence gathering; European arrest warrant; European Public Prosecutor; EU criminal law measures in areas such as: money-laundering, organised crime and terrorism; Protection of human rights; Relationship with developments in international criminal law; and  Historical, political, legal, cultural, social and criminological forces driving and shaping developments in EU criminal law and procedure.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW925      - Cultural Heritage Law
+
+
+     
+      Cultural heritage law has developed as a distinctive legal topic in the last thirty years to regulate the widening concept of heritage which started with the protection of historical monuments in the 19th century and now includes intangible values.This area of law considers a developing jurisprudence that involves international treaties, laws, ethics, and policy consideration relating to the heritage. Academic research now aims to identify values and principles that contribute to a fair and equitable cultural heritage policy. It addresses the essential question of the need to change the law to accommodate the specific needs of protection of cultural heritage/cultural property. It aims to give coherence to practices shaped by art dealers, collectors, museums, communities and States, as well as a complex body of rules at the intersection of civil law, property law, criminal law, public law, private international law and public international law. Those different interactions have developed a less than coherent legal framework that will be comparatively analyzed by reference to French, English and American Law.The different topics studies include (but are not limited to): The origins of cultural property and the definitions of cultural heritage  The development of a national and international framework of cultural heritage law (with an emphasis on the role of the European Union and of UNESCO), including the protection of cultural heritage in time of war as well as the international trade of cultural property in time of peace (private international law and International conventions on the transfer of ownership of stolen art and illegally exported items) Dealing with the past: the reversal of historic wrongs (including human remains and World War II spoliation)  The role of Alternative Dispute Resolution in cultural heritage disputes The role of the State and of Museums in the creation/implementation of cultural policies
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW922      - Labour Rights in a Global Economy
+
+
+     
+      The 'new global economy' (global integration of production and increased migration, digital and informational technologies, transformations in work and production processes, the shift to services, and the informalisation of work) has undermined the pillars upon which labour law was constructed after World War II in developed capitalist economies.  Moreover, contrary to expectation, informal work has not diminished in emerging and developing economies, and has, in fact, increased. In this context, a new strategy for achieving labour standards and protecting workers has emerged. Labour rights are now conceptualised as a species of human rights and they are asserted before various international, transnational, and domestic human rights bodies and courts. The focus of this module will be on international and transnational norms and institutions, and their interaction with national/domestic labour regimes.  We will consider changing forms (from labour standard to labour rights and hard to soft law) and scales (national to transnational and international) of regulation, the changing 'subjects' of labour law (women, migrant workers, 'solo' self-employed), and the changing goals of labour law (flexibility and competiveness versus security and protection). Labour rights will be placed in their social, economic, and political context.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW863      - Consent to Treatment
+
+
+     
+      This module aims to explore the legal principles which underpin the need for consent to medical treatment.Topics covered salient principles such as the respect for autonomy the entitlement to informed consent the criteria for competence and capacity  the consequences of incapacity for minors and those adjudged to be incompetent the criminal and tortuous consequences of treatment without consent limitations on consent
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW811      - International Commercial Arbitration
+
+
+     
+      The aim of the module is to focus on the theoretical, institutional and practical aspects of modern international commercial arbitration. This would involve a close examination of the ad hoc systems and the main institutional structures (eg, ICC, ICSID, WIPO, Iran-US Claims Tribunal, and PCA). The module covers current issues and developments relating to international commercial arbitration including: arbitral jurisdiction; applicable procedural and substantive laws; the status and role of arbitration agreements; the conduct of arbitral proceedings; the arbitral award; challenge, recognition and enforcement of award; and online arbitration/online dispute resolution (ODR). The English Arbitration Act 1996 and the UNCITRAL Rules as well as the UNCITRAL Model Law will be examined closely. The course will also critically examine the relationship between international commercial arbitration and international development law as well as aspects of the international commercial arbitration concerning sovereign states in oil and gas disputes. Comparative study will be made of the emerging commercial arbitration legislation and international arbitral practice of certain developing states such as Nigeria, India and China. The course also aims to provide an appreciation of the similarities and contrasts between the work of international arbitral institutions and the work of international courts such as the International Court of Justice in commercial and economic matters.Topics covered The Concept of Alternative Dispute Resolution (ADR) and International Commercial Arbitration The Applicable Procedural and Substantive Law of Arbitration/ Arbitration Clauses and Submission Agreements Arbitration in the resolution of Oil and Gas and Energy Disputes Establishment and Organization of Arbitral Tribunal Powers, Duties and Jurisdiction of an Arbitral Tribunal Public Policy in International Commercial Arbitration Trends and Developments in the International Arbitral and Adjudicatory Practice of Energy Disputes   The Arbitral Award and Its Drafting
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW813      - Contemporary Topics in Intellectual Property Law
+
+
+     
+      This module introduces in detail some of the most acute and pressing current problems in intellectual property, such as copyright and piracy in visual arts and music, justification for patents and their effects on scientific knowledge production, and the effects of logos and brands in capitalist symbolic economy. Steering away from often crudely conducted debates, this course aims to provide students with a deep and nuanced understanding of legal internal ways of thinking about intellectual property by introducing them to wider theoretical debates in humanities and social sciences about intellectual properties. The aim is to enable students to form a differentiated assessment of intellectual property law's effects and limitations. Topics to be explored may include:- What is original?  Does quoting or paraphrasing in literature or art amount to copying?  Does free knowledge go hand in hand with precarious labour in knowledge industries? What are the modes of intellectual credit? Are there other forms of credit than property? What is the 'intellectual' in intellectual properties?  How do you draw contours around intangible knowledge?  Can nature be patented? Do patents turn human persons into things? Is enforcing patents on pharmaceuticals in developing countries just?  Do trademarks commodify language?Readings will be drawn from the multi-disciplinary scholarship on intellectual properties, including anthropology, history, science studies, economics and social theory.Prior attendance of LW 801 Intellectual Property Law in autumn term is welcome, but not a prerequisite. No prior knowledge of study of patent, copyright or trademarks law is required. Interested students from various disciplines are welcome, subject to prior agreement.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW928      - Law and the Humanities 2: Current Issues (Intensive Delivery)
+
+
+     
+      This module presents students with a selection of the most important contemporary debates in the field of law and the humanities. Drawing in any one year from a range of current issues in the field, the module addresses a larger set of themes situated at the intersection between the humanities and law. These themes include: textuality, performativity, representation, memory, iconography, tradition, the archive, rhetoric, aesthetics, and affect. The module therefore encourages a deeper understanding of law's relationship to humanities disciplines such as literature, visual culture, history, language, and political and social theory.In synthesizing the intellectual heritage of law's traditions, institutions and pragmatics with the theoretical and methodological richness of the humanities, the module provides students with both a critical appreciation of the impact of humanities scholarship on law and a clear sense of what the study of law contributes to the humanities. By emphasizing this cross-fertilisation, the module strengthens students intellectual, analytical, critical and imaginative capabilities, whilst cultivating specific learning skills including critical reading, effective writing and argument-development. This training will help students to create an effective framework for their final dissertation, whatever its disciplinary orientation. Where possible, the module will encourage students who are interested in further academic study to produce assessment that could be shaped for publication with a suitable journal in the field of law and the humanities. The module provides an intellectual space in which students will become acquainted with a range of theoretical perspectives and methodologies, and nurtures a more rigorous approach to their present and future academic engagement and research. However, no special knowledge or experience of any particular discipline is required in order to take this module.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW846      - International Humanitarian Law and International Criminal Law
+
+
+     
+      This module provides a critical examination of the principles and institutions and theory and practice of international criminal law, an expanding sub-field of international law that has been used as a new form of security governance. The module examines theories of transitional justice, the establishment and operation of international criminal justice institutions, and the substantive law of international crimes. In particular, it seeks to locate the work of international criminal courts and tribunals in their broader political contexts. Case studies and special topics in international criminal law, form an important part of the module. Topics covered  Introduction to International Criminal Law International Criminal Institutions Jurisdictional issues State Co-operation The Defence, Witnesses and Victims International Criminal Court Crimes against Humanity Genocide War Crimes Aggression Modes of Liability  Political and Contextual Considerations
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW866      - Medical Practice and Malpractice
+
+
+     
+      This module seeks to provide the student with an understanding of the legal, ethical and practical issues involved in medical practice and malpractice. Those issues will be explored from the ground up and will provide all students a full opportunity, regardless of their knowledge of law, to get to grips with the fundamental principles of practical legal analysis from a fault-based perspective. In so doing, the legal and institutional contexts within which the many duties of medicine operate will be subjected to a detailed critical analysis.Essentially, this module will link the multifarious medical legal theories to the realities of medical negligence and litigation; thereby affording the student a practitioner based insight into how modern medicine interacts within current legal practice.Topics Covered the legal relationship between the practitioner, the patient and the NHS analysis of the legal and evidential burdens in medical negligence complaints and discipline procedures for healthcare professionals courts and tribunal processes in medical negligence litigation resource allocation constraints legal concepts of risk and recklessness in medical practice the role of money and litigation
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW867      - Reproduction and the Beginnings of Life
+
+
+     
+      This module aims to explore legal and ethical issues in medicine relating to human reproduction and the beginning of life.Topics Covered the moral status of the embryo/foetus abortion the regulation of pregnancy, including liability for antenatal harm childbirth human fertilization and embryology, including embryo research, cloning, human admixed embryos (animal/human 'hybrids'), artificial gametes etc the 'designer baby' debates and selecting the characteristics of future children via pre-implantation genetic diagnosis (including sex selection, selecting for/against disability, saviour siblings). surrogacy
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW8000      - Dissertation in Law (Canterbury)
+
+
+     
+      
+
+
+      Credits: 60 credits
+       (30 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The postgraduate programmes offered within the Law School are usually taught in seminar format. Students on the Diploma and LLM programmes study three modules in each of the autumn and spring terms. The modules normally are assessed by a 4-5,000-word essay. Students undertaking an LLM degree must write a dissertation of 15-20,000 words.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ provide a postgraduate qualification of value to those intending to play a leading role in any field of law
+ provide a detailed knowledge and high level of understanding of a range of specialised subject areas
+ provide more broadly-based communication skills of general value to those seeking postgraduate employment
+ provide a sound knowledge and systematic understanding of the institutional structures, key principles of law and policy and particular contexts in which law operates
+ provide a degree of specialisation in areas of public international law of individual interest from among the wide range of LLM/PDip options that are available and which require you to engage with academic work which is at the frontiers of scholarship
+ encourage you to develop a critical awareness of the operation of public international law, particularly in contexts which are perceived to be controversial or in a state of evolution
+ provide you with the skills to undertake supervised research on an agreed topic in law and to encourage the production of original and evaluative commentary that meets high standards of scholarship (applies to LLM only)
+ encourage you to develop critical, analytical and problem-solving skills which can be applied to a wide range of contexts
+ develop your skills of academic legal research, particularly by the written presentation of arguments in a manner which meets relevant academic conventions
+ assist those students who are minded to pursue academic research at a higher level in acquiring a sophisticated grounding in the essential techniques involved by following a specialised module in research methods (applies to LLM only)
+ contribute to widening participation in higher education by taking account of the past experience of applicants in determining admissions whilst ensuring that all students that are admitted possess the potential to complete the programme successfully.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ the institutions and structures of public international law and the inter-relationships between them
+ the key concepts, policy issues, principles and relevant sources of law and policy
+ the substantive law relevant to a range of key areas of law and policy
+ the theoretical, social and academic debates which underlie the substantive areas of law
+ the practical contexts in which the law operates
+ the importance of evaluating public international law alongside its theoretical and practical contexts
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ effectively applying the knowledge of law and policy to a wide range of situations where relevant practical or theoretical issues are under consideration
+ evaluating issues according to their context, relevance and importance
+ gathering relevant information and accessing key sources by electronic or other means
+ formulating arguments on central issues and areas of controversy, and the ability to present a reasoned opinion based upon relevant materials
+ recognising potential alternative arguments, and contrary evidence, to your own opinion and presenting a reasoned justification for preference
+ demonstrating an independence of mind and the ability to offer critical challenge to received understanding on particular issues
+ an ability to reflect constructively on your learning progression.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ an awareness of the limitations of present knowledge and matters needing to be resolved by further research
+ the ability to identify and characterise issues of law which arise in practical situations
+ the ability to research and access the main sources of law and policy which are relevant
+ the ability to appreciate and evaluate the main theoretical and political perspectives that underlie the legal provisions
+ the ability to provide a reasoned and justified opinion as to the possible legal consequences in particular circumstances
+ the ability to utilise research skills, at least, to commence further research into unresolved issues.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the ability to identify relevant issues from potentially complex factual situations
+ the ability to undertake research from a diverse range of sources
+ the ability to summarise detailed and complex bodies of information concisely and accurately
+ the ability to formulate arguments in verbal presentations and defend these against opposing views
+ the ability to present information and arguments in written form, in accordance with academic conventions, and appropriately to the intended readership
+ the ability to evaluate personal performance. 

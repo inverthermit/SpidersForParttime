@@ -1,0 +1,424 @@
+Course structure
+
+
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   PL821 - Medical Humanities: An Introduction
+
+
+   
+    Medicine is one of the great human activities.  It has a rich and deep history, and it has both created challenges for humans and solved many of our problems.  Various academic subjects  such as History, Archaeology, Literature, Philosophy, Law and Drama  have interesting perspectives on medicine.  For example, through an appreciation of some of medicines history one can see the tensions that may exist between the scientific spirit and the demands of a society.  Similarly, medical science creates interesting ethical and legal problems, both for society at large and for medical practitioners.  In this module students will study various topics about medicine through the eyes of a number of academic disciplines.  Students will also come to appreciate the different styles of thought and investigation peculiar to individual disciplines.  Whilst each topic will be dealt with on its own terms, there will be a key theme which will be explored in the module, e.g. The Humanites contribution to Medical Practice, Illness, The Medical Practitioner, Medicine and society, etc.An overarching theme and idea in this module, and the programme, is that a multidisciplinary approach through the Humanities is a highly illuminating way to appreciate medicine.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   HI817 - Deformed, Deranged and Deviant
+
+
+   
+    From those viewed as medical marvels in the nineteenth century to questions surrounding quality of life in the late twentieth century, the course explores the continuities and changes in the relationship between medical science and difference.  Between the eighteenth and nineteenth century, and into the twentieth, the increasing influence of medical practitioners ensured that disability, deformity, disfigurement and mental illness were categorised through a medical perspective. Categories about the acceptability of physical and social norms were constructed from the eighteenth century, indeed, the term normal was not commonly used in the English language until the 1840s. In the nineteenth century, the growth of capitalism and the concentration on industrialization, excluded those deemed different from the workplace and the community as they were not judged to be economically useful. In addition, philanthropic gestures which grew in the nineteenth century, saw people who were categorised as different, moved from mainstream society into institutions, which were often supported by the medical profession. Medical practitioners and the general public were fascinated by difference in body and mind, and often those considered different were observed, studied and experimented on. The influence of medical practice grew in the twentieth century and the course will explore this in relation to (amongst others) the two World Wars, the growth of special institutions and new types of therapy. Overall, the course will investigate the ways that medicine has understood, categorised and treated those whose body or behaviour was considered different. It will also examine the body and mind as contested sites; spaces occupied by those considered different; the establishment of normality versus deviance; the changing conceptions of difference in this historical period and the shifting theories and methodologies of medical practice in relation to it. Topics include:The history of anatomyIdiocy and feeblemindednessMadness The development of forensic scienceMurderDying and the rituals of deathAgency, freakery and the politics of displayHomosexuality as devianceMadness and mental health
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EN835 - Dickens, The Victorians and the Body
+
+
+   
+    This module explores the Victorians' fascination with the body and its metaphors.  Using the works of Dickens as its principal lens, the module will explore notions of disease, infection, health and illness in the national body, the social body and the biological body.  Engaging with debates on laissez-faire economics, prostitution, nationalism, and anxieties concerning sexual and fiscal production, this module will explore how authors, thinkers and artists of the nineteenth century worked through ideas about the body in Victorian culture.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   PL806 - Special Topics II
+
+
+   
+    This module may be satisfied by a large number of mixed-level modules including, but not limited to: Greek Philosophy, Descartes-Kant, Hegel and Marx, Wittgenstein, Philosophy of Religion, Philosophy of Science, Philosophy of Mathematics, Advanced Topics in Mind and Language, Philosophy of Cognitive Science and AI, Philosophy of Medicine, Philosophy of Law, Aesthetics, Social Philosophy, Political Philosophy, Philosophy of Mind, Normative Ethics, Metaethics, Philosophy of War, etc.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   HI866 - History of Science and Communication
+
+
+   
+    There is no better way to understand how scientific knowledge is made and consumed today than to look at how this happened in the past.  Our examples come from 400 years ago up to the present day, and highlight how changes in the media of knowledge have shaped our understanding of science  printing presses, public lectures, museums and TV. How have audience needs and interests changed during this time, and how has the medium affected the message?  Themes and Topics The printing press and the scientific revolution Cabinets of curiosity: the first museums? Science on display in the 18th century Science and the steam-driven press in the 19th century Science and film in the 20th century Science wars and the public understanding of science in the late 20th century
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   CP813 - Literature and Medicine
+
+
+   
+    This module is designed to introduce students to major works of modern fiction which address medical issues, whether these are foregrounded or incidental. The first part of the module will explore the rise of clinical, observational medicine in nineteenth-century France. The second part will examine literary representations of physical and cognitive disability in a body of twentieth- and twenty-first-century literature spanning several continents. The module will encourage students to reflect on the interface between medical and literary writing, and to contextualize these complex intersections in the scientific and medical writings of a specific period. It will also examine important medical issues such as pharmaceutical practice, mechanical orthopaedic cures, modern hospitalization, life-saving operations, and the role of medical staff in the physiological and psychological recovery of a terminally ill patient.
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW921 - Privacy and Data Protection Law
+
+
+   
+    The module will explore emerging privacy and data protection issues, including Big Data, CTV surveillance, Internet and cyber surveillance, and cross-border information flows, legal structures and privacy protection measures. Students will be challenged to critically examine how personal, financial, health and transactional data are managed and who has access to this information.  It will require students to assess emerging legal, regulatory, data protection and personal privacy issues raised by widespread access to personal information, including genetic data. The module will focus on the legal data protection, human rights, consent, confidentiality, and IT data security questions that arise when personal information is accessed by the state, law enforcement agencies, corporations and business, employers, health clinicians and researchers.The essential aims and objectives of the proposed LLM module are to equip students to undertake a sustained analysis of privacy and data protection law. Students will be asked to critically examine whether privacy protection, consent and confidentiality measures are proportionate to the legal requirements to protect personal information while balancing the requirements of economic commerce, the state and public administrations to collect, use and share personal information.
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EN900 - Illness and Disability in American Culture
+
+
+   
+    
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW862 - Death and Dying
+
+
+   
+    This module aims to explore how the law is involved in matters to do with death and dying.Topics Covered legal definitions of death the practical and ethical difficulties associated with death and the dying process the care and needs of the dying euthanasia and clinically assisted death and their implications the role of living wills, advance directives and clinical judgement the role of patient autonomy in relation to death and dying
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   LW863 - Consent to Treatment
+
+
+   
+    This module aims to explore the legal principles which underpin the need for consent to medical treatment.Topics covered salient principles such as the respect for autonomy the entitlement to informed consent the criteria for competence and capacity  the consequences of incapacity for minors and those adjudged to be incompetent the criminal and tortuous consequences of treatment without consent limitations on consent
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     LW864      - The Foundations of the English Legal System
+
+
+     
+      This module is intended to provide a deep grounding in the prerequisites for understanding a body of law in its theoretical, legal, ethical and practical contexts in order to provide them with the skills required for postgraduate legal study. The socio-legal, ethical, and professional aspects of medical law and ethics in context will be drawn upon as a focus to demonstrate how to acquire and apply the requisite skills. Students will be provided with research training tailored to the requirements of postgraduate legal scholarship. They will gain practice in evaluating theoretical frameworks presented to them in scholarly commentary in order to use them as analytic tools in their own written work. Students will be challenged to critically examine legal texts such as sources of English common law, together with scholarly commentary, in order to hone their abilities to construct reasoned arguments and to choose appropriate theoretical frameworks in their written assessments at postgraduate level.
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW866      - Medical Practice and Malpractice
+
+
+     
+      This module seeks to provide the student with an understanding of the legal, ethical and practical issues involved in medical practice and malpractice. Those issues will be explored from the ground up and will provide all students a full opportunity, regardless of their knowledge of law, to get to grips with the fundamental principles of practical legal analysis from a fault-based perspective. In so doing, the legal and institutional contexts within which the many duties of medicine operate will be subjected to a detailed critical analysis.Essentially, this module will link the multifarious medical legal theories to the realities of medical negligence and litigation; thereby affording the student a practitioner based insight into how modern medicine interacts within current legal practice.Topics Covered the legal relationship between the practitioner, the patient and the NHS analysis of the legal and evidential burdens in medical negligence complaints and discipline procedures for healthcare professionals courts and tribunal processes in medical negligence litigation resource allocation constraints legal concepts of risk and recklessness in medical practice the role of money and litigation
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     LW867      - Reproduction and the Beginnings of Life
+
+
+     
+      This module aims to explore legal and ethical issues in medicine relating to human reproduction and the beginning of life.Topics Covered the moral status of the embryo/foetus abortion the regulation of pregnancy, including liability for antenatal harm childbirth human fertilization and embryology, including embryo research, cloning, human admixed embryos (animal/human 'hybrids'), artificial gametes etc the 'designer baby' debates and selecting the characteristics of future children via pre-implantation genetic diagnosis (including sex selection, selecting for/against disability, saviour siblings). surrogacy
+
+
+      Credits: 20 credits
+       (10 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     CL821      - Ancient Greek Science: Astronomy and Medicine
+
+
+     
+      Ancient Greek concepts of rational science were vastly different from modern perceptions and discipline classifications.  Its foundation was grounded in philosophical discussions that considered the nature of the cosmos and all that existed within it.  This module demonstrates how the subjects were interlinked through a close analysis of the development of ancient astronomy and medicine, from the Minoan to the Hellenistic periods.  It discusses literary, philosophical and archaeological material.  In specific relation to astronomy, the themes to be explored are: the practical needs that led to the development of astronomy (e.g. agriculture, navigation and time-keeping); myths relating to the creation of constellations (catasterism myths); the composition of major astronomical texts and epigraphic material (e.g Eratosthenes, Katasterismoi, Aratus, Phaenomena and parapegmata inscriptions; the role of astronomical knowledge and observations to the development of Greek cosmological and philosophical thought (e.g. Aristotle and metaphysics, Plato, Aristarchus and the first heliocentric theory, Eratosthenes and the measurement of the size of the earth). With regards to medicine, the mythological significance of the Asclepiads will be discussed.  The first half of the module will focus on astronomy. The second half of the module will concentrate on medicine and begin with a discussion of the pre-Socratic philosophers introduction of the theory of the four elements: earth, air, fire and water that were present within everything, including the stars and the body.  From here students will examine how the theory of the four elements was transformed into the humoural system seen in the Hippocratic writings, and developed further through Aristotle and the Hellenistic anatomists.  Consideration will also be given to how the body and health were influenced by environment and astronomy discussed in the first half of the module.
+
+
+      Credits: 30 credits
+       (15 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     PL898      - Dissertation (Medical Humanities)
+
+
+     
+      Students will be asked to devise their own topic and question for their dissertation, with the guidance of an appropriate supervisor and MA Director. This is a student-led module, designed to encourage independent learning, research and thought.
+
+
+      Credits: 60 credits
+       (30 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessments vary across the modules. Typically the main assessment is a 5-6,000 word essay and a dissertation of 12-20,000 words.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ introduce you to a variety of ways in which medical science and practice can be examined within the humanities and social sciences, and to a range of questions and issues that it raises.   In doing so, part of the richness of medical science will be revealed, as well as its problems. The relevant disciplines include history, literature, philosophy and law
+ place the study of various materials (such as texts, images, data, legal judgments, etc) at the centre of student learning and analysis
+ expose you to a variety of methods, writing styles, researching styles, concepts (etc) that are used across a range of academic disciplines in relation to specific topics and questions in medical science and practice
+ expose you to some of the various possibilities and problems that medical science and practice has raised and continues to raise
+ develop your capacities to think critically about past and present events and experiences in relation to medicine
+ encourage you to relate the academic study of medical science and practice to questions of public debate and concern
+ promote a curriculum supported by scholarship, staff development and a research culture that promotes breadth and depth of intellectual enquiry and debate from different Humanities and related disciplines
+ assist you to develop cognitive and transferable skills relevant to their vocational and personal development.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ various medical roles, such as the doctor, the nurse, the patient, the medical scientist, the (medical test) subject, and how these are seen in connection with insights derived from one or more of the various Humanities disciplines
+ various medical concepts, such as disease, illness, treatment, medical trial, health, and how these are seen in connection with insights derived from one or more of the various Humanities disciplines.
+ various moral and legal problems that medical science has raised, and how various societies, codes and laws have been developed to solve and cope with them
+ the history of medicine in different eras, centred on Western medicine but incorporating other traditions also
+ the way in which presentations of medical practice and practitioners in fiction has altered, and the effects on medical practice itself
+ the ways in which different Humanities and related disciplines approach the study of medicine
+ how different people and groups may be biased, for good or ill, when commenting on and presenting aspects of medical practice, and how this affects our understanding of medicine.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to gather, organise and deploy various data from relevant primary and secondary sources
+ the ability to develop reasoned defensible arguments based on reflection, study and critical judgement
+ the ability to evaluate critically current research and advanced scholarship, and to evaluate methodologies
+ the ability to propose new arguments and hypotheses
+ the ability to reflect on, and manage, their learning and seek to make use of constructive feedback from peers and staff to enhance their performance and personal skills
+ the ability to understand and articulate the similarities and differences between the different disciplines&rsquo; approach to medical science and practice.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ an understanding of the social, economic, and cultural history of medicine and relating those to the political and ethical issues of the modern period and their significance within a global perspective
+ a comprehensive understanding of the ways in which philosophers form and argue about problems in relation to medicine
+ a comprehensive understanding of how the law works in relation to medicine and the challenges that the one brings to the other
+ an understanding of fictional and other depictions of medical practice and practitioners
+ evaluate different interpretations, sources and argumentative positions
+ application of methods, concepts and theories used by one or more of the relevant disciplines.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ communication: the ability to organise information clearly, respond to various sources and arguments, present information and arguments orally and in writing, adapt your style for different audiences and disciplines, use images as a communications tool
+ numeracy: the ability to read graphs and tables, integrate numerical and non-numerical information, understand the limits and potentialities of arguments based on quantitative information
+ information technology: produce written documents, undertake online research, communicate using email, process information using databases and spreadsheets where necessary
+ independence of mind and initiative
+ self-discipline and self-motivation
+ the ability to work with others and have respect for others&rsquo; reasoned views. 

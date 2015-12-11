@@ -1,0 +1,457 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme. This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules.
+
+ 
+
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      BI300 - Introduction to Biochemistry
+
+      
+      
+       This module provides an introduction to biomolecules in living systems. It contrasts the simplicity of the basic building blocks (amino acids, sugars, fatty acids and nucleotides) with the enormous variety and adaptability of the different macromolecules they form (proteins, carbohydrates, lipids and nucleic acids). It highlights the nature of the molecular structure of the macromolecules and their interactions within the cellular environment.Lectures:Introduction.  What is Biochemistry?  The chemical elements of living matter.  The central role of carbon and the special properties of water.  The underlying principle in the use of monomers to construct macromolecules.  The nature of weak interactions in an aqueous environment.Nucleic Acids.  Types - DNA and RNA.  Chemical structure, properties of phosphodiester linkage, primary structure.  Nucleic Acids.  Secondary structure - Watson Crick DNA model, A and Z DNA.  Tertiary structure - circular DNA, supercoiling.  Stability of nucleic acids - sugar phosphate chain, base pairing, base stacking.  Biological functions of Nucleic Acids.  Proteins.  Amino acids - structure, classification, properties.  Peptides and peptide bond.  Secondary structure.  Structural proteins.  Tertiary structure - role in function.  Factors determining secondary and tertiary structure.  Quaternary structure.  Protein Function - Myoglobin versus Haemoglobin. Haemoglobin variants.  Subcellular fractionation.  Protein isolation and purification.  Carbohydrates.  Monosaccharides, stereoisomers, conformation, derivatives.  Disaccharides, glycosidic bond stability and formation (a and &szlig;).  Polysaccharides.  Storage (e.g. starch, glycogen), structural (e.g. cellulose, chitin, glycosaminoglycans bacterial cell walls).  Glycoproteins.Lipids: lipids, fatty acids, triacylglycerols, glycerophospholipids, sphingolipids, glycosphingolipids, steroids, waxes. Membranes: lipid bilayers, hydrophobic effect, fluid-mosaic model, membrane-bound proteins. Membrane transport systems: passive transport, ionophores, active transport, double-membrane systems, porin.General techniques in biomolecular science: spectroscopy of small molecules, chromatography and electrophoresis.Practicals:1. Preparation and identification of nucleic acids.2. Analysis of the sugar composition of honey and TLC separation of lipids.3. Chromatographic separation of proteins4. Assessed practical.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI302 - Molecular and Cellular Biology I
+
+      
+      
+       This module introduces you to themes and experimental techniques in molecular biology, genetics and eukaryotic cell biology. It covers basic cell structure, the principles of the cell cycle and cell division, the control of living processes by genetic mechanisms, and techniques for genetic manipulation such as gene cloning, and investigating cell biology e.g. microscopy. Lectures: Functional Geography of Cells:  Introduction to Cell Organisation, Variety and Cell Membranes.  Molecular Traffic in Cells.  Organelles involved in Energy and Metabolism.  Eukaryotic Cell Cycle.  Chromosome Structure & Cell Division.  Meiosis and Recombination.Molecular biology: The structure and function of genetic material. Chromosomes, chromatin structure, mutations, DNA replication, DNA repair and recombination, basic mechanisms of transcription, mRNA processing and translation.  Techniques in Molecular and Cellular Biology:  Methods in Cell Biology - light and electron microscopy; cell culture, fractionation and protein isolation/electrophoresis;  antibodies, radiolabelling. Gene Cloning  vectors, enzymes, ligation, transformation, screening;  hybridisation, probes and blots, PCR, DNA sequencing. Applications including recombinant protein expression, trangenics/knockouts, RNAi, genome projects, DNA typing, microarray and 'omics' studies (genome, proteome, interactome, metabolome etc).Practical: PCR amplification of DNA and gel analysis  Tests:  1 multiple choice test
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI308 - Skills for Bioscientists
+
+      
+      
+       Subject-based and communication skills are relevant to all the bioscience courses. This module allows you to become familiar with practical skills, the analysis and presentation of biological data and introduces some basic mathematical and statistical skills as applied to biological problems. It also introduces you to the computer network and its applications and covers essential skills such as note-taking and essay writing.Topics covered in lectures/workshops:How biosciences is taught at UKC - lectures, supervisions, problem solving classes, practicals.  Effective study and listening skills, note taking and use of the library.  Support networks.General principles of analytical biochemistry - quantitative/qualitative analysis, making and recording measurements.  The quality of data - random and systematic error, precision, accuracy, sensitivity and specificity.  The manipulation and presentation of data - SI units, prefixes and standard form Molarities and dilutions -concentration (molarity) and amounts (moles), dilutions.   Acids, bases and buffers in aqueous solutions - Definition of pH, acid and bases (including a revision of logarithms).  Acid-base titrations.  Buffer mixtures, buffering capacity and the Henderson-Hasselbalch equation.Dissociation of polyprotic, weak acids.  Biochemical relevance of pH e.g. pH dependant ionisation of amino acids.Spectroscopy - The range of electromagnetic radiation.  Absorption and emission of radiation.  Molecular absorptiometry - the use of the Beer-Lambert relationship for quantitative measurements using absolute or comparative methods (molar and specific extinction coefficients).Reaction Kinetics.  Reactions and rates of change:  Factors affecting the rate of a reaction. Zero, first and second order reactions. Rate constants and rate equations (including integration).  Worked examples of rates of reactions.Statistics Descriptive statistics: definition of statistics, sampling, measurement scales, data hierarchy, summarising data, averaging, mean, mode, median, quantiles, graphical methods, displaying proportions, charts and chart junk. Parametrising distributions: coefficient of variation, normal distribution, properties of the normal curve, skewness and kurtosis, accuracy and precision. Probability: definition,  events, exclusivity and conditional probability, throwing dice and tossing coins, independent and dependent events, permutations, multiplicative rule, binomial distribution, unequal probabilities, Pascal's triangle, factorials and combinations. Hypothesis testing: null hypothesis, p-value, normal curve, z-score and t-score, t values and confidence interval, t-tables, comparing two samples, degrees of freedom, t-tests for same and different sample sizes, paired samples, difference between means.Correlation and covariance: two-dimensional distributions, scatter diagram, degree  and limits of correlation, spurious correlation, correlation and causality, time correlation, normalising the covariance, covariance in spreadsheet calculations. Regression: the regression line, slope and intercept parameters, regression in spreadsheet calculations, history of regression, assumptions in regression, effect of outliers, how not to use statistics.Practicals:1. Microscopy:  introduction to the laboratories and basic microscopy2. Molarities and Dilutions:  (a) preparation of solutions and (b) determination of accuracy.3. pH and buffers:  (a)  preparation of solutions and (b) determination of accuracy.4. Spectrophotometry:  protein estimation by the Biuret method 5. Microbial growth: measurement of microbial populations and growth
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL305 - Introduction to Electronics
+
+      
+      
+       Electronics hardware consists of various components and devices interconnected in such a way that they perform the required functions. This module introduces students to main electric components (i.e. resistors, capacitors, inductors, and voltage and current sources) and to operational amplifiers, which are the basic building blocks of many circuits; how do they work and what properties do they have; what are their main usages in circuits and systems; and how to practically perform simple measurements and tests. Also, fundamentals of analysis of electric circuits and the main circuit laws are taught. The teaching of this module makes an extensive use of a computer-aided electronic circuit design tools to assist in and to amplify traditional lecture-based learning. It also includes a mini-project in which students gain practical laboratory experience, including design, physical construction and testing of an example operational amplifier circuit. The module requires some elementary mathematical skills.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL311 - The Robotics Project
+
+      
+      
+       This module is designed to provide experience in the practical and management aspects of project work. It is supported by a lecture course and weekly supervisions. After an initial hands-on introduction to soldering, use of bench equipment and the CAD and manufacture of a PCB, the project consists of constructing a robot that incorporates an additional PCB of your own constructions and some software of your own devising.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL315 - Digital Technologies
+
+      
+      
+       The aims of this module are to introduce the necessary theoretical background to understand the operation of large-scale digital systems and to develop the necessary skills to design the logic of moderately complex digital circuits. The module forms an introduction to the fundamental theory underlying modern digital technology covering both combinatorial and sequential logic systems. The techniques introduced will form the basis for future modules. No previous knowledge of digital systems is assumed.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL318 - Engineering Mathematics
+
+      
+      
+       Mathematics is the fundamental language of engineering, allowing complex ideas to be formulated and developed. This course provides the sound basis of mathematical techniques and methods required by almost all other modules in the department's engineering courses. Topics covered include functions and graphs, set theory, complex numbers, calculus, matrices and vectors, and probability. The lectures are supported by assessed examples classes, taken in small groups.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL319 - Engineering Analysis
+
+      
+      
+       This module expands the introductory mathematics covered in EL318 and provides students with the appropriate mathematical tools necessary for the further study of electronic and computer systems. Topics covered include differential equations, the Fourier Series, Partial Differentiation, Laplace, Poisson and Wave equations, which will be used to solve problems in the areas of Signals, Systems and Electromagnetic fields. The lectures are supported by assessed examples classes, taken in small groups.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      EL514 - Biomechanics
+
+      
+      
+       The Biomechanics module will give the student an understanding of the fundamental principles of statics, dynamics and mechanisms. The student will be able to describe a mechanical system using mathematical models, to apply mechanics analysis to solve problems involving rigid bodies and to be familiar with the applications of mechanics to biology and physiology. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL515 - Physiological Measurement
+
+      
+      
+       This module introduces you to the different types of physiological parameter and various techniques for measuring these parameters. Basic analogue electronics and instrumentation techniques are included within the module
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL562 - Computer Interfacing
+
+      
+      
+       The module consists of a major practical project involving both computer hardware and software and a series of supporting lectures. Students work in groups of four and each group is allocated to a different application. Applications range from measuring ambient temperature to controlling a simple robot. The project provides an opportunity for students to gain experience not only in technical areas such as PC based data acquisition, computer interfacing and visual programming but also in transferable skills including team working, project management, technical presentation and report writing.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL569 - Signals and Systems
+
+      
+      
+       This module introduces basic methods and techniques for describing and analysing continuous and discrete time signals and systems. The course introduces the notions of linear time-invariant systems and their impulse response. The convolution operation is illustrated as a means for describing the behaviour of such systems. The connection between continuous and discrete time signals is explained through the introduction of the sampling theorem. The course introduces basic concepts for describing signals and systems in the time and frequency domains including the Fourier Series, the Fourier Transform and the Laplace Transform before applying them to signal and system analysis. The use of feedback control is illustrated as a tool to tailor the response of engineering signals and systems. The course introduces tools for the analysis of control systems and these concepts are applied to introduce  the industry standard PID controller and design control strategies for simple electromechanical  systems. MATLAB is used in a series of laboratory workshops to illustrate the material covered in the lectures.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL313 - Introduction to Programming
+
+      
+      
+       The module provides an introduction to the basic knowledge required to understand, design and write computer programs and the basic principles underlying the process of Software Engineering. No previous programming experience is assumed and the module proceeds via a sequence of lectures supported by simple exercises designed to give practical experience of the concepts introduced in the lectures.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI532 - Skills For Bioscientists 2
+
+      
+      
+       You have lectures on biological techniques complemented by practical classes and supervisions. There are sessions on group work, essay-writing, problem-solving and computer-based procedures to develop your transferable skills. In addition, there are presentations on careers to help you start thinking about future career options.Module Components:  A. Communication Skills in Biosciences:Essay writing, oral presentations, laboratory reports, the scientific literature and literature reviews. Working in groups.B. Techniques in Biomolecular Science Immunochemistry. Monoclonal and polyclonal antibody production, immuno-chromatography, ELISA and RIA.Electrophoresis, Immunoblotting, Protein Determination, Activity Assays, PurificationC. Computing for Biologists:Bioinformatics, phylogenetic trees, database searches for protein/DNA sequencesD. Mini-project  introduction to research skillsStudents will work in groups of eight to undertake directed experimental work (Group Project ) before extending the project further through self-directed experiments working as a pair ( Mini Project). E. Careers: The programme will be delivered by the Careers Advisory Service and will review the types of careers available for bioscience students. The sessions will incorporate personal skills, careers for bioscience graduates, records of achievement, curriculum vitae preparation, vacation work, postgraduate study, interview skills and action planning.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI307 - Human Physiology and Disease
+
+      
+      
+       This module considers the anatomy and function of normal tissues, organs and systems. We look at the manifestation of the various conditions at the level of cells, tissues and the whole patient, and also discuss diagnosis, available prognostic indicators and treatments.Lectures:This module will consider the anatomy and function of a range of normal tissues, organs and systems and then describe their major pathophysiological conditions.  It will consider the etiology of the condition, its biochemistry and its manifestation at the level of cells, tissues and the whole patient.  Lecture content:Cells and tissues, membrane dynamics, cell communication and homeostasis (3); Introduction to the nervous system (2); The immune system and inflammation (3); Blood cells and clotting (1); The cardiovascular system (3); the respiratory system (3); The digestive system, liver and pancreas (3) and the Urinary system (4).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL561 - Image Analysis & Applications
+
+      
+      
+       Intelligent processing is associated with information processing operations which are generally carried out reliably and efficiently by humans, but which may be much more challenging for computer-based processing systems.  This module will introduce and explore some important techniques and applications for automated intelligent processing.  Principally, it will explore the visual environment, which is so important in human activity and increasingly so in supporting computational processing platforms routinely encountered in the modern world.  The display, manipulation and efficient communication of images (embracing issues ranging from how to manipulate image data to provide an optimal visual experience, to the automatic extraction of information from images to understand their content) are key elements in the design and utilisation of many contemporary applications in digital media and in engineering.This module will introduce the basic techniques required for image processing and automated image analysis, and will include a introductory study of the use of so-called neural network processors for the analysis of images, especially in relation to problems of image recognition, since such architectures neatly bridge the areas of human and automated processing.  Similarly, the module will embrace important topics of increasing interest in the context of maintaining the security of systems and media, including particularly an introduction to the emerging field of biometrics (the automatic identification of individuals).  Biometrics provides a good domain within which the power of intelligent processing can be illustrated, both because the identification of individuals is a fundamental human capability, and is increasingly important in many media applications (especially in relation to system security), but also because this often relies directly on the effective processing of visual data and complex images.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+ 
+  Year in industry
+
+  
+   Students on the Year in Industry degree spend a year working in industry between Stages 2 and 3. We have a dedicated  Employability Officer who will help you apply for placements; but please note that it is your responsibility to secure a placement, which cannot always be guaranteed. The School has excellent industrial links, providing students with many placement opportunities.
+
+Students taking the Year in Industry programme are eligible to apply for a placement offered through the School's exchange agreement with Hong Kong City University.
+
+There are many benefits to taking the Year in Industry
+.
+  
+
+
+   
+
+ 
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      BI513 - Human Physiology and Disease 2
+
+      
+      
+       This module develops a more detailed understanding of particular physiological systems and relates this to relevant disease processes and their detection. The role of research and laboratory methods in understanding human disease is also introduced at this stage.Lecture OverviewReproductive System: Male and female reproductive systems; Endocrine control of reproduction: Fertilisation; Early embryogenesis; Pregnancy and Parturition; Reproductive disordersMuscle: Muscle types: skeletal, smooth and cardiac; Structure of muscle; Molecular basis of contraction; Regulation of contraction including neural control; Energy requirements of muscle; Types of movement: reflex, voluntary, rhythmic; Muscle disorders. Nervous System Cells of the nervous system: neurons and glia; Electrical properties of neurons: action potential generation and conduction; Synaptic structure and function: transmitters and receptors. Structural organization of the central nervous system (CNS) and function of individual regions; Organization and function of the peripheral nervous system (PNS): somatic motor, autonomic (sympathetic and parasympathetic) and sensory; Sensory systems: vision, hearing, taste, smell, pain. Disorders of the nervous systemEndocrine System: Endocrine glands; Classes of hormones; Mechanisms of hormone action; Regulation of hormone release; Endocrine disorders.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL600 - Project
+
+      
+      
+       This is the BEng project that accounts for three-eighths of the work of this year.  The project is conducted on an individual basis and allows you to work in the area of your chosen specialisation.
+
+       Credits: 45 credits (22.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL614 - Biomaterials
+
+      
+      
+       On successful completion of the Biomaterials module, students will have knowledge and understanding of the fundamentalprinciples of stress analysis, the structure and function of biomaterials in the human body and the implications of using non-biological materials in the human body. The students will be able to propose biomedical materials for specific applications, to describe the processes of implant and to discuss requirements for implant testing and evaluation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL671 - Product Development
+
+      
+      
+       This module introduces the issues relating to the development of commercial electronic  products.  Topics include design, production techniques, the commercial background of a company, quality and electromagnetic compatibility standards, electromagnetic compatibility issues and product reliability.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL676 - Digital Signal Processing and Control
+
+      
+      
+       This courses introduces the basic principles of digital control.  It builds on a basic understanding of signals and systems and digital signal processing developed in EL569 and applies these techniques to the modelling and manipulation of basic control systems.  This includes an introduction to the Laplace Transform and its use in describing control systems.  Bode plots and Root Locus analysis.  These concepts are applied to classical control problems such as the PID controller.  Simple robotic systems are used as examples to illustrate their importance in modern control systems.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      PH513 - Medical Physics
+
+      
+      
+       The aim of the module in Medical Physics is to provide a primer into this important physics specialisation. The range of subjects covered is intended to give a balanced introduction to Medical Physics, with emphasis on the core principles of medical imaging, radiation therapy and radiation safety. A small number of lectures is also allocated to the growing field of optical techniques. The module involves several contributions from the Department of Medical Physics at the Kent and Canterbury Hospital.SYLLABUS:Radiation protection (radiology, generic); Radiation hazards and dosimetry, radiation protection science and standards, doses and risks in radiology; Radiology; (Fundamental radiological science, general radiology, fluoroscopy and special procedures); Mammography (Imaging techniques and applications to health screening); Computed Tomography (Principles, system design and physical assessment); Diagnostic ultrasound (Pulse echo principles, ultrasound imaging, Doppler techniques); Tissue optics (Absorption, scattering of light in the tissue); The eye (The eye as an optical instrument); Confocal Microscopy (Principles and resolutions); Optical Coherence Tomography (OCT) and applications; Nuclear Medicine (Radionuclide production, radiochemistry, imaging techniques, radiation detectors); In vitro techniques (Radiation counting techniques and applications); Positron Emission Tomography (Principles, imaging and clinical applications); Radiation therapies (Fundamentals of beam therapy, brachytherapy, and 131I thyroid therapy); Radiation Protection (unsealed sources); Dose from in-vivo radionuclides, contamination, safety considerations. 
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI638 - Bioinformatics and Genomics
+
+      
+      
+       The past decade has seen significant advances in our ability to obtain biological data, be it protein structures or genome sequences. The bioinformatics element of this module will focus on modelling the structure, interactions and function of proteins. The genomics element will introduce the basic concepts of genome sequencing and what we have learnt from the sequencing of over 1000 different organisms. Finally the module will combine both elements to use protein modelling to identify how genetic variants (e.g. mutations) lead to disease. The lectures will teach the theory and the computer workshops will introduce some of the many web servers available to perform bioinformatics analyses.Topics:A. Bioinformatics Data sources & Sequence analysis:Databases and data availability. Using sequence data for analysis  sequence searching methods, multiple sequence alignments, residue conservation, Phylogenetics, Protein domains and families (e.g. Pfam, Interpro).B. Protein Bioinformatics Methods Protein structure and function prediction. Prediction of binding sites/interfaces with small ligands and with other proteins. Bioinformatics analyses using protein data.C. GenomicsAn introduction to DNA analysis methods moving onto omics approaches, primarily focussing on the data available from DNA sequencing  how it can be used to compare genomes (comparative and functional genomics). Metagenomics and transcriptomics will also be covered.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      BI640 - Magnetic Resonance in Biosciences and Medicine
+
+      
+      
+       Magnetic resonance (MR) and remained a fundamental scientific method for several decades since its conception in 1938 but in the last 25 years, it has been successfully applied within biosciences and medicine as both nuclear magnetic resonance spectroscopy (NMR) and magnetic resonance imaging (MRI). This module is designed for students with an interest in the applications of NMR and MRI and our approach and will be taught by example using real-world data, current research papers and reviews to reveal the utility of these methods across biosciences and medicine.This course begins by providing a basic understanding of MR for NMR and MRI as they both utilise identical methodologies. This section introduces, in a pictographic manner, general concepts relevant to NMR and MRI approaches discussed later in the module such as the experimental optimization, quantitation of biomedical metabolites and the production of contrast and signal in MRI images. The remainder of the module is split equally between describing some of many the applications, advantages and limitations of NMR and MRI. The NMR section focuses on the biological uses of NMR with the main emphasis on medical applications toward cell and tissue metabolism. Metabolite NMR is especially interesting as it has recently emerged as an important technique to monitor and map molecular markers in the study of many disease and conditions. The MRI section discusses MRI equipment, theory of medical MRI imaging, vascular and cardiac MRI, following tissue and organ activity, metabolic MRI methods and functional MRI (fMRI). fMRI is the gold-standard method to study brain activity using blood flow and can be used to assess tumours, stroke, head and brain injury or diseases such as Alzheimer's Disease.The course is delivered through 22 lectures and two feedback sessions for coursework.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL790 - Year In Industry
+
+      
+      
+       Students enrolled on programmes with a Year in Industry spend a year (minimum 30 weeks) working in an industrial or commercial setting, applying and enhancing the skills and techniques they have developed and studied in the earlier stages of their degree programme.  Their work is under the direction of the industrial supervisor with support provided via a dedicated Placement Support Officer within the department.
+
+       Credits: 120 credits (60 ECTS credits).
+
+       Read more 

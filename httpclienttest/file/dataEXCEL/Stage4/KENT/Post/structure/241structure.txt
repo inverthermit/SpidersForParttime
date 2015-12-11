@@ -1,0 +1,308 @@
+Course structure
+
+
+ The course is designed to train computer animators to work in industry. Successful former students are working in animation and animation layout roles for companies such as Sony Games and Framestore CFC on major titles in games, television and film. This is not easy to achieve because global competition is fierce in these areas: success depends on much better than average concentration and constant practise to grasp the essence and modern techniques of animation. We want you to succeed and we work constantly to make sure our course is delivering everything you need to know.
+
+This intensively taught postgraduate course lasts a full year. It takes place in a dedicated computer laboratory where you have your own seat and computer for the duration of the course. The course lectures and workshops, whether led by visiting professionals or staff, are all held in this room. Demonstrations and showing of films are by means of an HD projector. By the end of the year, the lab will be where you live as much as your accommodation.
+
+Student profiles
+
+See what our students have to say
+.
+
+Showreels
+
+View examples of our students'  work and showreels
+.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   EL831 - Digital Visual Art set-up
+
+
+   
+    Animation Setup is an intensive 4-week, 15 credit module at the start of the Programme which has been designed to get all students up to speed regarding the complicated technical processes that surround current animation practice. This module is concerned with the skills and procedures employed professionally including modelling, rigging, skinning, muscle dynamics, texturing and lighting and is undertaken as a set of practical exercises where the student creates a scene with four organic characters and a machine, to be composited in a DV shot. Delivery is by means of Lectures, Demonstrations, Workshops and Assessed Practical Assignments.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL832 - Animation Principles
+
+
+   
+    Animation Principles is a 15 credit module concerned with fundamental animation concepts. Originally developed by Hollywood animators in the 1940s, these principles have been derived from classical drawn animation and model animation, transposed into the digital medium. Topics covered include: Rules of Thumb...anticipation, action, reaction, keys and breakdowns, successive breaking of joints, breaking up actions. Bouncing Ball...timing, spacing, squash and stretch. Weight...indicating force and mass, strain, judders, release. Line of Action...arcs, intentionality of movement. Secondary Animation...overlapping actions, cloth, hair, wave motions, spline deformations. Effects...dynamics in particles and rigid bodies, fields, fluids. Delivery is by means of Lectures, Demonstrations, Workshops and Assessed Practical Assignments.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL833 - Visual Training
+
+
+   
+    The exact configuration which makes up a particular facial expression, the exact state of the muscles of a body under different circumstances, the exact nuance of meaning conveyed by different gesture positions, are all elements that go to distinguish superior from mediocre animation. The most effective way to develop such observational and outputting skills is through traditional drawing and sculpture, which is frequently reflected in studio hiring policies. This 15 credit module uses traditional art techniques to develop the students digital animation abilities. Delivery is by means of Lectures, Demonstrations, Workshops, and Life Drawing Classes and is marked on the production of a portfolio of artwork: drawings, a sculpture, 2D and 3D sequences, created over a series of practical assignments.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL837 - Professional Group Work
+
+
+   
+    This module is a group project which allows the student to work on a model of an actual animation job provided by our industrial partner. Each group produces an animation from established plates and models to a 4 week deadline. The student works with a model of a production pipeline, becoming familiar with the production process, chains of approval and departmental divisions.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL863 - Advanced 3D Modelling
+
+
+   
+    This module covers in depth inorganic or hard surface and organic modelling in 3D graphics applications. It includes exercises in NURBS and Sub Division modelling and texturing with UVs in Maya and Mudbox.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL864 - Pre-Visualisation
+
+
+   
+    Whilst the Visual Training module covers the understanding necessary for animating characters in single shots, this 15 credit module develops the understanding of, and ability to create planned continuity between shots in sequences - to be able to see and modify sequences of a final film before they are made. To be adept at this requires an in-depth knowledge of the language of film shooting and editing, its terminologies and practical usages. Students completing the module will be able to read and make a storyboard, animatic or previsualisation at a professional level. They will be able to adjust to different types of shooting in their construction of 3D scenes and will understand the professionally used technical terms and the methods used in film editing, to the extent necessary for 3D animators.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL865 - Action in Animation
+
+
+   
+    Action in Animation is a 15 credit module concerned with the techniques used to produce articulate motion which is life-like and convincing - this is the base of both comedic cartoon animation and realistic animation for compositing as in creating realistic stunts or armies for action and historical spectaculars, where cost or danger prohibit live shooting. Students completing the module will be able to create convincing human, animal and bird locomotion of all kinds, create transitions between different speeds and different modes, reuse this animation by repositioning it and putting it on motion paths, and co-ordinate this repositioning and path animation on a large scale in crowd or herd staging.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL866 - Acting in Animation
+
+
+   
+    This 15 credit module allows you to develop a wellrounded understanding of how thoughts and emotions are clearly and engagingly conveyed using 3D character models. In order to be a good character animator, one must not merely copy performances and reproduce them; one must be an actor through the technology and the techniques available to the animator. Like acting, there are two main ways of developing this - the external observation of behaviour, gesture and expressions, and the internal use of ones own emotional experiences to breathe life into a performance. The aim of this module is to sharpen the students approach to both of these under the guidance of an experienced veteran character animator.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL830 - Computer Animation Project
+
+
+   
+    This module is the main project, accounting for one third of the programme, and allows the student to build a show reel where all the techniques that have been learnt over the course are applied. Each project contains sophisticated, original articulate animation showing a large variety of motion and emotion to a professional standard. The subject is either the students own concept developed with the help of the supervisor, or a brief from an industry professional.
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Each module is assessed by practical assignments. The project work is assessed on the outcome of the project itself.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ enable you to develop your   knowledge and understanding within the field of 3D computer animation, which will equip you to become a professional in the animation and visual effects industry
+ produce professionally-trained animators who are highly skilled in using state-of-the-art 3D animation software for producing animated films
+ provide you with proper academic guidance and welfare support
+ create an atmosphere of co-operation and partnership between staff and students, and offer you an environment where you can develop your potential
+ strengthen and expand opportunities for industrial collaboration with the School of Engineering and Digital Arts.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ the computer animation production process and pipeline roles
+ the principles and practices of animated film development
+ the technical terms and methods used in film editing
+ the constraints and terminology of a professional animation environment
+ current developments in the computer animation industry and related market sectors
+ the relevance of animation within the contemporary television and film industries
+ contemporary business practice in the computer animation industry.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the analysis and interpretation of animation issues
+
+
+ the ability to work within an animation process and to contribute to this
+ the ability to identify and solve complex problems and issues in the generation of an animation
+ the ability to undertake constructive research and development of character performance in animation
+ the ability to demonstrate independence and creative and critical thinking
+ the ability to evaluate creatively evidence to support conclusions.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the use of appropriate software tools, techniques and packages to produce and develop computer animated films or film segments
+ the ability to use drawing as a way of planning, visualising and explaining work in a time-based 3D medium
+ the ability to read and make storyboards and animatics at a professional level
+ the ability to apply management techniques to the planning, resource allocation and execution of an animation project
+ the ability to prepare reports and presentations relevant to the design and production of computer animations.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the ability to generate, analyse, present and interpret data
+ use of information and communications technology
+ personal and interpersonal skills, working as a member of a team
+ an ability to communicate effectively, in writing, verbally and through drawings
+ the ability for critical thinking, reasoning and reflection
+ the ability to manage time and resources within an individual and group project
+ the ability to learn effectively for the purpose of continuing professional development. 

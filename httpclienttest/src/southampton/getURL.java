@@ -575,6 +575,31 @@ public class getURL {
 	
 	};
 	
+	public static String[][] UnData1_2={
+		{"1","http://www.southampton.ac.uk/engineering/undergraduate/courses/environmental_sciences/f750_bsc_environmental_management_with_business.page?","0"},
+		{"2","http://www.southampton.ac.uk/engineering/undergraduate/courses/environmental_sciences/f751_bsc_environmental_monitoring_and_modelling.page?","0"},
+		{"3","http://www.southampton.ac.uk/engineering/undergraduate/courses/environmental_sciences/f900_bsc_environmental_sciences.page?","0"},
+		{"4","http://www.southampton.ac.uk/engineering/undergraduate/courses/environmental_sciences/f902_menvsci_environmental_sciences.page?","0"},
+		{"5","http://www.southampton.ac.uk/engineering/undergraduate/courses/foundation_year/science_foundation_year.page","0"}
+	};
+	
+	public static String[][] UnData1_3={
+		{"1","http://www.southampton.ac.uk/engineering/undergraduate/courses/mechanical_engineering/5p01_meng_mechanical_engineering_computational_engineering_and_design.page?#modules","0"},
+		{"2","http://www.southampton.ac.uk/engineering/undergraduate/courses/mechanical_engineering/4r23_meng_mechanical_engineering_acoustical_engineering.page#entry_requirements","0"}
+	};
+	
+	public static String[][] UnData1_4={
+		{"1","http://www.southampton.ac.uk/engineering/undergraduate/courses/mechanical_engineering/hj35_meng_mechanical_engineering_advanced_materials.page?#modules","0"},
+		{"2","http://www.southampton.ac.uk/engineering/undergraduate/courses/mechanical_engineering/hh34_meng_mechanical_engineering_aerospace.page","0"},
+		{"3","http://www.southampton.ac.uk/engineering/undergraduate/courses/mechanical_engineering/h390_meng_mechanical_engineering_automotive.page?","0"},
+		{"4","http://www.southampton.ac.uk/my/undergraduate/courses/meng_mech_eng_bioengineering.page","0"},
+		{"5","http://www.southampton.ac.uk/engineering/undergraduate/courses/mechanical_engineering/hn32_meng_mechanical_engineering_engineering_management.page?","0"},
+		{"6","http://www.southampton.ac.uk/engineering/undergraduate/courses/mechanical_engineering/hh37_meng_mechanical_engineering_mechatronics.page?","0"},
+		{"7","http://www.southampton.ac.uk/engineering/undergraduate/courses/mechanical_engineering/hh35_meng_mechanical_engineering_naval_engineering.page?","0"},
+		{"8","http://www.southampton.ac.uk/engineering/undergraduate/courses/mechanical_engineering/hh32_meng_mechanical_engineering_sustainable_energy_systems.page?#overview","0"}
+	};
+	
+	
 	public static void getUnECSInfo() throws Exception
 	{
 		FileInputStream fis=new FileInputStream(new File("./southamptonUn2.html"));//鏂板缓涓�涓狥ileInputStream瀵硅薄

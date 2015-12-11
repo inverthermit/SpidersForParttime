@@ -1,0 +1,369 @@
+Course structure
+
+
+The course structure provides a sample of the modules available for this programme. This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      CB311 - Business Skills & Employability
+
+      
+      
+       Topics the module will cover include: Orientation to studying at university, time management and learning styles.  Research and cognitive development (writing essays and reports in higher education, research and referencing, plagiarism, how to make a reasoned argument, literature searches and introduction to critical and analytical thinking). The theories underlying personal skill development needed to achieve success at university and in the workplace (i.e. effective communication; working in groups, teamwork, problem solving, creative thinking, conflict management and negotiation). Personal Development Planning for Employability (including career search, CV writing, and making sense of employer skills requirements).
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB314 - Quantitative Models and Methods for Accounting and Finance
+
+      
+      
+       The current curriculum embodied in the module deals with the following topics. The texts and module materials show the level of treatment of the topics. Fundamentals of computing: Operating systems, Computer communications, Word-processing, Databases.  Spreadsheets: Features and functions of commonly-used spreadsheet software: workbook, worksheet, rows, columns, cells, data, text, formulae, formatting, printing, graphics and macros. Charts and graphs, what-if analysis, Solver. Data management facilities. Data validation. Spreadsheet security and documentation. Summarising data with frequency distributions, measures of central tendency and dispersion (standard deviation, variance). Probability: The relationship between probability, proportion and percent, addition and multiplication rules in probability theory, Venn diagrams,  Distributions: binomial, Poisson; uniform, exponential, normal, Pareto.  Sampling and its use in inference; applications of sampling in business and account&not;ing. Analysing data: histograms, bar charts, hypothesis testing, summary measures of central tendency and dispersion for both grouped and ungrouped data.  Regression and correlation: scatter plots; simple and multiple regression; interpreting computer output.  Forecasting using spreadsheets.  Decision making: payoff tables and decision strategies; decision trees; the Bayesian approach. Functions, equations and inequalities: linear functions, solving linear equations and solving simultaneous linear equations graphically; simple polynomials such as quadratic and cubic functions; manipulation of inequalities. Applications: Linear Programming.  Modelling and the graphical method.  Calculus: The concepts of differentiation and integration, and their relationship; stationary values. Logarithms and exponential functions.  Linear interpolation.  Financial mathematics: Simple and compound interest, annuities and perpetuities, loans and mortgages, sinking funds and savings funds, discounting to find NPV and IRR and interpretation of NPV and IRR.  Use of spreadsheets for financial mathematics.  Project Management.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      AC300 - Financial Accounting I
+
+      
+      
+       This is the foundation module for the Accounting programme.  This module introduces you to the principles and practices of financial accounting, the discipline within accountancy which is concerned primarily with recording financial events and preparing and interpreting financial reports for parties outside the organisation. A computer-based learning package is used to support the teaching of double entry book-keeping. Lecture topics will include the following: Role and devolution of accounting; Single entry accounting; Double entry book-keeping; Financial reporting conventions; Recording transactions; Adjusting entries; The principal financial statements; Instituitional requirements; Introduction to auditing; Monetary Items; Purchases and Sales; Inventory; Fixed Assets; Liabilities; Sole traders and clubs; partnerships; Companies; Capital strudture of enterprises; Funds and cash flow; Interpretation of financial statements; Measurement problems in traditional accounting.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EC302 - Introduction to Economics
+
+      
+      
+       This module has been designed for students who need to study what is often described as a Principles of Economics course. Each economics topic is introduced assuming no previous knowledge of the subject. The lectures and related seminar programme explain the economic principles underlying the analysis of each topic and relate the concepts to the real world. In particular, many examples are taken from the real world to show how economic analysis and models can be used to understand the different parts of the economy and how policy has been used to intervene in the working of the economy. This module aims to introduce you to the basic principles of Economics, to the main ways in which economists think about problems and to the important current economic issues in the United Kingdom, the European Union and the world economy. The module is self-contained, so that if you do not study Economics further, you should have a basic understanding of economic methods and debates. It is also suitable as a basis for further modules that you may take in economics, either as part of an Economics degree or as part of another degree programme or as part of a future professional qualification.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      WSHOP079 - Stage I Year in Industry Students
+
+      
+      
+       
+
+       Credits: 0 credits (0 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      AC506 - Financial Accounting II
+
+      
+      
+       The conceptual framework of financial reporting; the financial reporting environment; the regulation of financial reporting; long-lived tangibles; long-term contracts; leases; capital instruments, provisions and contingencies; deferred tax; research and development; intangibles; group accounting; merger accounting; foreign activities; associates and joint ventures; off-balance sheet financing; reporting financial performance; earnings per share; the theory of capital and income; review of historical cost accounting; price-level accounting.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      AC508 - Principles of Finance
+
+      
+      
+       This module is concerned with the principles which underlie the investment and financing decision making process. Before a rational decision can be made objectives need to be considered and models need to be built. Short-term decisions are dealt with first, together with relevant costs. One such cost is the time value of money. This leads to long term investment decisions which are examined using the economic theory of choice, first assuming perfect capital markets and certainty. These assumptions are then relaxed so that such problems as incorporating capital rationing and risk into the investment decision are fully considered. The module proceeds by looking at the financing decision. The financial system within which business organisations operate is examined, followed by the specific sources and costs of long and short-term capital, including the management of fixed and working capital.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      AC520 - Management Accounting 1
+
+      
+      
+       The work of accountants permeates all aspects of management and accountants provide information that is relevant for both managers and external stakeholders in the context of planning and controlling an organisation. This module will introduce and develop the principles and techniques used to provide appropriate financial information for managers to enable them to make better informed decisions. Topics may include: An introduction to management accounting The role of management accountants in an organisation Cost terms and purposes Cost determination Cost-Volume-Profit (CVP) analysis Measuring relevant costs & revenues for decision making Job order costing Cost allocation Activity based costing Joint and by-product costing Pricing, target costing and customer profitability analysis Motivation, budgets and responsibility accounting Flexible budgets, variances and management control Value based management and strategic management Performance management and management control Environment cost accounting: Sustainability
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB547 - Strategic Management
+
+      
+      
+       Strategic Management aims to provide an understanding of strategic analysis, strategic decision-making and strategic processes within and between organisations.  The module content combines approaches to strategic management, concepts and frameworks, and issues in strategic management. In particular, the themes covered include: internal and external environment analysis, strategic options, selection and evaluation, organisational structure, the role of culture, knowledge, technology and innovation, not-for profit and social enterprises, corporate social responsibility, international strategies, and strategic change. Case studies, which are used throughout the module, provide a vehicle for exploring the relationship between theory and practice in organisations and how that relationship affects the strategies of firms.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      WSHOP078 - Stage II Year in Industry Students
+
+      
+      
+       
+
+       Credits: 0 credits (0 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+ 
+  Year in industry
+
+  
+   Students on the Year in Industry spend a year working between Stages 2 and 3 &ndash; we have a Placement Officer who can give advice and guidance. Industrial placements provide very valuable practical experience which combines well with academic study and enhances the employment prospects of graduates.
+  
+
+
+   
+Possible modules may include: 
+
+
+                    
+      CB698 - Business Placement Report
+
+      
+      
+       Synopsis of the curriculum
+The placement provides you with a structured opportunity to combine work experience with academic study.
+It allows you to develop and reflect on managerial and/or professional practice in real and often complex situations, and to integrate this with the study of the relevant subject(s) of your main degree programme.
+Where relevant, you develop, reinforce and apply professional and/or technical expertise in an employment context. 
+The placement report requires you to integrate theory and practice, and to show how you have developed as an independent learner able to reflect effectively on what you are doing.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB699 - Business Placement Experience
+
+      
+      
+       Synopsis of the curriculum
+The placement experience provides you with a structured opportunity to combine work experience with academic study. 
+It allows you to develop and reflect on managerial and/or professional practice in real and often complex situations, and to integrate this with the study of the relevant subject(s) of your main degree programme. 
+Where relevant, you develop, reinforce and apply professional and/or technical expertise in an employment context. The placement portfolio requires you to document your experiences in relation to both your university studies as well as to a wide range of employability skills.
+In addition, the portfolio allows demonstration of professional development through the collection and presentation of relevant evidence. 
+
+       Credits: 90 credits (45 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+   
+
+ 
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                     
+      CB513 - Taxation
+
+      
+      
+       Synopsis of the curriculum
+This module introduces students to:
+The UK tax system including the overall function and purpose of taxation in a modern economy, different types of taxes, principal sources of revenue law and practice, tax avoidance and tax evasion. 
+Income tax liabilities including the scope of income tax, income from employment and self-employment, property and investment income, the computation of taxable income and income tax liability, the use of exemptions and reliefs in deferring and minimising income tax liabilities. 
+Corporation tax liabilities including the scope of corporation tax, profits chargeable to corporation tax, the computation of corporation tax liability, the use of exemptions and reliefs in deferring and minimising corporation tax liabilities. 
+Chargeable gains including the scope of taxation of capital gains, the basic principles of computing gains and losses, gains and losses on the disposal of movable and immovable property, gains and losses on the disposal of shares and securities, the computation of capital gains tax payable by individuals, the use of exemptions and reliefs in deferring and minimising tax liabilities arising on the disposal of capital assets. 
+National insurance contributions including the scope of national insurance, class 1 and 1A contributions for employed persons, class 2 and 4 contributions for self- employed persons. 
+Value added tax including the scope of VAT, registration requirements, computation of VAT liabilities.
+Inheritance tax and the use of exemptions and reliefs in deferring and minimising inheritance tax liabilities.
+Introduction to international tax strategy, implementation, compliance and defence.
+The obligations of taxpayers and/or their agents including the systems for self-assessment and the making of returns, the time limits for the submission of information, claims and payment of tax, the procedures relating to enquiries, appeals and disputes, penalties for non-compliance .
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+
+     
+
+                     
+      CB611 - Futures and Options Markets
+
+      
+      
+       This module is concerned with International Investment Banks products and strategies that involve the description and analyses of the characteristics of more commonly used financial derivative instruments such as forward and future contracts, swaps, and options involving commodities, interest, and equities markets. Modern financial techniques are used to value financial derivatives. The main emphasis of the module is on how International Investment Banks value, replicate, and arbitrage the financial instruments and how they encourage their clients to use derivative products to implement risk management strategies in the context of corporate applications.In particular, students will first cover the topics related to forward, futures and swap contracts. They will then be introduced to options and various strategies thereof. Valuing options using Black-Scholes model and binomial trees is also an important part of the module. The important finance concepts of no-arbitrage and risk-neutral valuation and their implications for pricing financial derivatives are also covered in the module. This will help students to learn the techniques used in valuing financial derivatives and hedging risk exposure.Successful completion of the module will provide a solid base for the student wishing to pursue a career in International Investment Banking and Treasury Management. The students will have the knowledge of essential techniques of risk management and financial derivative trading.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB617 - Financial Statement Analysis and Valuation
+
+      
+      
+       This module deals with the interpretation of financial statements, valuation models and implications of market based accounting research. A brief summary of topics under interpretation of financial statements includes:  foundations of financial statement analysis, economic and sector performance, the financial reporting model, critique of financial statements, standardising financial statement information, ratio analysis.A brief summary of topics under valuation models includes: economics of valuation, dividend based model, income based model, asset based model, cash flow based model, abnormal earnings, risk.A brief summary of topics under implications of market-based accounting research includes: market efficiency, value relevance, agency theory, clean surplus, governance, evaluation of managerial performance, bankruptcy.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      AC507 - Management Accounting II
+
+      
+      
+       The module provides an insight into contemporary management accounting issues. It takes an interdisciplinary perspective and builds on the knowledge and techniques acquired in Stages 1 and 2 core modules. In particular, the module explores the role of management accounting within the context of strategic management and management control. It also traces and evaluates recent major changes in management accounting and shows how management accounting may be used in managing organisations. 
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      AC502 - Business Finance
+
+      
+      
+       The course begins by looking at the financial system of the UK, including the major players in the market. It then proceeds to cover key topics, including: advanced portfolio theory, the capital asset pricing model, arbitrage pricing theory, the efficient market hypothesis, capital structure and the cost of capital, interaction of investment and financing decisions, decomposition of risk, options and pricing, risk management, dividends and dividend valuation models, mergers and failures and evaluating financial strategies.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      AC504 - Auditing
+
+      
+      
+       The nature, importance, objectives and underlying theory of auditing; philosophy, concepts and basic postulates of auditing, the regulatory and socio-economic environment within which auditing process takes place; auditing implications of agency theories of the firm; auditing implications of the efficient markets hypotheses;  the statutory and contractual bases of auditing, including audit regulation and auditors' legal duties and liabilities; truth and fairness in financial reporting, materiality and audit judgement; the historical development of auditing; audit independence; the nature and causes of the audit expectation gap; auditors' professional ethics and standards; the nature and extent of auditors' legal liability; audit quality control, planning, programming, performance, supervision and review; principles of internal control; the nature and types of audit evidence; systems based auditing and the nature and relationship of compliance and substantive testing; audit risk and statistical sampling; audit procedures for major classes of assets, liabilities, income and expenditure, audit reporting.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+          
+ You have the opportunity to select wild modules in this stage 

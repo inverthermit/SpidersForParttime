@@ -1,0 +1,610 @@
+Course structure
+
+
+ The MSc consists of six months of coursework and five months of research. The optional modules allow you the flexibility to devise a pathway that suits your specific interests, with an appropriate balance between natural and social sciences.
+
+
+
+
+ Modules
+
+
+ Please note that not all modules necessarily run every year. Please contact the School for more detailed information on availability.
+
+
+ 
+
+      
+   DI875 - Principles and Practice of Ecotourism
+
+
+   
+    The module will introduce the importance of the growing tourism industry to biodiversity conservation, and equip students with the analytical skills and methodologies required to effectively manage ecotourism to natural areas, whether in protected areas, or on private or communal land. The module will cover how to limit environmental damage in the face of increasing numbers of visitors to natural areas and heritage sites. Environmental impacts of nature tourism will be discussed, and students will gain a theoretical and critical understanding of different management tools. Tourism also has major implications for conservation and the economy and this module will explore how to understand tourism from an economics perspective using appropriate logical and empirical analysis. The module will also provide grounding in theoretical and practical issues relevant to community-based nature tourism, by exploring relationships between hosts and guests from cultural and socio-economic perspectives. Students will become familiar with practical tools for successful management of community-based tourism, and will analyse the strengths and weaknesses of community-based tourism as a tool for both conservation and rural development. The emphasis throughout will be on implementing the principles and practice of ecotourism. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   DI876 - Research Methods for Social Science
+
+
+   
+    The module will begin with a broad overview of social science approaches to research, highlighting contrasts with standard natural science techniques and focusing on the qualitative-quantitative divide. Subsequent sessions will introduce individual methods such as participant observation, qualitative interviewing, questionnaire surveys and focus groups. Sessions will also be devoted to processing and analysis of qualitative data, but not with statistical analysis of quantitative data, since this will be covered elsewhere in the programmes. Towards the end of the module, we will examine the principles of integrated research design and mixed-methods approaches.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   DI1001 - Interdisciplinary Foundations for Conservation
+
+
+   
+    This module is designed to provide students from a diverse range of disciplinary backgrounds with a broad overview of different natural and social science approaches to conservation. It will introduce students to the fundamental concepts that underpin biodiversity management, as well as facilitating the development of professional skills that will enable them to work successfully with individuals/organisations operating across the environmental and conservation sectors. The focus will be on understanding how different disciplinary perspectives can contribute to problem-solving in practice.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   DI884 - Research Methods for Natural Sciences
+
+
+   
+    The curriculum will review the approaches used by natural scientists in the design and analysis of research projects. The principles of experimental design and how these can be applied to field projects will be explained, together with the nature of both quantitative and qualitative data. An introduction to sampling strategies and the role of probability in inferential statistics will lead into the role of descriptive statistics and measures of variability in data exploration. This will be complemented by consideration of the application of both parametric and nonparametric statistics in data analysis (i.e. t-tests, ANOVA, regression, correlation and their nonparametric equivalents), coupled with training in the use of a statistical package to carry out such analyses. Finally, the rules underlying the appropriate presentation of statistical data in research reports will be discussed.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   SE857 - Advanced Topics in Primate Behaviour
+
+
+   
+    The purpose of this module is to provide students with an understanding of primate behaviour and ecology, and how this allows us to better understand the evolutionary biology of human behaviour. Set within an evolutionary framework, this course combines established findings with the latest research. Lectures covers the interaction of primates with their environments, interactions between different species, social and reproductive behaviour within primate groups, the nature and evolution of primate societies, and primate cognition and communication. Seminars will critically examine classic and recent journal articles, considering the quality of research and presentation, and the utility of models derived from primate studies for understanding specific aspects of human behaviour. 
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   DI1000 - The Politics of Global Conservation
+
+
+   
+    
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   DI836 - Integrated Species Conservation and Management
+
+
+   
+    Tackling conservation problems at the species level of organisation is both attractive and popular. In order to achieve this, it is important to understand how species are defined and how they have evolved and gone extinct over evolutionary time scales. Certain species may be used to provide political or financial leverage in conservation programmes, while others may play fundamental roles in ecological systems  students will evaluate the different criteria used to assign species into these categories. This will lead into an appraisal of the role of conservation genetics in conservation planning, and how genetic and population parameters can be used to build predictive models of extinction risk. Islands provide special challenges for practitioners of species conservation  these will be discussed and illustrated with the aid of case studies. Assigning priorities in species conservation is essential to the planning process when resources are in short supply, and various quantitative and qualitative methods of achieving this will be presented, including the IUCN Red List system. The role of organisations such as NGOs and zoos will be discussed and evaluated, and current protocols for captive breeding, health monitoring, translocation and reintroduction presented. The module will draw together the various approaches to species conservation by appraising the structure, function and implementation of species recovery programmes.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   DI841 - Managing Protected Areas
+
+
+   
+    Protected areas have a long history.  From time immemorial, human communities have conferred special status on sacred sites, set certain areas of land aside as hunting preserves, or reached agreements on the management regime for communal lands. This module aims to review the practice of setting land aside for such activities and managing protected areas. The following topics will form the basis of lectures, seminars and field trip around which the module will be taught: The concept of a protected area; The significance of size in protected area design; International designations of protected areas; Sustainable use of protected areas; Planning and management; Common threats to protected areas; Governance; Sustainable development and protected areas; Economics of protected areas; Management effectiveness evaluation. 
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   DI849 - Principles of Geographic Information Systems (GIS) and Remote Sensing
+
+
+   
+    The overall aim of this module is to provide an applied introduction to the use of GIS and remote sensing in biodiversity conservation and management and more broadly in environmental sciences.  This module will provide an introduction to the theory and practice of GIS and remote sensing as well as an introduction to a range of methods for collection, management and interpretation of spatial data.  Particular attention is paid to the development of students analysis skills of to deal with spatial data using GIS.  GIS are increasingly being used in biodiversity conservation and environmental sciences in general to help solve a wide range of real world environmental and associated social problems. As the current trend in ecological and environmental studies moves towards the acquisition manipulation and analysis of large datasets with explicit geographic reference, employers often report shortages of relevant GIS skills to handle spatial data. Thus, this module will introduce the use of GIS as a means of solving spatial problems and the potential of GIS and remote sensing techniques for biodiversity and environmental studies providing the student with marketable skills relevant to research and commercial needs. Indicative topics: Principles of cartography, coordinate systems and projections Introduction to the fundamental principles of GIS;  Introduction to remote sensing  Data sources and methods of data acquisition  Types of spatial data, working with raster and vector data Mapping (how to create and transform maps), Elementary database management ArcGIS -overview of ArcGIS, ArcMap, ArcCatalog; ArcToolbox, Spatial Analyst. GIS operations (Calculating area, Intersection of polygons etc) manipulation, spatial data query and analysis of a wide range of environmental and socio-economic information relevant to biodiversity conservation and environmental sciences Spatial analysis in GIS Introduction to the application of GIS in systematic conservation planning. These topics will be taught using a combination of lectures and practicals. The practical classes will provide hands-on experience using ArcGIS which is the most widely used GIS system. Students will be able to use knowledge and skills acquired in this module in practical project work
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   DI871 - International Wildlife Trade - Achieving Sustainability
+
+
+   
+    Wildlife trade and use contributes on the one hand to peoples livelihoods but on the other may threaten species.  Management of such trade relies on a number of multilateral agreements including CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) and the World Trade Organisation (WTO).  Such management requires an appropriate policy, legislative, management and scientific framework for its successful implementation at national and international levels.  Details of each these aspects will be examined and students will have the opportunity to examine a number of multilateral organisations as well as legal aspects of eco-labelling and Intellectual property rights. This module will guide students through the steps of implementing a legal framework, from the adoption of national wildlife trade policies, prioritization of species for management intervention, making sustainability findings and providing incentives for conservation through to the multilateral governance structures.  The module will be delivered through combined methods, of lecture, discussion, and practical exercises which will contribute to achievement of the module specific learning outcomes as well as developing key skills. Particular topics will include: Prioritization & management of species endangered by trade and overuse Making sustainability findings (non-detriment) and trade monitoring  Multilateral environment agreements and trade and environment. Ecolabels and intellectual property rights
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     DI887      - Facilitation Skills for Conservation Managers
+
+
+     
+      The effectiveness of a decision-making process is determined by the quality of the thinking involved and the level of acceptance this receives by the people charged with making the decision.  Within species conservation much of the knowledge required to help us intervene effectively is contained within people&rsquo;s heads where fact and assumptions can become blurred into one.  Furthermore the ultimate success of a conservation project often hinges on the willingness of organisations, communities and individuals to work together towards common goals.  Extracting the relevant knowledge on which to base decisions and securing the support of multiple stakeholders requires skilled facilitation during meetings and workshops.  In this module students will begin by reflecting on the interpersonal and rational, thinking skills necessary to work effectively within a team.  They will go on to develop their understanding of the different roles played by individuals within teams at different stages of the problem-solving cycle.  A significant component of the course is the development of student&rsquo;s own practical skills as a facilitator, involving their exposure to a range of facilitation and thinking tools at their disposal.  They will go on to facilitate difficult meetings within pre-determined scenarios and learn how to resolve conflict within groups.  Ultimately they will learn how to achieve consensus within a group over particular courses of action to achieve shared aims and objectives.  The course will draw from social theory on how teams function and how decisions are made and will rely heavily on practical examples from the conservation world to demonstrate how to and how not to manage the decision-making process.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI877      - Population and Evolutionary Biology
+
+
+     
+      This module provides an introduction to evolutionary and population biology, starting with the main evolutionary processes that influence populations and how they evolve, and leading into the established demographic theory that underpins population biology. Associated topics also covered will include evolutionary phylogenetics, comparative analysis and meta-population dynamics. Following this, population genetic mechanisms are considered, such as natural selection, genetic drift and inbreeding, and how they interact to influence populations of threatened species. A practical component of the module focuses on molecular genetic techniques, and how to interpret such genetic data.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI880      - Conservation and Community Development
+
+
+     
+      The curriculum will aim to give an integrated view of theoretical and practical approaches to conservation and community aspects of rural development. The principle themes to be covered are:An introduction to rural development, with a focus on community aspectsHow do they see you? Community perspectives on researchers and project workersWho sets the agenda? Consultation, collaboration and technical supportCommunity organisation: Institutions, representation and decision-makingIncorporating rights: indigenous peoples and conservationBuilding on local knowledge systems: the role of technical expertiseWorking with communities: and technical supportCommunity-based tourism: benefit-sharing and private partnershipsWider perspectives: project cycles and multistakeholder processesPolicy and practice: the relationship between conservation and rural development
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI881      - Advanced Topics in Conservation Ecology and  Management
+
+
+     
+      This is an optional module intended to demonstrate how theory drawn from genetics, evolutionary and population biology, and small and large-scale ecology, is applied to conservation assessment and management.  The material will therefore build on that taught in the core module Population and Evolutionary Biology which is a prerequisite, and will be further developed in this module via a case study approach.  Students will be shown how this theory is being applied to real-world conservation problems via the research projects of the course lecturers.  Advanced research techniques in genetics, ecology, and population and evolutionary biology, are used to determine conservation priorities and these will be explored in detail.  Examples of how modern research techniques are currently used for conservation management of threatened animals, especially mammals, birds, reptiles and amphibians, will also be covered in depth. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI883      - Special Topics in Conservation
+
+
+     
+      This module provides the opportunity for students to undertake a detailed analysis or review of a specific topic of interest that relates directly to their programme of study. The topic will be decided upon after consultation with the relevant member of staff and agreed by the Programme Convenor and Director of Graduate Studies. The topic of interest may be explored using one or more of the following approaches: comprehensive literature review, systematic evidence review, collection and analysis of a small field data set, analysis of an existing data set, laboratory practical exercise, computer modelling. The topic of interest must be addressed by framing it within a clearly defined goal, and the approach used must allow a clear conclusion to be reached.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI885      - Ecotourism and Rural Development Field Course
+
+
+     
+      The module will is based on a 5 day field trip within the UK and is designed to complement DI875 by offering the students an opportunity to learn first-hand from local businesses and government agencies about practical aspects of nature-based tourism and its growing importance to rural development and biodiversity conservation in the UK.  Using questionnaires and structured interviews the students will work in teams to gather data and report on the biodiversity and economic impact of nature-based tourism and will equip students with the analytical skills and methodologies required to effectively manage ecotourism in protected areas, or on private or communal land. The module will include daily field trips to local sites to understand environmental impacts of visitors to natural areas and heritage sites and to discuss emerging business thinking regarding nature based tourism, explore relationships between hosts and guests from cultural and socio-economic perspectives and gain practical insight into different management tools to resolve conflicts. The module will therefore provide practical learning to complement theoretical issues taught in DI875.  Students will become familiar with practical tools for successful management of community-based tourism, and will analyse the strengths and weaknesses of community-based tourism as a tool for both conservation and rural development. The emphasis throughout will be on learning from the experience of people and organisations directly engaged in nature-based tourism. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI886      - Biodiversity Preservation in International Law and Policy
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI888      - Economics of Biodiversity Conservation
+
+
+     
+      Effective biodiversity conservation relies on an understanding of how markets work and also how they fail.  In this module students will be introduced to key economic theories and concepts such as the laws of demand & supply, market competition and economic efficiency, and the market failure paradigm (property rights, public goods, transaction costs and externalities). We will explore the economic causes of biodiversity conflict and loss such as habitat loss and wildlife trade, and using case studies, we will learn how to identify possible solutions using analytical approaches and techniques such as cost-benefit analysis, cost-effectiveness analysis and multi-criteria analysis.
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI889      - Leadership Skills for Conservation Managers
+
+
+     
+      The success of conservation projects at the species or ecosystem level is determined by the ability of those in charge to manage the teams and the individuals involved in delivering outputs.  The failure of conservation projects worldwide to deliver pre-determined successes is in part due to the absence of sufficient people with these skill sets.  We need to match the desire for scientific understanding about biodiversity with an appreciation of the social skills required to manage and lead conservation programmes if we are to make more efficient and effective use of the limited resources at our disposal.  In this module students will begin by reflecting on the qualities required within a leader and how a leaders management style can impact on others within an organisation.  Students will consider the extent to which we can apply management theory to the practice of endangered species and habitat recovery and the people involved in making it happen.  They will go on to consider different approaches to managing conflict within teams and balancing organisational and individual expectations and motivations.  By drawing on examples from both the business world and conservation community students will consider different models for developing and managing teams and consider how to optimise performance within an organisation.  
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI890      - Seed Conservation for Restoration
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI891      - The Ecology of Plant Conservation
+
+
+     
+      
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI892      - Current Issues in Primate Conservation
+
+
+     
+      Like many other species, many non-human primates (NHPs) across their range are threatened with habitat destruction, fragmentation and climate change, in addition to hunting pressure and the pet trade. Nevertheless, many NHPs exhibit great resilience in the face of environmental change. While some thrive in anthropogenic-dominated landscapes often exacerbating resource competition and conflict with humans, others suffer from increased proximity with humans or the products of human activity. This module will highlight the array of threats, issues and consequences of anthropogenic threats and environmental changes on the status, behaviour and conservation of NHPs. Students will also be familiarized with a range of field methodologies employed in the survey and monitoring of wild NHP populations in and outside protected areas. The student-led seminars will encourage the students 1) to critically engage with a range of case studies unravelling the multidisciplinary dimensions and challenges of conserving NHPs and 2) to evaluate approaches, as well as the ecosystem service value of NHPs ranging from their seed dispersal capabilities to their sustainable tourism potential. Finally, a 2day workshop to be held at Howletts Wild Animal Park will also promote the students ability to assess the role of captive enrichment and rehabilitation and reintroduction in the conservation and management of NHPs. 
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI893      - Business Principles for Biodiversity Conservation
+
+
+     
+      Effective biodiversity conservation relies on an understanding of varying perceptions of value among multiple shareholders, including local communities and potential commercial investors, and delivering such value. In this module, students will be introduced to key business concepts and practices such as customer behaviour, market competition and financial performance. We will explore the potential contribution of forprofit business models to preserving biodiversity via consumptive and/or non-consumptive use of the natural resource, and using a variety of teaching and learning methods, we will learn about issues involved in conceptualising, analysing, planning, implementing and monitoring business initiatives aimed at conserving biodiversity.  
+
+
+      Credits: 15 credits
+       (7.5 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+       
+     DI998      - Dissertation - Conservation
+
+
+     
+      The dissertation project represents a piece of independent research carried out by the student which is written up as in two reports: a review of relevant literature and a research paper. Before undertaking the research, students are trained in research design and planning, statistical analysis and writing skills. A project supervisor is allocated to each student and students are expected to produce a research plan and budget for their proposed programme of research in conjunction with the supervisor. The programme of research may consist of a literature review, analysis of existing data sets, analysis of newly-collected field or laboratory data, or a combination of these approaches. Students are provided with training in the writing-up of the dissertation which should be submitted in mid-September. The topic of the dissertation must be directly relevant to the programme of study.
+
+
+      Credits: 60 credits
+       (30 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is carried out primarily through coursework with written examinations for some modules. The research dissertation is written up in the format of a paper for publication.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ produce postgraduates equipped to play leading roles in the field of international conservation and biodiversity management
+ develop new areas of teaching in response to the advance of scholarship and practice
+ provide you with opportunities to gain a interdisciplinary perspective on conservation issues through collaborative exchange between DICE and the wider University
+ develop your competence in applying theoretical and methodological skills to the implementation of conservation practice and biodiversity management
+ develop your critical and analytical powers in relation to policy formulation and data analysis and interpretation
+ provide you with the skills to adapt and respond positively to change
+ develop critical, analytical problem-based learning skills and the transferable skills necessary for professional development
+ enhance the development of your interpersonal skills
+ assist you to develop the skills required for both autonomous practice and team-working.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You will gain knowledge and understanding of:
+
+ fundamental ecological concepts and how they apply to conservation biology and biodiversity management
+ conservation at the species, population, community and ecosystem levels
+ fundamental social science perspectives on conservation, and the principles of interdisciplinarity
+ principles and significance of resource economics
+ biodiversity law, policy and legislative frameworks
+ principles and practice involved with sustainable resource use
+ principles and practice involved with managing protected areas for conservation
+ principles of conservation research design, implementation and analysis, including problem-led interdisciplinary approaches
+ principles and practice in conservation, business and rural development.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to marshal ideas and examples into well-organised written and oral presentations
+ critical analysis of case studies
+ reflective evaluation of theoretical and methodological frameworks
+ design, implementation, analysis and write-up of a substantial research project (your Master&rsquo;s dissertation)
+ linking theory to practice in conservation science and social science.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ field biology skills
+ social science methodologies
+ experimental design and statistics
+ methodologies for analysing and appraising conservation case studies
+ population assessment and assessment of threat status
+ methodologies for estimating sustainable wildlife management
+ methodologies for protected areas management and planning.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You will gain the following transferable skills:
+
+ IT: Word, Excel, statistical and modelling programmes, email, bibliographic and web searches
+ presentation skills
+ writing reports and funding proposals
+ time management
+ using a library
+ working in groups
+ the skills to exercise initiative and personal responsibility
+ independent learning skills required for continuing professional development. 

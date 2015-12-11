@@ -1,0 +1,365 @@
+Course structure
+
+
+ The Economics and Finance MSc is studied over one year full-time or two years part-time and is divided into two stages: eight taught modules (six of which are compulsory) and a dissertation.
+
+There are compulosry  modules in Financial Economics: Capital Market Instruments, Financial Economics and Asset Pricing, Advanced Macroeconomics, Econometric Methods, Time Series Econometrics and Research Methods. These  modules build upon students&rsquo; existing knowledge, understanding and skills.
+
+Students develop a deeper understanding of economic and finance theory, quantitative and research methods, and policy applications. The teaching and learning of skills are carefully integrated into the structure of the modules and degree programme. The final two  modules are chosen from a range of options based upon the finance research interests of our academic staff.
+
+All of our MSc programmes require some mathematical analysis, and we recognise that students have widely differing backgrounds in mathematics. The first week of all our MSc programmes includes compulsory intensive teaching in mathematics, refreshing and improving your skills in order to equip you with the techniques you will need for the rest of the programme.
+
+Students who successfully pass the taught element of the programme proceed to the dissertation stage where you undertake a supervised project of your choice on an Economics/Finance topic.
+
+Advice on choice of dissertation topic and management is given during the taught stage of the programme. The dissertation stage develops students&rsquo; research skills and follows on from the Research Methods module. Student dissertations are supervised by academic staff.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   EC817 - Research Methods
+
+
+   
+    The aim of this module is to introduce you to a range of research methods and sources available in modern economics, and enable you to gain an understanding of their application in the context of your own MSc dissertation topic. In more practical terms, this module deals with the practicalities of postgraduate level research: acquiring and reviewing basic analytical skills, choosing a dissertation topic, deriving interesting and well-focused research questions, addressing questions with data or theory,  and interpreting and writing up results. It aims to ease the transition of students who merely learn about existing research to being researchers working on their MSc dissertations. The module is taught by various members of the School and as such will expose you to some topics we work on and the methodologies we use. It has two components. The first focuses on specific skills: mathematical skills, use of library resources, writing skills, and data collection and management. The second aims to prepare you for the dissertation stage by giving you some concrete help and feedback in choosing a research topic and planning your work.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC820 - Time Series Econometrics
+
+
+   
+    The module offers a research-oriented introduction to contemporary empirical macroeconomics by linking macroeconometric theory to empirical studies of the macroeconomy. The course looks at the models and methods used in central banks and research institutions for the policy analysis and forecasting. It integrates empirical illustrations through the use of computer based exercises with macroeconomic data using (for example) PcGive and PcGets, widely used statistical packages providing many of the statistical tools for the analysis of macroeconomic time series.The specific topics dealt with are: Stochastic processes; Linear and nonlinear time series models; Trend and cycle decompositions; Macroeconomic forecasting; Dynamic econometric models; Vector autoregressions and Cointegration;  Structural analysis.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC821 - Econometric Methods
+
+
+   
+    This module aims to study basic single equation econometric techniques in an intuitive and practical way to develop your understanding and ability to apply econometric methods.You will develop an understanding of the conventional linear regression model and the problems associated with the application of regression methods to economic modelling. The module is concerned with the application of econometric methods, with little emphasis on the mathematical aspects of the subject (which may be studied in other modules). The microcomputer software package STATA is used for practical work throughout this module, both as a means of providing realistic applications of the theory developed in lectures and to give you experience in the use of such software as a preparation for your own empirical research.No previous knowledge of computing or econometrics is required.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC824 - Financial Economics and Asset Pricing
+
+
+   
+    The module will develop your skills in asset pricing and understanding of its theoretical basis, while emphasising practical training in asset pricing. The two main topics in the module are investors utility maximisation and arbitrage theory in derivative pricing. The module discusses the arbitrage theory in both discrete and continuous time, and also briefly discusses the applications of option theory to business and real life situations. Although the module is mathematically challenging for most students, it aims to offer practical training. Indeed, the module puts stress on the intuitions and heuristics behind theorems and formulae, rather than their rigorous derivations and semantic definitions. Importantly, students are not only expected to understand theories but also expected to master how to use them.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC805 - Advanced Macroeconomics I
+
+
+   
+    This module is the core macroeconomic theory module in the MSc programmes in the School of Economics. The first part of the course deals with the microeconomic foundations of macroeconomics. The second part deals with short-term fluctuations in macroeconomic performance and how macroeconomic policy may be used to address these. The third  part  deals with a fundamental measure of long-term macroeconomic performance, economic growth.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC822 - Financial Economics: Capital Market Instruments
+
+
+   
+    This module on financial markets and instruments emphasises practical knowledge and analytical techniques. Specifically, it focuses on the structure of each financial market (such as the trading volume and investors in it), recommended investment strategies for specific types of investors, and market conventions. Also, several useful mathematical skills are explained.The module first introduces key principles, such as discounting, diversification, no arbitrage and hedging, and then discusses each asset class, such as bonds, equities and their derivatives (instruments), emphasising the general idea behind them. Although different types of assets require different methods of valuations and risk control, the basic principles are common to all asset classes. The module also covers asset liability management (ALM) and other related topics.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC815 - Growth and Development Theory
+
+
+   
+    Some of the greatest and most important books written in economics have been about the progress of nations. Some of the most distinguished economists in the world are development economists concerned with the economic progress of developing countries. Why are some countries rich and others poor? Why do some countries grow faster than others, and why have some countries got left behind? This graduate module, Growth and Development Theory,  introduces you to  theories  of growth and development  both old and new  looking at the various influential models that have been propounded over the years from Adam Smith and other classical economists in the 18th and 19th centuries to new endogenous growth theory in the modern era. As well as aggregate models associated with the names of Smith, Ricardo, Marx, Harrod, Solow, and the new growth theorists (Barro, Romer), there are also sectoral models emphasising the role of particular factors of production or sectors of the economy, such as Arthur Lewiss famous model of economic development with unlimited supplies of labour, and Nicholas Kaldors stress on the role of manufacturing industry based on increasing returns. We also look at centre-periphery models of growth and development associated with Gunnar Myrdal and Raul Prebisch, and constraints on growth imposed by the balance of payments and inflation.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC816 - International Finance
+
+
+   
+    This module is designed to introduce you to the main theoretical and empirical models of international financial relations. Exchange rates, capital flows, financial crises, current account and debt dynamics, and uncertainty are the most widely debated economic topics in the media and political arena. This module provides the economic foundations for a full understanding of these debates from a rigorous point of view. Working on the areas of financial economics and development (whether in private or public institutions) requires a solid knowledge of the topics studied in this module.The module is organised in four blocks. Part 1 focuses basic concepts and core models of the open economy and exchange rate determination. Part 2 deals with modern models of the open economy by introducing time and uncertainty. Part 3 covers two important kinds of international crises: speculative attacks on fixed exchange rates, and the current global economic crisis. This also helps to understand the importance of choosing exchange rate regimes, and how this affects economic policy choices. The module is focused on both the theory and empirical evidence. That is, we focus not only on the analytical side of the stories but also on their empirical relevance. This helps your understanding of the role of data analysis and econometric work on a research project such as the one you have to write for your dissertation.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC802 - Advanced Microeconomics of Consumers, Marketsand Welfare
+
+
+   
+    This module examines the workings of the economic system from a disaggregated viewpoint. It is a standard module on advanced microeconomic theory and contains the basics of general equilibrium, including Walrasian equilibrium and welfare economics, and disequilibrium. Twelve (one-hour) lectures discuss the basic theory, and eight (one-hour) seminars discuss various extensions. In addition there is a weekly one hour course in mathematics to accompany the module. Topics Preferences - Utility - Demand Demand Curves and Duality in the Theory of DemandGeneral Equilibrium Efficiency and Social Welfare of General EquilibriumSocial Choice
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EC803 - Trade and Development
+
+
+   
+    This module is designed for students with interests in both development and international economics. It aims to discuss some of the fundamental models (and their extensions) in international economics and link them to the growth and development process of regions and countries. Throughout this module we provide you with the analytical tools and theoretical knowledge necessary to understand these links. We also focus on both the theoretical foundations and extensions of trade theory and the empirical evidence available to the current theoretical debates. The module consists of two main sections. The first one is devoted to the foundations of trade theory and it is the basic building block around which the rest of the module pivots. The second section deals with the relation between trade liberalisation, exports and long run growth, covering both the theory and empirical evidence.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+  Show more...
+
+  
+  
+       
+     EC998      - Dissertation:Economics
+
+
+     
+      
+
+
+      Credits: 60 credits
+       (30 ECTS credits).
+
+
+      Read
+        more 
+
+
+     
+
+    
+
+     
+
+ 
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is through a wide variety of methods including seminar presentations, extended essays, short projects, in-class tests, examinations, and the dissertation.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ provide a stimulating education in the principles of economics and finance, and their application, in which high-quality teaching motivates you to achieve your full potential. The teaching is informed by the research and scholarship of our teaching staff
+ build on your existing knowledge, abilities and skills and develop a deeper understanding of economic and financial theory, econometrics, financial econometrics and quantitative techniques and policy applications to specific areas
+ provide options to enable you to study selected areas of economics and finance in depth
+ develop your ability to apply economic and financial knowledge, analytical tools and skills in a range of theoretical, applied and policy problems
+ develop your independent research skills and prepare you for work as a professional in the fields of economics and finance or related areas
+ provide you with information and advice on future employment and further postgraduate study.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ the concepts, principles, theories, models and methods of modern advanced finance theory, macroeconomics, econometrics and quantitative methods
+ an introduction to the econometric, mathematical, statistical and computing methods used in economics and finance
+ sources of economic and financial data and the methods used to analyse such data, and the ability to make use of sources and methods
+ model-building in macroeconomics and finance and the analysis of such models
+ the application of core economic and finance theory and reasoning to applied topics
+ research methods and management in economics and finance
+ a specialist Economics/Finance-supervised dissertation topic and a quantitative methods project
+ economic and finance analysis of policy
+ chosen specialist areas in economics and finance, selected from a range of options
+ critical evaluation of major debates and articles in advanced economic and financial literature.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to abstract the essential features of a complex system
+ the ability to think about what are the important variables and fixed parameters in analysing a problem
+ the ability to analyse complex issues using deductive and inductive reasoning
+ the ability to organise and use information to analyse complex issues and construct and test different hypotheses
+ the ability to review literature critically and appreciate alternative explanations and analyses of a problem
+ the ability to manage supervised dissertation and quantitative projects.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ analytical skills in economics and finance
+ the ability to develop and understand models of economic and financial behaviour, and financial and economic systems
+ the ability to apply economic and financial principles and analysis to a range of topics, problems and policies
+ the ability to abstract the essential features of economic and financial topics, problems or systems
+ knowledge of the principal sources of economic and financial data and information, and the ability to use and present this information
+ the ability to carry out economic/econometric analysis of economic and financial data
+ the ability to synthesise and compare critically different analyses of economic or finance topics
+ the ability to research the literature on an economic or finance topic
+ research management skills
+ the ability to apply economic and finance skills to investigate supervised dissertation and quantitative methods projects.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the effective communication of analysis and ideas, both orally and in written form
+ the ability to assemble, analyse, use and present data
+ an understanding of, and the ability to use, economic, financial, mathematical and quantitative methods to analyse topics and problems
+ the development of information technology skills through the use of statistical and econometric packages, bibliographic searches and wordprocessing coursework
+ independence in initiating and executing work
+ the ability to analyse and solve problems
+ the ability to think critically about proposed analyses and solutions to a problem or issue
+ the ability to define and test hypotheses
+ responsibility for managing your own learning and academic performance
+ research management skills acquired through supervised dissertation and quantitative methods projects
+ an understanding of your career opportunities and the challenges ahead as you begin to plan your career path. 

@@ -1,0 +1,315 @@
+Course structure
+
+
+ Our MSc in Engineering with Finance teaches concepts of finance at the level suitable to engineers on one hand, while providing strong knowledge of quantitative and computational methods to analyse real data, on the other.
+
+Students acquire skills required in jobs such as investment analyst, financial analyst, stockbroker, market risk specialist etc. Previous students have applied for jobs in financial companies such as investment banks (eg Investec, Bank of New York Mellon), software trading platform developers (eg Murex) and management companies (eg Pentland Group plc). Advice about careers in the financial sector is provided and talks delivered by professionals are organised by the University.
+
+This taught MSc course combines a balanced mix of subjects in engineering and quantitative finance, and is based on modules containing lectures, examples classes, directed self-study and PC-based laboratory classes.
+
+Dr Gianluca Marcelli
+
+Programme Chair  
+Engineering with Finance
+
+Student profiles
+
+See what our students have to say
+.
+
+Example projects
+
+View examples of student projects
+ for this course.
+
+
+
+
+ Modules
+
+
+ The following modules are indicative of those offered on this programme. This list is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take modules from other programmes so that you may customise your programme and explore other subject areas that interest you.
+
+
+ 
+
+      
+   EL858 - Advanced Pattern Recognition
+
+
+   
+    This module introduces advanced methods for pattern recognition with emphasis to multi-source systems. A detailed analysis of the Bayesian classification framework is followed by an introduction to error estimation and advanced feature selection and extraction techniques. Multiple classifier systems, including intelligent and dynamically adaptable classifier combination strategies, such as genetic algorithms, are studied as the basis for the development of state-of-the-art systems including multi-biometric strategies.   A discussion of score normalisation methods and the use of soft biometrics are also included in this module.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL859 - Econometrics Applied to Finance
+
+
+   
+    The aim of the module is to give the students a comprehensive introduction and overview of theoretical and practical aspects of financial econometrics. This module ensures that students have a solid foundation in statistical inference and econometrics with particular emphasis on the special features that are prevalent in quantitative finance.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL871 - Digital Signal Processing (DSP)
+
+
+   
+    In this module, you are taken through the fundamental of digital signal processing. The course includes a basic introduction to the representation and processing of signals in the digital domain and the design of digital filters. Application examples including JPEG and MPEG image and audio compression standards are used to illustrate the use of the theoretical material presented in the course.The course makes extensive use of MATLAB to enable students to grasp the subjects more readily.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL876 - Advanced Control Systems
+
+
+   
+    This module is concerned with the design of practical feedback controllers.  Feedback is used in a control system to enhance the performance of the plant or process, and to reduce the sensitivity of the system to uncertainty from external effects (for example, disturbance signals and noise on measurements) and model uncertainty (i.e. the difference between the assumed model of the process to be controlled and the actual industrial plant which is likely to be time varying and uncertain).  If the performance specifications are achieved in the presence of the expected uncertainties, then the control is said to be robust. This course will provide an overview of a number of techniques for robust control, with an emphasis on design and simulation to enhance learning.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL877 - Strategic Analysis of Financial Systems
+
+
+   
+    The lectures will provide an introduction to concepts of Finance.  The module is based on group-projects supported through lectures and tutorial classes and directed self and group studies. Groups of 4-5 students will be given a real-world financial topic to research on. Students have to read relevant financial-journal articles, collect relevant financial data and applied mathematical models to propose analyses and forecasts.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL878 - Project Design
+
+
+   
+    The aim of this module is to prepare students for the Masters Project and for possible future research work. It begins with an introduction to MATLAB and SIMULINK tools which are used in most taught masters modules at Kent. The module also includes details about how to write a literature review and produce a viable project plan. Students learn how to use tools such as RefWorks and EndNote to produce and maintain reference databases. It also addresses important issues concerning the definition of a project and the consideration of ethical and Intellectual Property Issues. Techniques and guidelines for writing clear and concise English are discussed in detail.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL879 - Portfolio Theory and Asset Pricing Models for Engineers
+
+
+   
+    This module will examine current theories on portfolio management and developing asset models to assist risk management of financial services firms. Topics studied include: Efficient market hypothesis, measures of investment risk, portfolio theory, models of asset returns, asset pricing models, Brownian motion, martingales, stochastic calculus, Ito processes and stochastic models of security prices.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   MA934 - Probability and Statistics for Finance
+
+
+   
+    The aim of this module is to introduce students to the theory of probability and statistical techniques used in finance. The module provides an understanding of the main areas of the subject that are used in financial applications.The syllabus includes multivariate variables and distributions, marginal and conditional distributions, independance, covariance, correlation, probability theory, discrete and continuous probability distributions, joint probability distributions, conditional probability and Bayes' Rule, point estimation, hypothesis tsting, interval estimation, simple and multiple regression, applications of statistical theory and methods to Finance.
+
+
+    Credits: 15 credits
+     (7.5 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   EL890 - MSc Project
+
+
+   
+    A major practical system will be developed either in an industrial context or within the department.  There are no formal lectures - students will undertake the work in their own time under the regular supervision of a member of the academic staff and, where appropriate, industrial collaborators.
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   The project module is examined by a presentation and dissertation. The Research Methods and Project Design module is examined by several components of continuous assessment. The other modules are assessed by examinations and smaller components of continuous assessment. MSc students must gain credit from all the modules.
+  
+
+ 
+   Programme aims
+
+  
+   This programme aims to:
+
+ educate graduate engineers and equip them with practical and theoretical engineering- knowledge to prepare them for careers in the field of quantitative finance
+ provide you with a good understanding of a wide range of engineering methods applicable to financial problems
+ provide you with a specialised understanding of the principles and practices of engineering required by financial analysts and risk management professionals, or for further research work
+ provide you with proper academic guidance and welfare support
+ create an atmosphere of co-operation and partnership between staff and students, and offer you an environment where you can develop your potential
+ strengthen and expand opportunities for industrial collaboration with the School of Engineering and Digital Arts and the UK financial sector.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain knowledge and understanding of:
+
+ mathematical techniques used in engineering
+ engineering methods applied to quantitative finance
+ a range of programming tools
+ statistical theory and techniques
+ portfolio theory and risk management techniques
+ project management techniques
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You develop intellectual skills in:
+
+ the ability to find the solution of technical problems using appropriately chosen mathematical models and methods
+ the ability to retrieve and analyse relevant finance information
+ the ability to apply financial-data analysis and forecast
+ the ability to evaluate and analyse financial problems and propose strategic solutions and predictions
+ the ability to analyse a problem and develop a system level specification, based on an understanding of the interaction between the component parts of the system
+ integration of information and data from a variety of sources to develop new computational tools for data analysis and forecast
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain subject-specific skills in:
+
+ the ability to analyse real-world financial problems and propose solutions and forecast
+ the ability to understand the fundamental principles and techniques used in quantitative finance.
+ the ability to describe and perform calculations, using principles of investment risk and portfolio theory
+ the ability to design and analyse robust control systems
+ the ability to understand the operation of advanced pattern classification techniques
+ the ability to apply management techniques to the execution of a project and to prepare technical reports and presentations
+ the ability to apply digital signal processing techniques for the interpretation of data
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ the ability to generate, analyse, present and interpret data
+ use of information and communications technology and the   theory of statistics
+ personal and interpersonal skills, working as a member of a team
+ an ability to communicate effectively, in writing and verbally
+ the ability for critical thinking, reasoning and reflection
+ the ability to learn effectively for the purpose of continuing professional development.
+ the ability to manage time and resources within an individual and group project. 

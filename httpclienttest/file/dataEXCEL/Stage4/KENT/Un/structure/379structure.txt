@@ -1,0 +1,325 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      EL313 - Introduction to Programming
+
+      
+      
+       The module provides an introduction to the basic knowledge required to understand, design and write computer programs and the basic principles underlying the process of Software Engineering. No previous programming experience is assumed and the module proceeds via a sequence of lectures supported by simple exercises designed to give practical experience of the concepts introduced in the lectures.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL331 - Website Design
+
+      
+      
+       This module is concerned with the design, development and publication of Websites. You learn how to integrate text and graphics in creating a Web page using the latest HTML5 and CSS3 technologies. Web site creation is enhanced by developing skills in JavaScript programming. No previous Web design experience is required.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL338 - Visual Communication
+
+      
+      
+       This module introduces students to the analysis of visual images. It is a theoretical module which will allow students to examine and critically evaluate still images using formal, semiotic, iconographic and ideological methodologies, among others.  Examples from fine art, photography and digital art will be critically examined with a view of discovering what and how they communicate.  Works of art from the Renaissance to postmodern times will form the basis for seminar discussions.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL339 - Digital Photography
+
+      
+      
+       This module introduces you to the principles and practice of digital photography and photographic special effects, particularly photomontage.  This theory is followed by practical workshops with an experienced professional photographer.  Having learnt the basics you will then produce a portfolio of digital photographs and a poster.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL340 - Digital Effects
+
+      
+      
+       This module introduces the student to developing 3D models using Autodesk 3ds Max, and how these models are lit and rendered.  Susequently student composite their models into video footage using Adobe After Effects.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL341 - Graphic Design
+
+      
+      
+       This module comprises a series of lectures and workshops introducing fundametal concepts of graphic design. Students gain an understanding of the role of typography, layout, colour, 2-D and 3-D space, and motion in design, and learn how to produce solutions to various creative design problems. Weekly sessions in the computer studio and practical skills-based workshops accompany the lectures and allow students to develop a range of design skills.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL342 - Moving Image
+
+      
+      
+       This module is an introduction to digital film-making. Students learn the creative and technical skills in making a short film, whilst working as a member of a production team.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL542 - Creativity in Interactive and Tangible Media
+
+      
+      
+       This module introduces the practical techniques for creating interactive visual display using Processing, a Java-based IDE. We will also develop interesting tangible interfaces using Arduino IDE, with a range of sensors and actuators. Students will learn to manipulate images, create realistic motions, use motion sensing and speech recognition, in a series of lectures and workshops.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      EL642 - Project Design
+
+      
+      
+       This module prepares students for their final year project.  You will carry out background research to scope the project and present your findings in a research document and through a proposal presentation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL532 - Professional 3D and Compositing
+
+      
+      
+       This module introduces the principles and concepts of three dimensional modelling by application of appropriate modelling software. It develops skills in the production of computer-based three dimensional models, animation and virtual objects and graphics. You will produce an animated, 3D model, incorporating lighting effects, textures and other advanced modelling features.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL533 - Digital Film-Making
+
+      
+      
+       This module focuses on three key forms of digital film-making  fiction, documentary, and experimental  and explores the creative and practical aspects of working in each of these forms. Working in small production teams, students will develop their skills in using digital video technologies to produce three short exercises (one in each of the above areas) and a short film.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL537 - Digital Portfolio
+
+      
+      
+       This module introduces the techniques required to design and develop interactive on-line portfolios, and the software tools which support their implementation.  Topics include:  digital image manipulation and advanced HTML.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL539 - Professional Practice
+
+      
+      
+       This module will enhance your knowledge and understanding of the creative industries, including film, post-production and web industries. You will be exposed to real world challenges faced by companies and practitioners in the field as well as introduced to legal and ethical aspects of working in these industries.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      EL641 - Digital Visual Effects and Post Production
+
+      
+      
+       This module is a very practical module where short video clips integrating live video footage, 3D animations and special effects are developed. Each technical workshop session includes hands-on training in visual effects and compositing software. Theoretical lectures include camerawork, real-world and digital lighting techniques, primary and secondary colour grading, digital cinema and visual effects production pipelines.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL636 - Final Year Project
+
+      
+      
+       Final year project is a substantial independent piece of work which is based on your personal interests and skills. You will develop a portfolio of work which should be suitable for presentation to potential employers. The project may be building an interactive Web or mobile application, creating a piece of 3D modelling, animation or visual effects or working in teams on making a film. Although you are expected to work independently, the direction and scope of your project will be guided by a member of academic staff. You can also work on research projects associated with academic members of staff or on client briefs introduced by the module convener.
+
+       Credits: 60 credits (30 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      EL638 - 3D Computer Animation Pipeline
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL639 - Videogames Design
+
+      
+      
+       This module covers a range of topics in video game design and development, including game physics, AI, level design, player behaviour, game rules and mechanics, as well as user interfaces. This module introduces students to game development using Unity3D and C#. Students will also learn about mobile game development and optimisation issues.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB302 - Managers and Organisations
+
+      
+      
+       The main strand of the lecture material will establish the foundations of organisational behaviour in the context of the historical development of ideas and theory.  The theories will be related to practical examples and thence students will be introduced to modern experience, practice and scholarship. Once the information of the foundation of organisational behaviour is established, at the next level, contemporary topics of management will be touched upon briefly.  This will provide students with basic knowledge related to modern management practices. The content of the module will, therefore, be based on the following topics: Scientific Management Human Relations School Bureaucracy Post Bureaucratic Organizations Contingency Approach Group and teams Motivation Power and authority Managing diversity
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 

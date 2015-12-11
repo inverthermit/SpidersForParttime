@@ -1,0 +1,244 @@
+Course structure
+
+
+ Students with no background in Java programming are required to take a special three-week module before the beginning of the academic year in September.
+
+
+
+
+ Modules
+
+
+ Please note that modules are subject to change. Please contact the School for more detailed information on availability.
+
+
+ 
+
+      
+   SE802 - Research Methods in Social Anthropology
+
+
+   
+    The module will consist of twelve two hour classes consisting of short introductions to weekly topics by the course convenors followed by practical exercises to allow students to experience and learn by doing several key methods and tools used in anthropological fieldwork. Assignments based on the use of several methods, a research proposal abstract for their future dissertation project, and an essay will be used to assess the student's achievement of learning outcomes. Seminar topics may include: Introduction to research in the natural and social sciences, participant observation, choosing informants, interviewing, processing interview data, analysis and presentation of qualitative data, questionnaire design and analysis, developing an integrated research design, running workshops and focus groups, ethics and consent.
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   SE806 - Research Methods in Social Anthropology II
+
+
+   
+    Fieldwork is the hallmark of anthropological research. Its style and delivery, as well as the discourses surrounding it, have changed alongside the discipline. In his book Routes, Travel And Translation In The Late Twentieth Century, Clifford (1997) flags two important aspects of fieldwork: first, the formation of intensive interactions and relationships that produce "deep" cultural understanding in settings that can vary in time and location, and, second, a sense of displacement, movement or travel for the fieldworker thus allowing for an objective detached perspective. The ways in which anthropologists strive to interact with people while maintaining objectivity, make research ethics and methodological choices particularly important since their presence in the field has implications on the people whom they study.
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   SE834 - Computational Methods in Anthropology
+
+
+   
+    This module consists of theoretical and practical sessions to support the development of knowledge and skills by postgraduate students in the use and application of advanced computing applications to analyses commonly used by anthropologists.   Descriptive and analytic statistical methods and interpretation Description and analysis of networks Devising methods for analysing textual, aural and visual data, including text and data mining Knowledge representation and programming How to design and implement simulations and models
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   SE998 - Dissertation: Anthropology
+
+
+   
+    Throughout the terms preceding the initiation of the dissertation module students will be encouraged by their supervisor and the instructors of other modules they take to develop ideas for their dissertation research project. They will also be taught appropriate research methods. The final essay of their pre-dissertation work will draw together materials they have learned through the preceding terms and will synthesise these with students' research interests in order to set up a prospectus for the thesis proposal itself. Students will be passed into the dissertation module by the examiners meeting on the basis of a pre-presented written plan for their research project prepared under supervision by their tutor and modified in relation to questions and comments raised by staff and fellow students during the research presentation day. Subsequent to this, the student will intensively discuss methods of data collection, theoretical models for the analysis of this material, and the use and integration of research methods into both its preparation and its final presentation with his or her supervisor and other concerned members of staff. . The student will then independently work on the thesis over the summer until mid-September when it will be submitted. Throughout this time the student will be able to gain supervision through electronic mail. 
+
+
+    Credits: 60 credits
+     (30 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   SE833 - Computing Applications
+
+
+   
+    
+
+
+    Credits: 30 credits
+     (15 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+   
+   SE801 - Contemporary Problems in Social Anthropology
+
+
+   
+    This module aims to develop the anthropological imagination of master's students, that is, to instill the ability to apprehend theoretical issues and apply them with a critical and informed sense of difference in the human experience.  The module is not a 'history of theory survey; rather, it will proceed by means of a set of longstanding themes in social and cultural anthropology through which different theoretical approaches to the same ethnographic problem or issue have been explored.  The module may be organised around a single theme that has long dominated anthropological discussions (such as the gift, hierarchy and scale, structure and agency etc.) which will be used as a lens through which to view theoretical discussions within social anthropology as well as its appropriations from other disciplines.
+
+
+    Credits: 20 credits
+     (10 ECTS credits).
+
+
+
+    Read
+      more 
+
+
+   
+
+  
+
+ 
+  
+ 
+
+
+
+
+
+
+   Assessment
+
+  
+   Assessment is by essays and the dissertation.
+  
+
+ 
+   Programme aims
+
+  
+   The programme aims to:
+
+ produce graduates equipped to play leading roles in support of computational anthropology, and the application of anthropology to technical environments, professions and public service.
+ prepare candidates who intend further study with the knowledge and skills to under take research programmes which would otherwise be impossible.
+ make accessible the knowledge and skills to equip candidates for a career in computational anthropology
+ develop candidates' ability to apply computational skills to the practice of anthropology
+ develop candidates' ability to apply anthropological skills to the practice of computing.
+ develop candidates' critical and analytical powers in relation to anthropology and computing.
+ develop the skills to adapt and respond positively to change.
+ develop critical, analytical problem - based learning skills and the transferable skills to prepare candidates for employment.
+ attract outstanding candidates, irrespective of race, background, gender, planetary origin or physical disability from both within the UK and from overseas.
+ develop new areas of teaching in response to the advance of scholarship and the needs of the community.
+ widen participation in higher education within the local region.
+ enhance the development of interpersonal skil ls.
+ provide opportunities for shared multidisciplinary learning with computer engineers, computer scientists and anthropologists.
+ assist the candidate to develop the skills required for both autonomous practice and team - working.
+
+  
+
+ 
+   Learning outcomes
+
+  
+   Knowledge and understanding
+
+   You gain a knowledge and understanding of:
+
+ the intersection of Anthropology and Environmental Conservation, as this becomes apparent in topics that address the interrelationship of (a) local populations (understood as socially or culturally distinctive groups) with (b) agents, pressure groups or institutions concerned with the protection of the environment (environmental groups, policy and legislation, Natural Parks, green development projects).
+ the social anthropological dimension of environmental conservation, as this relates to the theory and practice of the human-environmental relationship and environmental politics
+ specific themes that relate to the interrelationship of Conservation and Anthropology, e.g. environmentalism (its history and social constitution), social change among indigenous groups, human-animal conflicts, environmental politics, environmental disputes, indigenous development projects, the economics of environmental conservation.
+ socio-cultural and biological diversity and an appreciation of their mutual interdependency.
+ the intersection of Conservation and Society in diverse geographical regions and socio-cultural contexts.
+ the histories of Anthropology and Conservation as parallel disciplines and their relationship.
+ the application of Anthropology and Conservation to issues of social, economic, and environmental significance throughout the world.
+ the relevance of Anthropology and Conservation for facilitating processes of accommodation between human society and natural ecosystems.
+ the theory and methodology of Anthropology and Conservation, and their inter-disciplinary combination.
+
+  
+
+ 
+   
+   Intellectual skills
+
+   You gain the following intellectual skills:
+
+ ability to think critically about the interface of anthropology and conservation and develop original theoretical insights.
+ ability to solve socio-environmental problems through combined methodologies (from conservation and/or anthropology).
+ ability to articulate and sustain arguments about the human-environmental relationship in oral presentation and in writing.
+ ability to apply qualitative and quantitative research skills.
+ use of information technology including computers and library research.
+ ability to review and summarise published work and information.
+ group work skills.
+ research proposal writing skills.
+
+  
+
+ 
+   
+   Subject-specific skills
+
+   You gain the following subject-specific skills:
+
+ ability to understand how conservation objectives are shaped by social, cultural and environmental factors, and appreciate the interrelationship of such factors.
+ ability to recognise the relevance of an anthropological perspective to understanding the parameters of environmental conservation.
+ ability to interpret problems in conservation by locating them within appropriate cultural and historical contexts.
+ high-level competence in using theories from anthropology and conservation in designing original research projects.
+ ability to analyse cases of environmental conservation with reference to their social ramifications and impact.
+ ability to perceive the way in which cultural assumptions may affect conservation and disputes over the environment.
+ an openness to appreciate the interdependency of social and environmental phenomena, which may appear at first sight to be incomprehensible or unrelated.
+
+  
+
+ 
+   
+   Transferable skills
+
+   You gain the following transferable skills:
+
+ ability to make a structured argument.
+ ability to make appropriate reference to scholarly data.
+ time-management skills.
+ the ability to exercise initiative and personal responsibility.
+ independent learning ability required for continuing professional development. 

@@ -1,0 +1,395 @@
+Course structure
+
+
+The course structure below gives a flavour of the modules that will be available to you and provides details of the content of this programme.  This listing is based on the current curriculum and may change year to year in response to new curriculum developments and innovation.   Most programmes will require you to study a combination of compulsory and optional modules. You may also have the option to take &lsquo;wild&rsquo; modules from other programmes offered by the University in order that you may customise your programme and explore other subject areas of interest to you or that may further enhance your employability.
+
+
+
+
+ Stage 1
+
+  
+Possible modules may include: 
+
+
+                    
+      EL313 - Introduction to Programming
+
+      
+      
+       The module provides an introduction to the basic knowledge required to understand, design and write computer programs and the basic principles underlying the process of Software Engineering. No previous programming experience is assumed and the module proceeds via a sequence of lectures supported by simple exercises designed to give practical experience of the concepts introduced in the lectures.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL331 - Website Design
+
+      
+      
+       This module is concerned with the design, development and publication of Websites. You learn how to integrate text and graphics in creating a Web page using the latest HTML5 and CSS3 technologies. Web site creation is enhanced by developing skills in JavaScript programming. No previous Web design experience is required.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL334 - Internet Programming with Java
+
+      
+      
+       This module is concerned with developing skills in object oriented modelling and user interface design. Practical skills needed to design and develop Java programs for networked environments are developed.  There is extensive practical work.  Topics include: object oriented design, software engineering with Java and applet design.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL338 - Visual Communication
+
+      
+      
+       This module introduces students to the analysis of visual images. It is a theoretical module which will allow students to examine and critically evaluate still images using formal, semiotic, iconographic and ideological methodologies, among others.  Examples from fine art, photography and digital art will be critically examined with a view of discovering what and how they communicate.  Works of art from the Renaissance to postmodern times will form the basis for seminar discussions.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL339 - Digital Photography
+
+      
+      
+       This module introduces you to the principles and practice of digital photography and photographic special effects, particularly photomontage.  This theory is followed by practical workshops with an experienced professional photographer.  Having learnt the basics you will then produce a portfolio of digital photographs and a poster.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL340 - Digital Effects
+
+      
+      
+       This module introduces the student to developing 3D models using Autodesk 3ds Max, and how these models are lit and rendered.  Susequently student composite their models into video footage using Adobe After Effects.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL342 - Moving Image
+
+      
+      
+       This module is an introduction to digital film-making. Students learn the creative and technical skills in making a short film, whilst working as a member of a production team.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL542 - Creativity in Interactive and Tangible Media
+
+      
+      
+       This module introduces the practical techniques for creating interactive visual display using Processing, a Java-based IDE. We will also develop interesting tangible interfaces using Arduino IDE, with a range of sensors and actuators. Students will learn to manipulate images, create realistic motions, use motion sensing and speech recognition, in a series of lectures and workshops.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+
+ Stage 2
+
+  
+Possible modules may include: 
+
+
+                    
+      EL642 - Project Design
+
+      
+      
+       This module prepares students for their final year project.  You will carry out background research to scope the project and present your findings in a research document and through a proposal presentation.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL532 - Professional 3D and Compositing
+
+      
+      
+       This module introduces the principles and concepts of three dimensional modelling by application of appropriate modelling software. It develops skills in the production of computer-based three dimensional models, animation and virtual objects and graphics. You will produce an animated, 3D model, incorporating lighting effects, textures and other advanced modelling features.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL535 - Software Development
+
+      
+      
+       This module presents an introduction to the Software Engineering Process including lifecycle models, software requirements engineering and the basic concepts and principles of the UML design language. An introduction to programming in PHP is also presented.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL537 - Digital Portfolio
+
+      
+      
+       This module introduces the techniques required to design and develop interactive on-line portfolios, and the software tools which support their implementation.  Topics include:  digital image manipulation and advanced HTML.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL538 - Interaction Design
+
+      
+      
+       This module focuses on understanding how users interact with digital technology.  Students will be introduced to the principles of user-centred design through a series of data collection, prototyping and evaluation exercises.  
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL539 - Professional Practice
+
+      
+      
+       This module will enhance your knowledge and understanding of the creative industries, including film, post-production and web industries. You will be exposed to real world challenges faced by companies and practitioners in the field as well as introduced to legal and ethical aspects of working in these industries.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+
+
+
+
+
+ 
+  Year in industry
+
+  
+   Students on the Year in Industry degree spend a year working in industry between Stages 2 and 3. We have a dedicated Employability Officer who will help you apply for placements; but please note that it is your responsibility to secure a placement, which cannot always be guaranteed. The School has excellent industrial links, providing students with many placement opportunities.
+
+Students taking the Year in Industry programme are eligible to apply for a placement offered through the School's exchange agreement with Hong Kong City University.
+
+There are many benefits to taking the Year in Industry
+.
+  
+
+
+   
+Possible modules may include: 
+
+
+                    
+      EL790 - Year In Industry
+
+      
+      
+       Students enrolled on programmes with a Year in Industry spend a year (minimum 30 weeks) working in an industrial or commercial setting, applying and enhancing the skills and techniques they have developed and studied in the earlier stages of their degree programme.  Their work is under the direction of the industrial supervisor with support provided via a dedicated Placement Support Officer within the department.
+
+       Credits: 120 credits (60 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+           
+   
+
+ 
+
+
+
+
+  
+  Stage 3
+
+   
+Possible modules may include: 
+
+
+                    
+      EL640 - Mobile Application Design
+
+      
+      
+       This module is concerned with the development of apps for the Android platform. A series of lectures and workshops guide the student in developing an Android app using Java and the Eclipse Development platform. Students develop both the front end for the app as well as Web services and database connectivity at the back end. In addition, courses on Mobile Computer Security and on XML provide useful supplementary material that widens student knowledge.
+
+       Credits: 30 credits (15 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL636 - Final Year Project
+
+      
+      
+       Final year project is a substantial independent piece of work which is based on your personal interests and skills. You will develop a portfolio of work which should be suitable for presentation to potential employers. The project may be building an interactive Web or mobile application, creating a piece of 3D modelling, animation or visual effects or working in teams on making a film. Although you are expected to work independently, the direction and scope of your project will be guided by a member of academic staff. You can also work on research projects associated with academic members of staff or on client briefs introduced by the module convener.
+
+       Credits: 60 credits (30 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                              
+      EL638 - 3D Computer Animation Pipeline
+
+      
+      
+       
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL639 - Videogames Design
+
+      
+      
+       This module covers a range of topics in video game design and development, including game physics, AI, level design, player behaviour, game rules and mechanics, as well as user interfaces. This module introduces students to game development using Unity3D and C#. Students will also learn about mobile game development and optimisation issues.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      EL635 - Visual Effects and Compositing
+
+      
+      
+       Visual Effects and Compositing is a very practical module where you develop short video clips integrating live video footage, 3D animations and special effects.  Each workshop session includes hands-on training in visual effects and compositing software.
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
+
+
+      
+
+     
+
+                     
+      CB302 - Managers and Organisations
+
+      
+      
+       The main strand of the lecture material will establish the foundations of organisational behaviour in the context of the historical development of ideas and theory.  The theories will be related to practical examples and thence students will be introduced to modern experience, practice and scholarship. Once the information of the foundation of organisational behaviour is established, at the next level, contemporary topics of management will be touched upon briefly.  This will provide students with basic knowledge related to modern management practices. The content of the module will, therefore, be based on the following topics: Scientific Management Human Relations School Bureaucracy Post Bureaucratic Organizations Contingency Approach Group and teams Motivation Power and authority Managing diversity
+
+       Credits: 15 credits (7.5 ECTS credits).
+
+       Read more 
