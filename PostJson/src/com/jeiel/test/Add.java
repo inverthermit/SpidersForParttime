@@ -32,7 +32,7 @@ public class Add {
 		// TODO Auto-generated method stub
 		try {
 			List<Major> list=POIReadAndPost.getData(null);
-			for(;index<=300;){
+			for(;index<=202;){
 				add(postUrl,list.get(index-1));
 			}
 		} catch (Exception e) {
@@ -57,7 +57,7 @@ public class Add {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3Ae3mzxcPAmrNwJ2Ram7A9JQ2H3SY23f-z.UsOvPrYxrjkVVWH8zRNNHxsI%2BoqhH0umktVM8nW7Su8; CNZZDATA1256122972=1789449401-1440137143-%7C1448240003");
+	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3A4D1AEqxB_xiPvk3xD_8MEfIaAR1wfwFD.6uZ8DcnwcsqL3EN9QgXw%2BhoAyyTb6Fwu767hDGHZBWA; CNZZDATA1256122972=1789449401-1440137143-%7C1450077244");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -127,7 +127,7 @@ public class Add {
 		   		course.put("scholarship", scholarshipList);
 		   	
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "MANCHESTER");
+		    value.put("university", "SOUTHAMPTON");
 		    value.put("course", course);
 		   	entry.put("value", value);
 		   	//System.out.println(entry.toString());

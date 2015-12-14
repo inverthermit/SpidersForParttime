@@ -22,7 +22,7 @@ public class Delete {
 		// TODO Auto-generated method stub
 		
 		
-		for(;index<=10;){//index为网页上显示的id号
+		for(;index<=341;){//index为网页上显示的id号
 			
 			delete(postUrl,index);
 		}
@@ -42,7 +42,7 @@ public class Delete {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3Ae3mzxcPAmrNwJ2Ram7A9JQ2H3SY23f-z.UsOvPrYxrjkVVWH8zRNNHxsI%2BoqhH0umktVM8nW7Su8; CNZZDATA1256122972=1789449401-1440137143-%7C1448240003");
+	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3A4D1AEqxB_xiPvk3xD_8MEfIaAR1wfwFD.6uZ8DcnwcsqL3EN9QgXw%2BhoAyyTb6Fwu767hDGHZBWA; CNZZDATA1256122972=1789449401-1440137143-%7C1450077244");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -63,7 +63,7 @@ public class Delete {
 		    
 		    //自定义值
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "saos");
+		    value.put("university", "SWANSEA");
 		    value.put("id", id);
 		   	entry.put("value", value);
 		    
