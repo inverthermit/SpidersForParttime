@@ -23,7 +23,7 @@ import net.sf.json.util.JSONStringer;
 public class AddFile {
 	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
 
-	private static int index=387;
+	private static int index=1;
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -32,7 +32,7 @@ public class AddFile {
 		// TODO Auto-generated method stub
 		try {
 			List<Major> list=POIReadAndPostFile.getData(null);
-			for(;index<=391;){
+			for(;index<=311;){
 				add(postUrl,list.get(index-1));
 			}
 		} catch (Exception e) {
@@ -57,7 +57,7 @@ public class AddFile {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3Ae3mzxcPAmrNwJ2Ram7A9JQ2H3SY23f-z.UsOvPrYxrjkVVWH8zRNNHxsI%2BoqhH0umktVM8nW7Su8; CNZZDATA1256122972=1789449401-1440137143-%7C1448240003");
+	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AcdBgibqUxhg2k9aHt5ulIEgAidMFn8EF.7Io5YPHhU0dBcPMkdhJwrcQ9PZXZwuB6vQ5X0TbkPyQ; CNZZDATA1256122972=1789449401-1440137143-%7C1450250340");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -79,7 +79,7 @@ public class AddFile {
 		    entry.put("action", "add");
 		    
 		    //�Զ���ֵ
-		    
+		    System.out.println(major.getTitle());
 		    JSONObject course=new JSONObject();
 		    course.put("school", major.getSchool());
 		    course.put("level", major.getLevel());
@@ -127,7 +127,7 @@ public class AddFile {
 		   		course.put("scholarship", scholarshipList);
 		   	
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "KCL");
+		    value.put("university", "KENT2");
 		    value.put("course", course);
 		   	entry.put("value", value);
 		   	//System.out.println(entry.toString());

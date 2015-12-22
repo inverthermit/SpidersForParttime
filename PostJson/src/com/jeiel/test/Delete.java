@@ -22,7 +22,7 @@ public class Delete {
 		// TODO Auto-generated method stub
 		
 		
-		for(;index<=341;){//indexÎªÍøÒ³ÉÏÏÔÊ¾µÄidºÅ
+		for(;index<=99;){//indexÎªï¿½ï¿½Ò³ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½idï¿½ï¿½
 			
 			delete(postUrl,index);
 		}
@@ -42,7 +42,7 @@ public class Delete {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3A4D1AEqxB_xiPvk3xD_8MEfIaAR1wfwFD.6uZ8DcnwcsqL3EN9QgXw%2BhoAyyTb6Fwu767hDGHZBWA; CNZZDATA1256122972=1789449401-1440137143-%7C1450077244");
+	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AcdBgibqUxhg2k9aHt5ulIEgAidMFn8EF.7Io5YPHhU0dBcPMkdhJwrcQ9PZXZwuB6vQ5X0TbkPyQ; CNZZDATA1256122972=1789449401-1440137143-%7C1450250340");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -56,21 +56,21 @@ public class Delete {
 	    	HttpURLConnection connection=getConnection(postUrl);
 			DataOutputStream out= new DataOutputStream(connection.getOutputStream());
 			
-		    //¹Ì¶¨Öµ
+		    //ï¿½Ì¶ï¿½Öµ
 		    JSONObject entry=new JSONObject();
 		    entry.put("target", "course");
 		    entry.put("action", "remove");
 		    
-		    //×Ô¶¨ÒåÖµ
+		    //ï¿½Ô¶ï¿½ï¿½ï¿½Öµ
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "SWANSEA");
+		    value.put("university", "KENT");
 		    value.put("id", id);
 		   	entry.put("value", value);
 		    
 		    out.writeBytes(entry.toString());
 		    out.flush();
 		    
-		    //¶ÁÈ¡ÏìÓ¦
+		    //ï¿½ï¿½È¡ï¿½ï¿½Ó¦
 
 		    BufferedReader reader = new BufferedReader(new InputStreamReader(connection.getInputStream()));
 		    String lines;

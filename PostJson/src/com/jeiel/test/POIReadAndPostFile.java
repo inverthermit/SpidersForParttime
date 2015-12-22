@@ -22,8 +22,8 @@ public class POIReadAndPostFile {
 	
 	public static String StructureDir="";
 
-	public static String rootpath="D:\\KCL\\Post";
-	public static String filepath="\\KCLPostFixed.xls";
+	public static String rootpath="D:\\KENT\\Post";
+	public static String filepath="\\KentPostFixed.xls";
 	/**
 	 * @param args
 	 * @throws IOException 
@@ -100,6 +100,7 @@ public class POIReadAndPostFile {
             		
             	}
             }*/
+            //System.out.println(major.getTitle());
             major.setScholarship(sc);
             list.add(major);
         }
@@ -144,11 +145,11 @@ public class POIReadAndPostFile {
 			//if(line.equals("Programme Year One")||line.equals("Programme Year Two")||line.equals("Programme Year Three")||line.equals("Programme Year Four")||line.equals("Final Year"))//Final Year
 			//if(line.contains("Year 1")||line.contains("Year 2")||line.contains("Year 3")||line.contains("Year 4")||line.contains("Year 5")||line.contains("Final Year"))//Final Year
 			//if(line.equals("First year")||line.equals("Second year")||line.equals("Third year")||line.equals("Fourth year")||line.equals("Final Year"))//Final Year
-			if(line.equals("Year 1")
-					||line.equals("Year 2")
-					||line.equals("Year 3")
-					||line.equals("Year 4")
-					||line.equals("Year 5")
+			if(line.equals("Stage 1")
+					||line.equals("Stage 2")
+					||line.equals("Stage 3")
+					||line.equals("Stage 4")
+					||line.equals("Stage 5")
 					||line.equals("Final Year")
 					//||line.contains("Your first year will provide")
 					//||line.contains("In your second year, you will")
