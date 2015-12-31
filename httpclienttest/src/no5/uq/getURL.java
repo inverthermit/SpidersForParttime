@@ -26,7 +26,7 @@ public class getURL
              System.out.print(i+" ");
 
     }
-    public static String[][] getPostData() throws Exception
+    public static String[][] getPostData()
     {
     	String[][] result=null;
     	try{
@@ -239,7 +239,8 @@ public class getURL
     	{
     		ee.printStackTrace();
     	}
-    	return Arrays.copyOfRange(result, 0, 10);
+    	return Arrays.copyOfRange(result, 1300, result.length);
+    	//return result;
     }
     public static String html2Str(String html)
     {

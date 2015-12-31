@@ -33,7 +33,7 @@ import org.htmlparser.filters.TagNameFilter;
 import org.htmlparser.util.NodeList;
 import org.htmlparser.visitors.HtmlPage;
 
-public class UqUnData {
+public class UqPostData {
 
 	//Structure: plan url .replace("plan.html","plan_display.html")
 	
@@ -45,7 +45,7 @@ public class UqUnData {
 	
 
 	public static int MAX_THREAD=10;
-	public static String[][] Data=getURL.getUnData();
+	public static String[][] Data=getURL.getPostData();
 	public static String FILE_PATH="D://Australia-Unis/UQ";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
