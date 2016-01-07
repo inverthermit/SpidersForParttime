@@ -40,13 +40,8 @@ public class ptLogin {
 		UrlEncodedFormEntity entity = new UrlEncodedFormEntity(formparams, Consts.UTF_8);
 		HttpPost httppost = new HttpPost("http://pt.hit.edu.cn/takelogin.php");
 		httppost.setEntity(entity);
-		HttpResponse response1=httpclient.execute(httppost); 
-		if(!response1.getEntity().toString().contains("ladimeya"))
-		{
-			System.out.println("Login failed.");
-			httpclient.close();
-			return;
-		}
+		httpclient.execute(httppost); 
+		
 		
 		//http://pt.hit.edu.cn/torrents.php?cat=402
 		HttpGet httpGet2 = new HttpGet("http://pt.hit.edu.cn/torrents.php?cat=402");
@@ -64,8 +59,8 @@ public class ptLogin {
 			return;
 		}
 		
-		
-
+		getList(htmls);
+/*
 		HttpGet httpGet = new HttpGet("http://pt.hit.edu.cn/download.php?id=47250"); 
 		HttpResponse response = httpclient.execute(httpGet);  
 		HttpEntity entity1 = response.getEntity();  
@@ -96,7 +91,7 @@ public class ptLogin {
 			}
 			
 			
-		}
+		}*/
 		
 		
 		System.out.println("Got reply!");
@@ -115,12 +110,17 @@ public class ptLogin {
    	    	LinkTag link=(LinkTag)nodes4.elementAt(i);
    	    	if(!link.getAttribute("href").equals("#"))
    	    	{
-   	    		//System.out.println("{\""+count+"\",\"https://handbook.unimelb.edu.au"+link.getAttribute("href")+"\",\""+html2Str(link.toHtml().replaceAll("<span[\\s\\S]*/span>",""))+"\",\"0\"},");
-                //count++;
+   	    		String content=html2Str(link.toHtml()).toLowerCase();
+   	    		if(content.contains("bang"))
+   	    			System.out.println(html2Str(link.toHtml()));
+   	    		
    	    	}
    	    	
    	    }
 		return result;
 	}
 
+	public static String html2Str(String html) { 
+		return html.replaceAll("<[^>]+>", "");
+	}
 }

@@ -34,7 +34,7 @@ import org.htmlparser.filters.TagNameFilter;
 import org.htmlparser.util.NodeList;
 import org.htmlparser.visitors.HtmlPage;
 
-public class UnswUnData {
+public class UnswPostData {
 
 	/*
 	 * div class="internalContentWrapper"
@@ -50,7 +50,7 @@ Chinese Gaokao:http://www.international.unsw.edu.au/media/uploads/file/2015/07/0
 Accepted Qualifications The qualifications listed below will be considered for entry to undergraduate studies. Students are assessed on actual results achieved and not simply on their completion of the qualification. Applicants who hold one or more of the qualifications listed are not guaranteed admission. If you have completed a qualification not listed below please contact the UNSW Direct Admissions Office. See http://s3.amazonaws.com/media.international.unsw.edu.au/uploads/file/2015/08/06/2016_Undergrad_Entry_Table.pdf
 */
 	public static int MAX_THREAD=60;
-	public static String[][] Data=no5.unsw.getURL.UnData;
+	public static String[][] Data=no5.unsw.getURL.PostRData;
 	public static String FILE_PATH="D://Australia-Unis/UNSW";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -247,7 +247,7 @@ Accepted Qualifications The qualifications listed below will be considered for e
 			    	if (m.find()) 
 			    	{
 			    		String duration=m.group().replace("<p><strong>Typical Duration:</strong>&nbsp;", "").replace("&nbsp;", "");
-			    	 	System.out.println(duration); 
+			    	 	//System.out.println(duration); 
 			    	 	result.put("Length (months)",duration);
 			    	 }
 			    	 
@@ -269,6 +269,8 @@ Accepted Qualifications The qualifications listed below will be considered for e
 					String[] as=htmls.split("a name=");
 			        if(as.length>0)
 			        {
+			        	String description="";
+			        	boolean flag=false;
 			        	for(int i=0;i<as.length;i++)
 			    	    {
 			    	    	
@@ -281,15 +283,38 @@ Accepted Qualifications The qualifications listed below will be considered for e
 				                structure=deleteSpaces(structure.trim());
 				                
 				        	    result.put("Structure",structure);
-				    	    	break;
+				    	    	//break;
+			    	    	}
+			    	    	else if(temp.contains("<h2>Entry Requirements</h2>")//<h2>Program Description</h2>
+			    	    			||temp.contains(">Admission Requirements</")
+			    	    			||temp.contains(">Entry Requirements</"))
+			    	    	{
+			    	    		String entryAll=html2Str((temp.replace(">", "> "))).replace("\r", "");
+			          	    	entryAll=entryAll.replace("\n", " ");
+			          	    	//entry=entry.replace("<br>", " ");
+			          	    	entryAll=HTMLFilter(entryAll);
+		                        result.put("Academic Entry Requirement",entryAll);
+		                        flag=true;
+			    	    	}
+			    	    	else if(temp.contains("<h2>Program Description</h2>"))
+			    	    	{
+			    	    		String entryAll=html2Str((temp.replace(">", "> "))).replace("\r", "");
+			          	    	entryAll=entryAll.replace("\n", " ");
+			          	    	//entry=entry.replace("<br>", " ");
+			          	    	entryAll=HTMLFilter(entryAll);
+		                        description=entryAll;
 			    	    	}
 			    	    	
 			    	    }
+			        	if(flag==false)
+			        	{
+			        		result.put("Academic Entry Requirement","Entry Requirements "+description);
+			        	}
 			        }
 
 					
 		        
-		        result.put("Level", "Undergraduate");
+		        result.put("Level", "Postgraduate");
 				result.put("Scholarship", "");
 				result.put("Title",url[2]+"|"+url[4]);
 			    result.put("Type",url[3]);

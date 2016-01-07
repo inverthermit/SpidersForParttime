@@ -65,6 +65,18 @@ public class getURL {
 	    	}
 	    }
 	}
+		public static String[][] UnData1={
+		{"1","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/3589.html","Actuarial Stu/Adv Maths (Hons)","Bachelor Degree (Pass)","3589","UNSW Business School","0"},
+		{"2","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/3586.html","Actuarial Studies","Bachelor Degree (Pass)","3586","UNSW Business School","0"},
+		{"3","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/3587.html","Actuarial Studies (Co-op)","Bachelor Degree (Pass)","3587","UNSW Business School","0"},
+		{"4","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/4520.html","Actuarial Studies (Honours)","Bachelor Degree (Honours)","4520","UNSW Business School","0"},
+		{"5","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/3155.html","Actuarial Studies / Commerce","Bachelor Degree (Pass)","3155","UNSW Business School","0"},
+		{"6","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/3588.html","Actuarial Studies / Economics","Bachelor Degree (Pass)","3588","UNSW Business School","0"},
+		{"7","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/4737.html","Actuarial Studies / Law","Bachelor Degree (Pass)","4737","Faculty of Law","0"},
+		{"8","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/3154.html","Actuarial Studies / Science","Bachelor Degree (Pass)","3154","UNSW Business School","0"},
+		{"9","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/3761.html","Adv Math (Hons) / Eng (Hons)","Bachelor Degree (Honours)","3761","Faculty of Science","0"},
+		{"10","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/3949.html","Adv Mathematics (Honours)/Arts","Bachelor Degree (Pass)","3949","Faculty of Science","0"}
+		};
 	public static String[][] UnData={
 		{"1","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/3589.html","Actuarial Stu/Adv Maths (Hons)","Bachelor Degree (Pass)","3589","UNSW Business School","0"},
 		{"2","http://www.handbook.unsw.edu.au/undergraduate/programs/2016/3586.html","Actuarial Studies","Bachelor Degree (Pass)","3586","UNSW Business School","0"},
