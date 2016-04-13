@@ -20,7 +20,7 @@ import net.sf.json.JSON;
 import net.sf.json.JSONObject;
 import net.sf.json.util.JSONStringer;
 
-public class Add {
+public class AddTest {
 	private static String postUrl = "http://www.myoffer.cn/external/api/courses";
 
 	private static int index=1;
@@ -30,7 +30,7 @@ public class Add {
 	 */
 	public static void main(String[] args){
 		// TODO Auto-generated method stub
-		try {
+		/*try {
 			List<Major> list=POIReadAndPost.getData(null);
 			for(;index<=2273;){
 				add(postUrl,list.get(index-1));
@@ -38,7 +38,8 @@ public class Add {
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
+		}*/
+		login();
 		
 	   
 	}
@@ -52,17 +53,39 @@ public class Add {
 	    connection.setRequestMethod("POST");
 	    connection.setUseCaches(false);
 	    connection.setInstanceFollowRedirects(true);
-	    //connection.setRequestProperty("Host", "myoffer.cn");
+	    //connection.setRequestProperty("Host", "www.myoffer.cn");
 	    //connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0");
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://www.myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "tencentSig=5528000512; tencentSig=5651228672; CNZZDATA1256122972=1789449401-1440137143-%7C1455843882; connect.sid=s%3A-w3uPTOctt37sLGOilaIaThaQkWE0Qld.OqeK0wmE1K4etcuBtPWiFDu%2FlE0nI2qdS9AzwNag8Tg; Hm_lvt_7b2d81bba29516af3254cc73cbff78b1=1455844584,1456215195,1456276806,1456396357; Hm_lpvt_7b2d81bba29516af3254cc73cbff78b1=1456396357; Hm_lvt_f2d08716d77a6692d1510d26ea9b72d1=1455844584,1456215195,1456276806,1456396357; Hm_lpvt_f2d08716d77a6692d1510d26ea9b72d1=1456396357; __utma=255880599.985860591.1440983762.1456276806.1456396357.6; __utmb=255880599.1.10.1456396357; __utmc=255880599; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); fromBD=false");
+	    connection.setRequestProperty("Cookie", "fromBD=false; connect.sid=s%3AD5wiWpQjMuRRx15agj9ULcC4iGW4Og1h.2Tz8ekW0yYQ93z%2Ft1HE1mnth71y13lZDoMzrFM5%2BDwc; Hm_lvt_7b2d81bba29516af3254cc73cbff78b1=1456449437; Hm_lpvt_7b2d81bba29516af3254cc73cbff78b1=1456449503; Hm_lvt_f2d08716d77a6692d1510d26ea9b72d1=1456449437; Hm_lpvt_f2d08716d77a6692d1510d26ea9b72d1=1456449503; tencentSig=9591203840");
 	    connection.setRequestProperty("Connection", "keep-alive");
-	    connection.setRequestProperty("Pragma", "no-cache");
-	    connection.setRequestProperty("Cache-Control", "no-cache");
+	    //connection.setRequestProperty("Pragma", "no-cache");
+	    //connection.setRequestProperty("Cache-Control", "no-cache");
 	    connection.connect();
 	    return connection;
+	    
+	}
+	
+	public static void login() throws Exception
+	{
+		URL url = new URL(postUrl);
+		HttpURLConnection connection = (HttpURLConnection) url.openConnection();
+	    connection.setDoOutput(true);
+	    connection.setDoInput(true);
+	    connection.setRequestMethod("POST");
+	    connection.setUseCaches(false);
+	    connection.setInstanceFollowRedirects(true);
+	    //connection.setRequestProperty("Host", "www.myoffer.cn");
+	    //connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Windows NT 6.1; rv:40.0) Gecko/20100101 Firefox/40.0");
+	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
+	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
+	    connection.setRequestProperty("Referer", "http://www.myoffer.cn/external/course");
+	    connection.setRequestProperty("Cookie", "fromBD=false; connect.sid=s%3AD5wiWpQjMuRRx15agj9ULcC4iGW4Og1h.2Tz8ekW0yYQ93z%2Ft1HE1mnth71y13lZDoMzrFM5%2BDwc; Hm_lvt_7b2d81bba29516af3254cc73cbff78b1=1456449437; Hm_lpvt_7b2d81bba29516af3254cc73cbff78b1=1456449503; Hm_lvt_f2d08716d77a6692d1510d26ea9b72d1=1456449437; Hm_lpvt_f2d08716d77a6692d1510d26ea9b72d1=1456449503; tencentSig=9591203840");
+	    connection.setRequestProperty("Connection", "keep-alive");
+	    //connection.setRequestProperty("Pragma", "no-cache");
+	    //connection.setRequestProperty("Cache-Control", "no-cache");
+	    connection.connect();
 	    
 	}
 	
@@ -128,7 +151,7 @@ public class Add {
 		   		course.put("scholarship", scholarshipList);
 		   	
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "YORKSJ");
+		    value.put("university", "saos");
 		    value.put("course", course);
 		   	entry.put("value", value);
 		   	//System.out.println(entry.toString());
@@ -159,6 +182,7 @@ public class Add {
 			e.printStackTrace();
 			System.out.println("Terminated at "+index);
 	    	System.out.println("Restart at "+index);
+	    	System.exit(0);
 		}
 		
 	}

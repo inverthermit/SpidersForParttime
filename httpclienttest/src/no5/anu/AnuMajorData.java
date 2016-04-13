@@ -29,31 +29,17 @@ import org.htmlparser.Parser;
 import org.htmlparser.filters.AndFilter;
 import org.htmlparser.filters.HasAttributeFilter;
 import org.htmlparser.filters.TagNameFilter;
+import org.htmlparser.tags.LinkTag;
 import org.htmlparser.util.NodeList;
 import org.htmlparser.visitors.HtmlPage;
 
-public class AnuUnData {
+public class AnuMajorData {
 
-	/*
-	 <div class="body__inner w-doublewide copy">
-
-    split("<h2 id=")  "<h2 id="+...
-	Structure:<h2 id="program-requirements">Program Requirements</h2>
-	Fee: <h2 id="indicative-fees">Indicative Fees</h2>
-	Entry:<h2 id="admission-requirements">Admission Requirements</h2>
-	ielts:6.5 6
-	Length:
-	<li class="degree-summary__requirements-length">
-    <span class="degree-summary__requirements-heading"><i class="icon-calendar"></i>Length</span>
-    <span class="tooltip-area" data-toggle="tooltip" title="2 years part-time for domestic students only">1 years full-time</span>
-    </li>
-	
-	School:<span class="first-owner">ANU College of Business and Economics</span>
-	
-	
+	/**
+	 * @param args
 	 */
 	public static int MAX_THREAD=5;
-	public static String[][] Data=no5.anu.getURL.ProgramData;
+	public static String[][] Data=no5.anu.getURL.MajorData;
 	public static String FILE_PATH="d:\\Australia-Unis\\ANU";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -218,38 +204,9 @@ public class AnuUnData {
 				
 			    
 		        
-			    //**********************************get month**********************
-		        
-		        
-				
-				
-				
-				Parser parser=null;
-			    HtmlPage page=new HtmlPage(parser); 
-			    if(htmls.contains("Feburary")||htmls.contains("feburary"))
-			    {
-			    	result.put("Month of Entry", "2");
-			    	
-			    }
-			    else
-			    {
-			    	result.put("Month of Entry", "");
-			    }
 			    
-			    //**********************************get length**********************
-					parser=Parser.createParser(htmls.replace("span", "form"), "utf-8");
-				    AndFilter TFilter=new AndFilter(new TagNameFilter("span"),//table class="CSCPreviewTable grey"
-			                new HasAttributeFilter("class","tooltip-area"));
-			        NodeList nodes3 = parser.extractAllNodesThatMatch(TFilter);
-			        if(nodes3.size()>0)
-			        {
-    		    		String length=html2Str(nodes3.elementAt(0).toHtml());
-    			        result.put("Length (months)",length);
-			        }
-			        else if(!url[6].equals(""))
-			        {
-			        	result.put("Length (months)",url[5]);
-			        }
+				Parser parser=null;
+			    
 			    
 			      //**********************************get school**********************
 					parser=Parser.createParser(htmls.replace("span", "form"), "utf-8");
@@ -275,9 +232,7 @@ public class AnuUnData {
 		                new HasAttributeFilter("class","body__inner w-doublewide copy"));
 		        NodeList nodes1 = parser.extractAllNodesThatMatch(ESFilter);
 		        String structure="";
-		        String majors="";
-		        String fee="";
-		        String entryAll="";
+		        String[] ProgramURL=null;
 		        if(nodes1.size()>0)
 		        {
 		        	String AllContents=nodes1.toHtml();
@@ -285,22 +240,29 @@ public class AnuUnData {
 		        	for(int i=1;i<SP.length;i++)
 		        	{
 		        		String row="<h2 id="+SP[i];
-		        		if(row.contains("<h2 id=\"program-requirements\">Program Requirements</h2>"))//Structure
+		        		if(row.contains("<h2 id=\"requirements\">Requirements</h2>"))//Structure
 		        		{
 		        			structure=(html2Str(row.replace("<br />", "\r\n").replace("</strong>", "").replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
 		    	    		structure=HTMLFilter(structure);
 		    	    		result.put("Structure",structure);
-		        		}
-		        		else if(row.contains("<h2 id=\"admission-requirements\">Admission Requirements</h2>"))
+		        		}// <a href="/program/BSC">Bachelor of Science (BSC)</a>
+		        		else if(row.contains("<h2 id=\"relevant-degrees\">Relevant Degrees</h2>"))
 		        		{
-		        			entryAll=(html2Str(row.replace(">", "> "))).replace("\r", "");
-		          	    	entryAll=entryAll.replace("\n", " ");
-		          	    	entryAll=HTMLFilter(entryAll);
-		          	    	result.put("Academic Entry Requirement",entryAll);
-		        		}
-		        		else if(row.contains("<h2 id=\"indicative-fees\">Indicative Fees</h2>"))
-		        		{
-		        			fee=row;
+		        			parser=Parser.createParser(row, "utf-8");
+			    	    	AndFilter ProfessionNameFilter=new AndFilter(new TagNameFilter("a"),
+			    	                   new HasAttributeFilter("href"));
+			    	   	    NodeList nodes5=parser.extractAllNodesThatMatch(ProfessionNameFilter);
+			    	   	    for(int j=0;j<nodes4.size();j++)
+			    	   	    {
+			    	   	    	LinkTag link=(LinkTag)nodes5.elementAt(j);
+			    	   	    	if(!link.getAttribute("href").equals("#"))
+			    	   	    	{
+			    	   	    		 String code=link.getAttribute("href").replace("/program/", "");
+			    	   	    		 ProgramURL=getProgram(code);
+			    	   	    		result.put("Scholarship", code);
+			    	                //title=HTMLFilter(html2Str(link.toHtml()));
+			    	   	    	}
+			    	   	    }
 		        		}
 		        	}
 		        	
@@ -308,30 +270,6 @@ public class AnuUnData {
 		        
 			    
 			    
-		        
-		      //**********************************get fee**********************
-		        
-		    	Pattern p = Pattern.compile("\\$[0-9]+");
-		    	Matcher m = p.matcher(fee.replace(",", ""));
-		    	ArrayList<Integer> money=new ArrayList<Integer>();
-		    	while (m.find()) 
-		    	{
-		    		money.add(Integer.parseInt(m.group().replace("$", "")));
-		    	}
-		    	int max=0;
-		    	for(int w=0;w<money.size();w++)
-		    		{
-		    	    	if(money.get(w)>max)
-		    	    		{
-		    	    	    	max=money.get(w);
-		    	    	    }
-		    	    }
-		    	 if(max!=0)
-		    	 {
-		    	 	System.out.println(max); 
-		    	 	result.put("Tuition Fee", ""+max);
-		    	 }
-		        
 		      
 			  	
 
@@ -343,13 +281,18 @@ public class AnuUnData {
 		          
 		        
 		        
-		        result.put("Scholarship", url[4]);
+				
                 //**************************get title & type**********************
 			    
 	        	result.put("Title",url[4]+" "+url[2]);
-			    result.put("Type",url[2]);
+			    
 			    result.put("Level",url[3]);
-			   
+			   if(ProgramURL!=null)
+			   {
+				   result.put("Type",ProgramURL[2]);
+				   result.put("Length (months)",ProgramURL[5]);
+			   }
+			    
 				httpclient.close();
 		        return result;
 			}
@@ -362,6 +305,17 @@ public class AnuUnData {
 		
 	}//...
 	
+	public static String[] getProgram(String code)
+	{
+		for(int i=0;i<getURL.ProgramData.length;i++)
+		{
+			if(code.equals(getURL.ProgramData[i][4]))
+			{
+				return getURL.ProgramData[i];
+			}
+		}
+		return null;
+	}
 
 	
 	public static String html2Str(String html) { 

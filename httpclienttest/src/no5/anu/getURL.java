@@ -18,7 +18,59 @@ public class getURL {
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 
+		//getProgram(); 
+		getMajor();
 		
+	}
+	
+	public static void getMajor() throws Exception
+	{
+		FileInputStream fis=new FileInputStream(new File("./anuMajor.html"));
+        byte[] b=new byte[fis.available()];
+        fis.read(b);
+       fis.close();
+        String htmls=new String(b);
+       int count=1;
+	    Parser	parser=Parser.createParser(htmls, "utf-8");
+	    TagNameFilter trf=new TagNameFilter("tr");
+	    NodeList nodest=parser.extractAllNodesThatMatch(trf);
+	    if(nodest.size()>0)
+	    {
+	    	for(int i=0;i<nodest.size();i++)
+	    	{
+	    		parser=Parser.createParser(nodest.elementAt(i).toHtml(), "utf-8");
+	    		TagNameFilter tdf=new TagNameFilter("td");
+	    	    NodeList nodesd=parser.extractAllNodesThatMatch(tdf);
+	    	    //System.out.println(nodesd.size());
+	    	    if(nodesd.size()==4)
+	    	    {
+	    	    	String url="";
+	    	    	String title=HTMLFilter(html2Str(nodesd.elementAt(1).toHtml()));
+	    	    	String code=HTMLFilter(html2Str(nodesd.elementAt(0).toHtml()));
+	    	    	String level=HTMLFilter(html2Str(nodesd.elementAt(2).toHtml()));
+	    	    	parser=Parser.createParser(nodesd.elementAt(1).toHtml(), "utf-8");
+	    	    	AndFilter ProfessionNameFilter=new AndFilter(new TagNameFilter("a"),
+	    	                   new HasAttributeFilter("href"));
+	    	   	    NodeList nodes4=parser.extractAllNodesThatMatch(ProfessionNameFilter);
+	    	   	    for(int j=0;j<nodes4.size();j++)
+	    	   	    {
+	    	   	    	LinkTag link=(LinkTag)nodes4.elementAt(j);
+	    	   	    	if(!link.getAttribute("href").equals("#"))
+	    	   	    	{
+	    	   	    		 url=link.getAttribute("href");
+	    	                //title=HTMLFilter(html2Str(link.toHtml()));
+	    	   	    	}
+	    	   	    }
+	    	   	System.out.println("{\""+count+"\",\"http://programsandcourses.anu.edu.au"+url+"\",\""+title+"\",\""+level+"\",\""+code+"\",\"0\"},");
+ 	               
+	    	   	 count++;
+	    	    }
+	    	}
+	    }
+	}
+	
+	public static void getProgram() throws Exception
+	{
 		FileInputStream fis=new FileInputStream(new File("./anuAll.html"));
         byte[] b=new byte[fis.available()];
         fis.read(b);
@@ -84,6 +136,18 @@ public class getURL {
 	    input = input.trim().replaceAll("&#....;", "");
 	    return input;
 	}
+	public static String[][] ProgramData1={
+		{"1","http://programsandcourses.anu.edu.au/2016/program/1003XEXPRS","ANU Express","Non-award","1003XEXPRS","0.5","0"},
+		{"2","http://programsandcourses.anu.edu.au/2016/program/1102XPREP","ANU Preparatory Program","Non-award","1102XPREP","0.5","0"},
+		{"3","http://programsandcourses.anu.edu.au/2016/program/1100XNAWD","ANU Secondary College","Non-award","1100XNAWD","","0"},
+		{"4","http://programsandcourses.anu.edu.au/2016/program/1006XSRS","ANU Summer Research Scholarship Program","Non-award","1006XSRS","1","0"},
+		{"5","http://programsandcourses.anu.edu.au/2016/program/SASDE","Associate Degree","Undergraduate","SASDE","2","0"},
+		{"6","http://programsandcourses.anu.edu.au/2016/program/BACCT","Bachelor of Accounting","Undergraduate","BACCT","3","0"},
+		{"7","http://programsandcourses.anu.edu.au/2016/program/HACCT","Bachelor of Accounting (Honours)","Undergraduate","HACCT","1","0"},
+		{"8","http://programsandcourses.anu.edu.au/2016/program/BACTS","Bachelor of Actuarial Studies","Undergraduate","BACTS","3","0"},
+		{"9","http://programsandcourses.anu.edu.au/2016/program/HACTS","Bachelor of Actuarial Studies (Honours)","Undergraduate","HACTS","1","0"},
+		{"10","http://programsandcourses.anu.edu.au/2016/program/AACOM","Bachelor of Advanced Computing (Honours)","Undergraduate","AACOM","4","0"}
+	};
 	public static String[][] ProgramData={
 		{"1","http://programsandcourses.anu.edu.au/2016/program/1003XEXPRS","ANU Express","Non-award","1003XEXPRS","0.5","0"},
 		{"2","http://programsandcourses.anu.edu.au/2016/program/1102XPREP","ANU Preparatory Program","Non-award","1102XPREP","0.5","0"},
@@ -487,6 +551,142 @@ public class getURL {
 	};
 
 	public static String[][] MajorData={
-		
+		{"1","http://programsandcourses.anu.edu.au/2016/major/ACCT-MAJ","Accounting","Undergraduate","ACCT-MAJ","0"},
+		{"2","http://programsandcourses.anu.edu.au/2016/major/AGRK-MAJ","Ancient Greek","Undergraduate","AGRK-MAJ","0"},
+		{"3","http://programsandcourses.anu.edu.au/2016/major/ANCH-MAJ","Ancient History","Undergraduate","ANCH-MAJ","0"},
+		{"4","http://programsandcourses.anu.edu.au/2016/major/ANVI-MAJ","Animation and Video Major","Undergraduate","ANVI-MAJ","0"},
+		{"5","http://programsandcourses.anu.edu.au/2016/major/ANTH-MAJ","Anthropology","Undergraduate","ANTH-MAJ","0"},
+		{"6","http://programsandcourses.anu.edu.au/2016/major/ARAB-MAJ","Arabic","Undergraduate","ARAB-MAJ","0"},
+		{"7","http://programsandcourses.anu.edu.au/2016/major/ARCP-MAJ","Archaeological Practice","Undergraduate","ARCP-MAJ","0"},
+		{"8","http://programsandcourses.anu.edu.au/2016/major/ARCH-MAJ","Archaeology","Undergraduate","ARCH-MAJ","0"},
+		{"9","http://programsandcourses.anu.edu.au/2016/major/ARTH-MAJ","Art History","Undergraduate","ARTH-MAJ","0"},
+		{"10","http://programsandcourses.anu.edu.au/2016/major/ARTT-MAJ","Art Theory","Undergraduate","ARTT-MAJ","0"},
+		{"11","http://programsandcourses.anu.edu.au/2016/major/ASPP-MAJ","Asia-Pacific Politics","Undergraduate","ASPP-MAJ","0"},
+		{"12","http://programsandcourses.anu.edu.au/2016/major/SECU-MAJ","Asia-Pacific Security Studies","Undergraduate","SECU-MAJ","0"},
+		{"13","http://programsandcourses.anu.edu.au/2016/major/ACMK-MAJ","Asian Capital Markets","Undergraduate","ACMK-MAJ","0"},
+		{"14","http://programsandcourses.anu.edu.au/2016/major/AHIST-MAJ","Asian History","Undergraduate","AHIST-MAJ","0"},
+		{"15","http://programsandcourses.anu.edu.au/2016/major/AREL-MAJ","Asian Religions","Undergraduate","AREL-MAJ","0"},
+		{"16","http://programsandcourses.anu.edu.au/2016/major/ASIA-MAJ","Asian Studies","Undergraduate","ASIA-MAJ","0"},
+		{"17","http://programsandcourses.anu.edu.au/2016/major/AUIS-MAJ","Australian Indigenous Studies","Undergraduate","AUIS-MAJ","0"},
+		{"18","http://programsandcourses.anu.edu.au/2016/major/BCHM-MAJ","Biochemistry","Undergraduate","BCHM-MAJ","0"},
+		{"19","http://programsandcourses.anu.edu.au/2016/major/BIAN-MAJ","Biological Anthropology","Undergraduate","BIAN-MAJ","0"},
+		{"20","http://programsandcourses.anu.edu.au/2016/major/BIOL-MAJ","Biology","Undergraduate","BIOL-MAJ","0"},
+		{"21","http://programsandcourses.anu.edu.au/2016/major/BMSY-MAJ","Biomedical Systems","Undergraduate","BMSY-MAJ","0"},
+		{"22","http://programsandcourses.anu.edu.au/2016/major/BUSN-MAJ","Business Information Systems","Undergraduate","BUSN-MAJ","0"},
+		{"23","http://programsandcourses.anu.edu.au/2016/major/CPMK-MAJ","Capital Markets","Undergraduate","CPMK-MAJ","0"},
+		{"24","http://programsandcourses.anu.edu.au/2016/major/CERM-MAJ","Ceramics","Undergraduate","CERM-MAJ","0"},
+		{"25","http://programsandcourses.anu.edu.au/2016/major/CDAR-MAJ","Ceramics Design Arts","Undergraduate","CDAR-MAJ","0"},
+		{"26","http://programsandcourses.anu.edu.au/2016/major/CHEM-MAJ","Chemistry","Undergraduate","CHEM-MAJ","0"},
+		{"27","http://programsandcourses.anu.edu.au/2016/major/CHIN-MAJ","Chinese Language","Undergraduate","CHIN-MAJ","0"},
+		{"28","http://programsandcourses.anu.edu.au/2016/major/CHST-MAJ","Chinese Studies","Undergraduate","CHST-MAJ","0"},
+		{"29","http://programsandcourses.anu.edu.au/2016/major/CASD-MAJ","Composition, Arranging and Sound Design","Undergraduate","CASD-MAJ","0"},
+		{"30","http://programsandcourses.anu.edu.au/2016/major/COMPF-MAJ","Computational Foundations","Undergraduate","COMPF-MAJ","0"},
+		{"31","http://programsandcourses.anu.edu.au/2016/major/CENG-MAJ","Computer Engineering","Undergraduate","CENG-MAJ","0"},
+		{"32","http://programsandcourses.anu.edu.au/2016/major/CSCI-MAJ","Computer Science","Undergraduate","CSCI-MAJ","0"},
+		{"33","http://programsandcourses.anu.edu.au/2016/major/COMS-MAJ","Computer Systems","Undergraduate","COMS-MAJ","0"},
+		{"34","http://programsandcourses.anu.edu.au/2016/major/COAS-MAJ","Contemporary Asian Societies","Undergraduate","COAS-MAJ","0"},
+		{"35","http://programsandcourses.anu.edu.au/2016/major/EURO-MAJ","Contemporary Europe","Undergraduate","EURO-MAJ","0"},
+		{"36","http://programsandcourses.anu.edu.au/2016/major/CFIM-MAJ","Corporate Finance and Investment Management","Undergraduate","CFIM-MAJ","0"},
+		{"37","http://programsandcourses.anu.edu.au/2016/major/CORP-MAJ","Corporate Sustainability","Undergraduate","CORP-MAJ","0"},
+		{"38","http://programsandcourses.anu.edu.au/2016/major/CRIM-MAJ","Criminology","Undergraduate","CRIM-MAJ","0"},
+		{"39","http://programsandcourses.anu.edu.au/2016/major/DEST-MAJ","Development Studies","Undergraduate","DEST-MAJ","0"},
+		{"40","http://programsandcourses.anu.edu.au/2016/major/DIHU-MAJ","Digital Humanities","Undergraduate","DIHU-MAJ","0"},
+		{"41","http://programsandcourses.anu.edu.au/2016/major/DIGS-MAJ","Digital Systems","Undergraduate","DIGS-MAJ","0"},
+		{"42","http://programsandcourses.anu.edu.au/2016/major/EART-MAJ","Earth Science","Undergraduate","EART-MAJ","0"},
+		{"43","http://programsandcourses.anu.edu.au/2016/major/ECST-MAJ","Economic Studies","Undergraduate","ECST-MAJ","0"},
+		{"44","http://programsandcourses.anu.edu.au/2016/major/ELTS-MAJ","Electronic Systems","Undergraduate","ELTS-MAJ","0"},
+		{"45","http://programsandcourses.anu.edu.au/2016/major/ELCO-MAJ","Electronic and Communication Systems","Undergraduate","ELCO-MAJ","0"},
+		{"46","http://programsandcourses.anu.edu.au/2016/major/ENGS-MAJ","Engineering Science","Undergraduate","ENGS-MAJ","0"},
+		{"47","http://programsandcourses.anu.edu.au/2016/major/ENGL-MAJ","English","Undergraduate","ENGL-MAJ","0"},
+		{"48","http://programsandcourses.anu.edu.au/2016/major/ENST-MAJ","Environmental Studies","Undergraduate","ENST-MAJ","0"},
+		{"49","http://programsandcourses.anu.edu.au/2016/major/ENSY-MAJ","Environmental Systems","Undergraduate","ENSY-MAJ","0"},
+		{"50","http://programsandcourses.anu.edu.au/2016/major/EALS-MAJ","Environmental and Landscape Sciences","Undergraduate","EALS-MAJ","0"},
+		{"51","http://programsandcourses.anu.edu.au/2016/major/EHIS-MAJ","European History","Undergraduate","EHIS-MAJ","0"},
+		{"52","http://programsandcourses.anu.edu.au/2016/major/FINM-MAJ","Finance","Undergraduate","FINM-MAJ","0"},
+		{"53","http://programsandcourses.anu.edu.au/2016/major/FREN-MAJ","French Language and Culture","Undergraduate","FREN-MAJ","0"},
+		{"54","http://programsandcourses.anu.edu.au/2016/major/FURN-MAJ","Furniture","Undergraduate","FURN-MAJ","0"},
+		{"55","http://programsandcourses.anu.edu.au/2016/major/FDAR-MAJ","Furniture Design Arts","Undergraduate","FDAR-MAJ","0"},
+		{"56","http://programsandcourses.anu.edu.au/2016/major/GEND-MAJ","Gender, Sexuality and Culture","Undergraduate","GEND-MAJ","0"},
+		{"57","http://programsandcourses.anu.edu.au/2016/major/GEOG-MAJ","Geography","Undergraduate","GEOG-MAJ","0"},
+		{"58","http://programsandcourses.anu.edu.au/2016/major/GERM-MAJ","German Language and Culture","Undergraduate","GERM-MAJ","0"},
+		{"59","http://programsandcourses.anu.edu.au/2016/major/GLAS-MAJ","Glass","Undergraduate","GLAS-MAJ","0"},
+		{"60","http://programsandcourses.anu.edu.au/2016/major/GDAR-MAJ","Glass Design Arts","Undergraduate","GDAR-MAJ","0"},
+		{"61","http://programsandcourses.anu.edu.au/2016/major/GSDA-MAJ","Gold & Silversmithing Design Arts","Undergraduate","GSDA-MAJ","0"},
+		{"62","http://programsandcourses.anu.edu.au/2016/major/GOLD-MAJ","Gold and Silversmithing","Undergraduate","GOLD-MAJ","0"},
+		{"63","http://programsandcourses.anu.edu.au/2016/major/HIND-MAJ","Hindi Language","Undergraduate","HIND-MAJ","0"},
+		{"64","http://programsandcourses.anu.edu.au/2016/major/HIST-MAJ","History","Undergraduate","HIST-MAJ","0"},
+		{"65","http://programsandcourses.anu.edu.au/2016/major/HMRT-MAJ","Human Rights","Undergraduate","HMRT-MAJ","0"},
+		{"66","http://programsandcourses.anu.edu.au/2016/major/HCCP-MAJ","Human-Centric Computing","Undergraduate","HCCP-MAJ","0"},
+		{"67","http://programsandcourses.anu.edu.au/2016/major/INDN-MAJ","Indonesian Language","Undergraduate","INDN-MAJ","0"},
+		{"68","http://programsandcourses.anu.edu.au/2016/major/INST-MAJ","Indonesian Studies","Undergraduate","INST-MAJ","0"},
+		{"69","http://programsandcourses.anu.edu.au/2016/major/INFS-MAJ","Information Systems","Undergraduate","INFS-MAJ","0"},
+		{"70","http://programsandcourses.anu.edu.au/2016/major/IICP-MAJ","Information-Intensive Computing","Undergraduate","IICP-MAJ","0"},
+		{"71","http://programsandcourses.anu.edu.au/2016/major/INTL-MAJ","Intelligent Systems","Undergraduate","INTL-MAJ","0"},
+		{"72","http://programsandcourses.anu.edu.au/2016/major/INSC-MAJ","Interdisciplinary Science","Undergraduate","INSC-MAJ","0"},
+		{"73","http://programsandcourses.anu.edu.au/2016/major/INTB-MAJ","International Business","Undergraduate","INTB-MAJ","0"},
+		{"74","http://programsandcourses.anu.edu.au/2016/major/ICOM-MAJ","International Communication","Undergraduate","ICOM-MAJ","0"},
+		{"75","http://programsandcourses.anu.edu.au/2016/major/IREL-MAJ","International Relations","Undergraduate","IREL-MAJ","0"},
+		{"76","http://programsandcourses.anu.edu.au/2016/major/ISST-MAJ","International Security","Undergraduate","ISST-MAJ","0"},
+		{"77","http://programsandcourses.anu.edu.au/2016/major/ITAL-MAJ","Italian Language and Culture","Undergraduate","ITAL-MAJ","0"},
+		{"78","http://programsandcourses.anu.edu.au/2016/major/JPNS-MAJ","Japanese Language","Undergraduate","JPNS-MAJ","0"},
+		{"79","http://programsandcourses.anu.edu.au/2016/major/JPLN-MAJ","Japanese Linguistics","Undergraduate","JPLN-MAJ","0"},
+		{"80","http://programsandcourses.anu.edu.au/2016/major/JPST-MAJ","Japanese Studies","Undergraduate","JPST-MAJ","0"},
+		{"81","http://programsandcourses.anu.edu.au/2016/major/KORE-MAJ","Korean Language","Undergraduate","KORE-MAJ","0"},
+		{"82","http://programsandcourses.anu.edu.au/2016/major/LATN-MAJ","Latin","Undergraduate","LATN-MAJ","0"},
+		{"83","http://programsandcourses.anu.edu.au/2016/major/LAMS-MAJ","Latin American Studies","Undergraduate","LAMS-MAJ","0"},
+		{"84","http://programsandcourses.anu.edu.au/2016/major/LING-MAJ","Linguistics","Undergraduate","LING-MAJ","0"},
+		{"85","http://programsandcourses.anu.edu.au/2016/major/MGMT-MAJ","Management","Undergraduate","MGMT-MAJ","0"},
+		{"86","http://programsandcourses.anu.edu.au/2016/major/MARS-MAJ","Marine Science","Undergraduate","MARS-MAJ","0"},
+		{"87","http://programsandcourses.anu.edu.au/2016/major/MARK-MAJ","Marketing","Undergraduate","MARK-MAJ","0"},
+		{"88","http://programsandcourses.anu.edu.au/2016/major/MECO-MAJ","Mathematical Economics","Undergraduate","MECO-MAJ","0"},
+		{"89","http://programsandcourses.anu.edu.au/2016/major/MFIN-MAJ","Mathematical Finance","Undergraduate","MFIN-MAJ","0"},
+		{"90","http://programsandcourses.anu.edu.au/2016/major/MMOD-MAJ","Mathematical Modelling","Undergraduate","MMOD-MAJ","0"},
+		{"91","http://programsandcourses.anu.edu.au/2016/major/MATH-MAJ","Mathematics","Undergraduate","MATH-MAJ","0"},
+		{"92","http://programsandcourses.anu.edu.au/2016/major/MMSY-MAJ","Mechanical and Material Systems","Undergraduate","MMSY-MAJ","0"},
+		{"93","http://programsandcourses.anu.edu.au/2016/major/MTSY-MAJ","Mechatronic Systems","Undergraduate","MTSY-MAJ","0"},
+		{"94","http://programsandcourses.anu.edu.au/2016/major/MECA-MAJ","Middle Eastern and Central Asian Studies","Undergraduate","MECA-MAJ","0"},
+		{"95","http://programsandcourses.anu.edu.au/2016/major/MUSC-MAJ","Music","Undergraduate","MUSC-MAJ","0"},
+		{"96","http://programsandcourses.anu.edu.au/2016/major/MTEC-MAJ","Music Technology","Undergraduate","MTEC-MAJ","0"},
+		{"97","http://programsandcourses.anu.edu.au/2016/major/MUSY-MAJ","Musicology","Undergraduate","MUSY-MAJ","0"},
+		{"98","http://programsandcourses.anu.edu.au/2016/major/NRMG-MAJ","Natural Resource Management","Undergraduate","NRMG-MAJ","0"},
+		{"99","http://programsandcourses.anu.edu.au/2016/major/NAST-MAJ","Northeast Asian Studies","Undergraduate","NAST-MAJ","0"},
+		{"100","http://programsandcourses.anu.edu.au/2016/major/PALG-MAJ","Pacific Languages","Undergraduate","PALG-MAJ","0"},
+		{"101","http://programsandcourses.anu.edu.au/2016/major/PAST-MAJ","Pacific Studies","Undergraduate","PAST-MAJ","0"},
+		{"102","http://programsandcourses.anu.edu.au/2016/major/PAIN-MAJ","Painting","Undergraduate","PAIN-MAJ","0"},
+		{"103","http://programsandcourses.anu.edu.au/2016/major/PECO-MAJ","Peace and Conflict Studies","Undergraduate","PECO-MAJ","0"},
+		{"104","http://programsandcourses.anu.edu.au/2016/major/PERF-MAJ","Performance","Undergraduate","PERF-MAJ","0"},
+		{"105","http://programsandcourses.anu.edu.au/2016/major/PERS-MAJ","Persian","Undergraduate","PERS-MAJ","0"},
+		{"106","http://programsandcourses.anu.edu.au/2016/major/PHIL-MAJ","Philosophy","Undergraduate","PHIL-MAJ","0"},
+		{"107","http://programsandcourses.anu.edu.au/2016/major/PHOM-MAJ","Photomedia","Undergraduate","PHOM-MAJ","0"},
+		{"108","http://programsandcourses.anu.edu.au/2016/major/PHOT-MAJ","Photonic Systems","Undergraduate","PHOT-MAJ","0"},
+		{"109","http://programsandcourses.anu.edu.au/2016/major/PHYS-MAJ","Physics","Undergraduate","PHYS-MAJ","0"},
+		{"110","http://programsandcourses.anu.edu.au/2016/major/POLS-MAJ","Political Science","Undergraduate","POLS-MAJ","0"},
+		{"111","http://programsandcourses.anu.edu.au/2016/major/PMDR-MAJ","Printmedia and Drawing","Undergraduate","PMDR-MAJ","0"},
+		{"112","http://programsandcourses.anu.edu.au/2016/major/PSYC-MAJ","Psychology","Undergraduate","PSYC-MAJ","0"},
+		{"113","http://programsandcourses.anu.edu.au/2016/major/QFIN-MAJ","Quantitative Finance","Undergraduate","QFIN-MAJ","0"},
+		{"114","http://programsandcourses.anu.edu.au/2016/major/RENE-MAJ","Renewable Energy Systems","Undergraduate","RENE-MAJ","0"},
+		{"115","http://programsandcourses.anu.edu.au/2016/major/RSCC-MAJ","Research and Development","Undergraduate","RSCC-MAJ","0"},
+		{"116","http://programsandcourses.anu.edu.au/2016/major/RSCE-MAJ","Research and Development","Undergraduate","RSCE-MAJ","0"},
+		{"117","http://programsandcourses.anu.edu.au/2016/major/SANS-MAJ","Sanskrit Language","Undergraduate","SANS-MAJ","0"},
+		{"118","http://programsandcourses.anu.edu.au/2016/major/SCOM-MAJ","Science Communication","Undergraduate","SCOM-MAJ","0"},
+		{"119","http://programsandcourses.anu.edu.au/2016/major/SCUL-MAJ","Sculpture","Undergraduate","SCUL-MAJ","0"},
+		{"120","http://programsandcourses.anu.edu.au/2016/major/SOCY-MAJ","Sociology","Undergraduate","SOCY-MAJ","0"},
+		{"121","http://programsandcourses.anu.edu.au/2016/major/SOFT-MAJ","Software Development","Undergraduate","SOFT-MAJ","0"},
+		{"122","http://programsandcourses.anu.edu.au/2016/major/SAST-MAJ","South Asian Studies","Undergraduate","SAST-MAJ","0"},
+		{"123","http://programsandcourses.anu.edu.au/2016/major/SEAS-MAJ","Southeast Asian Studies","Undergraduate","SEAS-MAJ","0"},
+		{"124","http://programsandcourses.anu.edu.au/2016/major/SPAH-MAJ","Spanish","Undergraduate","SPAH-MAJ","0"},
+		{"125","http://programsandcourses.anu.edu.au/2016/major/STAT-MAJ","Statistics","Undergraduate","STAT-MAJ","0"},
+		{"126","http://programsandcourses.anu.edu.au/2016/major/SUSC-MAJ","Sustainability Science","Undergraduate","SUSC-MAJ","0"},
+		{"127","http://programsandcourses.anu.edu.au/2016/major/SESY-MAJ","Sustainable Energy Systems","Undergraduate","SESY-MAJ","0"},
+		{"128","http://programsandcourses.anu.edu.au/2016/major/SUSY-MAJ","Sustainable Systems","Undergraduate","SUSY-MAJ","0"},
+		{"129","http://programsandcourses.anu.edu.au/2016/major/TEXT-MAJ","Textiles","Undergraduate","TEXT-MAJ","0"},
+		{"130","http://programsandcourses.anu.edu.au/2016/major/TDAR-MAJ","Textiles Design Arts","Undergraduate","TDAR-MAJ","0"},
+		{"131","http://programsandcourses.anu.edu.au/2016/major/THAI-MAJ","Thai Language","Undergraduate","THAI-MAJ","0"},
+		{"132","http://programsandcourses.anu.edu.au/2016/major/THPH-MAJ","Theoretical Physics","Undergraduate","THPH-MAJ","0"},
+		{"133","http://programsandcourses.anu.edu.au/2016/major/URDU-MAJ","Urdu Language","Undergraduate","URDU-MAJ","0"},
+		{"134","http://programsandcourses.anu.edu.au/2016/major/URPE-MAJ","Urdu/Persian Language","Undergraduate","URPE-MAJ","0"},
+		{"135","http://programsandcourses.anu.edu.au/2016/major/VIET-MAJ","Vietnamese Language","Undergraduate","VIET-MAJ","0"},
+		{"136","http://programsandcourses.anu.edu.au/2016/major/WASC-MAJ","Water Science","Undergraduate","WASC-MAJ","0"},
+		{"137","http://programsandcourses.anu.edu.au/2016/major/YIAS-MAJ","Year in Asia","Undergraduate","YIAS-MAJ","0"}
 	};
 }
