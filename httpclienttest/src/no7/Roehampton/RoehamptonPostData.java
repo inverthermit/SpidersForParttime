@@ -41,7 +41,9 @@ public class RoehamptonPostData {
 	
 	Fee:  http://www.roehampton.ac.uk/Finance/International/  Un 12500
 	
-	Structure:  <div class="tab-pane" id="modules">
+	Structure:  <div class="panel-body panel-body-coursepage" style="padding:15px 0">
+					contains <div class="courseText">
+
 	
 	Entry: div id="ugEntryRequirements"
 
@@ -243,16 +245,21 @@ public class RoehamptonPostData {
 			    //**********************************get Structure**********************
 		        parser=Parser.createParser(htmls, "utf-8");
 		        AndFilter FFilter=new AndFilter(new TagNameFilter("div"),
-		        		new HasAttributeFilter("id","modules"));
+		        		new HasAttributeFilter("class","panel-body panel-body-coursepage"));
 		        NodeList nodes6 = parser.extractAllNodesThatMatch(FFilter);
 		        
-		        if(nodes6.size()>0)
+		        for(int i=0;i<nodes6.size();i++)
 		        {
-		        	
-		    		String row=html2Str(nodes6.elementAt(0).toHtml()).trim();
-		    		String structure=(html2Str(row.replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
-    	    		structure=HTMLFilter(structure);
-    	    		result.put("Structure",structure);
+		        	if(nodes6.elementAt(i).toHtml().contains("<div class=\"courseText\">"))
+		        	{
+		        		String row=html2Str(nodes6.elementAt(i).toHtml()).trim();
+			    		
+			    		String structure=(html2Str(row.replace("<strong>", "").replace("</", "\r\n</").replace("\t"," ").replace("&amp;"," ")).replace("\r\n\r\n", "\r\n"));
+	    	    		structure=HTMLFilter(structure);
+	    	    		result.put("Structure",structure);
+	    	    		break;
+		        	}
+		    		
     	    		
 		    		//String length=getLastYear(row);
 		    		//result.put("Length (months)",length);
@@ -296,7 +303,26 @@ public class RoehamptonPostData {
 		        
 		      //**********************************get fee**********************
 				
-	    		result.put("Tuition Fee", "");
+		        Pattern p = Pattern.compile("£[0-9]+");
+		    	Matcher m = p.matcher(htmls.replace(",", ""));
+		    	ArrayList<Integer> money=new ArrayList<Integer>();
+		    	while (m.find()) 
+		    	{
+		    		money.add(Integer.parseInt(m.group().replace("£", "")));
+		    	}
+		    	int max=0;
+		    	for(int w=0;w<money.size();w++)
+		    		{
+		    	    	if(money.get(w)>max)
+		    	    		{
+		    	    	    	max=money.get(w);
+		    	    	    }
+		    	    }
+		    	 if(max!=0)
+		    	 {
+		    	 	//System.out.println(max); 
+		    	 	result.put("Tuition Fee", ""+max);
+		    	 }
 	    			    	 
 		     
 		          //****************IELTS
@@ -305,7 +331,7 @@ public class RoehamptonPostData {
 		              
 		      	    result.put("IELTS Lowest Requirement", "5.5");
 		          
-		        
+		        //http://www.roehampton.ac.uk/applying/postgraduate-entry-requirements/
 		        //**********************************get Entry**********************
 			        parser=Parser.createParser(htmls, "utf-8");
 			        AndFilter SFilter=new AndFilter(new TagNameFilter("div"),
