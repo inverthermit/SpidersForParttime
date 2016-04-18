@@ -32,7 +32,7 @@ import org.htmlparser.filters.TagNameFilter;
 import org.htmlparser.util.NodeList;
 import org.htmlparser.visitors.HtmlPage;
 
-public class BrightonUnData {
+public class BrightonPostData {
 
 	/*
 	
@@ -55,8 +55,8 @@ public class BrightonUnData {
 	
 	 */
 
-	public static int MAX_THREAD=20;
-	public static String[][] Data=getURL.UnData;
+	public static int MAX_THREAD=10;
+	public static String[][] Data=getURL.PostData;
 	public static String FILE_PATH="d:\\ANo7\\Brighton";
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -363,12 +363,13 @@ public class BrightonUnData {
 			        }
 			        
 			        
+		          
 		        
                 //**************************get title & type**********************
 			    
 	        	result.put("Title",url[2]);
 			    result.put("Type",GetType(url[2]));
-			    result.put("Level","Undergraduate");
+			    result.put("Level","Postgraduate");
 			   
 				httpclient.close();
 		        return result;

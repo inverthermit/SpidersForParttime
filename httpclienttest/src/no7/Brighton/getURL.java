@@ -19,7 +19,7 @@ public class getURL {
 	public static void main(String[] args) throws Exception {
 			// TODO Auto-generated method stub
 
-			FileInputStream fis=new FileInputStream(new File("./BrightonPost.html"));
+			/*FileInputStream fis=new FileInputStream(new File("./BrightonPost.html"));
 			byte[] b=new byte[fis.available()];
 	        fis.read(b);
 	       fis.close();
@@ -38,8 +38,8 @@ public class getURL {
 	   	    		if(!list.contains(link.getAttribute("href")))
 	   	    		{
 	   	    			list.add(link.getAttribute("href"));
-	   	    			/*System.out.println(HTMLFilter(html2Str(link.toHtml()))
-	   	   	    				.replace("\r\n", "").split(" – ").length);*/
+	   	    			System.out.println(HTMLFilter(html2Str(link.toHtml()))
+	   	   	    				.replace("\r\n", "").split(" – ").length);
 	   	    			System.out.println("{\""+count+"\",\"https://www.brighton.ac.uk"
 	   	   	    				+link.getAttribute("href")+"\",\""+HTMLFilter(html2Str(link.toHtml()))
 	   	   	    				.replace("\r\n", "")+"\",\"0\"},");
@@ -48,7 +48,11 @@ public class getURL {
 	   	    		
 	   	    	}
 	   	    	
-	   	    }
+	   	    }*/
+		for(int i=0;i<PostData.length;i++)
+		{
+			System.out.println(PostData[i][1]);
+		}
 		}
 		public static String html2Str(String html) { 
 			return html.replaceAll("<[^>]+>", "");
