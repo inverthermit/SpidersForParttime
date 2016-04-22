@@ -22,7 +22,7 @@ public class Delete {
 		// TODO Auto-generated method stub
 		
 		
-		for(;index<=99;){//indexΪ��ҳ����ʾ��id��
+		for(;index<=32;){//indexΪ��ҳ����ʾ��id��
 			
 			delete(postUrl,index);
 		}
@@ -42,7 +42,7 @@ public class Delete {
 	    connection.setRequestProperty("Accept", "application/json, text/plain, */*");
 	    connection.setRequestProperty("Content-Type","application/json;charset=utf-8");
 	    connection.setRequestProperty("Referer", "http://myoffer.cn/external/course");
-	    connection.setRequestProperty("Cookie", "__utma=255880599.985860591.1440983762.1440983762.1440983762.1; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); connect.sid=s%3AcdBgibqUxhg2k9aHt5ulIEgAidMFn8EF.7Io5YPHhU0dBcPMkdhJwrcQ9PZXZwuB6vQ5X0TbkPyQ; CNZZDATA1256122972=1789449401-1440137143-%7C1450250340");
+	    connection.setRequestProperty("Cookie", "tencentSig=5528000512; tencentSig=5651228672; CNZZDATA1256122972=1789449401-1440137143-%7C1455843882; Hm_lvt_7b2d81bba29516af3254cc73cbff78b1=1455844584,1456215195,1456276806,1456396357; Hm_lvt_f2d08716d77a6692d1510d26ea9b72d1=1455844584,1456215195,1456276806,1456396357; connect.sid=s%3AZu0rvE8B5ekRZRE0_X1n2dZGlfZR15H7.8uQmKmSG4t%2Fq6%2FOwHY6I2ysrQrJ0vvy2MP8xDKmdroQ; __utmt_UA-72589077-1=1; RTP=/university/7380.html; RTPA=; __utma=255880599.985860591.1440983762.1461054816.1461293394.9; __utmb=255880599.6.10.1461293394; __utmc=255880599; __utmz=255880599.1440983762.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); Hm_lvt_9be5940c4751a630c3c5c971cc9d090d=1460336078,1461054816,1461293394; Hm_lpvt_9be5940c4751a630c3c5c971cc9d090d=1461293466; fromBD=false");
 	    connection.setRequestProperty("Connection", "keep-alive");
 	    connection.setRequestProperty("Pragma", "no-cache");
 	    connection.setRequestProperty("Cache-Control", "no-cache");
@@ -63,7 +63,7 @@ public class Delete {
 		    
 		    //�Զ���ֵ
 		   	JSONObject value=new JSONObject();
-		    value.put("university", "KENT");
+		    value.put("university", "saos");
 		    value.put("id", id);
 		   	entry.put("value", value);
 		    
